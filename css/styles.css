@@ -1,5 +1,14 @@
 body {
-    font-family: monospace;
+  max-width: 60%;
+  margin: 0 auto;
+  font-family: Georgia;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.page {
+  width: 1000px;
+  margin: 0 auto;
 }
 
 ul {
@@ -19,7 +28,11 @@ li {
 }
 
 .center {
-width: 50%;
-margin-left: auto;
-margin-right: auto;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
 }

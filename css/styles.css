@@ -32,11 +32,16 @@ main {
 .main-content {
   width: 60%;
   margin-left: 0;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .sidebar {
   width: 30%;
   font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 
 }
 
@@ -50,7 +55,7 @@ h2 {
 }
 
 h3 {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .page {
@@ -71,6 +76,7 @@ ul {
 li {
     list-style: circle;
     list-style: square;
+
 }
 
 a {
@@ -86,9 +92,10 @@ footer {
   display: flex;
 }
 
+.band ul li {
+    display: inline-block;
+    padding-right: 35px;
 
-#msg {
-    font-family: monospace;
 }
 
 .center {

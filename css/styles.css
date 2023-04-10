@@ -26,8 +26,8 @@ p {
 }
 
 .main-content {
-  width: 65%;
-  margin-left: 30px;
+  width: 60%;
+  margin-left: 0;
 }
 
 .sidebar {
@@ -54,8 +54,14 @@ h3 {
   margin: 0 auto;
 }
 
+nav {
+  width: 100%;
+}
+
 ul {
     font-family: helvetica
+    padding: 0;
+    margin: 0;
 }
 
 li {

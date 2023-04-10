@@ -2,6 +2,10 @@ html {
   font-size: 62.5%;
 }
 
+title {
+  font-size: 24px;
+}
+
 body {
   max-width: 65%;
   margin: 0 auto;
@@ -13,6 +17,26 @@ body {
 p {
   font-size: 14px;
 }
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  /* define um layout de duas colunas */
+}
+
+.main-content {
+  width: 65%;
+  /* define a largura da área de conteúdo principal */
+  margin-right: 30px;
+}
+
+.sidebar {
+  width: 30%;
+  /* define a largura da sidebar */
+}
+
 
 h1 {
   font-size: 1.6em;

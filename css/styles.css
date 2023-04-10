@@ -23,23 +23,30 @@ p {
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: flex-start;
-  /* define um layout de duas colunas */
 }
 
 .main-content {
   width: 65%;
-  /* define a largura da área de conteúdo principal */
-  margin-right: 30px;
+  margin-left: 30px;
 }
 
 .sidebar {
   width: 30%;
-  /* define a largura da sidebar */
+  font-size: 14px;
+
 }
 
 
 h1 {
-  font-size: 1.6em;
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+h3 {
+  font-size: 16px;
 }
 
 .page {
@@ -53,10 +60,12 @@ ul {
 
 li {
     list-style: circle;
+    list-style: square;
 }
 
-li {
-    list-style: square;
+a {
+  color: black;
+  text-decoration: none;
 }
 
 .wrapper {

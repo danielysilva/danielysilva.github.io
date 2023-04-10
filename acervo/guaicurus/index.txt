@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <link rel="stylesheet" type="text/css" href="../../css/styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <style type="text/css">body{font-family:monospace;}</style>
+    <title>Daniely Silva</title>
+    <meta name="description" content="O espaço virtual de Daniely Silva, poetisa, cronista, geógrafa e fotógrafa. Contém acervo, crônicas visuais fotográficas e produção textual.">
+    <meta name="author" content="Daniely Silva">
+    <meta name="generator" content="Hugo 0.109.0">
+
+    <link rel="me" href="https://instagram.com/danylamirinda">
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="alternate" type="application/rss+xml" href="/index.xml" title="danielysilva.com.br">
+  </head>
+  <body>
+    <header>
+      <div style="border-style: dotted; border-width: 2px; float: right" id="toggle-switch-container">
+        <label for="toggle-switch"><small>Inverter Tema</small></label>
+        <input type="checkbox" id="toggle-switch">
+      </div>
+      <a href="https://danielysilva.com.br/">
+        <h1>Daniely Silva</h1>
+      </a>
+      <div><p>Fotógrafa, poetisa, educadora, geógrafa e andarilha.<div></p><p> <style="float: right;" Sonhar é acessar o inacessível para torná-lo alcançável.</div></p><br>
+      <nav>
+        <p><a href="https:instagram.com/danylamirinda/">@danylamirinda</a>
+        <a href="https:instagram.com/umolharpaisagistico/">@umolharpaisagistico</a></p>
+      </nav>
+      <br>
+      <nav>
+        <a href="/"><b>Início</b></a>
+        <a href="/blog/"><b>Acervo</b></a>
+      <a href="um-cafe-comigo/index.html"><b><span class="highlighted-entry">Um Café comigo</span></b></a>
+        <a href="/tags/"><b>Blog</b></a>
+        <a href="/contact/"><b><span class="highlighted-entry">Contato</span></b></a>
+      </nav>
+    </header>
+
+    <main>
+      <p>Salve! 👋</p>
+      <p>Sou Daniely Silva e tô aqui pra arrumar um pouco a bagunça que é o quarto da criatividade.</p>
+
+<a class="category-link" href="/categories/texts">Crônicas</a>
+
+
+	<a href="/tags/geography">cidade</a>
+
+	<a href="/tags/ussr">rios</a>
+
+	<a href="/tags/war">ruas</a
+
+	<div>
+		<p>A Rua Guaicurus percorre o distrito da Lapa, na Zona Oeste da cidade de São Paulo. Na sua extremidade oeste, dá acesso à Estação Lapa da Linha 8-Diamante de CPTM, herdeira da antiga Estrada de Ferro Sorocabana, onde se conecta ao Terminal Lapa; na extremidade leste, por sua vez, há a proximidade com a Estação Água Branca da Linha 7-Rubi da CPTM, que sucede a antiga Estrada de Ferro Santos-Jundiaí, da inglesa São Paulo Railway.</p>
+
+		<p>A rua conta uma história de bairros operários e galpões fabris. Muitos desses antigos edifícios são hoje tombados pelos órgãos de proteção ao patrimônio, flertando com novos usos e com o abandono. Se a chegada das estradas de ferro nos séculos XIX e XX foram vetores de transformação que estimularam os loteamentos e a industrialização, hoje, numa economia de comércio e serviços, a expectativa da chegada da Linha 6-Laranja do Metrô gera a promessa de novos usos da terra urbana na Rua Guaicurus e nos seus arredores.</p>
+
+		<p>O mercado imobiliário é o primeiro a captar o recado. Por todos os lados, vemos novos edifícios sendo erguidos nas adjacências e na própria rua, quando não há restrição do tombamento. Esses novos empreendimentos pouco aparecem no projeto, porque não é sobre eles.</p>
+
+Uma cidade é feita de camadas. Como esses antigos espaços, que já passaram por tantos ciclos urbanos, vão dialogar com a cidade daqui pra frente? Vão se renovar ou estarão fadados ao abandono? Mais gente pode lhes dar mais vida, mas mais gente apressada pode passar sem se dar conta de que está atravessando as páginas de um enorme livro arquitetônico.</p>
+	<p>O tempo nos dará respostas, mas só se fizermos as perguntas corretas.</p>
+
+<img src="../../images/ponte_remedios.jpg" title="Ponte dos Remédios" alt="Encontro entre os rios Pinheiros e Tietê" width="3000" height="2000" class="center">
+
+
+
+	</div>
+</article>
+
+
+	</main>
+
+	<footer>
+	<p><a href="/license">CC</a> 2023 <a href="https://danielysilva.com.br/"><b>danielysilva.com.br</b></a>
+	</p>
+</footer>
+
+</body>
+<script src="/js/theme.js"></script>
+</html>

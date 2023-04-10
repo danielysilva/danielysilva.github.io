@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  max-width: 60%;
+  max-width: 65%;
   margin: 0 auto;
   font-family: Georgia;
   font-size: 62.5%;
@@ -11,11 +11,11 @@ body {
 }
 
 p {
-  font-size: 1.6em;
+  font-size: 14px;
 }
 
 .page {
-  width: 1000px;
+  width: 1024px;
   margin: 0 auto;
 }
 

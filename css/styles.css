@@ -35,6 +35,11 @@ li {
     list-style: square;
 }
 
+.wrapper {
+  display: flex;
+}
+
+
 #msg {
     font-family: monospace;
 }

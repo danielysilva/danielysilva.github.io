@@ -1,5 +1,6 @@
 html {
   font-size: 62.5%;
+  background-color: #000:
 }
 
 header {
@@ -10,6 +11,9 @@ header {
 
 body {
   max-width: 65%;
+  min-height: 100vh;
+  max-width: 400px;
+  background-color: papayawhip;
   margin: 0 auto;
   font-family: Georgia, serif;
   font-size: 1.4rem;
@@ -85,7 +89,7 @@ ul {
 }
 
 li {
-  list-style: square;
+  list-style: none;
 }
 
 a {

@@ -109,6 +109,7 @@ footer {
   margin: auto;
   bottom: 0;
   position: fixed;
+  align: bottom;
 }
 
 .band ul li {

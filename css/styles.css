@@ -1,6 +1,7 @@
 html {
   font-size: 62.5%;
-  background-color: #000:
+  background-color: none;
+  height: 100%;
 }
 
 header {
@@ -11,11 +12,13 @@ header {
 
 body {
   max-width: 65%;
+    max-width: 65%;
   min-height: 100vh;
-  max-width: 400px;
+  max-height: 100%;
   background-color: papayawhip;
+  position: relative;
   margin: 0 auto;
-  font-family: Georgia, serif;
+  font-family: Georgia;
   font-size: 1.4rem;
   line-height: 1.5;
 }
@@ -45,6 +48,7 @@ main {
 .sidebar {
   float: right;
   width: 30%;
+  height: 100%;
   position: relative;
   font-size: 1.4rem;
   display: flex;
@@ -98,7 +102,11 @@ a {
 }
 
 footer {
-  width: 100%;
+  width: 70%;
+  height: 50px;
+  margin: auto;
+  bottom: 0;
+  position: fixed;
 }
 
 .band ul li {

@@ -4,10 +4,9 @@ html {
   height: 70%;
 }
 
-header {
-  float: left;
-  width: 100%;
-  font-size: 1.6rem;
+.page {
+  max-width: 1024px;
+  margin: 0 auto;
 }
 
 body {
@@ -28,6 +27,32 @@ p {
   font-size: 1.4rem;
 }
 
+a {
+  color: black;
+  text-decoration: none;
+}
+
+ul {
+  font-family: Helvetica;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.band ul li {
+  display: inline-block;
+  margin-right: 35px;
+}
+
+
+header {
+  float: left;
+  width: 100%;
+  font-size: 1.6rem;
+}
 
 main {
   width: 100%;
@@ -60,30 +85,6 @@ body.home .sidebar {
   display: flex;
 }
 
-.wrapper {
-  display: grid;
-  max-width: 960px;
-  margin: 0 auto;
-}
-
-@media only screen and (max-device-width: 900px) {
-/* .menu { width:100%; } */
-}
-
-@media only screen and (max-device-width: 900px) {
-/* .menu { width:600px; } */
-}
-
-@media only screen and (max-device-width: 700px) {
-/* .menu { width:400px; } */
-}
-
-@media screen and (min-width: 800px) {
-  .container {
-    margin: 1em 2em;
-  }
-}
-
 h1 {
   font-size: 3.6rem;
 }
@@ -102,36 +103,10 @@ h3 {
   font-size: 1.4rem;
 }
 
-.page {
-  max-width: 1024px;
+.wrapper {
+  display: grid;
+  max-width: 960px;
   margin: 0 auto;
-}
-
-.col {
-  width: 6.25%; /* 60 / 960 = 0.0625 */
-}
-
-img {
-  max-width: 100%:
-}
-
-nav {
-  width: 100%;
-}
-
-ul {
-  font-family: Helvetica;
-  padding: 0;
-  margin: 0;
-}
-
-li {
-  list-style: none;
-}
-
-a {
-  color: black;
-  text-decoration: none;
 }
 
 footer {
@@ -143,9 +118,8 @@ footer {
   align: bottom;
 }
 
-.band ul li {
-  display: inline-block;
-  margin-right: 35px;
+img {
+  max-width: 100%:
 }
 
 .center {
@@ -160,4 +134,26 @@ footer {
   margin: 0 auto;
   max-width: 100%;
   height: auto;
+}
+
+nav {
+  width: 100%;
+}
+
+@media only screen and (max-device-width: 900px) {
+/* .menu { width:100%; } */
+}
+
+@media only screen and (max-device-width: 900px) {
+/* .menu { width:600px; } */
+}
+
+@media only screen and (max-device-width: 700px) {
+/* .menu { width:400px; } */
+}
+
+@media screen and (min-width: 800px) {
+  .container {
+    margin: 1em 2em;
+  }
 }

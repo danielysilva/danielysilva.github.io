@@ -1,5 +1,5 @@
 html {
-  font-size: 62.5%;
+  font-size: 1em;
   background-color: none;
   height: 100%;
 }
@@ -47,12 +47,16 @@ main {
   height: 100%;
   position: relative;
   font-size: 1.4rem;
-  display: flex;
+  display: none;
   flex-direction: column;
   align-items: center;
   background-color: #f1f1f1;
   padding: 20px;
   box-sizing: border-box;
+}
+
+body.home .sidebar {
+  display: flex;
 }
 
 .wrapper {
@@ -73,8 +77,20 @@ main {
 /* .menu { width:400px; } */
 }
 
+@media screen and (min-width: 800px) {
+  .container {
+    margin: 1em 2em;
+  }
+}
+
 h1 {
   font-size: 3.6rem;
+}
+
+@media (min-width: 1200px) {
+  h1 {
+    font-size: 4rem;
+  }
 }
 
 h2 {
@@ -88,6 +104,14 @@ h3 {
 .page {
   max-width: 1024px;
   margin: 0 auto;
+}
+
+.col {
+  width: 6.25%; /* 60 / 960 = 0.0625 */
+}
+
+img {
+  max-width: 100%:
 }
 
 nav {

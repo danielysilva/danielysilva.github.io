@@ -1,7 +1,7 @@
 html {
   font-size: 1em;
   background-color: none;
-  height: 70%;
+  height: 100%;
 }
 
 .page {
@@ -50,7 +50,7 @@ li {
 
 header {
   float: left;
-  width: 100%;
+  width: 70%;
   font-size: 1.6rem;
 }
 

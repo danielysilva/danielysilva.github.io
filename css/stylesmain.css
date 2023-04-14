@@ -162,6 +162,33 @@ nav {
   width: 100%;
 }
 
+.mosaic {
+  display: flex;
+}
+
+.mosaic img {
+  width: 33.33%;
+}
+
+@keyframes slide {
+  0% {
+    margin-left: 0;
+  }
+  33.33% {
+    margin-left: -100%;
+  }
+  66.66% {
+    margin-left: -200%;
+  }
+  100% {
+    margin-left: 0%;
+  }
+}
+
+.mosaic img {
+  animation: slide 7s infinite;
+}
+
 @media only screen and (max-device-width: 900px) {
 /* .menu { width:100%; } */
 }

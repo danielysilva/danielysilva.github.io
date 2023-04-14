@@ -33,6 +33,11 @@ a {
   cursor: pointer;
 }
 
+a: hover {
+  text-decoration: underline;
+  cursor:pointer;
+}
+
 ul {
   font-family: Helvetica;
   padding: 0;

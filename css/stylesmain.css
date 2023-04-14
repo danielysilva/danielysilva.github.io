@@ -2,19 +2,15 @@ html {
   font-size: 1em;
   background-color: none;
   max-width: 1024px;
-  height: 50%;
-  max-height: 50%;
-
 }
 
 body {
   max-width: 70vw;
-  min-height: none;
-  max-height: 70vw;
   background-color: papayawhip;
   position: relative;
   margin: 0 auto;
   padding: 0;
+  text-align: center;
   font-family: Georgia;
   font-size: 1.4rem;
   line-height: 1.5;
@@ -44,10 +40,11 @@ li {
   margin-right: 35px;
 }
 
-
 header {
-  float: left;
-  width: 70%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
   font-size: 1.6rem;
 }
 
@@ -65,10 +62,13 @@ main {
 }
 
 .sidebar {
-  float: right;
+  float: left;
   width: 30%;
   height: 100%;
-  position: relative;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
   font-size: 1.4rem;
   display: none;
   flex-direction: column;
@@ -79,17 +79,17 @@ main {
 }
 
 body.home .sidebar {
-  display: flex;
+  display: none;
+}
+
+@media only screen and (min-width: 1200px) {
+  h1 {
+    font-size: 4rem;
+  }
 }
 
 h1 {
   font-size: 3.6rem;
-}
-
-@media (min-width: 1200px) {
-  h1 {
-    font-size: 4rem;
-  }
 }
 
 h2 {
@@ -101,27 +101,28 @@ h3 {
 }
 
 .wrapper {
-  display: grid;
-  max-width: 960px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 footer {
-  width: 70%;
-  height: 50px;
-  margin: auto;
-  bottom: 0;
-  position: fixed;
-  align: bottom;
+  margin-top: 50px;
+  font-size: 1.2rem;
 }
 
 img {
-  max-width: 100%:
+  max-width: 100%;
 }
 
 .center {
   display: block;
-  margin: 0 auto;
+  margin:
+ 0 auto;
   max-width: 100%;
   height: auto;
 }

@@ -81,7 +81,7 @@ main {
 }
 
 .main-content {
-    margin: 0 auto;
+  margin: 0 auto;
   margin-top: 5vh;
 }
 
@@ -115,6 +115,7 @@ body.home .sidebar {
 
 h1 {
   font-size: 3.6rem;
+  font-family: American Typewriter;
   margin: 2vh;
  margin-top: 0;
  margin-left: 0;
@@ -125,19 +126,16 @@ h1 {
   h1 {
     font-size: 4rem;
   }
-
-@media (min-width: 1200px) {
-  h1 {
-    font-size: 4rem;
-  }
 }
 
 h2 {
-  font-size: 1.8rem;
+  font-size: 2.8rem;
+  font-family: Georgia
 }
 
 h3 {
-  font-size: 1.4rem;
+  font-size: 1.8rem;
+  font-family: Georgia;
 }
 
 footer {

@@ -1,7 +1,7 @@
 html {
   font-size: 1em;
   background-color: none;
-  height: 70%;
+  height: 100%;
 }
 
 header {
@@ -15,8 +15,8 @@ header {
 }
 
 body {
-  max-width: 65%;
-  max-width: 70%;
+  max-width: 100vh;
+  min-width: 65%;
   min-height: 100vh;
   max-height: 70%;
   background-color: papayawhip;
@@ -34,8 +34,6 @@ p {
 
 main {
   clear: both;
-  width: 100%;
-  min-width: 100%;
   position: relative;
   align: left;
   margin: 0;

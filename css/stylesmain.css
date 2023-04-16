@@ -62,8 +62,6 @@ li {
 
 header {
   float: left;
-  display: flex;
-  flex: 1;
   margin-top: 0;
   margin-bottom: 0;
   padding-bottom: 0;
@@ -198,7 +196,6 @@ div {
 
 nav {
   width: 100%;
-  flex: 1;
 }
 
 .mosaic {

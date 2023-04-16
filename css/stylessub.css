@@ -6,6 +6,7 @@ html {
 
 header {
   float: left;
+  align-items: left;
   width: 100%;
   margin-top: 2vh;
   margin-bottom: 2vh;
@@ -120,7 +121,6 @@ img {
 }
 
 nav {
-  max-width: 100vh;
   position: relative;
   font-size: 1.6rem;
   top: 0;

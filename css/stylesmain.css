@@ -7,6 +7,16 @@ html {
   z-index: 9;
 }
 
+header {
+  float: left;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  max-width: 70%;
+  z-index: 999;
+}
+
+
 body {
   max-width: 100vh;
   min-width: 65%;
@@ -18,51 +28,6 @@ body {
   padding: 0;
   font-size: 1.4rem;
   line-height: 1.5;
-}
-
-p {
-  font-size: 1.4rem;
-}
-
-a {
-  color: black;
-  text-decoration: blue;
-  font-weight: bold;
-  cursor: pointer;
-  z-index: 1000;
-  position: relative;
-}
-
-a: hover {
-  text-decoration: underline;
-  cursor:pointer;
-}
-
-ul {
-  font-family: Helvetica;
-  padding: 0;
-  margin: 0;
-  margin-bottom: 0;
-  margin-top: 0;
-}
-
-li {
-  list-style: none;
-}
-
-.band ul li {
-  display: inline-block;
-  margin-right: 3vh;
-}
-
-
-header {
-  float: left;
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-bottom: 0;
-  max-width: 70%;
-  z-index: 999;
 }
 
 main {
@@ -105,8 +70,8 @@ main {
   margin-top: 0;
 }
 
-body.home .sidebar {
-  display: flex;
+p {
+  font-size: 1.4rem;
 }
 
 h1 {
@@ -146,6 +111,58 @@ h6 {
   margin-top: -1rem;
 }
 
+a {
+  color: black;
+  text-decoration: blue;
+  font-weight: bold;
+  cursor: pointer;
+  z-index: 1000;
+  position: relative;
+}
+
+a: hover {
+  text-decoration: underline;
+  cursor:pointer;
+}
+
+nav {
+  position: relative;
+}
+
+
+ul {
+  font-family: Helvetica;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.band ul li {
+  display: inline-block;
+  margin-right: 3vh;
+}
+
+
+
+body.home .sidebar {
+  display: flex;
+}
+
+div {
+  margin-top: 0;
+}
+
+  section {
+    margin: 2vh;
+    margin-top: 5vh;
+    padding: 0;
+  }
+
 footer {
   width: 100%;
   height: 50px;
@@ -174,19 +191,8 @@ img {
   height: auto;
 }
 
-div {
-  margin-top: 0;
-}
 
-  section {
-    margin: 2vh;
-    margin-top: 5vh;
-    padding: 0;
-  }
 
-nav {
-  position: relative;
-}
 
 .mosaic {
   display: flex;

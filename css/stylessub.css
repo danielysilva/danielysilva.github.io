@@ -157,11 +157,11 @@ a: hover {
 
 div {
   margin-top: 0;
-  margin-bottom: 5vh;
+  margin-bottom: 1vh;
 }
 
 footer {
-  width: 70%;
+  width: 100%;
   height: 50px;
   margin: auto;
   bottom: 0;

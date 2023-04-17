@@ -46,7 +46,8 @@ p {
 
 .wrapper {
   display: grid;
-  max-width: 960px;
+  min-width: 25%;
+  max-width: 100vh;
   margin: 0 auto;
 }
 
@@ -69,7 +70,7 @@ p {
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 4.8rem;
   font-family: American Typewriter;
   display: inline;
   max-width: 100vh;
@@ -122,6 +123,7 @@ nav {
   font-family: Helvetica;
   position: relative;
   display: inline;
+  font-size-adjust:
   max-width: 100vh;
   min-width: 30%;
   top: 0;

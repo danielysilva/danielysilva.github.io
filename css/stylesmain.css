@@ -52,7 +52,7 @@ li {
 
 .band ul li {
   display: inline-block;
-  margin-right: 35px;
+  margin-right: 3vh;
 }
 
 
@@ -61,7 +61,7 @@ header {
   margin-top: 0;
   margin-bottom: 0;
   padding-bottom: 0;
-  width: 70%;
+  max-width: 70%;
   font-size: 1.6rem;
   z-index: 999;
 }
@@ -114,17 +114,13 @@ body.home .sidebar {
 
 h1 {
   font-size: 3.6rem;
-  font-family: American Typewriter;
-  margin: 0;
- margin-top: 0;
- margin-left: 0;
+  font-family: Times;
+  display: inline;
+  max-width: 100vh;
+  min-width: 30%;
+  margin-top: 0;
+  margin-left: 0;
   margin-bottom: 0;
-}
-
-@media (min-width: 1200px) {
-  h1 {
-    font-size: 4rem;
-  }
 }
 
 h2 {

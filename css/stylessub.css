@@ -7,7 +7,7 @@ header {
   float: left;
   align-items: left;
   display: inline;
-  max-width: 70vh;
+  max-width: 100vw;
   min-width: 30%;
   margin-top: 1vh;
   margin-bottom: 5vh;
@@ -68,7 +68,7 @@ p {
 }
 
 h1 {
-  font-size: 3.6rem;
+  font-size: large;
   font-family: Times;
   display: inline;
   max-width: 100vh;

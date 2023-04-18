@@ -1,17 +1,16 @@
 html {
   background-color: transparent;
-  height: 100%;
-  width: 100%;
+  max-width: 1024px;
 }
 
 header {
   float: left;
   align-items: left;
   display: inline;
-  max-width: 100vh;
+  max-width: 70vh;
   min-width: 30%;
   margin-top: 1vh;
-  margin-bottom: 10vh;
+  margin-bottom: 5vh;
   position: relative;
   z-index: 1;
 }
@@ -23,10 +22,9 @@ body {
   max-height: 70%;
   background-color: ghostwhite;
   position: relative;
-  margin: 2vh;
+  margin: 4vh;
   padding: 0;
   font-family: Georgia;
-  font-size: 1.4rem;
   line-height: 1.5;
 }
 
@@ -105,14 +103,6 @@ h6 {
   margin-top: 0;
 }
 
-.page {
-  max-width: 1024px;
-  margin: 0 auto;
-}
-
-.col {
-  width: 6.25%; /* 60 / 960 = 0.0625 */
-}
 
 img {
   max-width: 100%:

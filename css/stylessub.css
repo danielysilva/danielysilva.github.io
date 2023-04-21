@@ -13,7 +13,7 @@ header {
   max-width: 100vw;
   min-width: 30%;
   margin-top: 1vh;
-  margin-bottom: 5vh;
+  margin-bottom: 1vh;
   position: relative;
   z-index: 1;
   font-size: 2.24rem;
@@ -151,7 +151,7 @@ a: hover {
 
 div {
   margin-top: 0;
-  margin-bottom: 1vh;
+  margin-bottom: 0;
 }
 
 footer {
@@ -165,7 +165,7 @@ footer {
 
 .band ul li {
   display: inline-block;
-  margin-right: 2vh;
+  margin-right: 1vh;
 }
 
 .center {

@@ -20,7 +20,7 @@ header {
 }
 
 body {
-  max-width: 100vw;
+  max-width: 70vw;
   min-width: 40vw;
   min-height: 100vh;
   max-height: 70vw;
@@ -48,8 +48,6 @@ p {
 
 .wrapper {
   display: grid;
-  min-width: 25%;
-  max-width: 100vh;
   margin: 0 auto;
 }
 

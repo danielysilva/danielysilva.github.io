@@ -190,8 +190,7 @@ footer {
 
 .slider {
     display: block;
-    height: 293px;
-    width: 600px;
+    width: 60vw;
     margin: auto;
     margin-top: 20px;
     position: relative;

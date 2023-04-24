@@ -44,6 +44,7 @@ p {
   font-size: 1.4rem;
   font-family: Times;
   line-height: 1.5;
+  margin-bottom: 0.5vw; 
 }
 
 .wrapper {

@@ -224,15 +224,38 @@ footer {
 }
 
 .slider li:nth-child(1) label {
-    left: 10px;
+    left: 60vw;
 }
 
 .slider li:nth-child(2) label {
-    left: 40px;
+    left: 60vw;
 }
 
 .slider li:nth-child(3) label {
-    left: 70px;
+    left: 60vw;
+}
+
+.slider li:nth-child(4) label {
+    left: 60vw;
+}
+
+.slider li:nth-child(5) label {
+    left: 60vw;
+}
+
+.slider li:nth-child(6) label {
+    left: 60vw;
+    }
+.slider li:nth-child(7) label {
+    left: 60vw;
+}
+
+.slider li:nth-child(8) label {
+    left: 60vw;
+}
+
+.slider li:nth-child(9) label {
+    left: 60vw;
 }
 
 .slider img {
@@ -245,8 +268,6 @@ footer {
     visibility: visible;
     z-index: 10;
 }
-
-* { margin: 0; padding: 0; }
 
 @media screen and (max-width: 500px) {
   .column {

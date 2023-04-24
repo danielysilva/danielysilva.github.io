@@ -185,7 +185,7 @@ footer {
 .row::after {
   content: "";
   clear: both;
-  display: table;
+  display: div;
 }
 
 .slider {

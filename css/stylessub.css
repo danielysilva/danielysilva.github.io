@@ -187,7 +187,7 @@ li {
 
 .band ul li {
   display: inline-block;
-  margin-right: 3px;
+  margin-right: 16px;
 }
 
 body.home .sidebar {

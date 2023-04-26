@@ -40,6 +40,30 @@ main {
   padding: 0;
 }
 
+.main-content {
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 5vh;
+  float: left;
+  position: relative;
+}
+
+.sidebar {
+  float: right;
+  width: 30%;
+  height: 100vh;
+  position: relative;
+  font-size: 1.4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f1f1f1;
+  padding: 1vh;
+  border-top: 0;
+  box-sizing: border-box;
+}
+
+
 p {
   font-size: 1.4rem;
   font-family: Courier New;
@@ -49,7 +73,13 @@ p {
 
 .wrapper {
   display: grid;
+  max-width: 30%;
+  height: 100vh;
+  padding: 1vh;
+  margin-bottom: 0;
   margin: 0 auto;
+  margin-top: 0;
+}
 }
 
 @media only screen and (max-device-width: 900px) {
@@ -111,6 +141,31 @@ img {
   max-width: 100%;
 }
 
+a {
+  color: black;
+  text-decoration: blue;
+  font-weight: bold;
+  cursor: pointer;
+  z-index: 1000;
+  position: relative;
+}
+
+
+a: hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+div {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+  section {
+    margin: 2vh;
+    margin-top: 5vh;
+    padding: 0;
+  }
+
 nav {
   font-family: Helvetica;
   position: relative;
@@ -123,6 +178,7 @@ nav {
 }
 
 ul {
+  font-family: Helvetica;
   padding: 0;
   margin: 0;
   display: flex;
@@ -133,36 +189,22 @@ li {
   list-style: none;
 }
 
-a {
-  color: black;
-  text-decoration: blue;
-  font-weight: bold;
-  cursor: pointer;
-  z-index: 10;
-  position: relative;
+.band ul li {
+  display: inline-block;
+  margin-right: 3vh;
 }
 
-a: hover {
-  text-decoration: underline;
-  cursor: pointer;
-}
-
-div {
-  margin-top: 0;
-  margin-bottom: 0;
+body.home .sidebar {
+  display: flex;
 }
 
 footer {
   width: 100%;
   height: 50px;
   margin: auto;
+  margin-top: 2vh;
   bottom: 0;
   position: fixed;
-}
-
-.band ul li {
-  display: inline-block;
-  margin-right: 2.2vh;
 }
 
 .center {
@@ -187,6 +229,67 @@ footer {
   content: "";
   clear: both;
   display: div;
+}
+
+.mosaic {
+  display: flex;
+}
+
+.mosaic img {
+  width: 33.33%;
+}
+
+@keyframes slide {
+  0% {
+    margin-left: 0;
+  }
+  33.33% {
+    margin-left: -100%;
+  }
+  66.66% {
+    margin-left: -200%;
+  }
+  100% {
+    margin-left: 0%;
+  }
+}
+
+.column{
+  float: left;
+  width: 23.33%;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+@media screen and (max-width: 70%) {
+  .column {
+    width: 70%;
+  }
+}
+
+.mosaic img {
+  animation: slide 7s infinite;
+}
+
+@media only screen and (max-device-width: 900px) {
+/* .menu { width:100%; } */
+}
+
+@media only screen and (max-device-width: 900px) {
+/* .menu { width:600px; } */
+}
+
+@media only screen and (max-device-width: 700px) {
+/* .menu { width:400px; } */
+}
+
+@media screen and (min-width: 800px) {
+  .container {
+    margin: 1em 2em;
+  }
 }
 
 @media screen and (max-width: 500px) {

@@ -232,11 +232,15 @@ footer {
 }
 
 .mosaic {
-  display: flex;
+  display: table;
 }
 
 .mosaic img {
   width: 33.33%;
+}
+
+.mosaic img {
+  animation: slide 7s infinite;
 }
 
 @keyframes slide {
@@ -254,25 +258,12 @@ footer {
   }
 }
 
-.column{
-  float: left;
-  width: 23.33%;
-}
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
 @media screen and (max-width: 70%) {
   .column {
     width: 70%;
   }
 }
 
-.mosaic img {
-  animation: slide 7s infinite;
-}
 
 @media only screen and (max-device-width: 900px) {
 /* .menu { width:100%; } */

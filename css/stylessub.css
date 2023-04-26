@@ -142,7 +142,7 @@ a {
   text-decoration: blue;
   font-weight: bold;
   cursor: pointer;
-  z-index: 1000;
+  z-index: 10;
   position: relative;
 }
 

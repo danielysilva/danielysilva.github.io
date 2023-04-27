@@ -35,12 +35,12 @@ main {
   clear: both;
   position: relative;
   align-items: center;
-  margin: 1.5vh;
+  margin: 1.0vh;
   padding: 0;
 }
 
 .main-content {
-  width: 70%;
+  width: 100%;
   margin: 0 auto;
   float: left;
   position: relative;
@@ -135,8 +135,7 @@ a:hover {
 }
 
 div {
-  margin-top: 0;
-  margin-bottom: 0;
+  margin: 0 auto;
 }
   section {
     margin: 2vh;

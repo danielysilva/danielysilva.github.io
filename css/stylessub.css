@@ -109,7 +109,7 @@ h5 {
 }
 
 h6 {
-  font-size: 1.1em;
+  font-size: 0.8em;
   font-family: Georgia;
   margin-top: -1rem;
 }
@@ -147,7 +147,7 @@ nav {
   font-family: Helvetica;
   position: relative;
   display: inline;
-  font-size: 0.5em;
+  font-size: 0.6em;
   max-width: 100%;
   top: 0;
   left: 0;

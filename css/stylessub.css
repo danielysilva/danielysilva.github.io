@@ -213,7 +213,7 @@ footer {
 
 .mosaic img {
   width: 33.33%;
-  animation: slide 12s infinite;
+  animation: slide 7s infinite;
 }
 
 @keyframes slide {

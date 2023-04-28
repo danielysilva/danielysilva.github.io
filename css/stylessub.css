@@ -61,7 +61,6 @@ main {
   box-sizing: border-box;
 }
 
-
 p {
   font-size: 1.4rem;
   font-family: Georgia;
@@ -135,7 +134,7 @@ a:hover {
 
 div {
   margin: 0 auto;
-  display:flex;
+  display: flex;
 }
   
 section {
@@ -201,6 +200,7 @@ footer {
   float: left;
   width: 24.9%;
 }
+
 .row:after {
   content: "";
   clear: both;

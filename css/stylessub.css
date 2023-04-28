@@ -78,7 +78,7 @@ p {
 }
 
 h1 {
-  font-size: 1.8em;
+  font-size: 1.5em;
   font-family: Courier New;
   display: inline;
   max-width: 100vh;
@@ -104,15 +104,14 @@ h4 {
 }
 
 h5 {
-  font-size: 2.2rem;
+  font-size: 1.8em;
   font-family: Helvetica;
 }
 
 h6 {
-  font-size: 0.53em;
+  font-size: 0.43em;
   font-family: Georgia;
   margin-top: -1rem;
-  max-widht: 100%;
 }
 
 img {
@@ -136,7 +135,6 @@ a:hover {
 
 div {
   margin: 0 auto;
-  align: center;
   display:flex;
 }
   
@@ -150,7 +148,7 @@ nav {
   font-family: Helvetica;
   position: relative;
   display: inline;
-  font-size: 0.75em;
+  font-size: 0.5em;
   max-width: 100%;
   margin: 0;
 }
@@ -233,11 +231,6 @@ footer {
   }
 }
 
-@media screen and (max-width: 70%) {
-  .column {
-    width: 70%;
-  }
-}
 
 @media screen and (max-width: 500px) {
   .column {

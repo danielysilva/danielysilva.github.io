@@ -209,11 +209,12 @@ footer {
 
 .mosaic {
   display: table;
+  height: 20vh;
 }
 
 .mosaic img {
   width: 33.33%;
-  animation: slide 7s infinite;
+  animation: slide 10s infinite;
 }
 
 @keyframes slide {

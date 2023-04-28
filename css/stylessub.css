@@ -129,7 +129,7 @@ a {
 
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: blink;
   cursor: pointer;
 }
 
@@ -201,7 +201,7 @@ footer {
   float: left;
   width: 24.9%;
 }
-.row::after {
+.row:after {
   content: "";
   clear: both;
   display: table;

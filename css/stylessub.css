@@ -91,7 +91,7 @@ h1 {
   margin-top: 0;
   margin-left: 0;
   margin-bottom: 0;
-  z-indez: 4;
+  z-index: 4;
 }
 
 h2 {
@@ -148,8 +148,9 @@ div {
 
 article {
   margin: 0 auto;
-  margin-bottom: 2vh;
-  height: 30vh;
+  padding: 0 auto;
+  min-height: 5vh;
+  max-height: 40vh;
 }
   
 section {

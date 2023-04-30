@@ -111,13 +111,13 @@ h5 {
 }
 
 h6 {
-  font-size: 0.43em;
+  font-size: 0.44em;
   font-family: Georgia;
   margin-top: 0;
 }
 
 img {
-  max-width: 100%;
+  max-width: 90%;
 }
 
 a {
@@ -172,7 +172,7 @@ li {
 
 .band ul li {
   display: inline-block;
-  margin-right: 20px;
+  margin-right: 1.8em;
 }
 
 body.home .sidebar {
@@ -215,6 +215,7 @@ footer {
 
 .mosaic {
   display: table;
+  max-width: 100%;
 }
 
 .mosaic img {

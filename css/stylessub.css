@@ -84,7 +84,7 @@ p {
 
 h1 {
   font-size: 1.5em;
-  font-family: Courier New;
+  font-family: "Courier New", serif;
   display: inline;
   max-width: 100vh;
   min-width: 30%;
@@ -96,7 +96,7 @@ h1 {
 
 h2 {
   font-size: 2.84rem;
-  font-family: Georgia
+  font-family: Georgia;
 }
 
 h3 {
@@ -123,6 +123,8 @@ h6 {
 
 img {
   max-width: 110%;
+  margin-top: 2.5vh;
+  margin-bottom: 2.5vh;
 }
 
 a {

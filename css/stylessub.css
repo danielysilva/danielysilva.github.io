@@ -123,6 +123,7 @@ h6 {
 
 img {
   max-width: 110%;
+  max-height: 100vh;
   margin-top: 2.5vh;
   margin-bottom: 2.5vh;
 }
@@ -149,7 +150,8 @@ div {
 
 article {
   margin: 0 auto;
-  margin-bottom: 3vh;
+  margin-bottom: 2vh;
+  height: 30vh;
 }
   
 section {

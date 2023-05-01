@@ -84,7 +84,7 @@ p {
 
 h1 {
   font-size: 1.5em;
-  font-family: "Courier New", serif;
+  font-family: 'Courier New', Courier, monospace, serif;
   display: inline;
   max-width: 100vh;
   min-width: 30%;

@@ -13,13 +13,13 @@ html {
 
 header {
   float: left;
-  display: inline;
+  display: inline-block;
   max-width: 100%;
   margin-top: 1vh;
   margin-bottom: 1vh;
   position: relative;
   z-index: 2;
-  font-size: 2.24rem;
+  font-size: 25px;
 }
 
 body {
@@ -116,7 +116,7 @@ h5 {
 }
 
 h6 {
-  font-size: 0.44em;
+  font-size: 0.52em;
   font-family: Georgia;
   margin-top: 0;
 }

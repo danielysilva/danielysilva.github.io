@@ -41,8 +41,8 @@ main {
   clear: both;
   position: relative;
   align-items: center;
-  margin: 1.0vh;
-  padding: 0;
+  margin: 1vh;
+  padding: 1vh;
 }
 
 .main-content {

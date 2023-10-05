@@ -144,10 +144,13 @@ a:hover {
 div {
   margin: 0 auto;
   display: flex;
+  padding: 2vh;
+  margin-top:2vh;
+  
 }
 
 article {
-  margin: 0 auto;
+  margin: 2vh;
   padding: 0 auto;
   margin-bottom: 2vh;
 }

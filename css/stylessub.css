@@ -195,7 +195,7 @@ footer {
   margin-top: 2vh;
   bottom: 0;
   position: fixed;
-  display: inline-block;
+  display: inline;
 }
 
 .center {

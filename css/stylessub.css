@@ -122,7 +122,8 @@ h6 {
 }
 
 img {
-  max-width: 100%;
+  display: block;
+  margin: 0 auto;
 }
 
 a {
@@ -144,8 +145,8 @@ a:hover {
 div {
   margin: 0 auto;
   display: flex;
-  padding: 2vh;
-  margin-top:2vh;
+  padding: 0 auto;
+  margin-top: 2vh;
   justify-content: space-between;
   
 }
@@ -194,11 +195,11 @@ body.home .sidebar {
 
 footer {
   width: 100%;
-  height: 50px;
-  margin: auto;
+  height: 0 auto;
+  margin: 0 auto;
   margin-top: 2vh;
   bottom: 0;
-  position: fixed;
+  position: relative;
   display: inline;
 }
 

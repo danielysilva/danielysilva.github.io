@@ -152,9 +152,9 @@ div {
 }
 
 article {
-  margin: 2vh;
+  margin: 0 auto;
   padding: 0 auto;
-  margin-bottom: 2vh;
+  margin-top: 2vh;
 }
   
 section {

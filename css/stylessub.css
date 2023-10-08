@@ -23,6 +23,7 @@ header {
 }
 
 body {
+  width: 900px;
   max-width: 70vw;
   min-width: 40vw;
   min-height: 50vh;
@@ -43,13 +44,6 @@ main {
   align-items: center;
   margin: 1vh;
   padding: 0 auto;
-}
-
-.main-content {
-  width: 100%;
-  margin: 0 auto;
-  float: left;
-  position: relative;
 }
 
 .sidebar {

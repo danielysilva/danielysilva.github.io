@@ -250,6 +250,44 @@ footer {
   animation: changeImage 20s linear infinite;
 }
 
+.article-list {
+  max-width: 74.125rem;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.article-list__item {
+  /* em FLEX, os elementos filhos tem um tamanho inicial e podem encolher ou esticar para se ajustar ao pai. Por padrão, eles encolhem, mas não esticam. */
+  display: flex;
+  /* avisar o navegador que os elementos podem cair de linha se não houver espaço */
+  flex-wrap: wrap;
+  /* propriedade quase-nova para espaçar os elementos dentro do flex. */
+  gap: 1.5rem;
+  /* como os elementos são alinhados no sentido do flex. Por padrão, o sentido é horizontal, ou `row`*/
+  justify-content: center;
+
+  /* para separar um item do outro */
+  padding-bottom: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+}
+
+.article-list__item > * {
+  /* só para ver melhor */
+  outline: 1px solid fuchsia;
+}
+
+.article-list__article-header {
+  /* definir o tamanho inicial, antes do ajuste */
+  flex-basis: 20em;
+  /* avisar o fator de ajuste positivo para o navegador. O valor padrão é 0 */
+  flex-grow: 1;
+}
+
+
+
 @media screen and (min-width: 768px) {
   .wrapper {
     margin: 1em 2em;

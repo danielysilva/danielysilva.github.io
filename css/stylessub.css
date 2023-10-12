@@ -274,11 +274,6 @@ footer {
   border-bottom-style: solid;
 }
 
-.article-list__item > * {
-  /* só para ver melhor */
-  outline: 1px solid fuchsia;
-}
-
 .article-list__article-header {
   /* definir o tamanho inicial, antes do ajuste */
   flex-basis: 20em;

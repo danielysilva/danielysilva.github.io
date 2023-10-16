@@ -30,8 +30,8 @@ body {
   position: relative;
   display: grid;
   place-items: center;
-  margin: 0 auto;
-  padding: 0 auto;
+  margin: auto;
+  padding: auto;
   font-family: Georgia;
   line-height: 1.5;
 }

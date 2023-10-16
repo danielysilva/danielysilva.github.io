@@ -23,11 +23,9 @@ header {
 }
 
 body {
-  width: 900px;
+  width: 800px;
   max-width: 70vw;
   min-width: 40vw;
-  min-height: 50vh;
-  max-height: 400px;
   background-color: ghostwhite;
   position: relative;
   display: grid;
@@ -42,7 +40,6 @@ main {
   clear: both;
   position: relative;
   align-items: center;
-  margin: 1vh;
   margin-left: 0;
   padding: 3vw;
   min-width: 40vw;

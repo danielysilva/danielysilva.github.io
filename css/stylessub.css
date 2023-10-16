@@ -142,7 +142,7 @@ div {
   padding: 0 auto;
   margin-top: 0.3vh;
   justify-content: space-between;
-  
+
 }
 
 article {
@@ -150,7 +150,7 @@ article {
   padding: 0 auto;
   margin-top: 2vh;
 }
-  
+
 section {
     margin: 2vh;
     margin-top: 1vh;
@@ -256,6 +256,7 @@ footer {
 	margin-left: auto;
 	padding-left: 1.5rem;
 	padding-right: 1.5rem;
+  display: block;
 }
 .article-list__item {
 	/* em FLEX, os elementos filhos tem um tamanho inicial e podem encolher ou esticar para se ajustar ao pai. Por padrão, eles encolhem, mas não esticam. */

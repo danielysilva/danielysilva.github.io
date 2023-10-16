@@ -43,7 +43,10 @@ main {
   position: relative;
   align-items: center;
   margin: 1vh;
-  padding: 0 auto;
+  margin-left: 0;
+  padding: 3vw;
+  min-width: 40vw;
+  max-width: 85vw;
 }
 
 .sidebar {
@@ -80,7 +83,7 @@ h1 {
   font-size: 1.8em;
   font-family: 'Courier', Courier New, monospace, serif;
   display: inline-block;
-  max-width: 100vh;
+  max-width: 90vw;
   min-width: 30%;
   margin-top: 0;
   margin-left: 0;

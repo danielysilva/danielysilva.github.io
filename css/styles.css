@@ -266,7 +266,8 @@ footer {
 	/* propriedade quase-nova para espaçar os elementos dentro do flex. */
 	gap: 1.5rem;
 	/* como os elementos são alinhados no sentido do flex. Por padrão, o sentido é horizontal, ou `row` */
-	justify-content: center;
+	justify-content: left;
+  align-content: left;
 
 	/* para separar um item do outro */
 	padding-bottom: 1.5rem;
@@ -283,6 +284,8 @@ footer {
 	/* O padrão de flex-shrink já é 1. Então, essa propriedade está aqui só para documentá-la */
 	flex-shrink: 1;
   float: left;
+  justify-content: left;
+  align-content: left;
 }
 
 .article-list__article-header {
@@ -292,6 +295,8 @@ footer {
 	flex-grow: 1;
 	/* O padrão de flex-shrink já é 1. Então, essa propriedade está aqui só para documentá-la */
 	flex-shrink: 1;
+  justify-content: left;
+  align-content: left;
 }
 
 @media screen and (min-width: 768px) {

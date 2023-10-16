@@ -27,7 +27,7 @@ body {
   max-width: 70vw;
   min-width: 40vw;
   min-height: 50vh;
-  max-height: 60vh;
+  max-height: 400px;
   background-color: ghostwhite;
   position: relative;
   display: grid;

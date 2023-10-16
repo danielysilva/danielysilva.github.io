@@ -22,6 +22,10 @@ header {
   font-size: 25px;
 }
 
+header > h5 {
+  font-size: 1.8em;
+}
+
 body {
   width: 900px;
   max-width: 70vw;

@@ -79,7 +79,7 @@ p {
 h1 {
   font-size: 1.8em;
   font-family: 'Courier', Courier New, monospace, serif;
-  display: inline;
+  display: inline-block;
   max-width: 100vh;
   min-width: 30%;
   margin-top: 0;
@@ -282,6 +282,7 @@ footer {
 	align-self: flex-start;
 	/* O padrão de flex-shrink já é 1. Então, essa propriedade está aqui só para documentá-la */
 	flex-shrink: 1;
+  float: left;
 }
 
 .article-list__article-header {

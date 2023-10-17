@@ -32,7 +32,7 @@ body {
   place-items: center;
   margin: auto;
   padding: auto;
-  font-family: Georgia;
+  font-family: 'Georgia'; Serif;
   line-height: 1.5;
 }
 
@@ -78,7 +78,7 @@ p {
 
 h1 {
   font-size: 3.8rem;
-  font-family: 'Courier', Courier New, monospace, serif;
+  font-family: 'Courier', Courier New, Police Monospace; serif;
   display: inline-block;
   max-width: 90vw;
   min-width: 30%;

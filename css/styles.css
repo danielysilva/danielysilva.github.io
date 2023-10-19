@@ -197,6 +197,7 @@ body.home .sidebar {
 footer {
   margin: 0 auto;
   padding: 0 auto;
+  width: auto;
   padding-bottom: 0;
   position: relative;
   display: inline;

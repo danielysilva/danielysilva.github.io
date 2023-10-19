@@ -33,10 +33,10 @@ body {
   margin: auto;
   padding: auto;
   overflow-x: hidden;
-  overflow-y: scroll;	
+  overflow-y: scroll;
   font-family: 'Georgia'; Serif;
   line-height: 1.5;
-	
+
 }
 
 main {
@@ -195,13 +195,13 @@ body.home .sidebar {
 }
 
 footer {
-  width: 95vw;
   margin: 0 auto;
-  padding: 4vw;
+  padding: 0 auto;
   padding-bottom: 0;
   position: relative;
+  display: flex;
   float: left;
-  white-space: nowrap;
+  align-items: left;
 }
 
 .center {

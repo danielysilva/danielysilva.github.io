@@ -69,6 +69,7 @@ p {
   font-family: Georgia;
   line-height: 1.5;
   margin-bottom: 2.5vh;
+  display: inline;
 }
 
 .wrapper {

@@ -69,7 +69,7 @@ p {
   font-family: Georgia;
   line-height: 1.5;
   margin-bottom: 2.5vh;
-  display: inline;
+  display: flex;
 }
 
 .wrapper {
@@ -198,8 +198,8 @@ body.home .sidebar {
 footer {
   margin: 0 auto;
   padding: 0 auto;
-  width: 30%;
-  padding-bottom: 0;
+  width: 20%;
+  padding-bottom: 3vh;
   position: relative;
   display: inline;
 }

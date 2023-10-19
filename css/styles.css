@@ -32,8 +32,8 @@ body {
   place-items: center;
   margin: auto;
   padding: auto;
-  overflow-x: scroll;
-  overflow-y: hidden;	
+  overflow-x: hidden;
+  overflow-y: scroll;	
   font-family: 'Georgia'; Serif;
   line-height: 1.5;
 	
@@ -81,8 +81,8 @@ p {
 }
 
 h1 {
-  font-size: 75px;
-  font-family: 'Courier', Courier New, Police Monospace; serif;
+  font-size: 40px;
+  font-family: 'Courier', Courier New, Police Monospace; Serif;
   display: inline;
   max-width: 90vw;
   min-width: 30%;

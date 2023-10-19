@@ -304,12 +304,15 @@ footer {
   align-content: left;
 }
 
-@media screen and (min-width: 480px) {
+@media screen and (max-width: 480px) {
   .wrapper {
     margin: 1em 2em;
   }
   .body {
     width: 70vw;
+  }
+  .h1 {
+    font-size: 20px;
   }
 }
 

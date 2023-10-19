@@ -81,7 +81,7 @@ p {
 }
 
 h1 {
-  font-size: 3.5rem;
+  font-size: 75px;
   font-family: 'Courier', Courier New, Police Monospace; serif;
   display: inline;
   max-width: 90vw;
@@ -185,7 +185,8 @@ li {
 
 .band ul li {
   display: inline-block;
-  margin-right: 1.0em;
+  margin-right: 0.6em;
+  margin-left: 0.6em;
   padding-top: 1vh;
 }
 

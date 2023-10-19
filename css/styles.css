@@ -14,8 +14,8 @@ html {
 header {
   float: left;
   display: inline-block;
-  max-width: 100%;
-  margin-top: 1vh;
+  max-width: 100vw;
+  margin-top: 0;
   margin-bottom: 1vh;
   position: relative;
   z-index: 2;
@@ -24,7 +24,7 @@ header {
 
 body {
   width: 800px;
-  max-width: 70vw;
+  max-width: 100vw;
   min-width: 40vw;
   background-color: ghostwhite;
   position: relative;

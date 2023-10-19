@@ -74,6 +74,7 @@ p {
   margin: 0 auto;
   margin-bottom: 0;
   margin-top: 0;
+  z-index: 3;
 }
 
 h1 {
@@ -193,8 +194,8 @@ footer {
   width: 100%;
   margin: 0 auto;
   padding: 4vw;
+  padding-bottom: 0;
   position: relative;
-  display: in-line;
   float: left;
 }
 
@@ -298,6 +299,15 @@ footer {
 	flex-shrink: 1;
   justify-content: left;
   align-content: left;
+}
+
+@media screen and (min-width: 480px) {
+  .wrapper {
+    margin: 1em 2em;
+  }
+  .body {
+    width: 70vw;
+  }
 }
 
 @media screen and (min-width: 768px) {

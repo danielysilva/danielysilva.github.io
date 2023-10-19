@@ -199,6 +199,7 @@ footer {
   margin: 0 auto;
   padding: 0 auto;
   width: 20%;
+  max-width: 50vw;
   padding-bottom: 3vh;
   position: relative;
   display: inline;

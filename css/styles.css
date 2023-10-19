@@ -32,8 +32,11 @@ body {
   place-items: center;
   margin: auto;
   padding: auto;
+  overflow-x: scroll;
+  overflow-y: hidden;	
   font-family: 'Georgia'; Serif;
   line-height: 1.5;
+	
 }
 
 main {
@@ -197,6 +200,7 @@ footer {
   padding-bottom: 0;
   position: relative;
   float: left;
+  white-space: nowrap;
 }
 
 .center {

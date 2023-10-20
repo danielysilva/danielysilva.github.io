@@ -19,11 +19,10 @@ header {
   margin-bottom: 1vh;
   position: relative;
   z-index: 2;
-  font-size: 25px;
 }
 
 body {
-  width: 700px;
+  width: 800px;
   max-width: 95%;
   min-height: 100vh;
   background-color: ghostwhite;
@@ -69,6 +68,7 @@ p {
   font-family: Georgia;
   line-height: 1.5;
   margin-bottom: 2.5vh;
+  text-indent: 47px;
 }
 
 .wrapper {
@@ -81,7 +81,7 @@ p {
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 3.5rem;
   font-family: 'Courier', Courier New, Police Monospace; Serif;
   display: flex;
   margin-top: 0;
@@ -92,9 +92,9 @@ h1 {
 }
 
 h2 {
-  font-size: 2.84rem;
-  font-family: Georgia;
-  margin-bottom: 35px;
+  font-size: 2.9rem;
+  font-family: 'Gill Sans', Helvetica, sans-serif;
+  margin-bottom: 2.5vh;
 }
 
 h3 {
@@ -134,7 +134,6 @@ a {
   display: inline;
 }
 
-
 a:hover {
   text-decoration: blink;
   cursor: pointer;
@@ -155,6 +154,10 @@ article {
   margin-top: 2vh;
 }
 
+header > p {
+  text-indent: 0;
+}
+
 section {
     margin: 2vh;
     margin-top: 1vh;
@@ -165,7 +168,7 @@ nav {
   font-family: Helvetica;
   position: relative;
   display: inline;
-  font-size: 0.5em;
+  font-size: 1.2rem;
   max-width: 100%;
   margin: 0 auto;
 }
@@ -199,11 +202,12 @@ body.home .sidebar {
 footer {
   margin: 0 auto;
   padding: 0 auto;
-  width: 100%;
-  padding-bottom: 3vh;
-  position: static;
-  display: inline;
-  align: center;
+  padding: 2vw;
+}
+
+footer > p {
+  font-size: 1rem;
+  text-indent: 0;
 }
 
 .center {

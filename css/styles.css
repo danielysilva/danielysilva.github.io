@@ -23,7 +23,7 @@ header {
 }
 
 body {
-  width: 800px;
+  width: 700px;
   max-width: 95%;
   min-height: 100vh;
   background-color: ghostwhite;
@@ -69,7 +69,6 @@ p {
   font-family: Georgia;
   line-height: 1.5;
   margin-bottom: 2.5vh;
-  display: flex;
 }
 
 .wrapper {
@@ -82,14 +81,13 @@ p {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 4rem;
   font-family: 'Courier', Courier New, Police Monospace; Serif;
-  display: inline;
-  max-width: 90vw;
-  min-width: 30%;
+  display: flex;
   margin-top: 0;
   margin-left: 0;
   margin-bottom: 0;
+  word-break: keep-all;
   z-index: 4;
 }
 
@@ -175,13 +173,16 @@ nav {
 ul {
   font-family: Helvetica;
   padding: 0;
-  margin: 0;
+
   display: flex;
   justify-content: left;
 }
 
 li {
   list-style: none;
+  margin: 0 auto;
+  margin-right: 0.6em;
+  margin-left: 0.6em; 	
 }
 
 .band ul li {
@@ -198,11 +199,11 @@ body.home .sidebar {
 footer {
   margin: 0 auto;
   padding: 0 auto;
-  width: 20%;
-  max-width: 50vw;
+  width: 100%;
   padding-bottom: 3vh;
-  position: relative;
+  position: static;
   display: inline;
+  align: center;
 }
 
 .center {

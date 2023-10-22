@@ -43,7 +43,7 @@ main {
   position: relative;
   align-items: center;
   margin-left: 0;
-  padding: 2vw;
+  padding: 5vw;
   min-width: 35vw;
   max-width: 80vw;
 }
@@ -134,9 +134,11 @@ a {
   display: inline;
 }
 
-a:hover {
-  text-decoration: blink;
-  cursor: pointer;
+a:focus, a:hover {
+color: white;
+background-color: black;
+text-decoration: blink;
+cursor: pointer;
 }
 
 div {
@@ -345,4 +347,7 @@ footer > p {
 
 @media (orientation: portrait) {
 
+}
+
+@font-face {
 }

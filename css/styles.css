@@ -201,6 +201,15 @@ body.home .sidebar {
   display: flex;
 }
 
+blockquote {
+font: 14px/22px normal helvetica, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #ccc;
+} 
+
 footer {
   margin: 0 auto;
   padding: 0 auto;

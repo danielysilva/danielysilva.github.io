@@ -82,7 +82,7 @@ p {
 
 h1 {
   font-size: 3.5rem;
-  font-family: 'Courier', Courier New, Police Monospace; Serif;
+  font-family: 'Courier Prime', Courier New, Police Monospace; Serif;
   display: flex;
   margin-top: 0;
   margin-left: 0;
@@ -136,7 +136,7 @@ a {
 }
 
 a:focus, a:hover {
-color: white;
+color: gray;
 background-color: black;
 text-decoration: blink;
 cursor: pointer;

@@ -125,6 +125,11 @@ img {
   margin: 0 auto;
 }
 
+video {
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
 a {
   color: black;
   text-decoration: blue;

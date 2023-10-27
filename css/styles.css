@@ -71,6 +71,14 @@ p {
   text-indent: 47px;
 }
 
+p.block {
+  font-size: 1.4rem;
+  font-family: Georgia;
+  line-height: 1.5;
+  margin-bottom: 2.5vh;
+  text-indent: 0;
+}
+
 .wrapper {
   display: grid;
   padding: 0;
@@ -152,7 +160,7 @@ div {
   display: flex;
   padding: 0 auto;
   margin-top: 0.3vh;
-  justify-content: space-between;
+  margin-bottom: 2vh;
 
 }
 
@@ -193,7 +201,7 @@ li {
   list-style: none;
   margin: 0 auto;
   margin-right: 0.6em;
-  margin-left: 0.6em; 	
+  margin-left: 0.6em;
 }
 
 .band ul li {
@@ -214,7 +222,7 @@ font: 14px/22px normal helvetica, sans-serif;
   margin-left: 50px;
   padding-left: 15px;
   border-left: 3px solid #ccc;
-} 
+}
 
 footer {
   margin: 0 auto;

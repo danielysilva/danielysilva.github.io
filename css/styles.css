@@ -43,7 +43,7 @@ main {
   position: relative;
   align-items: center;
   margin-left: 0;
-  padding: 5vw;
+  padding: 4vw;
   min-width: 35vw;
   max-width: 80vw;
 }
@@ -339,6 +339,7 @@ footer > p {
 
   @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&display=swap');
 
+/* cellphone */
 @media screen and (max-width: 480px) {
   .wrapper {
     margin: 1em 2em;
@@ -351,7 +352,9 @@ footer > p {
   }
 }
 
-@media screen and (min-width: 768px) {
+
+/* tablets */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   .wrapper {
     margin: 1em 2em;
   }
@@ -366,12 +369,14 @@ footer > p {
   }
 }
 
+/* PC */
 @media (orientation: landscape) {
-
-}
-
-@media (orientation: portrait) {
-
+  .wrapper {
+    margin: 1em 2em;
+  }
+  .body {
+    width: 30vw;
+  }
 }
 
 @font-face {

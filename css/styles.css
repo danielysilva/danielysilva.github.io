@@ -380,4 +380,6 @@ footer > p {
 }
 
 @font-face {
+  font-family: Courier New;
+  src: local(Courier New), url(../fonts/cour.ttf)
 }

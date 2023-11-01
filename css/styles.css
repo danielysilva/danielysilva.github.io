@@ -33,7 +33,7 @@ body {
   padding: auto;
   overflow-x: hidden;
   overflow-y: scroll;
-  font-family: 'Georgia'; Serif;
+  font-family: Garamond, Georgia; Serif;
   line-height: 1.5;
 
 }
@@ -65,7 +65,7 @@ main {
 
 p {
   font-size: 1.4rem;
-  font-family: Georgia;
+  font-family: 'EB Garamond', Garamond, Georgia; Serif;
   line-height: 1.5;
   margin-bottom: 2.5vh;
   text-indent: 47px;
@@ -90,7 +90,7 @@ p.block {
 
 h1 {
   font-size: 3.5rem;
-  font-family: 'Courier Prime', Courier New, Police Monospace; Serif;
+  font-family: 'Courier Prime', 'Courier New', 'Police Monospace'; Serif;
   display: flex;
   margin-top: 0;
   margin-left: 0;
@@ -337,8 +337,6 @@ footer > p {
   align-content: left;
 }
 
-  @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&display=swap');
-
 /* cellphone */
 @media screen and (max-width: 480px) {
   .wrapper {
@@ -380,9 +378,24 @@ footer > p {
 }
 
 @font-face {
-  font-family: Courier Prime;
-  src: local(Courier Prime), url(../fonts/courierprimebold.ttf)
-
-  font-family: Courier New;
-  src: local(Courier New), url(../fonts/couriernew.ttf)
+  font-family: 'Courier Prime';
+  src: local(Courier Prime), url(fonts/courierprimebold.ttf);
+  font-weight: bold;
 }
+
+@font-face {
+  font-family: 'Courier New';
+  src: local(Courier New), url(fonts/couriernew.ttf);
+}
+
+@font-face {
+  font-family: 'EB Garamond';
+  src: local (Garamond), url(fonts/EBGaramond-Regular.ttf);
+
+@font-face {
+  font-family: Georgia;
+  src: local (Georgia), url(fonts/georgia.ttf);
+
+@font-face {
+  font-family: 'Gill Sans';
+  src: local (Constantia), url(fonts/gillsans.otf);

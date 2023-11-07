@@ -64,7 +64,7 @@ main {
 }
 
 p {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   font-family: "EB Garamond", Garamond, Georgia, Times, serif;
   line-height: 1.5;
   margin-bottom: 2.5vh;
@@ -72,7 +72,7 @@ p {
 }
 
 p.block {
-  font-size: 1.4rem;
+  font-size: 2.0rem;
   font-family: Georgia;
   line-height: 1.5;
   margin-bottom: 2.5vh;
@@ -117,13 +117,13 @@ h4 {
 }
 
 h5 {
-  font-size: 1.8em;
+  font-size: 2.2rem;
   font-family: Helvetica;
   margin-bottom: 0;
 }
 
 h6 {
-  font-size: 0.52em;
+  font-size: 1.8rem;
   font-family: Georgia;
   margin-top: 0;
 }
@@ -178,6 +178,7 @@ section {
     margin: 2vh;
     margin-top: 1vh;
     padding: 0;
+    font-size: 1.5em;
   }
 
 nav {

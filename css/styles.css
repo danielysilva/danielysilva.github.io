@@ -32,7 +32,7 @@ body {
   margin: auto;
   padding: auto;
   overflow-x: hidden;
-  overflow-y: scroll;
+  overflow-y: auto;
   font-family: Garamond, Georgia; Serif;
   line-height: 1.5;
 
@@ -336,6 +336,18 @@ footer > p {
 	flex-shrink: 1;
   justify-content: left;
   align-content: left;
+}
+
+/*permitem que ocupe todo o viewport width em layout com limite de largura*/
+.u-containProse {
+  max-width: 40em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.u-release {
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
 }
 
 /* cellphone */

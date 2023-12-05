@@ -9,6 +9,7 @@
 html {
   background-color: transparent;
   z-index: 1;
+  box-sizing: borderbox;
   margin: 0 auto;
   padding: 0;
   font-size: 62.5%;

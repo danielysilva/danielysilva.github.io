@@ -284,7 +284,8 @@ footer > p {
 
 .container {
   width: 100%;
-  margin: 2rem auto; 
+  height: 60%;
+  margin: 1rem auto; 
 }
 
 .gallery {

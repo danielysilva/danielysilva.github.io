@@ -297,7 +297,7 @@ footer > p {
 
 .gallery__img {
   width: 100%;
-  height: 100%;
+  height: 60%;
   object-fit: cover;
   display: block;
 }
@@ -306,7 +306,7 @@ footer > p {
   grid-column-start: 1;
   grid-column-end: 5;
   grid-row-start: 1;
-  grid-row-end: 4;
+  grid-row-end: 5;
 }
 
 .gallery__item--2 {
@@ -319,14 +319,14 @@ footer > p {
 .gallery__item--3 {
   grid-column-start: 1;
   grid-column-end: 3;
-  grid-row-start: 4;
+  grid-row-start: 5;
   grid-row-end: 9;
 }
 
 .gallery__item--4 {
   grid-column-start: 3;
   grid-column-end: 5;
-  grid-row-start: 4;
+  grid-row-start: 5;
   grid-row-end: 9;
 }
 

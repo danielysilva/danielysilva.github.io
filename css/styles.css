@@ -79,6 +79,13 @@ p.block {
   text-indent: 0;
 }
 
+p::firt-letter {
+  font-size: 2rem;
+  font-weight: bold;
+  float: left;
+  margin: 2px 5px;
+}
+
 .wrapper {
   display: grid;
   padding: 0;

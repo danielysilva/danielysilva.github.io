@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <link type="text/css" rel="stylesheet" href="../../css/normalize.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="../../css/styles.css">
+    <link rel="canonical" href="https://www.danielysilva.com.br/">
+    <link rel="shortcut icon" href="../../images/self01.png" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-language" content="pt-br">
+    <title> Artigo I | Daniely Silva</title>
+    <meta name="author" content="Daniely Silva">
+    <meta name="description" content="Modelo de publica&ccedil;&atilde;o.">
+    <meta name="keywords" content="Fotografia, Escrita, Portf&oacute;lio, Daniely Silva, Daniely, danielysilva, daniely silva, blog, blogue, artigo">
+    <meta name="robots" content="index,follow">
+    <meta name="rating" content="general">
+  </head>
+  <body>
+    <header>
+      <div class="wrapper band nosidebar"> <a href="https://danielysilva.com.br/">
+          <h1>Daniely Silva</h1>
+        </a>
+        <nav><a href="https://danielysilva.com.br/"></a>
+          <ul>
+            <a href="https://danielysilva.com.br/"> </a>
+            <li><a href="https://danielysilva.com.br/"></a><a href="http://danielysilva.com.br/"><b>In&iacute;cio</b></a></li>
+            <li><a href="http://danielysilva.com.br/acervo/"><b>Acervo</b></a></li>
+            <li><a href="http://danielysilva.com.br/bio/"><b><span class="highlighted-entry">Bio</span></b></a></li>
+            <li><a href="http://blog.danielysilva.com.br/"><b>Blog</b></a> </li>
+            <li><a href="http://danielysilva.com.br/contatos/"><b><span class="highlighted-entry">Contatos</span></b></a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <article>
+        <h2>Artigo I</h2>
+        <div><em><time>04.10.2023</time></em></div>
+        <div><a class="category-link" href="/categories/geografia">Geografia</a>
+          <a href="/tags/mastodon">cidade</a> <a href="/tags/politics">arquitetura</a></div>
+        <br>
+        <img src="../../images/ponte_remedios.jpg" title="Ponte dos Rem&eacute;dios"
+          alt="Encontro entre os rios Pinheiros e Tiet&ecirc;" class="center" width="200%">
+        <br>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat. Duis aute irure dolor in
+          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+          culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat. Duis aute irure dolor in
+          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+          culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat. Duis aute irure dolor in
+          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+          culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat. Duis aute irure dolor in
+          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+          culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat. Duis aute irure dolor in
+          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+          culpa qui officia deserunt mollit anim id est laborum.</p>
+        <br>
+        <div><img src="../../images/grito01.jpg" title="Tamanduate&iacute;" alt="Foz do Rio Tamanduate&iacute; no seu encontro com o Tiet&ecirc;."
+            class="center"></div>
+        <br>
+        <div><img src="../../images/grito02.jpg" title="Tiet&ecirc; e Ponte Orestes Qu&eacute;rcie"
+            alt="Vista para o Rio Tiet&ecirc; com as marginais; ao centro, Ponte Estaiada Governador Orestes Qu&eacute;rcia"
+            class="center"></div>
+        <br>
+        <div><img src="../../images/grito03.jpg" title="Cebol&atilde;o" alt="Encontro dos rios Tiet&ecirc; e Pinheiros e Complexo Vi&aacute;rio Her&oacute;is de 32 ao redor da ilhota &Oacute;rion"
+            class="center"></div>
+        <br>
+      </article>
+      <hr>
+      <aside>
+        <div>
+          <h4>Latest posts</h4>
+        </div>
+        <div>
+          <ul>
+            <li><a href="/books/sandman-preludios-e-noturnos/">Artigo I</a></li>
+            <br>
+            <li><a href="/blog/consequencias-de-manter-comunidades-de-esquerda-na-web/">Artigo
+                II</a></li>
+            <br>
+            <li><a href="/blog/migrando-para-uma-alternativa-gpl-ao-lastpass-authenticator/">Artigo
+                III</a></li>
+            <br>
+            <li><a href="/blog/github-pages-underline/">Artigo IV</a></li>
+            <br>
+            <li><a href="/blog/unsubscribe/">Artigo V</a></li>
+          </ul>
+        </div>
+      </aside>
+    </main>
+    <footer>
+      <p> <a href="/license" b=""> CC | </a> 2023 | Brasil <a href="http://danielysilva.com.br">
+          | danielysilva.com.br</a> </p>
+    </footer>
+  </body>
+</html>

@@ -296,8 +296,8 @@ footer > p {
 
 .gallery {
   display: grid;
-  grid-template-columns: repeat(8, 1fr);
-  grid-template-rows: repeat(8, 5vw);
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: repeat(8, 3vw);
   grid-gap: 10px;
   width: 100%;
   height: auto;
@@ -350,6 +350,13 @@ footer > p {
   grid-column-start: 5;
   grid-column-end: 9;
   grid-row-start: 6;
+  grid-row-end: 9;
+}
+
+.gallery__item--7 {
+  grid-column-start: 9;
+  grid-column-end: 13;
+  grid-row-start: 1;
   grid-row-end: 9;
 }
 

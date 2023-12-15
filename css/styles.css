@@ -370,12 +370,12 @@ footer > p {
 }
 
 .article-list {
-	max-width: 74.125rem;
+	max-width: 100%;
 	margin-right: auto;
 	margin-left: auto;
 	padding-left: 1.5rem;
 	padding-right: 1.5rem;
-  display: block;
+  	display: block;
 }
 .article-list__item {
 	/* em FLEX, os elementos filhos tem um tamanho inicial e podem encolher ou esticar para se ajustar ao pai. Por padrão, eles encolhem, mas não esticam. */
@@ -386,15 +386,16 @@ footer > p {
 	gap: 1.5rem;
 	/* como os elementos são alinhados no sentido do flex. Por padrão, o sentido é horizontal, ou `row` */
 	justify-content: left;
-  align-content: left;
+  	align-content: left;
 
 	/* para separar um item do outro */
-	padding-bottom: 1.5rem;
-	margin-bottom: 1.5rem;
+	padding-bottom: 2vh;
+	margin-bottom: 5vh;
 }
 
 .article-list__article-thumb {
 	/* para evitar que as imagens vazem, no caso do espaço disponível ser menor do que sua largura */
+	width: 320px;
 	max-width: 100%;
 	height: auto;
 

@@ -266,9 +266,10 @@ footer > p {
   width: 25%;
 }
 
-.column3{
+.column{
   height: auto;
   min-width: 10vw;
+  gap: 5px;
 }
 
 .row:after {

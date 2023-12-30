@@ -21,6 +21,7 @@ header {
   margin-top: 0;
   margin-bottom: 1vh;
   position: relative;
+  white-space: nowrap;
   z-index: 2;
 }
 
@@ -104,8 +105,6 @@ h1 {
   display: flex;
   margin: 0 auto;
   padding: 0 auto;
-  word-break: keep-all;
-  white-space: nowrap;
   z-index: 4;
 }
 
@@ -408,7 +407,7 @@ footer > p {
   align-content: left;
 }
 
-.article-list__article-header {
+.article-list__article-section {
 	/* definir o tamanho inicial, antes do ajuste. O navegador distribui tudo como se o elemento tivesse 20em e depois encolhe ou estica para ajustar. Se o espaço disponível for menor do que a largura da imagem, 300px, mais 20em, o elemento cai e estica. */
 	flex-basis: 20em;
 	/* avisar o fator de ajuste positivo para o navegador. O valor padrão é 0, ou seja, não estica */
@@ -417,6 +416,8 @@ footer > p {
 	flex-shrink: 1;
   justify-content: left;
   align-content: left;
+  white-space: normal;
+  
 }
 
 /*permitem que ocupe todo o viewport width em layout com limite de largura*/

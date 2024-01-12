@@ -101,7 +101,7 @@ p::firt-letter {
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 3.9rem;
   font-family: "Courier Prime", "Courier New", "Police Monospace", serif;
   max-widht: 100%;
   margin: 0 auto;
@@ -207,7 +207,7 @@ nav {
   font-family: Helvetica;
   position: relative;
   display: inline-block;
-  font-size: 1.0em;
+  font-size: 1.4rem;
   max-width: 100%;
   margin: 0 auto;
   padding: 0 auto;

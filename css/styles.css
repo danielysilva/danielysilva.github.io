@@ -171,8 +171,8 @@ a {
 }
 
 a:focus, a:hover {
-color: gray;
-background-color: black;
+color: black;
+background-color: #ddd;
 text-decoration: blink;
 cursor: pointer;
 }

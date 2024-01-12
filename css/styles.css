@@ -101,9 +101,8 @@ p::firt-letter {
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 3.5em;
   font-family: "Courier Prime", "Courier New", "Police Monospace", serif;
-  display: flex;
   max-widht: 100%;
   margin: 0 auto;
   padding: 0 auto;
@@ -111,7 +110,7 @@ h1 {
 }
 
 h2 {
-  font-size: 2.9rem;
+  font-size: 2.6rem;
   font-family: "EB Garamond", Garamond, Georgia, Times, serif;
     /*font-family: "Courier Prime", "Courier New", "Police Monospace", serif; */
   margin-bottom: 2.5vh;
@@ -137,6 +136,18 @@ h6 {
   font-size: 1.8rem;
   font-family: Georgia;
   margin-top: 0;
+}
+
+figure {
+}
+
+figcaption {
+  text-align: center;
+  font-size: 1.4em;
+  color: DimGray;
+}
+
+picture {
 }
 
 img {

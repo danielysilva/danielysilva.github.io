@@ -92,10 +92,17 @@ p::firt-letter {
 }
 
 .wrapper {
-  display: inline-block;
-  padding: 0;
+  padding: 0 auto;
   margin: 0 auto;
   z-index: 3;
+  display: flex;
+	/* avisar o navegador que os elementos podem cair de linha se não houver espaço */
+	flex-wrap: wrap;
+	/* propriedade quase-nova para espaçar os elementos dentro do flex. */
+	gap: ;
+	/* como os elementos são alinhados no sentido do flex. Por padrão, o sentido é horizontal, ou `row` */
+	justify-content: center;
+  	align-content: right;
 }
 
 h1 {
@@ -227,9 +234,7 @@ li {
 
 .band ul li {
   display: inline-block;
-  /*margin-right: 1rem;
-  margin-left: 1rem;*/
-  padding-top: 1vh;
+  padding-top: 3vh;
 }
 
 body.home .sidebar {
@@ -410,7 +415,6 @@ footer > p {
 	width: 320px;
 	max-width: 100%;
 	height: auto;
-
 	/* para evitar que as imagens percam a proporção e se estiquem verticalmente */
 	align-self: flex-start;
 	/* O padrão de flex-shrink já é 1. Então, essa propriedade está aqui só para documentá-la */

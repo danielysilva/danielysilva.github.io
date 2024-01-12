@@ -17,7 +17,7 @@ html {
 header {
   float: left;
   display: inline-block;
-  max-width: 100vw;
+  max-width: 100%;
   margin: 0 auto 1vh auto;
   position: relative;
   white-space: nowrap;
@@ -101,9 +101,8 @@ p::firt-letter {
 }
 
 h1 {
-  font-size: 3.7rem;
+  font-size: 3.9rem;
   font-family: "Courier Prime", "Courier New", "Police Monospace", serif;
-  max-widht: 100%;
   margin: 0 auto;
   padding: 0 auto;
   z-index: 4;
@@ -206,9 +205,8 @@ section {
 nav {
   font-family: Helvetica;
   position: relative;
-  display: inline-block;
-  font-size: 1.4rem;
-  max-width: 100%;
+  display: inline;
+  font-size: 1.0rem;
   margin: 0 auto;
   padding: 0 auto;
 }
@@ -457,7 +455,7 @@ footer > p {
     width: 70vw;
   }
   .h1 {
-    font-size: 20px;
+    font-size: 12px;
   }
 }
 
@@ -466,15 +464,22 @@ footer > p {
 @media screen and (min-width: 768px) and (max-width: 1024px) {
   .wrapper {
     margin: 1em 2em;
+    .h1 {
+      font-size: 8rem;
+    }
   }
 }
 
+/* desktop */
 @media screen and (min-width: 1024px) {
   .wrapper {
     margin: 1em 2em;
   }
   .body {
     width: 30vw;
+    .h1 {
+      font-size: 9rem;
+    }
   }
 }
 

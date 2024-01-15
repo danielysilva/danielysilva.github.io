@@ -460,6 +460,23 @@ footer > p {
   }
 }
 
+@media screen and (min-width: 480px) {
+  .rtl .post-list .post-item .meta {
+    text-align: left;
+  }
+}
+@media screen and (max-width: 480px) {
+  .rtl #header #title {
+    margin-left: 5rem;
+    margin-right: 0;
+  }
+  .rtl #header #nav ul li {
+    left: 1rem;
+    right: auto;
+    border: 0;
+  }
+}
+
 
 /* tablets */
 @media screen and (min-width: 768px) and (max-width: 1024px) {

@@ -12,6 +12,7 @@ html {
   margin: 0 auto;
   padding: 0 auto;
   font-size: 62.5%;
+  overflow: hidden;
 }
 
 header {
@@ -28,7 +29,7 @@ header {
 
 body {
   width: 800px;
-  max-width: 95%;
+  max-width: 100%;
   min-height: 100vh;
   background-color: ghostwhite;
   position: relative;
@@ -40,6 +41,7 @@ body {
   overflow-y: auto;
   font-family: Garamond, Georgia; Serif;
   line-height: 1.5;
+  overflow: hidden;
 
 }
 

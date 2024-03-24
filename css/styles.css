@@ -436,6 +436,43 @@ footer > p {
   
 }
 
+
+/* modelo a ser usado para o blog /*
+
+
+.article-list__article-thumb2 {
+	/* para evitar que as imagens vazem, no caso do espaço disponível ser menor do que sua largura */
+	width: 320px;
+	max-width: 100%;
+	height: auto;
+	/* para evitar que as imagens percam a proporção e se estiquem verticalmente */
+	align-self: flex-start;
+	/* O padrão de flex-shrink já é 1. Então, essa propriedade está aqui só para documentá-la */
+	flex-shrink: 1;
+  float: left;
+  justify-content: left;
+  align-content: left;
+}
+
+.article-list__article-section2 {
+	/* definir o tamanho inicial, antes do ajuste. O navegador distribui tudo como se o elemento tivesse 20em e depois encolhe ou estica para ajustar. Se o espaço disponível for menor do que a largura da imagem, 300px, mais 20em, o elemento cai e estica. */
+	flex-basis: 20em;
+	/* avisar o fator de ajuste positivo para o navegador. O valor padrão é 0, ou seja, não estica */
+	flex-grow: 1;
+	/* O padrão de flex-shrink já é 1. Então, essa propriedade está aqui só para documentá-la */
+	flex-shrink: 1;
+  justify-content: left;
+  align-content: left;
+  white-space: normal;
+  
+}
+
+
+
+
+
+/* modelo a ser usado para o blog /*
+
 /*permitem que ocupe todo o viewport width em layout com limite de largura*/
 .u-containProse {
   max-width: 40em;

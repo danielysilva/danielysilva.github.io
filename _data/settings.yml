@@ -1,0 +1,60 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Acervo', url: 'acervo'}
+- {name: 'Blog',     url: 'blog'}
+- {name: 'Bio',    url: 'bio'}
+- {name: 'Contatos',  url: 'contatos'}
+
+#-------------------------------
+# Projects Section
+
+projects:
+- {name: 'Autorretratos',   url: 'proj-1'}
+- {name: 'Guaicurus',   url: 'proj-2'}
+- {name: 'Logunedé', url: 'proj-3'}
+- {name: 'Sibipiruna',  url: 'proj-4'}
+- {name: 'Silêncio dos Rios que Gritam',  url: 'proj-5'}
+- {name: 'Tipografias Temporais',  url: 'proj-6'}
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'twitter',   link: 'https://twitter.com/danylamirinda'}
+- {icon: 'instagram', link: 'https://instagram.com/danielydasilva_'}
+- {icon: 'github',    link: 'https://github.com/danielysilva'}
+- {icon: 'linkedin',  link: 'https://linkedin.com/in/danielytavaresdasilva'}
+- {icon: 'mastodon',  link: 'ursal.zone/@danylamirinda'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'O espaço virtual de Daniely Silva. Contém acervo de crônicas visuais e produção textual.'
+  rel-author: 'https://plus.google.com/u/0/#'
+  rel-publisher: 'https://plus.google.com/u/0/#'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-analytics-ua: 'UA-112060364-3'
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: ''

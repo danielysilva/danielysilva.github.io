@@ -21,8 +21,8 @@
 title: Daniely Silva
 email: silva.daniely@outlook.com
 description: O espaço virtual de Daniely Silva. Contém acervo de crônicas visuais e produção textual. # this means to ignore newlines until "baseurl:"
-baseurl: "danielysilva.github.io" # the subpath of your site, e.g. /blog
-url: "http://danielysilva.com.br/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://danielysilva.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: danylamirinda
 github_username:  danielysilva
 instagram_username: danielydasilva_

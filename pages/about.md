@@ -6,7 +6,7 @@ author: "Daniely Silva"
 ---
 # Bio
 
-![Autorretrato, clones em dupla exposição](../assets/img/projects/proj-1/daniely-silva01.jpg "Duas de mim"){: width="100%"}
+![Autorretrato, clones em dupla exposição](../assets/img/projects/autorretratos/daniely-silva01.jpg "Duas de mim"){: width="100%"}
 
 Poeta, cronista, fotógrafa urbana e ambiental, educadora e geógrafa. Encontrei na luz que invade nossas retinas a tinta para escrever minha poesia fotográfica, externando ao mundo meu olhar para as paisagens, enquanto denuncio a caótica interface formada pelo espaço humanizado, quando as fronteiras urbanas e agrícolas se expandem degradando a paisagem ancestral.
 

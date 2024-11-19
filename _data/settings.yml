@@ -11,12 +11,12 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Autorretratos',   url: 'proj-1'}
-- {name: 'Guaicurus',   url: 'proj-2'}
-- {name: 'Logunedé', url: 'proj-3'}
-- {name: 'Sibipiruna',  url: 'proj-4'}
-- {name: 'Silêncio dos Rios que Gritam',  url: 'proj-5'}
-- {name: 'Tipografias Temporais',  url: 'proj-6'}
+- {name: 'Autorretratos',   url: 'autorretratos'}
+- {name: 'Guaicurus',   url: 'guaicurus'}
+- {name: 'Logunedé', url: 'logunede'}
+- {name: 'Sibipiruna',  url: 'sibipiruna'}
+- {name: 'Silêncio dos Rios que Gritam',  url: 'silencio-dos-rios-que-gritam'}
+- {name: 'Tipografias Temporais',  url: 'tipografias-temporais'}
 
 #-------------------------------
 # Contact Section

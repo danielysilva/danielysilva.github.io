@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Rascunho"
+title:  "Pelas curvas do Cone Sul"
 author: "Daniely Silva"
 ---
 

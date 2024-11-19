@@ -17,12 +17,12 @@ A população, que antes dependia dos rios para recreação e trabalho, viu-se i
 
 Ainda que degradados, os corpos hídricos impõem sua presença na paisagem. Se emparedados, inundam, se enterrados, alagam e, se confrontados, resistem. Mais que repositórios de biodiversidade e garantia de abastecimento, os rios são também fontes de cultura, pertencimento e territorialidades. Uma cidade que dá as costas aos seus rios está dando as costas à sua própria história.
 
-![Tamanduateí](../assets/img/projects/proj-5/grito01.jpg "Tamanduateí"){: width="100%"}
-![Tietê e Ponte Orestes Quércie](../assets/img/projects/proj-5/grito02.jpg "Tietê e Ponte Orestes Quércie"){: width="100%"}
-![Cebolão](../assets/img/projects/proj-5/grito03.jpg "Cebolão"){: width="100%"}
-![Rio Guarapiranga](../assets/img/projects/proj-5/grito04.jpg "Rio Guarapiranga"){: width="100%"}
-![Santo Amaro](../assets/img/projects/proj-5/grito05.jpg "Santo Amaro"){: width="100%"}
-![Rio Tietê em Santana de Parnaíba](../assets/img/projects/proj-5/grito06.jpg "Rio Tietê em Santana de Parnaíba"){: width="100%"}
-![Braço Bororé da Billings](../assets/img/projects/proj-5/grito07.jpg "Braço Bororé da Billings"){: width="100%"}
-![Guarapiranga](../assets/img/projects/proj-5/grito08.jpg "Guarapiranga"){: width="100%"}
-![Taiaçupeba](../assets/img/projects/proj-5/grito09.jpg "Taiaçupeba"){: width="100%"}
+![Tamanduateí](../assets/img/projects/silencio-dos-rios-que-gritam/grito01.jpg "Tamanduateí"){: width="100%"}
+![Tietê e Ponte Orestes Quércie](../assets/img/projects/silencio-dos-rios-que-gritam/grito02.jpg "Tietê e Ponte Orestes Quércie"){: width="100%"}
+![Cebolão](../assets/img/projects/silencio-dos-rios-que-gritam/grito03.jpg "Cebolão"){: width="100%"}
+![Rio Guarapiranga](../assets/img/projects/silencio-dos-rios-que-gritam/grito04.jpg "Rio Guarapiranga"){: width="100%"}
+![Santo Amaro](../assets/img/projects/silencio-dos-rios-que-gritam/grito05.jpg "Santo Amaro"){: width="100%"}
+![Rio Tietê em Santana de Parnaíba](../assets/img/projects/silencio-dos-rios-que-gritam/grito06.jpg "Rio Tietê em Santana de Parnaíba"){: width="100%"}
+![Braço Bororé da Billings](../assets/img/projects/silencio-dos-rios-que-gritam/grito07.jpg "Braço Bororé da Billings"){: width="100%"}
+![Guarapiranga](../assets/img/projects/silencio-dos-rios-que-gritam/grito08.jpg "Guarapiranga"){: width="100%"}
+![Taiaçupeba](../assets/img/projects/silencio-dos-rios-que-gritam/grito09.jpg "Taiaçupeba"){: width="100%"}

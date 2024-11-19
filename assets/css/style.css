@@ -1,59 +1,33 @@
-/* Garantir que o body e o html ocupem a tela inteira */
-html, body {
-  width: 100%;
+*,
+*::after,
+*::before {
   margin: 0;
   padding: 0;
+  box-sizing: inherit; 
 }
 
-/* Caso a galeria esteja dentro de um container com max-width, altere para 100% */
+html {
+  box-sizing: border-box;
+}
+
 .container {
-  width: 100%; /* Faz o container ocupar 100% da tela */
-  margin: 0;
-  padding: 0;
-}
-
-/* Se houver uma classe como .main, altere suas propriedades */
-.main {
-  width: 100%; /* Forçar largura total */
-  max-width: none; /* Remover o limite de largura */
-  padding: 0;
-}
-
-
-/* Se estiver usando uma classe específica para a coluna central, sobrescreva também */
-.main-content {
   width: 100%;
-  max-width: 100%;
+  margin: 1vw; 
+  padding: 0 auto;
 }
 
-/* Caso o container tenha um max-width definido, remova ele */
-.container--limited {
-  max-width: none; /* Ou defina um valor maior que a largura da tela */
-}
-
-/* Faz a galeria ocupar 100% da tela */
 .gallery {
   display: grid;
-  grid-template-columns: repeat(12, 1fr);  /* Altere para um grid de 12 colunas ou o que você achar mais adequado */
-  grid-gap: 6px;  /* Ajuste para o espaço entre as imagens */
-  width: 200%;  /* Remover a largura fixa */
-  max-width: 100%;  /* Garantir que o grid ocupe toda a largura disponível */
-  margin-left: 0;
-  margin-right: 0;
-  height: auto;  /* Ajuste a altura se necessário */
+  grid-template-columns: repeat(12);
+  grid-template-rows: repeat(8);
+  grid-gap: 1px; 
 }
 
 .gallery__img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  display: block;
-  margin: 0;
-}
-
-.gallery__item {
-  position: relative;
-  overflow: hidden;
+  display: inline-block; 
 }
 
 .gallery__item--1 {

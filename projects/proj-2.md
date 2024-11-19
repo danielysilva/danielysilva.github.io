@@ -4,7 +4,7 @@ title: 'Guaicurus'
 author: 'Daniely Silva'
 ---
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+{% include image.html url="../assets/img projects/proj-2/thumbnail.jpg" image="projects/proj-2/thumbnail.jpg" %}
 
 A Rua Guaicurus percorre o distrito da Lapa, na Zona Oeste da cidade de São Paulo. Na sua extremidade oeste, dá acesso à Estação Lapa da Linha 8-Diamante de CPTM, herdeira da antiga Estrada de Ferro Sorocabana, onde se conecta ao Terminal Lapa; na extremidade leste, por sua vez, há a proximidade com a Estação Água Branca da Linha 7-Rubi da CPTM, que sucede a antiga Estrada de Ferro Santos-Jundiaí, da inglesa São Paulo Railway.
 
@@ -16,24 +16,23 @@ Uma cidade é feita de camadas. Como esses antigos espaços, que já passaram po
 
 O tempo nos dará respostas, mas só se fizermos as perguntas corretas.
 
-**Soneto da Demolição**
-
-Dói o peito cada demolição
-Mas é toda mudança
-O lado de uma balança
+**Soneto da Demolição**\\
+Dói o peito cada demolição\\
+Mas é toda mudança\\
+O lado de uma balança\\
 Que pesa contra a estagnação
 
-São impostos novos usos
-O ancestral permanece
-O que é velho perece
+São impostos novos usos\\
+O ancestral permanece\\
+O que é velho perece\\
 Depois de tantos abusos
 
-Entre as paredes mofadas
-Germinam novas histórias
+Entre as paredes mofadas\\
+Germinam novas histórias\\
 Recuperam-se memórias
 
-Das trajetórias passadas
-Construímos nosso futuro
+Das trajetórias passadas\\
+Construímos nosso futuro\\
 Derrubando cada muro
 
 *24 de julho de 2022*

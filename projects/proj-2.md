@@ -37,3 +37,23 @@ Construímos nosso futuro\\
 Derrubando cada muro
 
 *24 de julho de 2022*
+
+![Guaicurus](../assets/img/projects/proj-2/guaicurus06.jpg "Guaicurus"){: width="100%"}
+![União Fraterna da Lapa](../assets/img/projects/proj-2/guaicurus07.jpg "União Fraterna da Lapa."){: width="100%"}
+![Esquina de ruela envelhecida da Lapa](../assets/img/projects/proj-2/guaicurus08.jpg "Esquina de ruela envelhecida da Lapa."){: width="100%"}
+![Esquina de ruela envelhecida da Lapa](../assets/img/projects/proj-2/guaicurus09.jpg "Esquina de ruela envelhecida da Lapa."){: width="100%"}
+![Antigas instalações fabris](../assets/img/projects/proj-2/guaicurus10.jpg "Antigas instalações fabris."){: width="100%"}
+![Antigas instalações fabris](../assets/img/projects/proj-2/guaicurus11.jpg "Antigas instalações fabris."){: width="100%"}
+![Canteiro de obras da Linha 6-Laranja do Metrô em antigas instalações fabris](../assets/img/projects/proj-2/guaicurus12.jpg "Canteiro de obras da Linha 6-Laranja do Metrô em antigas instalações fabris."){: width="100%"}
+![Antigas instalações fabris](../assets/img/projects/proj-2/guaicurus13.jpg "Antigas instalações fabris."){: width="100%"}
+![Antigo galpão da festa The Week](../assets/img/projects/proj-2/guaicurus14.jpg "Antigo galpão da festa The Week."){: width="100%"}
+![Antigo galpão da festa The Week](../assets/img/projects/proj-2/guaicurus15.jpg "Antigo galpão da festa The Week."){: width="100%"}
+![Alvará de demolição do antigo galpão da festa The Week](../assets/img/projects/proj-2/guaicurus16.jpg "Alvará de demolição do antigo galpão da festa The Week."){: width="100%"}
+![Edifício residencial subutilizado](../assets/img/projects/proj-2/guaicurus18.jpg "Edifício residencial subutilizado."){: width="100%"}
+![Edifício residencial subutilizado](../assets/img/projects/proj-2/guaicurus17.jpg "Edifício residencial subutilizado."){: width="100%"}
+![Antigas instalações reutilizadas pelo Poupatempo](../assets/img/projects/proj-2/guaicurus19.jpg "Antigas instalações reutilizadas pelo Poupatempo."){: width="100%"}
+![Subprefeitura da Lapa e Poupatempo](../assets/img/projects/proj-2/guaicurus20.jpg "Subprefeitura da Lapa e Poupatempo."){: width="100%"}
+![Uma das fachadas da Subprefeitura da Lapa](../assets/img/projects/proj-2/guaicurus21.jpg "Uma das fachadas da Subprefeitura da Lapa."){: width="100%"}
+![Tendal da Lapa](../assets/img/projects/proj-2/guaicurus22.jpg "Tendal da Lapa."){: width="100%"}
+![Antiga Estação Ciência](../assets/img/projects/proj-2/guaicurus23.jpg "Antiga Estação Ciência."){: width="100%"}
+![Portão da antiga Estação Ciência](../assets/img/projects/proj-2/guaicurus24.jpg "Portão da antiga Estação Ciência."){: width="100%"}

@@ -2,6 +2,7 @@
 layout: post
 title: 'Autorretratos'
 author: 'Daniely Silva'
+
 ---
 
 {% include image.html url="../assets/img projects/proj-1/reflexos.jpg" image="projects/proj-1/reflexos.jpg" %}

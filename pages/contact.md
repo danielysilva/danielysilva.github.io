@@ -18,4 +18,4 @@ Mastodon: [@danylamirinda@ursal.zone](https://ursal.zone/@danylamirinda)
 Instagram:
 [@danielydasilva_](https://www.instagram.com/danielydasilva_/) [@umolharpaisagistico](https://www.instagram.com/umolharpaisagistico/)
 
-![Retrato de estúdio: moça segura os óculos na ponta do nariz](../assets/img/daniely-silva.png "Retrato"){: width="50%" align="center"}
+![Retrato de estúdio: moça segura os óculos na ponta do nariz](../assets/img/daniely-silva.png "Retrato"){:style="display: block; margin: 0 auto" width="65%"}

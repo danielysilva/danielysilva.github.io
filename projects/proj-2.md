@@ -2,6 +2,7 @@
 layout: post
 title: 'Guaicurus'
 author: 'Daniely Silva'
+
 ---
 
 {% include image.html url="../assets/img projects/proj-2/thumbnail.jpg" image="projects/proj-2/thumbnail.jpg" %}

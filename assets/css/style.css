@@ -1,26 +1,11 @@
-*,
-*::after,
-*::before {
-  margin: 0;
-  padding: 0;
-  box-sizing: inherit; 
-}
-
-html {
-  background-color: transparent;
-  z-index: 1;
-  margin: 0 auto;
-  padding: 0;
-  font-size: 62.5%;
-}
-
 .container {
   width: 100%;
-  margin: 2rem auto;
+  margin: 0 auto;
 }
 
 .figure {
- 
+  margin: 0 auto;
+  padding: 0 auto;
 }
 
 .gallery {
@@ -29,7 +14,8 @@ html {
   grid-template-columns: repeat(12, 1fr);
   grid-template-rows: repeat(8, 3vw);
   width: 100%;
-  height: auto;
+  margin: 0 auto;
+  padding: 0 auto;
 }
 
 .gallery__img {
@@ -73,9 +59,9 @@ html {
 .gallery__item--5 {
   grid-column-start: 9;
   grid-column-end: 13;
-  grid-row-start: 3; 
+  grid-row-start: 3;
   grid-row-end: 6;
-}	
+}
 
 .gallery__item--6 {
   grid-column-start: 9;

@@ -23,7 +23,7 @@ Como a comunicação humana é proporcionalmente limitada pela capacidade de inc
 
   — A senhora tem certeza que apertou o número do seu candidato?
 
-  — Claro, minha filha!, respondeu com aburguesada arrogância. O homem lá fora griou que Bolsonaro é 13!
+  — Claro, minha filha!, respondeu com aburguesada arrogância. O homem lá fora gritou que Bolsonaro é 13!
 
   A expressão da mesária, ao ouvir isso, podia ter saído direto de uma esquete de Monty Python ou do Chespirito: a incredulidade estava escrita em seu olhar.
 

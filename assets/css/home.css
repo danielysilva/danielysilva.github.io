@@ -126,6 +126,8 @@
   .gallery {
     grid-template-columns: repeat(2, 1fr); /* 2 colunas */
     grid-template-rows: repeat(2, 1fr); /* Ajuste automático das linhas */
+    margin: 0 auto;
+    padding-top: 2vh;
   }
 
   .gallery__item--1 {

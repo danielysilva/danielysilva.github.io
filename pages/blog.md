@@ -1,7 +1,5 @@
 ---
 layout: blog
 title: Blog
-permalink: /blog
+permalink: /blog/
 ---
-
-# Blogue

@@ -9,13 +9,13 @@ author: "Daniely Silva"
 
 Numa dessas anedotas que põem em dúvida a sabedoria humana, às portas de uma Zona Eleitoral, gritos enfurecidos rompiam a monotonia:
 
-	— Bolsonaro é Treze!
+— Bolsonaro é Treze!
 
-	Como a comunicação humana é proporcionalmente limitada pela capacidade de incompreensão, pra não dizer ignorância, não muito tempo depois alguém já alegava defeito na urna eletrônica. Era uma fascista tropical de meia-idade se dirigia à mesária aos gritos fulminantes dos cabelos oxigenados que refulgiam ao Sol de outubro.
+Como a comunicação humana é proporcionalmente limitada pela capacidade de incompreensão, pra não dizer ignorância, não muito tempo depois alguém já alegava defeito na urna eletrônica. Era uma fascista tropical de meia-idade se dirigia à mesária aos gritos fulminantes dos cabelos oxigenados que refulgiam ao Sol de outubro.
 
-  — Qual é o defeito na sua urna, senhora?, a mesária se espantava com o escândalo.
+— Qual é o defeito na sua urna, senhora?, a mesária se espantava com o escândalo.
 
-	— Não aparece o Bolsonaro!
+— Não aparece o Bolsonaro!
 
   O policial militar à porta já encarava a mesária, que corria o risco de ser logo algemada por crime eleitoral se não medisse bem as palavras.
 

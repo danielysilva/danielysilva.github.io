@@ -4,7 +4,7 @@ title: 'Sibipiruna'
 author: 'Daniely Silva'
 ---
 
-![Mosaico de ramo de sibipiruna ao longo das estações](../assets/img/projects/sibipiruna/sibipiruna00.jpg "Um ano de Sibipiruna")
+![Mosaico de ramo de sibipiruna ao longo das estações](/assets/img/projects/sibipiruna/sibipiruna00.jpg "Um ano de Sibipiruna")
 
 
 A sibipiruna é árvore nativa da Mata Atlântica, a qual tem forte parentesco com o icônico pau-brasil. A partir de agosto, suas fartas flores amarelas ajudam o compor o mosaico de cores nas metrópoles dos Mares de Morros Florestados brasileiros. Especialmente em São Paulo, é amplamente utilizada no ajardinamento urbano. Foi assim que começou a crônica visual aqui exibida.
@@ -25,16 +25,16 @@ Ao menos, em seu lugar, foi plantado um ypê-amarelo que já revelou suas cores 
 
 AB'SABER, Aziz. **Os Domínios da Natureza no Brasil**: Potencialidades Paisagísticas. 8ed. São Paulo: Ateliê Editorial, 2021.
 
-![Sibipiruna em 22 de setembro de 2020, Equinócio de Primavera](../assets/img/projects/sibipiruna/sibipiruna01.jpg "Sibipiruna em 22 de setembro de 2020, Equinócio de Primavera"){: width="100%"}
-![Sibipiruna em 24 de outubro de 2020](../assets/img/projects/sibipiruna/sibipiruna02.jpg "Sibipiruna em 24 de outubro de 2020"){: width="100%"}
-![Sibipiruna em 22 de novembro de 2020](../assets/img/projects/sibipiruna/sibipiruna03.jpg "Sibipiruna em 22 de novembro de 2020"){: width="100%"}
-![Sibipiruna em 21 de dezembro de 2020, Solstício de Verão](../assets/img/projects/sibipiruna/sibipiruna04.jpg "Sibipiruna em 21 de dezembro de 2020, Solstício de Verão"){: width="100%"}
-![Sibipiruna em 21 de janeiro de 2021](../assets/img/projects/sibipiruna/sibipiruna05.jpg "Sibipiruna em 21 de janeiro de 2021"){: width="100%"}
-![Sibipiruna em 21 de fevereiro de 2021](../assets/img/projects/sibipiruna/sibipiruna06.jpg "Sibipiruna em 21 de fevereiro de 2021"){: width="100%"}
-![Sibipiruna em 20 de março de 2021, Equinócio de Outono](../assets/img/projects/sibipiruna/sibipiruna07.jpg "Sibipiruna em 20 de março de 2021, Equinócio de Outono"){: width="100%"}
-![Sibipiruna em 24 de abril de 2021](../assets/img/projects/sibipiruna/sibipiruna08.jpg "Sibipiruna em 24 de abril de 2021"){: width="100%"}
-![Sibipiruna em 21 de maio de 2021](../assets/img/projects/sibipiruna/sibipiruna09.jpg "Sibipiruna em 21 de maio de 2021"){: width="100%"}
-![Sibipiruna em 18 de agosto de 2021](../assets/img/projects/sibipiruna/sibipiruna10.jpg "Sibipiruna em 18 de agosto de 2021"){: width="100%"}
-![Sibipiruna em 22 de setembro de 2021, Equinócio de Primavera](../assets/img/projects/sibipiruna/sibipiruna11.jpg "Sibipiruna em 22 de setembro de 2021, Equinócio de Primavera"){: width="100%"}
-![Sibipiruna em 17 de novembro de 2021](../assets/img/projects/sibipiruna/sibipiruna12.jpg "Sibipiruna em 17 de novembro de 2021"){: width="100%"}
-![Sibipiruna em 21 de dezembro de 2021, Solstício de Verão](../assets/img/projects/sibipiruna/sibipiruna13.jpg "Sibipiruna em 21 de dezembro de 2021, Solstício de Verão"){: width="100%"}
+![Sibipiruna em 22 de setembro de 2020, Equinócio de Primavera](/assets/img/projects/sibipiruna/sibipiruna01.jpg "Sibipiruna em 22 de setembro de 2020, Equinócio de Primavera"){: width="100%"}
+![Sibipiruna em 24 de outubro de 2020](/assets/img/projects/sibipiruna/sibipiruna02.jpg "Sibipiruna em 24 de outubro de 2020"){: width="100%"}
+![Sibipiruna em 22 de novembro de 2020](/assets/img/projects/sibipiruna/sibipiruna03.jpg "Sibipiruna em 22 de novembro de 2020"){: width="100%"}
+![Sibipiruna em 21 de dezembro de 2020, Solstício de Verão](/assets/img/projects/sibipiruna/sibipiruna04.jpg "Sibipiruna em 21 de dezembro de 2020, Solstício de Verão"){: width="100%"}
+![Sibipiruna em 21 de janeiro de 2021](/assets/img/projects/sibipiruna/sibipiruna05.jpg "Sibipiruna em 21 de janeiro de 2021"){: width="100%"}
+![Sibipiruna em 21 de fevereiro de 2021](/assets/img/projects/sibipiruna/sibipiruna06.jpg "Sibipiruna em 21 de fevereiro de 2021"){: width="100%"}
+![Sibipiruna em 20 de março de 2021, Equinócio de Outono](/assets/img/projects/sibipiruna/sibipiruna07.jpg "Sibipiruna em 20 de março de 2021, Equinócio de Outono"){: width="100%"}
+![Sibipiruna em 24 de abril de 2021](/assets/img/projects/sibipiruna/sibipiruna08.jpg "Sibipiruna em 24 de abril de 2021"){: width="100%"}
+![Sibipiruna em 21 de maio de 2021](/assets/img/projects/sibipiruna/sibipiruna09.jpg "Sibipiruna em 21 de maio de 2021"){: width="100%"}
+![Sibipiruna em 18 de agosto de 2021](/assets/img/projects/sibipiruna/sibipiruna10.jpg "Sibipiruna em 18 de agosto de 2021"){: width="100%"}
+![Sibipiruna em 22 de setembro de 2021, Equinócio de Primavera](/assets/img/projects/sibipiruna/sibipiruna11.jpg "Sibipiruna em 22 de setembro de 2021, Equinócio de Primavera"){: width="100%"}
+![Sibipiruna em 17 de novembro de 2021](/assets/img/projects/sibipiruna/sibipiruna12.jpg "Sibipiruna em 17 de novembro de 2021"){: width="100%"}
+![Sibipiruna em 21 de dezembro de 2021, Solstício de Verão](/assets/img/projects/sibipiruna/sibipiruna13.jpg "Sibipiruna em 21 de dezembro de 2021, Solstício de Verão"){: width="100%"}

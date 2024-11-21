@@ -11,8 +11,8 @@ author: "Daniely Silva"
       </a>
     </figure>
     <figure class="gallery__item gallery__item--2">
-      <a href="/project/pelas-curvas-do-cone-sul/">
-        <img src="assets/img/sul28.jpg" class="gallery__img" title="Serenidade em Colônia." alt="Pessoa solitária entre rochas marítimas contempla veleiro entre ilhas.">
+      <a href="/blog/viagem/pelas-curvas-do-cone-sul/">
+        <img src="assets/img/cone-sul/sul28.jpg" class="gallery__img" title="Serenidade em Colônia." alt="Pessoa solitária entre rochas marítimas contempla veleiro entre ilhas.">
       </a>
     </figure>
     <figure class="gallery__item gallery__item--3">

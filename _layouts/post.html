@@ -6,6 +6,10 @@ author: "Daniely Silva"
 <section>
   <div class="post-container">
     <h4 class="project-title">{{ page.title }}</h4>
+
+<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+
+
     <div class="project-load">{{ content }}</div>
   </div>
   {% if site.data.settings.disqus.comments %}

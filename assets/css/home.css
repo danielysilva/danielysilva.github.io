@@ -1,0 +1,137 @@
+/* Reset geral */
+*, *::after, *::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Estilos globais */
+.home html {
+  background-color: transparent;
+  z-index: 1;
+  margin: 0 auto;
+  padding: 0 auto;
+  font-size: 62.5%; /* 1rem = 10px */
+  overflow-x: hidden;
+}
+
+/* Layout da página */
+.home body {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #fff;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  display: grid;
+  place-items: center;  /* Centraliza o conteúdo */
+  margin: 0 auto;
+  padding: 0;
+  overflow-x: hidden;
+  font-family: Garamond, Georgia, Serif;
+  line-height: 1.5;
+  padding: 1vh;
+  border-top: 0;
+  box-sizing: border-box;
+}
+
+/* Main (conteúdo principal da página) */
+.home main {
+  clear: both;
+  position: relative;
+  align-items: center;
+  margin-left: 0;
+  padding: 1vh;
+  min-width: 35vw;
+  max-width: 80vw;
+}
+
+.home container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.home figure {
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+.gallery {
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: repeat(8, 3vw);
+  width: 100%;
+  height: auto;
+}
+
+.gallery__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 8px;
+}
+
+.gallery__item--1 {
+  grid-column-start: 1;
+  grid-column-end: 5;
+  grid-row-start: 1;
+  grid-row-end: 5;
+}
+
+.gallery__item--2 {
+  grid-column-start: 9;
+  grid-column-end: 13;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+
+.gallery__item--3 {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 5;
+  grid-row-end: 9;
+}
+
+.gallery__item--4 {
+  grid-column-start: 3;
+  grid-column-end: 5;
+  grid-row-start: 5;
+  grid-row-end: 9;
+}
+
+.gallery__item--5 {
+  grid-column-start: 9;
+  grid-column-end: 13;
+  grid-row-start: 3;
+  grid-row-end: 6;
+}
+
+.gallery__item--6 {
+  grid-column-start: 9;
+  grid-column-end: 13;
+  grid-row-start: 6;
+  grid-row-end: 9;
+}
+
+.gallery__item--7 {
+  grid-column-start: 5;
+  grid-column-end: 9;
+  grid-row-start: 1;
+  grid-row-end: 9;
+}
+
+
+
+/*permitem que ocupe todo o viewport width em layout com limite de largura*/
+.u-containProse {
+  max-width: 40em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.u-release {
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+}

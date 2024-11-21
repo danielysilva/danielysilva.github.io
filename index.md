@@ -31,7 +31,7 @@ author: "Daniely Silva"
         <img src="assets/img/rios/ponte-remedios.jpg" class="gallery__img" title="Ponte dos Remédios" alt="Encontro entre os rios Pinheiros e Tietê">
       </a>
     </figure>
-<div>    <figure class="gallery__item gallery__item--6">
+<div hidden>    <figure class="gallery__item gallery__item--6">
       <a href="/acervo/silencio-dos-rios-que-gritam/">
         <img src="assets/img/rios/rios07.jpg" class="gallery__img" title="Rio Tietê em Santana de Parnaíba" alt="Curvas do Rio Tietê cercadas por matas ciliares em Santana de Parnaíba">
       </a>

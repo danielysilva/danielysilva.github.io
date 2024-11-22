@@ -11,7 +11,7 @@ author: "Daniely Silva"
     {% for post in site.posts %}
       <div class="blog-unit">
         <h1><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></h1>
-        <span class="blog-date">
+                <span class="blog-date">
           {% assign m = post.date | date: "%-m" %}
     {{ post.date | date: "%-d de" }}
     {% case m %}
@@ -36,7 +36,7 @@ author: "Daniely Silva"
        {% assign categories = page.categories %}
      {% endif %}
      {% for category in categories %}
-     <a href="{{site.baseurl}}/categories/#{category|slugize}}">{{category}}</a>
+     <a href="categorias">{{category}}</a>
      {% unless forloop.last %}&nbsp;{% endunless %}
      {% endfor %}
     </span>      </span>

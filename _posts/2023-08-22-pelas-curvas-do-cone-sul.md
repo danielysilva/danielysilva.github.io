@@ -2,7 +2,7 @@
 layout: post
 title:  "Pelas curvas do Cone Sul"
 date:   2023-08-22
-categories: viagem
+categories: Viagem
 permalink: /blog/:categories/:title
 author: "Daniely Silva"
 draft: false

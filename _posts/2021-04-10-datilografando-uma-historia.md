@@ -2,7 +2,7 @@
 layout: post
 title:  "Datilografando uma história: a sobrevida das máquinas de escrever"
 date:   2021-04-10
-categories: crônicas
+categories: Crônicas
 permalink: /blog/:categories/:title
 author: "Daniely Silva"
 ---

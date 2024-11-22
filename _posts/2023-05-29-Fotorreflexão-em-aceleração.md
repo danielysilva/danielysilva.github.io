@@ -2,7 +2,7 @@
 layout: post
 title:  "Fotorreflexão em aceleração"
 date:   2023-05-29
-categories: cronicas
+categories: Crônicas
 permalink: /blog/:categories/:title
 author: "Daniely Silva"
 ---

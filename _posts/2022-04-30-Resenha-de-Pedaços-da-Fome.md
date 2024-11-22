@@ -2,7 +2,7 @@
 layout: post
 title:  "Resenha de Pedaços da Fome, Carolina Maria de Jesus"
 date:   2022-04-30
-categories: resenhas
+categories: Resenhas
 permalink: /blog/:categories/:title
 author: "Daniely Silva"
 ---

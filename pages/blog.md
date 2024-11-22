@@ -1,5 +1,6 @@
 ---
 layout: blog
-title: Blog
+title: Blogue
 permalink: /blog/
 ---
+## [Assuntos](categorias)

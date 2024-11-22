@@ -3,11 +3,10 @@ layout: home
 title: Home
 author: "Daniely Silva"
 ---
-<br>
 <div class="container">
   <div class="gallery">
     <figure class="gallery__item gallery__item--1">
-      <a href="/projects/logunede/">
+      <a href="/acervo/logunede/">
         <img src="assets/img/projects/logunede/logunede05.jpg" class="gallery__img" title="Nascimento a Logunedé" alt="Cerimonial religioso do Candomblé.">
       </a>
     </figure>
@@ -17,27 +16,27 @@ author: "Daniely Silva"
       </a>
     </figure>
     <figure class="gallery__item gallery__item--3">
-      <a href="/projects/autorretratos/">
+      <a href="/acervo/autorretratos/">
         <img src="assets/img/projects/autorretratos/daniely-silva08.jpg" class="gallery__img" title="Olhar" alt="Preto e Branco. Personagem encara a câmera com máquina de escrever ao fundo">
       </a>
     </figure>
     <figure class="gallery__item gallery__item--4">
-      <a href="/projects/guaicurus/">
+      <a href="/acervo/guaicurus/">
         <img src="assets/img/projects/guaicurus/guaicurus05.jpg" class="gallery__img" title="Estação Ciência, Rua Guaicurus" alt="Guaicurus">
       </a>
     </figure>
     <figure class="gallery__item gallery__item--5">
-      <a href="/projects/silencio-dos-rios-que-gritam/">
+      <a href="/acervo/silencio-dos-rios-que-gritam/">
         <img src="assets/img/rios/ponte-remedios.jpg" class="gallery__img" title="Ponte dos Remédios" alt="Encontro entre os rios Pinheiros e Tietê">
       </a>
     </figure>
-    <figure class="gallery__item gallery__item--6">
-      <a href="/projects/silencio-dos-rios-que-gritam/">
+<div hidden>    <figure class="gallery__item gallery__item--6">
+      <a href="/acervo/silencio-dos-rios-que-gritam/">
         <img src="assets/img/rios/rios07.jpg" class="gallery__img" title="Rio Tietê em Santana de Parnaíba" alt="Curvas do Rio Tietê cercadas por matas ciliares em Santana de Parnaíba">
       </a>
-    </figure>
+    </figure></div>
     <figure class="gallery__item gallery__item--7">
-      <a href="/projects/silencio-dos-rios-que-gritam/">
+      <a href="/acervo/silencio-dos-rios-que-gritam/">
         <img src="assets/img/rios/rios09.jpg" class="gallery__img" title="Braço Bororé da Billings" alt="Homens pescando na orla do braço Bororé da Represa Billings">
       </a>
     </figure>

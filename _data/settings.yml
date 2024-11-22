@@ -22,11 +22,10 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter',   link: 'https://twitter.com/danylamirinda'}
 - {icon: 'instagram', link: 'https://instagram.com/danielydasilva_'}
 - {icon: 'github',    link: 'https://github.com/danielysilva'}
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/danielytavaresdasilva'}
-- {icon: 'mastodon',  link: 'ursal.zone/@danylamirinda'}
+- {icon: 'mastodon',  link: 'https://ursal.zone/@danylamirinda'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 

@@ -3,4 +3,5 @@ layout: blog
 title: Blogue
 permalink: /blog/
 ---
-## [Assuntos](categorias)
+## [Categorias](categorias)
+<div hidden> [Blogroll]()    [Agora]() </div>

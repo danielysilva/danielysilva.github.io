@@ -8,6 +8,14 @@ author: 'Daniely Silva'
 
 Trabalho realizado em 1º de novembro de 2022, em Nzo Kizola d'Mutalambo. Saída de Muzenza registrada a convite de Rogério, quando de seu nascimento para o orixá Logunedé.
 
+Foi esse o meu primeiro contato um pouco mais íntimo com o candomblé. Certo, minha avó paterna e minha tia tinham suas rodas sincréticas, mas o que eu entendia da fé e do Brasil àquela altura da infância? Muito pouco!
+
+Fiz o trabalho enquanto fotógrafa, convidada pelo meu admirado amigo Rogério, para que tivesse registrado profissionalmente um momento marcante da sua trajetória de fé
+
+Muito gente, inclusive eu, antes de refletir, julgaria se tratar de um trabalho documental. Mas não! Trata-se de fotografia de eventos, contratada como tal. Por um lado, toda prestação de serviços fotográficos carrega um aspecto documental. Registramos porque somos humanos, para reviver *a posteriori* os momentos que mais marcaram. Essa capacidade de transportar-se abstratamente o passado é o que nos faz humanos, com o qual contribuiu imensamente o advento da fotografia moderna no século XIX.
+
+Pôr um evento de matriz afro como documental, simplesmente por sê-lo, é exotificá-lo. Mas ele é, também, um registro documental na mesma medida em que o é a ordenação de um diácono católico, um casamento protestante e o aniversário de 1 ano de uma criança. Documentamos porque queremos lembrar.
+
 ![O salão](/assets/img/projects/logunede/logunede01.jpg "O salão."){: width="100%"}
 ![Onde tudo acontece](/assets/img/projects/logunede/logunede02.jpg "Onde tudo acontece."){: width="100%"}
 ![Os santos](/assets/img/projects/logunede/logunede03.jpg "Os santos."){: width="100%"}

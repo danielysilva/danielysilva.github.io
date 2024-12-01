@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Agora
-permalink: /agora/
+permalink: blog/agora/
 author: "Daniely Silva"
-draft: true
+draft: false
 ---
+
+# O que estou fazendo agora? (em construção)
 
 Essa ideia surgiu de...

@@ -10,3 +10,35 @@
   margin-left: calc(-50vw + 50%);
   margin-right: calc(-50vw + 50%);
 }
+
+nav {
+    float: center;
+    margin: 0px 30px 35px 0px;
+}
+
+nav a {
+    display: inline-block;
+    margin-left: 20px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration: none; /* Remove sublinhado, se necessário */
+}
+
+nav a:hover {
+    color: var(--accent-color); /* Substitua $accent-color por uma variável CSS ou valor fixo */
+}
+
+@media (max-width: 768px) {
+
+    nav {
+        margin: 0px 30px 35px 0px;
+        float: left;
+    }
+
+    nav a {
+        margin-left: 0;
+        margin-right: 20px;
+        font-size: 16px;
+    }
+}

@@ -114,7 +114,6 @@ O dia seguinte raiava, **uma quarta-feira de 1º de maio, o oitavo dia de viagem
 ![Ponte Pênsil ao fundo.](/assets/img/cone-sul/sul13.jpg "Alta Gracia, Córdoba.")
 ![Rua suburbana em ladeira e serras da província ao fundo.](/assets/img/cone-sul/sul19.jpg "Serras de Alta Gracia, Córdoba.")  
 ![Vista para a província entre edifícios e casario térreo. Motocicleta vermelha à esquerda.](/assets/img/cone-sul/sul16.jpg "Alta Gracia, Córdoba.")
-![Interior de igreja antiga com porta entre-aberta em contra-luz.](/assets/img/cone-sul/sul18.jpg "Paróquia d'El Calamar, Alta Gracia, Córdoba.")  
 
 **O nono dia de viagem, a quinta-feira de 11 de maio**, veio para compensar a decepção do dia anterior. Agora, era a hora de visitar Alta Gracia, no meu último dia na província de Córdoba. Essa sim, era uma vila charmosa e original, cercada por serras de relevos ousados, nas quais a tectônica deve ser se inspirado nos desenhos que fizera na faixa litorânea brasileira. Ali, estava marcada a intensa presença jesuítica na província, já que o principal postal da vila se trata de El Tajamar, o primeiro dique de Córdoba, construído pelos jesuítas em 1659. Coroando as águas, estavam o moinho e as instalações eclesiásticas da Companhia de Jesus. Percebi que os argentinos valorizam muito a água na paisagem, integrando-se a incondicionalmente a ela. Os uruguaios, como vi mais tarde, levam isso ainda mais a sério, de modo que suas cidades se prostram diante do Prata.
 
@@ -122,7 +121,7 @@ Diferentemente de Carlos Paz, Alta Gracia não estava voltada inteiramente para 
 
 Dessas instalações jesuítas, ao menos pude adentrar a paróquia. Lá, tive uma experiência curiosa a qual me remeteu a um de meus contos. No conto em questão, inspirado num sonho, Nossa Senhora Aparecida se recusa a atender a uma reza em inglês, em empatia aos hispanoparlantes deportados e enclausurados nos campos americanos. Na igrejinha em Alta Gracia, uma turista americana começou a imitar meus gestos católicos diante do altar: quando me curvei, quando fiz o sinal da cruz e as venerações. É provável que ela fosse de orientação protestante e só quisesse se aclimatar ao ambiente tão católico que é o argentino, mas, justamente por isso, achei a cena curiosa.
 
-![Interior de igreja antiga com bancos de madeira e Santíssimo Sacramento no altar.](/assets/img/cone-sul/sul25.jpg "Basílica de Colonia del Sacramento.")
+![Interior de igreja antiga com porta entre-aberta em contra-luz.](/assets/img/cone-sul/sul18.jpg "Paróquia d'El Calamar, Alta Gracia, Córdoba.") 
 
 Por falar nisso, algo que me despertou a atenção foi ter visto o primeiro templo protestante em toda a viagem ali, em Alta Gracia. Tratava-se de uma igreja protestante tradicional, talvez luterana ou calvinista, não me lembro ao certo; havia, também, um templo adventista e um mórmon, o qual também vi depois em outros pontos da Argentina. O mais importante é que, na viagem inteira, não vi sequer uma igreja neopentecostal. Isso diz muito sobre a demografia de nossos países. O Brasil pode até ser o país com maior número absoluto de católicos no planeta, mas, hoje em dia, aonde quer que se vá, haverá uma presença evangélica, em qualquer rincão do Brasil. Chuto que mais de três quintos da população argentina seja católica, fazendo jus ao primeiro Papa não europeu em séculos.
 

@@ -6,13 +6,24 @@ author: "Daniely Silva"
 <section>
   <div class="post-container">
     <h4 class="project-title">{{ page.title }}</h4>
-
-
-
-
-
-
-    <p>{{ page.date | date_to_string }} - {{ page.author }}<span class="post-categories">
+<p>    <span class="blog-date">
+{% assign m = page.date | date: "%-m" %}
+{{ page.date | date: "%-d" }}
+{% case m %}
+{% when '1' %}jan
+{% when '2' %}fev
+{% when '3' %}mar
+{% when '4' %}abr
+{% when '5' %}maio
+{% when '6' %}jun
+{% when '7' %}jul
+{% when '8' %}ago
+{% when '9' %}set
+{% when '10' %}out
+{% when '11' %}nov
+{% when '12' %}dez
+{% endcase %}
+{{ page.date | date: " %Y" }} - {{ page.author }}<span class="post-categories">
      {% if post %}
        {% assign categories = post.categories %}
      {% else %}
@@ -22,7 +33,7 @@ author: "Daniely Silva"
      <a href="/blog/categorias">{{category}}</a>
      {% unless forloop.last %}&nbsp;{% endunless %}
      {% endfor %}
-   </span></p>
+   </span><span></p>
 
 
     <div class="project-load">{{ content }}</div>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Agora
-permalink: /now/
+permalink: /blog/now/
 author: "Daniely Silva"
 draft: false
 ---

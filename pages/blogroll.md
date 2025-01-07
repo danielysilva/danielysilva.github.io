@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rolo de blogues
-permalink: /blogroll/
+permalink: /blog/blogroll/
 author: "Daniely Silva"
 draft: false
 ---

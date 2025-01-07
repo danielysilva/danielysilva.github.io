@@ -1,4 +1,4 @@
-decepcionou---
+---
 layout: post
 title:  "O Auto da Compadecida 2 (2024): o filme que ninguém pediu mas todo mundo viu"
 date:   2025-01-07
@@ -33,7 +33,7 @@ Fora algumas cenas de humor meio exageradas, que causam um pouco de vergonha alh
 
 Vale lembrar que há uma tendência de resgatar clássicos. *Estômago 2* (2024) foi outra sequência do cinema brasileiro que ousou desafiar o clássico de 2008. Acho que este último se saiu melhor que *O Auto da Compadecida 2*, com um caminho mais criativo para uma sequência. Só que eu termino dizendo o que disse no começo: vale assistir ao filme considerando-o uma releitura ao invés de uma sequência, aí sim vamos aproveitar bem melhor.
 
-### Elenco:
+**Elenco**:
 * Chicó - Selton Mello
 * João Grilo - Matheus Nachtergaele
 * Rosinha - Virginia Cavendish

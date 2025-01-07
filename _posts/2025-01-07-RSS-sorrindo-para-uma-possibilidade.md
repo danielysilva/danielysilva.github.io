@@ -7,6 +7,7 @@ permalink: /blog/:categories/:title
 author: "Daniely Silva"
 draft: false
 ---
+
 O RSS sempre foi algo de nicho, sobretudo num tempo em que a própria internete era um nicho. Foi uma tremenda inovação em tempos de sites estáticos "artesanais" e de conexões lentas. Imagine reunir num só lugar todos os sites e blogues, eventualmente podendo descarregar o s conteúdos para ler diretamente no agregador sem se preocupar com a conexão.
 
 Só que a adoção do protocolo foi interrompida pelas redes sociais modernas e, em parte, pelo encerramento do Google Reader em 2013. Só em parte, porque isso por si só não explica: havia outros serviços e, novamente, o Greader já tinha poucos usuários àquela altura. Recentemente, em 2024, o Google também encerrou o Google Podcasts, mas nem por isso o podcast vai morrer ou cair no esquecimento. Mania essa da empresa de acabar com agregadores! Ah, aproveito para resumir o que é um agregador: grossamente, ele vai até o site, busca o conteúdo e entrega pra você por meio de um protocolo; essa é a diferença para um podcast no Spotify ou um texto no Portal EBC: está tudo hospedado no próprio serviço. Atualmente meu agregador de feeds é o Feeder, mas já usei o ReadYou por mais de ano e sempre estou de olho nas atualizações; é um projeto independente e tem alguns bugs, mas é o mais bonito de usar que já vi. E meu agregador de podcasts é o AntennaPod, o qual passei a usar quando a Google quis me "obrigar" a escutar podcasts pelo YouTube Music.

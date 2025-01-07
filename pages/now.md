@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Agora
-permalink: blog/now/
+permalink: /now/
 author: "Daniely Silva"
-draft: true
+draft: false
 ---
 
 # O que estou fazendo agora?

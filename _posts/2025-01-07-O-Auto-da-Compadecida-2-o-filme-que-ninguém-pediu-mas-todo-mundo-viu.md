@@ -7,7 +7,7 @@ permalink: /blog/:categories/:title
 author: "Daniely Silva"
 draft: false
 ---
-*O Auto da Compadcida 2* é o filme que ninguém pediu, mas todo mundo viu. Vale mais a pena entendê-lo como releitura que como sequência: de fato, ele não trouxe nada de novo, a não ser novos cenários e um novo contexto, mas as piadas são, num geral, as mesmas. E isso não é dizer que não tenha me divertido assistindo ao filme! Vale notar que aqui o drama é bem menos presente que no filme original.
+*O Auto da Compadecida 2* é o filme que ninguém pediu, mas todo mundo viu. Vale mais a pena entendê-lo como releitura que como sequência: de fato, ele não trouxe nada de novo, a não ser novos cenários e um novo contexto, mas as piadas são, num geral, as mesmas. E isso não é dizer que não tenha me divertido assistindo ao filme! Vale notar que aqui o drama é bem menos presente que no filme original.
 
 O primeiro filme tinha um aspecto teatral. Não à toa é inspirado na peça mais encenada no Brasil, desde 1954. Mas era, de fato, um filme; agora, o que vemos, é uma peça filmada, que me perdoem os dramaturgos. Muitas cores, cenários montados e um tom idílico que faz com que tudo pareça um sonho de Chicó.
 

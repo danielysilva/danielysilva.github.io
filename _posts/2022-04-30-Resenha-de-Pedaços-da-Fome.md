@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Resenha de Pedaços da Fome, Carolina Maria de Jesus"
+title:  "Resenha de Pedaços da Fome (1963), Carolina Maria de Jesus"
 date:   2022-04-30
 categories: Resenhas
 permalink: /blog/:categories/:title

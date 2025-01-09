@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Resenha de História do Cerco de Lisboa (1989), Saramago
+title:  "Resenha de História do Cerco de Lisboa (1989), Saramago"
 date:   2024-05-22
 categories: Resenhas
 permalink: /blog/:categories/:title

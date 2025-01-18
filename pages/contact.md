@@ -9,7 +9,7 @@ author: "Daniely Silva"
 
 Encontre-me nos quartos onde moro de favor com meu trabalho. Este aqui é o meu espaço seguro, mas você também pode me acompanhar nas redes de sua preferência.
 
-Você pode me acompanhar no Mastodon e bater um papo. No Instagram, mesclo as fotos artísticas, do trabalho e pessoais. Também pode se comunicar comigo em [contato@danielysilva.com.br](contato@danielysilva.com.br).
+Você pode me acompanhar no Mastodon e bater um papo. No Instagram, mesclo as fotos artísticas, do trabalho e pessoais. Também pode se comunicar comigo em [contato@danielysilva.com.br](mailto:contato@danielysilva.com.br).
 
 <div hidden>
 Uso com mais frequência o Mastodon, onde você vai encontrar anedotas cotidianas e alguns desabafos. Deixei de usar a rede do passarinho há muito tempo, mesmo antes de o nome virar X. Adentrei o Mastodon sem entender bem a ideia do Fediverso, mas, com o tempo, ela me cativou.

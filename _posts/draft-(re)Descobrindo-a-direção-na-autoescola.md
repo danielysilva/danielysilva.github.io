@@ -9,3 +9,5 @@ draft: true
 ---
 
 Nunca quis tirar habilitação, mas de uns meses pra cá me deu a louca e apliquei todo o meu 13º nisso.
+
+Sempre achei muito esquisito o que falavam sobre indústria as

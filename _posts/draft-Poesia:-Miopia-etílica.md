@@ -1,37 +1,37 @@
 ---
 layout: post
 title:  "Poesia: Miopia Etílica"
-date:   2025-01-18
+date:   2025-01-21
 categories: Poesia
 permalink: /blog/:categories/:title
 author: "Daniely Silva"
-draft: true
+draft: false
 ---
 
-Eu tentei fugir do tempo
-Tanto que tanto o encontrei
-Nesta sintonia eu entro
-Quando ao horizonte olhei,
-vi o cordão umbilical:
+Eu tentei fugir do tempo\\
+Tanto que tanto o encontrei\\
+Nesta sintonia eu entro\\
+Quando ao horizonte olhei,\\
+vi o cordão umbilical\\
 dividindo a Terra e o céu
 
-Acordei: ponto final
-Desesperada ao léu
+Acordei: ponto final\\
+Desesperada ao léu\\
 Após tanto passar mal
 
-Álcool esperto e maldito
-Lubrificante social
+Álcool esperto e maldito\\
+Lubrificante social\\
 e causador de delito
 
-Tanto que provoca dor
-Cura a dita ilusão
+Tanto que provoca dor\\
+Cura a dita ilusão\\
 Desse olhar tão sem cor
 
-Sem sinal de corpos são
-Separada em tantos blocos:
-a esperança em erosão
-Bem por causa desses copos
-Que ressaca só lhe dão
+Sem sinal de corpos são\\
+Separada em tantos blocos:\\
+a esperança em erosão\\
+Bem por causa desses copos\\
+Que ressaca só lhe dão\\
 Esperando os dias novos
 
 **Escrito aos 20 de junho de 2023.**

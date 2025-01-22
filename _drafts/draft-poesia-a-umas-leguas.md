@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Poesia: A umas léguas..."
-date:   2025-xx-xx
+date:   2025-01-21
 categories: Poesia
 permalink: /blog/:categories/:title
 author: "Daniely Silva"
-draft: true
+draft: false
 ---
 Olhei pro céu e já era tarde\\
 Mas pior é que ainda era dia\\
@@ -40,7 +40,7 @@ Na Catão co' a Rua Faustolo\\
 William Speers e John Harrisson\\
 Do silêncio escuto o som
 
-Com um pensamento tolo\\
+Contra um pensamento tolo\\
 Eu repensei e virei as costas\\
 Pois nada tinha a dizer\\
 A chuva foi pra valer\\

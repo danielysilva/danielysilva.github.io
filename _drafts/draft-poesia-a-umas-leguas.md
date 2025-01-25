@@ -50,3 +50,5 @@ Nada de olhar para trás
 Adiante, um estoico semblante\\
 O bairro está ainda distante\\
 Faltam só umas léguas mais
+
+**Escrito em 20 de janeiro de 2025.**

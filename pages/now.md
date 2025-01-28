@@ -16,6 +16,6 @@ O movimento de criar uma página [*Now*/Agora](https://nownownow.com/about) em w
 
 3. Não consegui finalizar em 2024 o conto *Doutora Cadela*, para dar sequência a um conto em estado germinal, *Cidade Pólo*. Também preciso finalizar o cordel *Migrações*.
 
-4. Em breve começo a autoescola. Vamos ver no que vai dar.
+4. Terminei o curso teórico de direção e em breve vou para as aulas práticas. Vamo ver no que dá! Vou ser boa motorista ou um risco para a cidade?
 
-### Atualizado em 6 de janeiro 2025.
+### Atualizado em 28 de janeiro 2025.

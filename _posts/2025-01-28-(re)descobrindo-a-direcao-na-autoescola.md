@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Redescobrindo a direção na autoescola"
+title:  "(Re)descobrindo a direção na autoescola"
 date:   2025-01-28
 categories: Crônicas
 permalink: /blog/:categories/:title
 author: "Daniely Silva"
 draft: false
 ---
-Nunca quis tirar habilitação, mas de uns meses pra cá me deu a louca e apliquei todo o meu 13º nisso. Ainda vou começar as aulas práticas, mas estou bem tranquila quanto ao que vai ser. Meu objetivo principal é ter a possibilidade de dirigir em viagens, mas também levo em conta ter uma CNH para o caso de me mudar para alguma cidade com transporte público precário. Não pretendo usar o automóvel no dia-a-dia — aliás, nem pretendo comprar um tão cedo. Apesar da pressa para terminar o curso prático antes do fim das férias da pós-graduação, quero aproveitar cada momento para aprender sem pressa. E vejo que há a possibilidade de não conseguir, ainda que dê o meu melhor. Se não passar nos exames finais, mesmo que tentando novamente, é porque não devo ser uma motorista (portanto, não pretendo ser extorquida pela máfia do quebra).
+Nunca quis tirar habilitação, mas de uns meses pra cá me deu a louca e apliquei todo o meu 13º nisso. Ainda vou começar as aulas práticas, mas estou bem tranquila quanto ao que vai ser. Meu objetivo principal é ter a possibilidade de dirigir em viagens, mas também levo em conta ter uma CNH para o caso de me mudar para alguma cidade com transporte público precário. Não pretendo usar o automóvel no dia-a-dia — aliás, nem pretendo comprar um tão cedo. Apesar da pressa para terminar o curso prático antes do fim das férias da pós-graduação, quero aproveitar cada momento para aprender sem pressa. E vejo que há a possibilidade de não conseguir, ainda que dê o meu melhor. Se não passar nos exames finais, mesmo que tentando novamente, é porque não devo ser uma motorista (portanto, não pretendo ser extorquida pela máfia do quebra). É importante dizer que nunca encostei num carro, então vai ser tudo muito novo.
 
 Há duas autoescolas no meu bairro, uma conceituada e outra nem tanto. Errei o endereço da conceituada e fui, de primeira, na outra. Saí de lá assustada! Duas falas forma decisivas pra que eu não fechasse o pacote: dado que o curso teórico era remoto e terceirizado, a repepcionista disse que se eu escolhesse o presencial, ia me arrepender (!); depois desse primeiro sinal vermelho, ela quis muito saber com o que eu trabalho, isso pra poder dizer que eu poderia deixar a aula rodando e nem precisava olhar, porque o que importa é só a presença e vou aprender mesmo é na prática (!!). Olhando as taxas de aprovação dessa autoescola no portal do Detran SP tive ainda mais certeza que fiz bem em não escolhê-la. Ao escolher a autoescola já respeitada, vi a diferença que faz escolher um CFC que leva a formação com seriedade, fazendo jus à sigla de Centro de Formação de Condutores.
 

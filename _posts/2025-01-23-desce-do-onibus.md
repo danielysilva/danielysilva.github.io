@@ -22,6 +22,6 @@ Foi quando, não aguentando mais, parou na Avenida Dr. Arnaldo, mesmo fora do po
 
 — É pra senhora descer.
 
-— No cemitério: Não vou descer aqui!
+— No cemitério? Não vou descer aqui!
 
 — É porque a senhora devia estar morta!

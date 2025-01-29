@@ -16,6 +16,4 @@ Uso com mais frequência o Mastodon, onde você vai encontrar anedotas cotidiana
 
 Estou no Instagram, logo existo. Acho que boa parte de nós deveria ter um site pessoal. Mas, inevitavalmente, o Instagram ganhou um protagonismo sem precedentes nas nossas vidas. Comércio, arte e socialização. Estou por lá e apareço com frequência. Publico com mais frequência no perfil pessoal; tive a ideia de criar um perfil artístico, mas com o tempo percebi que o registro do cotidiano conta muito sobre a nossa arte. Ainda lanço algumas coisas no perfil artístico, Um Olhar Paisagístico, mas o seu lugar se tornou o de fotos mais selecionadas, enquanto o perfil pessoal é de caráter mais flexível.
 
-</div>
-
-![Retrato de estúdio: moça segura os óculos na ponta do nariz](../assets/img/daniely-silva.png "Retrato"){:style="display: block; margin: 0 auto" width="65%"}
+![Retrato de estúdio: moça segura os óculos na ponta do nariz](../assets/img/daniely-silva.png "Retrato"){:style="display: block; margin: 0 auto" width="65%"}</div>

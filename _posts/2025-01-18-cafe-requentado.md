@@ -5,7 +5,7 @@ date:   2025-01-29
 categories: Poesia
 permalink: /blog/:categories/:title
 author: "Daniely Silva"
-draft: true
+draft: false
 ---
 Esse café requentado\\
 Só tem um sabor, amargo\\

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Poesia: Requentado"
-date:   2025-01-18
+date:   2025-01-29
 categories: Poesia
 permalink: /blog/:categories/:title
 author: "Daniely Silva"
@@ -32,6 +32,5 @@ no temático afetivo\\
 Sei que gente é que nem bicho\\
 E tem cada respectivo…\\
 que mais merece é ir pro lixo
-
 
 **Escrito em 6 de agosto de 2023.**

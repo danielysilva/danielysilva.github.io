@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Um bom perfume?"
-date:   2023-02-04
+title:  "Poesia: Um bom perfume?"
+date:   2024-...
 categories: Crônicas
 permalink: /blog/:categories/:title
 author: "Daniely Silva"

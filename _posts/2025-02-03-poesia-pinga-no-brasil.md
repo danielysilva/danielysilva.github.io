@@ -9,25 +9,25 @@ draft: false
 ---
 Como é que pode a cachaça\\
 Ser assim tão ambivalente?\\
-A pergunta alguém lhe faça!\\
+A pergunta alguém lhe faça!
 
 É u’a bebida quente\\
 Mas é doce ou amarga?\\
 Ninguém resistiu\\
 A memória apaga\\
 Ela é do Brasil\\
-E o Brasil é dela\\
+E o Brasil é dela
 
 É que isso a Europa não tem\\
 Pinga sem ficar sequela:\\
-pode ser com limão ou sem\\
+pode ser com limão ou sem
 
 Coisa de novela\\
-É uma panaceia\\  
+É uma panaceia\\ 
 Coisa milagrosa:\\
 traz cada ideia…\\
 Tão revigorosa,\\
-tal como é sagrada\\
+tal como é sagrada
 
 Espairece a pessoa amada\\
 Mas, se bebe pra esquecer,\\

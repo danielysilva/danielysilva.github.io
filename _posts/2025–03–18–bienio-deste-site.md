@@ -5,7 +5,7 @@ date: 2025-03-18
 categories: Crônicas
 permalink: /blog/:categories/:title
 author: "Daniely Silva"
-draft: true
+draft: false
 ---
 Hoje, o domínio deste site completa 2 anos registrado no Registro.br. Escrevo isto muito inspirada na publicação de mesmo tipo de Gmgall.net, [2 Anos de Site](https://www.gmgall.net/blog/2-anos-de-site/). Curioso pensar que os nossos sites têm quase a mesma idade, dado que ele me ajudou muito na criação deste, pensava que o seu fosse bem mais antigo (embora, como ele mesmo relata, o domínio já estivesse registrado há mais de 10 anos).
 
@@ -19,4 +19,4 @@ Tive alguns blogues ao longo da vida: no serviço do Blogger devo ter tido uns t
 
 Nos idos dos anos 2000 e 2010, falava-se muito numa blogosfera. Quando a rede social no Brasil era o Orkut, muita gente escrevia. Não é a mesma coisa escrever numa rede social e escrever no próprio espaço. Os blogues se conectavam e referenciavam-se, seja nas publicações ou em ferramentas como o blogroll, um rolo dos blogues acompanhados pelo autor. O RSS também despontava como ferramenta, num mundo onde mais gente o conhecia. Tudo isso, de forma retroalimentável, formava o que chamávamos blogosfera. Aliás, por que usar o pretérito imperfeito se é algo que ainda existe e podemos continuar construindo? No Fediverso, quase todo mundo tem um site ou blogue pra chamar de seu; foi lá mesmo onde conheci a maioria dos blogues que acompanho hoje em dia, os quais constam no meu blogroll. A blogosfera vestiu outra roupagem mas continua existindo e evoluindo.
 
-Ter um site pessoal não é fácil. Mas também não é um bicho de sete cabeças! Existem caminhos mais rápidos, mas 
+Ter um site pessoal não é fácil. Mas também não é um bicho de sete cabeças! Existem caminhos mais rápidos, mas

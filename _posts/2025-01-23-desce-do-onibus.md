@@ -5,7 +5,7 @@ date: 2025-01-23
 categories: Crônicas
 permalink: /blog/:categories/:title
 author: "Daniely Silva"
-draft: true
+draft: false
 ---
 Discussão de ônibus pode durar uma viagem inteira. Aliás, se ninguém a interromper, pode durar até uma vida inteira.
 

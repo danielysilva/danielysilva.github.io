@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Poesia: Um bom perfume?"
+title:  "Um bom perfume?"
 date:   2024-...
 categories: Crônicas
 permalink: /blog/:categories/:title

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Poesia: Bolha de Ar"
-date:   
+date: 2025-02-06
 categories: Crônicas
 permalink: /blog/:categories/:title
 author: "Daniely Silva"

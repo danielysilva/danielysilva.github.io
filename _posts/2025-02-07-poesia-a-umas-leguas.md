@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Poesia: A umas léguas..."
-date:   2025-01-21
+date:   2025-02-07
 categories: Poesia
 permalink: /blog/:categories/:title
 author: "Daniely Silva"

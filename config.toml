@@ -11,15 +11,22 @@ description = "Este é o espaço virtual de Daniely Silva. Contém acervo de cr�
 favicon = true
 svg = false
 faviconVersion = "1"
+rss = true
+
 customFuncs = ["DateFormatPT"]
 summary_length = "30"
+[outputs]
+  home = ["HTML", "RSS"]
+
 [taxonomies]
   category = "categories"
   tag = "tags"
 [permalinks]
   categories = "/blog/categories/:slug/"
   tags = "/blog/tags/:slug/"
-
+[[redirects]]
+    from = "/contatos/"
+    to = "/contato/"
 [markup]
 [markup.goldmark.renderer]
 unsafe = true # default is false

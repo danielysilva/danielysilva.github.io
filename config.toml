@@ -12,6 +12,7 @@ favicon = true
 svg = false
 faviconVersion = "1"
 rss = true
+disableAliases = false
 
 customFuncs = ["DateFormatPT"]
 summary_length = "30"

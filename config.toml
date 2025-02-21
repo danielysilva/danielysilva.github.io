@@ -18,17 +18,15 @@ customFuncs = ["DateFormatPT"]
 summary_length = "30"
 
 [outputs]
-home = ["HTML","FEED"]
-
+  home = ["HTML", "RSS"]
 [mediaTypes]
-[mediaTypes."application/rss"]
-suffix = "xml"
-
+  [mediaTypes."application/rss"]
+    suffix = ""
+    delimiter = ""
 [outputFormats]
-[outputFormats.FEED]
-mediatype = "application/rss"
-baseName = "feed"
-
+  [outputFormats.RSS]
+    mediaType = "application/rss"
+    baseName = "feed"
 
 [taxonomies]
   category = "categories"

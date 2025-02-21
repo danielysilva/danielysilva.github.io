@@ -5,10 +5,13 @@
   <meta name="author" content="{{ .Site.Params.author }}">
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
-  {{ with .OutputFormats.Get "rss" -}}
-    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
-{{ end -}}
-  <meta name="description" content="
+
+  {{ if .RSSLink }}
+  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+  <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+{{ end }}
+
+   <meta name="description" content="
   {{- with .Page.Description -}}
 {{ . }}
 {{- else -}}

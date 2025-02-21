@@ -3,6 +3,8 @@ title: "Contato"
 author: "Daniely Silva"
 draft: false
 layout: contact
+aliases:
+  - /contatos/
 ---
 
 Encontre-me nos quartos onde moro de favor com meu trabalho. Este aqui é o meu espaço seguro, mas você também pode me acompanhar nas redes de sua preferência.

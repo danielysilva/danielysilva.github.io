@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="project-container">
+      <section class="project">
+        <h2>{{ .Title }}</h2>
+<p> {{ .Params.Author }}</p>
+
+    {{ if .Params.featured_image }}
+  <div class="featured-image-container">
+    <img src="{{ .Params.featured_image }}" alt="{{ .Params.featured_image_alt }}" title="{{ .Params.featured_image_title }}">
+  </div>
+{{ end }}
+
+
+        {{ .Content }}
+      </section>
+
+    </div>
+{{ end }}

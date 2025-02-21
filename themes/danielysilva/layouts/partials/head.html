@@ -1,0 +1,33 @@
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="{{ .Site.Params.author }}">
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  <link rel="shortcut icon" type="image/x-icon" href="/img/{{ .Site.Params.favicon }}">
+  <link rel="alternate" type="application/rss+xml" href="http://danielysilva.com.br/feed">
+  {{ range .AlternativeOutputFormats -}}
+    {{- $link := `<link rel="%s" type="%s" href="%s" title="%s">` -}}
+    {{- $title := printf "%s - %s" $.Page.Title $.Site.Title -}}
+
+    {{- if $.Page.IsHome -}}
+      {{ $title = $.Site.Title }}
+    {{- end -}}
+
+    {{ printf $link .Rel .MediaType.Type .Permalink $title | safeHTML }}
+  {{- end }}
+
+  <meta name="description" content="
+  {{- with .Page.Description -}}
+{{ . }}
+{{- else -}}
+  {{ .Site.Params.description }}
+  {{- end -}}">
+  <title>
+    {{- if .Page.IsHome -}}
+      {{ .Site.Title }}
+    {{- else -}}
+{{ .Title }} - {{ .Site.Title }}
+{{- end -}}
+</title>
+</head>

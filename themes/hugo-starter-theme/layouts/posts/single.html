@@ -1,0 +1,23 @@
+{{ define "main" }}
+<article class="post">
+  <header>
+    <h2>{{ .Title }}</h2>
+    <p>
+      {{ .Params.Author }} - {{ .Date.Format "2 January, 2006" }}
+    </p>
+    <small>
+      Tempo de leitura: {{ math.Round (div (countwords .Content) 200.0) }} minutos. <span class="tags">
+        {{ range .Params.tags }}
+        <a class="tag" href="/tags/{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+      </span>
+    </small>
+  </header>
+<main>
+  <section class="body">
+    {{ .Content }}
+  </section>
+</main>
+
+</article>
+{{ end }}

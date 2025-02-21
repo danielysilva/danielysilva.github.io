@@ -1,0 +1,32 @@
+baseURL = 'http://danielysilva.com.br/'
+languageCode = 'pt-br'
+languageName = 'Português (BR)'
+timeZone = 'America/Sao_Paulo'
+dateFormat = '2 de janeiro de 2006'
+title = 'Daniely Silva'
+theme = 'danielysilva'
+[params]
+author = "Daniely Silva"
+description = "Este é o espaço virtual de Daniely Silva. Contém acervo de crônicas visuais e produção textual."
+favicon = true
+svg = false
+faviconVersion = "1"
+customFuncs = ["DateFormatPT"]
+summary_length = "30"
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+[permalinks]
+  categories = "/blog/categories/:slug/"
+  tags = "/blog/tags/:slug/"
+
+[markup]
+[markup.goldmark.renderer]
+unsafe = true # default is false
+[markup.goldmark.parser.attribute]
+block = false  # default is false
+
+[pagination]
+  disableAliases = false
+  pagerSize = 10
+  path = 'page'

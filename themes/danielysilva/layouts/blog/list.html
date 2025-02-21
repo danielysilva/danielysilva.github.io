@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+
+<tr>
+
+  <td> <h2>{{ .Title }}</h2></td>
+
+<div><td>  <nav>
+
+  <!-- Link para a página de Categorias -->
+  <a href="{{ "/blog/categories/" | relURL }}">Categorias</a>
+
+  <!-- Link para a página de Tags -->
+  <a href="{{ "/blog/tags/" | relURL }}">Tags</a> </nav> </td>
+</tr></div>
+
+{{ range .Pages }}
+    {{ partial "post_summary.html" . }}
+    {{ end }}
+<br>
+    <div hidden><p>
+      {{ partial "pagination.html" . }}</p>
+    </div>
+{{ end }}

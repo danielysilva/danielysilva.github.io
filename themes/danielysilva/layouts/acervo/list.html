@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+  <h2>{{ .Title }}</h2>
+
+  {{ .Content }}
+
+    <div class="projects">
+    {{ range .Pages }}
+    <div class="project-item">
+
+<h3>
+  <a href="{{ .RelPermalink }}" class="project-link">
+    <div class="featured-image-container">
+
+   <img src="{{ .Params.featured_image }}" alt="{{ .Params.featured_image_alt }}" title="{{ .Params.featured_image_title }}" class="featured-image">
+   <div class="project-title">{{ .Title }}</div>
+ </div></a></h3>
+
+<div hidden><p>{{ .Summary }}</p></div>
+</div>
+    {{ end }}
+</div>
+  {{ end }}

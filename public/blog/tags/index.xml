@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Etiquetas on Daniely Silva</title>
+    <link>http://danielysilva.com.br/blog/tags/</link>
+    <description>Recent content in Etiquetas on Daniely Silva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 20 Feb 2025 21:21:49 -0300</lastBuildDate><atom:link href="http://danielysilva.com.br/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cidade</title>
+      <link>http://danielysilva.com.br/blog/tags/cidade/</link>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 -0300</pubDate>
+      
+      <guid>http://danielysilva.com.br/blog/tags/cidade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>escrita</title>
+      <link>http://danielysilva.com.br/blog/tags/escrita/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 -0300</pubDate>
+      
+      <guid>http://danielysilva.com.br/blog/tags/escrita/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

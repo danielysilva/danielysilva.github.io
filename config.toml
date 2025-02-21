@@ -24,9 +24,7 @@ summary_length = "30"
 [permalinks]
   categories = "/blog/categories/:slug/"
   tags = "/blog/tags/:slug/"
-[[redirects]]
-    from = "/contatos/"
-    to = "/contato/"
+
 [markup]
 [markup.goldmark.renderer]
 unsafe = true # default is false

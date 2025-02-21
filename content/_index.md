@@ -13,7 +13,7 @@ layout: home
       </a>
     </figure>
     <figure class="gallery__item gallery__item--2">
-      <a href="/blog/viagem/pelas-curvas-do-cone-sul/">
+      <a href="/blog/viagem/2023-08-22-pelas-curvas-do-cone-sul/">
         <img src="/img/cone-sul/sul28.jpg" class="gallery__img" title="Serenidade em Colônia." alt="Pessoa solitária entre rochas marítimas contempla veleiro entre ilhas.">
       </a>
     </figure>

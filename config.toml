@@ -17,6 +17,16 @@ disableAliases = false
 customFuncs = ["DateFormatPT"]
 summary_length = "30"
 
+[outputs]
+  home = ["HTML", "RSS"]
+[mediaTypes]
+  [mediaTypes."application/rss"]
+    suffix = ""
+    delimiter = ""
+[outputFormats]
+  [outputFormats.RSS]
+    mediaType = "application/rss"
+    baseName = "feed"
 
 [taxonomies]
   category = "categories"

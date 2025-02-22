@@ -3,9 +3,8 @@ layout: blog
 title:  "Biênio deste site"
 date: 2025-03-18
 categories: ["Crônicas"]
-permalink: /blog/:categories/:title
 author: "Daniely Silva"
-draft: false
+draft: true
 ---
 Hoje, o domínio deste site completa 2 anos registrado no Registro.br. Escrevo isto muito inspirada na publicação de mesmo tipo de Gmgall.net, [2 Anos de Site](https://www.gmgall.net/blog/2-anos-de-site/). Curioso pensar que os nossos sites têm quase a mesma idade, dado que ele me ajudou muito na criação deste, pensava que o seu fosse bem mais antigo (embora, como ele mesmo relata, o domínio já estivesse registrado há mais de 10 anos).
 

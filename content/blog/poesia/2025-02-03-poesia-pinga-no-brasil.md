@@ -3,7 +3,7 @@ layout: blog
 title:  "Poesia: Pinga no Brasil"
 date:   2025-02-03
 categories: ["Poesia"]
-permalink: /blog/:categories/:title
+tags: ["brasilidade"]
 author: "Daniely Silva"
 draft: false
 ---

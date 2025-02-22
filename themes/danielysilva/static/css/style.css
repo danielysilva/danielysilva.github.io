@@ -176,7 +176,7 @@ li {
   .projects {
     display: grid;
     gap: 16px; /* Espaçamento entre os itens */
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   }
 
   .project-item {
@@ -201,6 +201,7 @@ li {
     height: auto;
     display: block;
     transition: filter 0.3s ease; /* Animação de escurecimento */
+    border-radius: 6px;
   }
 
   .project-title {

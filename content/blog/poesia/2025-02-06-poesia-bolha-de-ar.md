@@ -3,7 +3,7 @@ layout: blog
 title:  "Poesia: Bolha de Ar"
 date: 2025-02-06
 categories: ["Poesia"]
-permalink: /blog/:categories/:title
+tags: ["urbanidades"]
 author: "Daniely Silva"
 draft: false
 ---

@@ -5,5 +5,5 @@ url: "/blog/categories/"
 draft: false
 author: Daniely Silva
 aliases:
-  - /categorias/
+  - /blog/categorias/
 ---

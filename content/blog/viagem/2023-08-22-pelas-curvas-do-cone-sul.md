@@ -6,6 +6,8 @@ categories: ["Viagem"]
 tags: ["cidade"]
 author: "Daniely Silva"
 draft: false
+aliases:
+  - /blog/viagem/pelas-curvas-do-cone-sul/
 ---
 
 ![Vista de movimento de passageiros em rodoviária. Mulher caminha ao centro sob iluminação cor púrpura](/img/cone-sul/sul00.jpg "Rodoviária do Tietê")

@@ -3,7 +3,7 @@ layout: blog
 title:  "Guarapiranga"
 date:   2024-10-19
 categories: ["Crônicas"]
-tags: ["cidade"]
+tags: ["urbanidades", "emoção"]
 permalink: /blog/:categories/:title
 author: "Daniely Silva"
 draft: false

@@ -3,6 +3,8 @@ layout: default
 title: O que estou fazendo agora?
 author: "Daniely Silva"
 draft: false
+aliases:
+  - /now/
 ---
 O movimento de criar uma página [*Now*/Agora](https://nownownow.com/about) em websites pessoais é uma forma de humanizar a internete. É um registro do que estamos focadas neste momento da vida, servindo pra quebrar um pouco da formalidade e permitir conhecer um pouco mais sobre a autora.
 

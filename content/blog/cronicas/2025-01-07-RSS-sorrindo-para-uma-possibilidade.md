@@ -3,7 +3,7 @@ layout: blog
 title:  "RSS: sorrindo para uma possibilidade"
 date:   2025-01-07
 categories: ["Crônicas"]
-permalink: /blog/:categories/:title
+tags: ["tecnologia"]
 author: "Daniely Silva"
 draft: false
 ---

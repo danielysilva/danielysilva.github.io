@@ -3,7 +3,7 @@ layout: blog
 title:  "Microconto: Exorcismo Neobrasileiro"
 date:   2025-01-15
 categories: ["Microcontos"]
-permalink: /blog/:categories/:title
+tags: ["brasilidade"]
 author: "Daniely Silva"
 draft: false
 ---

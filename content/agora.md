@@ -16,4 +16,6 @@ O movimento de criar uma página [*Now*/Agora](https://nownownow.com/about) em w
 
 * 4. Terminei o primeiro terço do curso de direção. Anda bem desafiador, não fico ansiosa mas meio frustrada quando as coisas não andam bem. O desafio é a oportunidade pra superá-lo.
 
+* 5. Finalmente consegui migrar do Jekyll para o Hugo! Ho ve! O porquê da mudança não tenho bem claro, mas levei meses tentando, aprendendo e me adaptando.
+
 **Atualizado aos 23 de fevereiro de 2025.**

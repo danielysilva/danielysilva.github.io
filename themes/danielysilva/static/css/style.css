@@ -198,6 +198,8 @@ li {
   .project-item {
   display: flex;
   flex-direction: column;
+  height: 70%;
+  object-fit: cover;
 }
 
   .project-link {

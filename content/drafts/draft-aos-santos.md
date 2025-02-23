@@ -1,7 +1,7 @@
 ---
 layout: blog
 title:  "Poesia: Em Santos, sem santos"
-date:   2025-xx-xx
+date:   2025-02-23
 categories: ["Poesia"]
 tags: ["urbanidades"]
 author: "Daniely Silva"
@@ -23,4 +23,4 @@ ao estuário um grito de desperdício
 Onde se buscam os anais
 num mostruário de meretrício
 
-19 de janeiro de 2022.
+**Escrito aos 19 de janeiro de 2022.**

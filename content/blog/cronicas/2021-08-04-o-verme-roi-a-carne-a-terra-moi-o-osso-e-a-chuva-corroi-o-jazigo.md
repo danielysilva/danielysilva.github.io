@@ -3,8 +3,7 @@ layout: blog
 title:  "O verme rói a carne, a terra mói o osso e a chuva corrói o jazigo"
 date:   2021-04-10
 categories: ["Crônicas"]
-tags: ["cidade"]
-permalink: /blog/:categories/:title
+tags: ["urbanidade", "geografia"]
 author: "Daniely Silva"
 draft: false
 ---

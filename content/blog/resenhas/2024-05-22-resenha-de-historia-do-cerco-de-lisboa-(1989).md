@@ -3,7 +3,7 @@ layout: blog
 title:  "Resenha de História do Cerco de Lisboa (1989), Saramago"
 date:   2024-05-22
 categories: ["Resenhas"]
-permalink: /blog/:categories/:title
+tags: ["escrita"]
 author: "Daniely Silva"
 draft: false
 ---

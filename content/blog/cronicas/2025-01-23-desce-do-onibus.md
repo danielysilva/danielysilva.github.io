@@ -3,7 +3,7 @@ layout: blog
 title:  "Desce do ônibus"
 date: 2025-01-23
 categories: ["Crônicas"]
-permalink: /blog/:categories/:title
+tags: ["urbanidades"]
 author: "Daniely Silva"
 draft: false
 ---

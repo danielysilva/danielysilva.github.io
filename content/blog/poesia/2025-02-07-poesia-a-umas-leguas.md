@@ -3,7 +3,7 @@ layout: blog
 title:  "Poesia: A umas léguas..."
 date:   2025-02-07
 categories: ["Poesia"]
-permalink: /blog/:categories/:title
+tags: ["emoção", "urbanidades"]
 author: "Daniely Silva"
 draft: false
 ---

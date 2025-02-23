@@ -3,7 +3,7 @@ layout: blog
 title:  "Poesia: Miopia Etílica"
 date:   2025-01-21
 categories: ["Poesia"]
-permalink: /blog/:categories/:title
+tags: ["urbanidades", "emoção"]
 author: "Daniely Silva"
 draft: false
 ---

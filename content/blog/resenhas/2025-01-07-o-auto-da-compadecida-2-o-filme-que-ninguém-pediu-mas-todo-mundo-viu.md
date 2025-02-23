@@ -19,7 +19,7 @@ Sem dar mais detalhes que possam ser spoiler, a cena do julgamento me decepecion
 
 Com os cenários montados, transições rápidas e fotografia enevoada, fico com a ideia de que tudo possa ser um sonho na cabeça de Chicó, o nosso contador de histórias favorito. Ariano Suassuna fala sobre o mentiroso que não faz mal a ninguém: aquele que conta uma mentira que eu sei que é mentira, ele sabe que eu sei que é mentira e eu sei que ele sabe que eu sei. Esse é Chicó! Eternizado na figura de Selton Mello. Quem não conhece um Chicó? João Grilo é uma personagem folclórica que remete a Portugal, mas também foi eternizado pela dramaturgia de Ariano e pela interpretação cinematográfica de Matheus Nachtergaele. Isso pra dizer que, como disse, O *Auto da Compadecida 2* é um filme que ninguém pediu, mas todo mundo viu. É impossível superar um clássico, mas qual o problema de apelarmos à nostalgia?
 
->> Você acha que você não envelheceu não, é?
+> Você acha que você não envelheceu não, é?
 
 João Grilo responde a Chicó ao ouvir que está diferente. Ora, os atores envelheceram. Temos um final meio aberto, meio fechado e que não precisa de sequência. Acharia exagero se lançassem O *Auto da Compadecida 3*, mas com certeza estarei lá para ver, assim como achei desnecessário o segundo filme mas estive lá para vê-lo. A cena do encontro entre as duas personagens, interpretadas por esses dois grandes atores, é de marejar os olhos. Não vou negar um certo estranhamento: ver o brincalhão Chicó na carne de um Selton Mello de aspecto mais cansado é como ver os últimos episódios do Chaves, gravados na década de 1980, em que um Bolaños mais velho já não aguentava correr e pular.
 

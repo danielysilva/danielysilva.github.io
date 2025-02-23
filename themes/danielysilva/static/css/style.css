@@ -179,6 +179,22 @@ li {
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   }
 
+@media only screen and (min-width: 1200px) {
+  .projects {
+    display: grid;
+    gap: 16px; /* Espaçamento entre os itens */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 3fr));
+  }
+}
+
+@media only screen and (min-width: 2080px) {
+  .projects {
+    display: grid;
+    gap: 16px; /* Espaçamento entre os itens */
+    grid-template-columns: repeat(auto-fit, minmax(400px, 3fr));
+  }
+}
+
   .project-item {
   display: flex;
   flex-direction: column;

@@ -3,6 +3,7 @@ layout: blog
 title:  "Biênio deste site"
 date: 2025-03-18
 categories: ["Crônicas"]
+tags: ["tecnologia"]
 author: "Daniely Silva"
 draft: true
 ---

@@ -4,7 +4,6 @@ title:  "Datilografando uma história: a sobrevida das máquinas de escrever"
 date:   2021-04-10
 categories: ["Crônicas"]
 tags: ["escrita", "tecnologia"]
-permalink: /blog/:categories/:title
 author: "Daniely Silva"
 summary:
 ---

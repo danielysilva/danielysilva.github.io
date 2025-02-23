@@ -3,7 +3,7 @@ layout: blog
 title:  "Poesia: Vultos à Espera de Quê?"
 date:   2025-01-18
 categories: ["Poesia"]
-permalink: /blog/:categories/:title
+tags: ["urbanidades"]
 author: "Daniely Silva"
 draft: false
 ---

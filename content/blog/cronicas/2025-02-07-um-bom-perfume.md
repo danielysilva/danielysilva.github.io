@@ -3,7 +3,7 @@ layout: blog
 title:  "Um bom perfume?"
 date:   2025-02-07
 categories: ["Crônicas"]
-permalink: /blog/:categories/:title
+tags: ["urbanidades"]
 author: "Daniely Silva"
 draft: false
 ---

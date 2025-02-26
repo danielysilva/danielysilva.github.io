@@ -4,7 +4,7 @@ date: 2025-02-25
 draft: false
 author: Daniely Silva
 categories: ["Crônicas"]
-tags: ["urbanidades", ]
+tags: ["urbanidades"]
 draft: true
 ---
 Nem tudo se trata de mudança climática. E não, não sou negacionista do aquecimento global — muito pelo contrário. Mas muita impressão errada se trata apenas de falta de percepção do próprio ambiente.

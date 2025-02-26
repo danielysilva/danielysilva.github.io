@@ -7,11 +7,16 @@
 
 <div><td>  <nav>
 
+  <!-- Link para a página de Tags -->
+  <a href="{{ "blog/blogroll/" | relURL }}">Blogroll</a>
+
   <!-- Link para a página de Categorias -->
   <a href="{{ "/blog/categories/" | relURL }}">Categorias</a>
 
   <!-- Link para a página de Tags -->
-  <a href="{{ "/blog/tags/" | relURL }}">Tags</a> </nav> </td>
+  <a href="{{ "/blog/tags/" | relURL }}">Tags</a> </td>
+
+</nav>
 </tr></div>
 
 {{ range .Pages }}

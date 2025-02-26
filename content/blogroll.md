@@ -2,6 +2,7 @@
 layout: default
 title: Rolo de blogues
 author: "Daniely Silva"
+url: "blog/blogroll"
 draft: false
 ---
 Vi muita gente voltando a essa ideia dos anos 2000! Remete a uma época em que inventamos o termo **blogosfera**. Mas por que usar o pretérito perfeito quando se trata de algo que ainda está vivo e podemos tornar ainda mais saudável?

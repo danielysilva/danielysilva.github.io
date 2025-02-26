@@ -116,6 +116,7 @@ main {
 h1 {
   font-size: 3.6rem;
   font-family: "Courier Prime", "Courier New", serif;
+  font-weight: bold;
   margin: 1vh;
   padding: 1vh;
   display: inline;

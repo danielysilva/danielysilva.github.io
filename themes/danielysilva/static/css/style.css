@@ -177,9 +177,9 @@ li {
   .projects {
     display: grid;
     gap: 16px; /* Espaçamento entre os itens */
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    grid-template-columns: repeat(4, 1fr); /* 4 colunas */;
   }
-
+    
 @media only screen and (min-width: 1200px) {
   .projects {
     display: grid;

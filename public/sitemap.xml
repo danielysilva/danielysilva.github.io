@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://danielysilva.com.br/blog/categories/</loc>
-    <lastmod>2025-02-20T21:24:02-03:00</lastmod>
+    <loc>http://danielysilva.com.br/blog/</loc>
+    <lastmod>2025-02-25T19:34:06-03:00</lastmod>
   </url><url>
     <loc>http://danielysilva.com.br/</loc>
+    <lastmod>2025-02-25T19:34:06-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/teste/</loc>
+    <lastmod>2025-02-25T19:34:06-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/2025-02-25-a-normalidade-do-anormal/</loc>
+    <lastmod>2025-02-25T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/categories/cr%C3%B4nicas/</loc>
+    <lastmod>2025-02-25T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/categories/poesia/</loc>
+    <lastmod>2025-02-23T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/poesia/2025-02-23-poesia-em-santos-sem-santos/</loc>
+    <lastmod>2025-02-23T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/tags/urbanidades/</loc>
+    <lastmod>2025-02-23T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/categories/</loc>
     <lastmod>2025-02-20T21:24:02-03:00</lastmod>
   </url><url>
     <loc>http://danielysilva.com.br/blog/tags/</loc>
     <lastmod>2025-02-20T21:21:49-03:00</lastmod>
   </url><url>
-    <loc>http://danielysilva.com.br/blog/</loc>
-    <lastmod>2025-02-07T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://danielysilva.com.br/blog/categories/cr%C3%B4nicas/</loc>
-    <lastmod>2025-02-07T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://danielysilva.com.br/blog/categories/poesia/</loc>
+    <loc>http://danielysilva.com.br/blog/tags/emo%C3%A7%C3%A3o/</loc>
     <lastmod>2025-02-07T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://danielysilva.com.br/blog/poesia/2025-02-07-poesia-a-umas-leguas/</loc>
@@ -28,6 +43,12 @@
   </url><url>
     <loc>http://danielysilva.com.br/blog/poesia/2025-02-06-poesia-bolha-de-ar/</loc>
     <lastmod>2025-02-06T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/tags/brasilidade/</loc>
+    <lastmod>2025-02-04T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/tags/religi%C3%A3o/</loc>
+    <lastmod>2025-02-04T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://danielysilva.com.br/blog/cronicas/2025-02-04-seu-geni/</loc>
     <lastmod>2025-02-04T00:00:00-03:00</lastmod>
@@ -71,11 +92,14 @@
     <loc>http://danielysilva.com.br/blog/cronicas/2025-01-07-rss-sorrindo-para-uma-possibilidade/</loc>
     <lastmod>2025-01-07T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://danielysilva.com.br/blog/tags/cidade/</loc>
-    <lastmod>2024-10-19T00:00:00-03:00</lastmod>
+    <loc>http://danielysilva.com.br/blog/tags/tecnologia/</loc>
+    <lastmod>2025-01-07T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://danielysilva.com.br/blog/cronicas/2024-10-19-guarapiranga/</loc>
     <lastmod>2024-10-19T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/tags/escrita/</loc>
+    <lastmod>2024-05-22T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://danielysilva.com.br/blog/resenhas/2024-05-22-resenha-de-historia-do-cerco-de-lisboa-1989/</loc>
     <lastmod>2024-05-22T00:00:00-03:00</lastmod>
@@ -89,11 +113,17 @@
     <loc>http://danielysilva.com.br/blog/cronicas/2023-05-29-fotorreflexao-em-aceleracao/</loc>
     <lastmod>2023-05-29T00:00:00-03:00</lastmod>
   </url><url>
+    <loc>http://danielysilva.com.br/drafts/2023-02-04-ate-ja-candanga/</loc>
+    <lastmod>2023-02-04T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/drafts/</loc>
+    <lastmod>2023-02-04T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/tags/pol%C3%ADtica/</loc>
+    <lastmod>2023-02-04T00:00:00-03:00</lastmod>
+  </url><url>
     <loc>http://danielysilva.com.br/blog/cronicas/2022-10-29-bolsonaro-e-treze/</loc>
     <lastmod>2022-10-29T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://danielysilva.com.br/blog/tags/escrita/</loc>
-    <lastmod>2022-04-30T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://danielysilva.com.br/blog/resenhas/2022-04-30-resenha-de-pedacos-da-fome/</loc>
     <lastmod>2022-04-30T00:00:00-03:00</lastmod>

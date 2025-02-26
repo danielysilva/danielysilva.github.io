@@ -8,27 +8,66 @@
     <language>pt-br</language>
     <lastBuildDate>Thu, 20 Feb 2025 21:21:49 -0300</lastBuildDate><atom:link href="http://danielysilva.com.br/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>cidade</title>
-      <link>http://danielysilva.com.br/blog/tags/cidade/</link>
-      <pubDate>Sat, 19 Oct 2024 00:00:00 -0300</pubDate>
+      <title>urbanidades</title>
+      <link>http://danielysilva.com.br/blog/tags/urbanidades/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 -0300</pubDate>
       
-      <guid>http://danielysilva.com.br/blog/tags/cidade/</guid>
-      <description>
-        
-        
-      </description>
+      <guid>http://danielysilva.com.br/blog/tags/urbanidades/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoção</title>
+      <link>http://danielysilva.com.br/blog/tags/emo%C3%A7%C3%A3o/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 -0300</pubDate>
+      
+      <guid>http://danielysilva.com.br/blog/tags/emo%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brasilidade</title>
+      <link>http://danielysilva.com.br/blog/tags/brasilidade/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 -0300</pubDate>
+      
+      <guid>http://danielysilva.com.br/blog/tags/brasilidade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>religião</title>
+      <link>http://danielysilva.com.br/blog/tags/religi%C3%A3o/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 -0300</pubDate>
+      
+      <guid>http://danielysilva.com.br/blog/tags/religi%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tecnologia</title>
+      <link>http://danielysilva.com.br/blog/tags/tecnologia/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 -0300</pubDate>
+      
+      <guid>http://danielysilva.com.br/blog/tags/tecnologia/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>escrita</title>
       <link>http://danielysilva.com.br/blog/tags/escrita/</link>
-      <pubDate>Sat, 30 Apr 2022 00:00:00 -0300</pubDate>
+      <pubDate>Wed, 22 May 2024 00:00:00 -0300</pubDate>
       
       <guid>http://danielysilva.com.br/blog/tags/escrita/</guid>
-      <description>
-        
-        
-      </description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>política</title>
+      <link>http://danielysilva.com.br/blog/tags/pol%C3%ADtica/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 -0300</pubDate>
+      
+      <guid>http://danielysilva.com.br/blog/tags/pol%C3%ADtica/</guid>
+      <description></description>
     </item>
     
   </channel>

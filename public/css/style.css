@@ -116,6 +116,7 @@ main {
 h1 {
   font-size: 3.6rem;
   font-family: "Courier Prime", "Courier New", serif;
+  font-weight: bold;
   margin: 1vh;
   padding: 1vh;
   display: inline;
@@ -176,12 +177,30 @@ li {
   .projects {
     display: grid;
     gap: 16px; /* Espaçamento entre os itens */
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   }
+
+@media only screen and (min-width: 1200px) {
+  .projects {
+    display: grid;
+    gap: 16px; /* Espaçamento entre os itens */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 3fr));
+  }
+}
+
+@media only screen and (min-width: 2080px) {
+  .projects {
+    display: grid;
+    gap: 16px; /* Espaçamento entre os itens */
+    grid-template-columns: repeat(auto-fit, minmax(400px, 3fr));
+  }
+}
 
   .project-item {
   display: flex;
   flex-direction: column;
+  height: 70%;
+  object-fit: cover;
 }
 
   .project-link {
@@ -201,6 +220,7 @@ li {
     height: auto;
     display: block;
     transition: filter 0.3s ease; /* Animação de escurecimento */
+    border-radius: 6px;
   }
 
   .project-title {

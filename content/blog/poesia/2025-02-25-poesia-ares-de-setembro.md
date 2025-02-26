@@ -5,7 +5,7 @@ draft: false
 author: Daniely Silva
 categories: ["Poesia"]
 tags: ["urbanidades", "brasilidade"]
-draft: true
+draft: false
 ---
 Fartos d’ares infernais\
 Num seco ypê que perece\

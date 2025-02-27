@@ -177,7 +177,7 @@ li {
   .projects {
     display: grid;
     gap: 16px; /* Espaçamento entre os itens */
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    grid-template-columns: repeat(4, 1fr); /* 4 colunas */;
   }
 
 @media only screen and (min-width: 1200px) {
@@ -199,8 +199,6 @@ li {
   .project-item {
   display: flex;
   flex-direction: column;
-  height: 70%;
-  object-fit: cover;
 }
 
   .project-link {
@@ -221,6 +219,7 @@ li {
     display: block;
     transition: filter 0.3s ease; /* Animação de escurecimento */
     border-radius: 6px;
+
   }
 
   .project-title {

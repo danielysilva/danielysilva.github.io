@@ -51,3 +51,5 @@ AB'SABER, Aziz. **Os Domínios da Natureza no Brasil**: Potencialidades Paisagí
 ![Sibipiruna em 17 de novembro de 2021](/img/projects/sibipiruna/sibipiruna12.jpg "Sibipiruna em 17 de novembro de 2021")
 
 ![Sibipiruna em 21 de dezembro de 2021, Solstício de Verão](/img/projects/sibipiruna/sibipiruna13.jpg "Sibipiruna em 21 de dezembro de 2021, Solstício de Verão")
+
+![Mosaico de ramo de sibipiruna ao longo das estações](/img/projects/sibipiruna/sibipiruna00.jpg "Um ano de Sibipiruna")

@@ -3,27 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://danielysilva.com.br/blog/</loc>
-    <lastmod>2025-02-25T19:34:06-03:00</lastmod>
+    <lastmod>2025-02-25T20:04:11-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/tags/brasilidade/</loc>
+    <lastmod>2025-02-25T20:04:11-03:00</lastmod>
   </url><url>
     <loc>http://danielysilva.com.br/</loc>
-    <lastmod>2025-02-25T19:34:06-03:00</lastmod>
+    <lastmod>2025-02-25T20:04:11-03:00</lastmod>
   </url><url>
-    <loc>http://danielysilva.com.br/blog/teste/</loc>
-    <lastmod>2025-02-25T19:34:06-03:00</lastmod>
+    <loc>http://danielysilva.com.br/blog/categories/poesia/</loc>
+    <lastmod>2025-02-25T20:04:11-03:00</lastmod>
   </url><url>
-    <loc>http://danielysilva.com.br/blog/2025-02-25-a-normalidade-do-anormal/</loc>
+    <loc>http://danielysilva.com.br/blog/poesia/2025-02-25-poesia-ares-de-setembro/</loc>
+    <lastmod>2025-02-25T20:04:11-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/tags/urbanidades/</loc>
+    <lastmod>2025-02-25T20:04:11-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-02-25-a-normalidade-do-anormal/</loc>
     <lastmod>2025-02-25T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://danielysilva.com.br/blog/categories/cr%C3%B4nicas/</loc>
     <lastmod>2025-02-25T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://danielysilva.com.br/blog/categories/poesia/</loc>
-    <lastmod>2025-02-23T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>http://danielysilva.com.br/blog/poesia/2025-02-23-poesia-em-santos-sem-santos/</loc>
-    <lastmod>2025-02-23T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://danielysilva.com.br/blog/tags/urbanidades/</loc>
     <lastmod>2025-02-23T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://danielysilva.com.br/blog/categories/</loc>
@@ -43,9 +46,6 @@
   </url><url>
     <loc>http://danielysilva.com.br/blog/poesia/2025-02-06-poesia-bolha-de-ar/</loc>
     <lastmod>2025-02-06T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://danielysilva.com.br/blog/tags/brasilidade/</loc>
-    <lastmod>2025-02-04T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://danielysilva.com.br/blog/tags/religi%C3%A3o/</loc>
     <lastmod>2025-02-04T00:00:00-03:00</lastmod>
@@ -113,16 +113,10 @@
     <loc>http://danielysilva.com.br/blog/cronicas/2023-05-29-fotorreflexao-em-aceleracao/</loc>
     <lastmod>2023-05-29T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://danielysilva.com.br/drafts/2023-02-04-ate-ja-candanga/</loc>
-    <lastmod>2023-02-04T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://danielysilva.com.br/drafts/</loc>
-    <lastmod>2023-02-04T00:00:00-03:00</lastmod>
+    <loc>http://danielysilva.com.br/blog/cronicas/2022-10-29-bolsonaro-e-treze/</loc>
+    <lastmod>2022-10-29T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://danielysilva.com.br/blog/tags/pol%C3%ADtica/</loc>
-    <lastmod>2023-02-04T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://danielysilva.com.br/blog/cronicas/2022-10-29-bolsonaro-e-treze/</loc>
     <lastmod>2022-10-29T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://danielysilva.com.br/blog/resenhas/2022-04-30-resenha-de-pedacos-da-fome/</loc>
@@ -150,7 +144,7 @@
   </url><url>
     <loc>http://danielysilva.com.br/agora/</loc>
   </url><url>
-    <loc>http://danielysilva.com.br/blogroll/</loc>
+    <loc>http://danielysilva.com.br/blog/blogroll/</loc>
   </url><url>
     <loc>http://danielysilva.com.br/acervo/sibipiruna/</loc>
   </url><url>

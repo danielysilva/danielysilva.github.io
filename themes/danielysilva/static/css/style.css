@@ -383,25 +383,12 @@ font: 14px/22px normal helvetica, sans-serif;
 }
 
 
-@media only screen and (max-width: 768px), only screen or (orientation: portrait) {
-.container {
-  width: 85%;
-  margin: 0 auto;}
-}
 
-@media only screen and (max-width: 768px), only screen and (orientation: portrait) {
-  nav {
-    flex-direction: column;
-    text-align: center;
-    justify-content: center;
-    gap: 0;
-  }
 
-  nav > a {
-      justify-content: center;
-      font-size: 1.8rem;
-  }
-}
+
+
+
+
 
 @media (min-width: 1280px) {
   .projects {
@@ -417,6 +404,24 @@ font: 14px/22px normal helvetica, sans-serif;
 
 /*layout responsivo para telas estreitas*/
 @media screen and (max-width: 768px), only screen or (orientation: portrait) {
+
+  .container {
+  width: 90%;
+  margin: 0 auto;}
+}
+
+nav {
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    gap: 0;
+  }
+
+  nav > a {
+      justify-content: center;
+      font-size: 1.8rem;
+  }
+  
   .gallery {
     grid-template-columns: repeat(2, 1fr); /* 2 colunas */
     grid-template-rows: repeat(2, 1fr); /* Ajuste automático das linhas */
@@ -474,13 +479,12 @@ font: 14px/22px normal helvetica, sans-serif;
   }
 }
 
-@media (min-width: 768px) {
-    body {
+@media only screen and (min-width: 768px) {
+   body {
       width: 60%
     }
 }
-
-@media only screen and (min-width: 768px) {
+  
   .project-container { display: flex; }
 
   .project-container .project-list { width: 20%; }
@@ -491,7 +495,6 @@ font: 14px/22px normal helvetica, sans-serif;
     width: 30%;
   }
 }
-
 
 @media print {
   * {

@@ -43,12 +43,6 @@ body {
   margin: 0 auto;
 }
 
-@media only screen and (max-width: 768px), only screen or (orientation: portrait) {
-.container {
-  width: 85%;
-  margin: 0 auto;}
-}
-
 nav, footer {
   color: #111111;
   text-align: center;
@@ -67,14 +61,6 @@ nav > a {
   text-align: center;
   margin: 0 10px;
 }
-
-@media only screen and (max-width: 768px), only screen and (orientation: portrait) {
-  nav {
-    flex-direction: column;
-    text-align: center;
-    justify-content: center;
-    gap: 0;
-  }
 
   nav > a {
       justify-content: center;
@@ -380,7 +366,69 @@ footer {
   grid-row-end: 3;
 }
 
-/*layout responsivo para telas estreitas*/
+blockquote {
+font: 14px/22px normal helvetica, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #ccc;
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin: 1em auto;
+  padding: 0;
+}
+
+.pagination > .page-item {
+  border: 1px solid #ddd;
+  flex: 1;
+  text-align: center;
+  width: 5em;
+}
+
+.pagination .page-link {
+  display: block;
+  color: #000;
+  text-decoration: none;
+}
+
+@media (min-width: 768px) {
+    body {
+      width: 60%
+    }
+}
+
+@media only screen and (min-width: 768px) {
+  .project-container { display: flex; }
+
+  .project-container .project-list { width: 20%; }
+
+  .project-container .project { flex: 1; }
+
+  .pagination {
+    width: 30%;
+  }
+}
+
+@media only screen and (max-width: 768px), only screen or (orientation: portrait) {
+.container {
+  width: 85%;
+  margin: 0 auto;}
+}
+
+@media only screen and (max-width: 768px), only screen and (orientation: portrait) {
+  nav {
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    gap: 0;
+  }
+
+  /*layout responsivo para telas estreitas*/
 @media screen and (max-width: 768px), only screen or (orientation: portrait) {
   .gallery {
     grid-template-columns: repeat(2, 1fr); /* 2 colunas */
@@ -436,54 +484,6 @@ footer {
     grid-column-end: 3; /* Ocupa as 2 colunas */
     grid-row-start: 4;
     grid-row-end: 6;
-  }
-}
-
-blockquote {
-font: 14px/22px normal helvetica, sans-serif;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-left: 50px;
-  padding-left: 15px;
-  border-left: 3px solid #ccc;
-}
-
-.pagination {
-  display: flex;
-  justify-content: space-between;
-  list-style: none;
-  margin: 1em auto;
-  padding: 0;
-}
-
-.pagination > .page-item {
-  border: 1px solid #ddd;
-  flex: 1;
-  text-align: center;
-  width: 5em;
-}
-
-.pagination .page-link {
-  display: block;
-  color: #000;
-  text-decoration: none;
-}
-
-@media (min-width: 768px) {
-    body {
-      width: 60%
-    }
-}
-
-@media only screen and (min-width: 768px) {
-  .project-container { display: flex; }
-
-  .project-container .project-list { width: 20%; }
-
-  .project-container .project { flex: 1; }
-
-  .pagination {
-    width: 30%;
   }
 }
 

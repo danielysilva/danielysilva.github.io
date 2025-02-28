@@ -33,7 +33,7 @@ body {
   padding: 0 auto;
   overflow-x: hidden;
   overflow-y: auto;
-  font-family: Garamond, Georgia; Serif;
+  font-family: Garamond, Georgia, serif;
   line-height: 1.5;
 }
 
@@ -71,8 +71,7 @@ a {
 a:focus, a:hover {
 color: black;
 background-color: #ddd;
-text-decoration: blink;
-cursor: pointer;
+text-decoration: none;
 }
 
 a.tag {
@@ -96,7 +95,7 @@ h1 {
   margin: 1vh;
   padding: 1vh;
   display: inline;
-  z-index: 4
+  z-index: 4;
   max-width: 100%;
 }
 
@@ -126,7 +125,7 @@ h3 {
       text-indent: 47px;
   }
 
-  p::firt-letter {
+  p::first-letter {
     font-size: 2rem;
     font-weight: bold;
     float: left;
@@ -159,19 +158,16 @@ li {
   .project-item {
   display: flex;
   flex-direction: column;
-}
-
-
-
+} 
   .featured-image {
     width: 100%;
-    height: auto;
+    height: 120px;
     display: block;
     transition: filter 0.3s ease; /* Animação de escurecimento */
     border-radius: 6px;
     object-fit: cover; /* Mantém a proporção */
   }
-}
+
 
   .project-link {
     position: relative;
@@ -186,14 +182,7 @@ li {
 
   }
 
-  .featured-image {
-    width: 100%;
-    height: 120px;
-    display: block;
-    transition: filter 0.3s ease; /* Animação de escurecimento */
-    border-radius: 6px;
-    object-fit: cover;
-  }
+
 
   .project-title {
     font-family: Monospace;
@@ -201,7 +190,7 @@ li {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: #; /* Fundo semi-transparente */
+    background-color: rgba(0, 0, 0, 0.5); /* Exemplo de fundo semi-transparente */
     color: #fff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -225,7 +214,7 @@ li {
   border: 1px solid #ddd;
   flex: 1;
   text-align: center;
-  width: 53m;
+  width: 5em;
 }
 
 .pagination .page-link {
@@ -363,17 +352,7 @@ font: 14px/22px normal helvetica, sans-serif;
 
 
 
-@media (min-width: 1280px) {
-  .projects {
-    grid-template-columns: repeat(3, minmax(100px, 1fr)); /* Mantém no máximo 3 colunas */
-  }
 
-  .featured-image-container {
-    position: relative;
-    width: 100%;
-    overflow: hidden; /* Para garantir que nada saia dos limites do contêiner */
-  }
-}
 
 /*layout responsivo para telas estreitas*/
 @media screen and (max-width: 768px), only screen or (orientation: portrait) {
@@ -467,11 +446,16 @@ nav {
   }
 }
 
-@media (min-width: 768px) {
-    body {
-      width: 60%;
-    }
+@media (min-width: 1280px) {
+  .projects {
+    grid-template-columns: repeat(3, minmax(100px, 1fr)); /* Mantém no máximo 3 colunas */
+  }
 
+  .featured-image-container {
+    position: relative;
+    width: 100%;
+    overflow: hidden; /* Para garantir que nada saia dos limites do contêiner */
+  }
 }
 
 @media print {
@@ -542,11 +526,14 @@ a[target=_blank]:after {
 @font-face {
   font-family: "EB Garamond";
   src: local(Garamond), url("fonts/EBGaramond-Regular.ttf");
+}
 
 @font-face {
   font-family: Georgia;
   src: local(Georgia), url("fonts/georgia.ttf");
+}
 
 @font-face {
   font-family: "Gill Sans";
   src: local(Constantia), url("fonts/gillsans.otf");
+}

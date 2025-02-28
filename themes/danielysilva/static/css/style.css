@@ -43,6 +43,12 @@ body {
   margin: 0 auto;
 }
 
+@media only screen and (max-width: 768px), only screen or (orientation: portrait) {
+.container {
+  width: 85%;
+  margin: 0 auto;}
+}
+
 nav, footer {
   color: #111111;
   text-align: center;
@@ -61,6 +67,14 @@ nav > a {
   text-align: center;
   margin: 0 10px;
 }
+
+@media only screen and (max-width: 768px), only screen and (orientation: portrait) {
+  nav {
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    gap: 0;
+  }
 
   nav > a {
       justify-content: center;
@@ -163,34 +177,30 @@ li {
   .projects {
     display: grid;
     gap: 16px; /* Espaçamento entre os itens */
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    grid-template-columns: repeat(4, 1fr); /* 4 colunas */;
   }
+    
+@media only screen and (min-width: 1200px) {
+  .projects {
+    display: grid;
+    gap: 16px; /* Espaçamento entre os itens */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 3fr));
+  }
+}
+
+@media only screen and (min-width: 2080px) {
+  .projects {
+    display: grid;
+    gap: 16px; /* Espaçamento entre os itens */
+    grid-template-columns: repeat(auto-fit, minmax(400px, 3fr));
+  }
+}
 
   .project-item {
   display: flex;
   flex-direction: column;
-}
-
-@media (min-width: 1280px) {
-  .projects {
-    grid-template-columns: repeat(3, minmax(100px, 1fr)); /* Mantém no máximo 3 colunas */
-  }
-
-  .featured-image-container {
-    position: relative;
-    width: 100%;
-    overflow: hidden; /* Para garantir que nada saia dos limites do contêiner */
-  }
-}
-
-  .featured-image {
-    width: 100%;
-    height: auto;
-    display: block;
-    transition: filter 0.3s ease; /* Animação de escurecimento */
-    border-radius: 6px;
-    object-fit: cover; /* Mantém a proporção */
-  }
+  height: 70%;
+  object-fit: cover;
 }
 
   .project-link {
@@ -203,16 +213,14 @@ li {
     position: relative;
     width: 100%;
     overflow: hidden; /* Para garantir que nada saia dos limites do contêiner */
-
   }
 
   .featured-image {
     width: 100%;
-    height: 120px;
+    height: auto;
     display: block;
     transition: filter 0.3s ease; /* Animação de escurecimento */
     border-radius: 6px;
-    object-fit: cover;
   }
 
   .project-title {
@@ -366,69 +374,7 @@ footer {
   grid-row-end: 3;
 }
 
-blockquote {
-font: 14px/22px normal helvetica, sans-serif;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-left: 50px;
-  padding-left: 15px;
-  border-left: 3px solid #ccc;
-}
-
-.pagination {
-  display: flex;
-  justify-content: space-between;
-  list-style: none;
-  margin: 1em auto;
-  padding: 0;
-}
-
-.pagination > .page-item {
-  border: 1px solid #ddd;
-  flex: 1;
-  text-align: center;
-  width: 5em;
-}
-
-.pagination .page-link {
-  display: block;
-  color: #000;
-  text-decoration: none;
-}
-
-@media (min-width: 768px) {
-    body {
-      width: 60%
-    }
-}
-
-@media only screen and (min-width: 768px) {
-  .project-container { display: flex; }
-
-  .project-container .project-list { width: 20%; }
-
-  .project-container .project { flex: 1; }
-
-  .pagination {
-    width: 30%;
-  }
-}
-
-@media only screen and (max-width: 768px), only screen or (orientation: portrait) {
-.container {
-  width: 85%;
-  margin: 0 auto;}
-}
-
-@media only screen and (max-width: 768px), only screen and (orientation: portrait) {
-  nav {
-    flex-direction: column;
-    text-align: center;
-    justify-content: center;
-    gap: 0;
-  }
-
-  /*layout responsivo para telas estreitas*/
+/*layout responsivo para telas estreitas*/
 @media screen and (max-width: 768px), only screen or (orientation: portrait) {
   .gallery {
     grid-template-columns: repeat(2, 1fr); /* 2 colunas */
@@ -484,6 +430,54 @@ font: 14px/22px normal helvetica, sans-serif;
     grid-column-end: 3; /* Ocupa as 2 colunas */
     grid-row-start: 4;
     grid-row-end: 6;
+  }
+}
+
+blockquote {
+font: 14px/22px normal helvetica, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #ccc;
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin: 1em auto;
+  padding: 0;
+}
+
+.pagination > .page-item {
+  border: 1px solid #ddd;
+  flex: 1;
+  text-align: center;
+  width: 5em;
+}
+
+.pagination .page-link {
+  display: block;
+  color: #000;
+  text-decoration: none;
+}
+
+@media (min-width: 768px) {
+    body {
+      width: 60%
+    }
+}
+
+@media only screen and (min-width: 768px) {
+  .project-container { display: flex; }
+
+  .project-container .project-list { width: 20%; }
+
+  .project-container .project { flex: 1; }
+
+  .pagination {
+    width: 30%;
   }
 }
 

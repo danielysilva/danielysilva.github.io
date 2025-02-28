@@ -258,27 +258,6 @@ footer {
   color: black;
 }
 
-/* Main (conteúdo principal da página) */
-.home main {
-  clear: both;
-  position: relative;
-  align-items: center;
-  margin-left: 0;
-  padding: 1vh;
-  min-width: 35vw;
-  max-width: 80vw;
-}
-
-.home container {
-  width: 100%;
-  margin: 0 auto;
-}
-
-.home figure {
-  margin: 0 auto;
-  padding: 0 auto;
-}
-
 .gallery {
   display: grid;
   grid-gap: 7px;
@@ -493,9 +472,6 @@ nav {
       width: 60%;
     }
 
-.container {
-      width: 60%;
-}
 }
 
 @media print {
@@ -549,13 +525,7 @@ a[target=_blank]:after {
     footer {
         background: #fff;
     }
-
-    footer .container {
-        background: #fff;
-        box-shadow: none;
-        border: 2px solid #000;
-    }
-  
+ 
 }
 
 

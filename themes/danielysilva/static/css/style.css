@@ -25,7 +25,6 @@ header {
 }
 
 body {
-  width: 100%;
   background-color: snow;
   position: relative;
   display: grid;

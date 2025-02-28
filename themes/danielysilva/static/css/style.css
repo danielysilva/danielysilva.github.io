@@ -354,7 +354,7 @@ font: 14px/22px normal helvetica, sans-serif;
 /*layout responsivo para telas estreitas*/
 @media screen and (max-width: 768px), only screen or (orientation: portrait) {
   .container {
-  width: 96%;
+  width: 90%;
   margin: 0 auto;
 }
 
@@ -428,10 +428,8 @@ nav {
 }
 
 @media only screen and (min-width: 768px) {
-  main {
-  max-width: 60%;  /* Limita a largura máxima */
-  margin: 0 auto;  /* Centraliza */
-  padding: 20px; }
+body {
+  width: 60% }
  
   .project-container { display: flex; }
 

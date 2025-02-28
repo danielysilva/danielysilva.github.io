@@ -37,8 +37,6 @@ body {
   line-height: 1.5;
 }
 
-
-
 nav, footer {
   color: #111111;
   text-align: center;
@@ -125,12 +123,12 @@ h3 {
       text-indent: 47px;
   }
 
-  p::first-letter {
+ /* p::first-letter {
     font-size: 2rem;
     font-weight: bold;
     float: left;
     margin: 2px 5px;
-  }
+  }  */
 
   ol {
     list-style-position: inside;  /* Coloca o marcador da lista dentro da caixa de conteúdo */
@@ -430,9 +428,10 @@ nav {
 }
 
 @media only screen and (min-width: 768px) {
-   body {
-      width: 60%;
-    }
+  main {
+  max-width: 60%;  /* Limita a largura máxima */
+  margin: 0 auto;  /* Centraliza */
+  padding: 20px; }
  
   .project-container { display: flex; }
 
@@ -440,21 +439,8 @@ nav {
 
   .project-container .project { flex: 1; }
 
-  .pagination {
-    width: 30%;
-  }
-}
-
-@media (min-width: 1280px) {
-  .projects {
-    grid-template-columns: repeat(3, minmax(100px, 1fr)); /* Mantém no máximo 3 colunas */
-  }
-
-  .featured-image-container {
-    position: relative;
-    width: 100%;
-    overflow: hidden; /* Para garantir que nada saia dos limites do contêiner */
-  }
+  .pagination {   width: 30%;  }
+  
 }
 
 @media print {

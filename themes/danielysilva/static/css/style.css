@@ -24,9 +24,6 @@ header {
   text-align: center;
 }
 
-.container {
-  width: 60% }
-
 body {
   background-color: snow;
   position: relative;
@@ -385,11 +382,7 @@ font: 14px/22px normal helvetica, sans-serif;
 
 
 
-@media (min-width: 768px) {
-    body {
-      width: 60%;
-    }
-}
+
 
 @media (min-width: 1280px) {
   .projects {
@@ -407,7 +400,7 @@ font: 14px/22px normal helvetica, sans-serif;
 @media screen and (max-width: 768px), only screen or (orientation: portrait) {
   .container {
   width: 90%;
-  margin: 0 auto;}
+  margin: 0 auto;
 }
 
 nav {
@@ -493,6 +486,16 @@ nav {
   .pagination {
     width: 30%;
   }
+}
+
+@media (min-width: 768px) {
+    body {
+      width: 60%;
+    }
+
+.container {
+      width: 60%;
+}
 }
 
 @media print {

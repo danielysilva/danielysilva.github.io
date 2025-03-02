@@ -6,11 +6,16 @@
   box-sizing: border-box;
 }
 
+html, body, main {
+  margin: 0 auto;
+  padding: 0 auto;
+  box-sizing: border-box;
+
+}
+
 html {
   background-color: transparent;
   z-index: 1;
-  margin: 0 auto;
-  padding: 0 auto;
   font-size: 62.5%;
   overflow-x: hidden;
 }
@@ -29,8 +34,6 @@ body {
   position: relative;
   display: grid;
   place-items: center;
-  margin: 0 auto;
-  padding: 0 auto;
   overflow-x: hidden;
   overflow-y: auto;
   font-family: Garamond, Georgia, serif;
@@ -81,9 +84,7 @@ a.tag {
 }
 
 main {
-  clear: both;
-  margin: 0 auto;
-  padding: 0 auto;
+
 }
 
 h1 {
@@ -147,40 +148,51 @@ li {
     font-style: italic;
   }
 
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+
+  footer {
+    margin: 0 auto;
+    padding-bottom: 10px;
+    color: black;
+  }
+
+
+  .featured-image {
+    display: block;
+    transition: filter 0.3s ease; /* Animação de escurecimento */
+  }
+
+  .featured-image-container {
+    height: 120px;
+    object-fit: cover;
+    border-radius: 6px;
+    overflow: hidden; /* Para garantir que nada saia dos limites do contêiner */
+  }
+
   .projects {
-    display: grid;
+    display: flex;
+    flex-wrap: wrap;
     gap: 16px; /* Espaçamento entre os itens */
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    justify-content: space-between;
   }
 
   .project-item {
   display: flex;
-  flex-direction: column;
-} 
-  .featured-image {
-    width: 100%;
-    height: 120px;
-    display: block;
-    transition: filter 0.3s ease; /* Animação de escurecimento */
-    border-radius: 6px;
-    object-fit: cover; /* Mantém a proporção */
-  }
 
+  flex: 1 1 calc(33.33% - 16px); /* Definindo a largura dos itens e considerando o espaço */
+  box-sizing: border-box; /* Inclui padding e borda no cálculo da largura */
+
+}
 
   .project-link {
     position: relative;
     display: inline-block;
     text-decoration: none;
   }
-
-  .featured-image-container {
-    position: relative;
-    width: 100%;
-    overflow: hidden; /* Para garantir que nada saia dos limites do contêiner */
-
-  }
-
-
 
   .project-title {
     font-family: Monospace;
@@ -207,6 +219,7 @@ li {
     transform: translate(-50%, -50%) scale(1.1);
   }
 
+
 .pagination > page-item {
   border: 1px solid #ddd;
   flex: 1;
@@ -232,17 +245,6 @@ li {
   color: #ddd;
 }
 
-img {
-  display: block;
-  margin: 0 auto;
-  max-width: 100%;
-}
-
-footer {
-  margin: 0 auto;
-  padding: 0 auto 5vh auto;
-  color: black;
-}
 
 .gallery {
   display: grid;
@@ -358,6 +360,16 @@ font: 14px/22px normal helvetica, sans-serif;
   margin: 0 auto;
 }
 
+  .featured-image-container {
+    height: 180px;
+    width: 100%;
+    object-fit: cover;
+  }
+  .featured-image {
+    width: 100%;
+    object-fit: cover;
+  }
+
 nav {
     flex-direction: column;
     text-align: center;
@@ -369,7 +381,7 @@ nav {
       justify-content: center;
       font-size: 1.8rem;
   }
-  
+
   .gallery {
     grid-template-columns: repeat(2, 1fr); /* 2 colunas */
     grid-template-rows: repeat(2, 1fr); /* Ajuste automático das linhas */
@@ -425,31 +437,31 @@ nav {
     grid-row-start: 4;
     grid-row-end: 6;
   }
+
+  .project-item {
+    flex: 1 1 100%; /* Itens ocupando 100% da largura em telas estreitas */
+  }
+
 }
 
 @media only screen and (min-width: 768px) {
-body {
-  width: 60% }
- 
-  .project-container { display: flex; }
 
-  .project-container .project-list { width: 20%; }
+    html, body, main {
+      max-width: 80%;
+    }
 
-  .project-container .project { flex: 1; }
 
-  .pagination {   width: 30%;  }
-  
 }
 
 @media print {
   * {
       background: transparent;
       color: #000;
-      text-shadow: none; 
+      text-shadow: none;
       filter: none;
      -ms-filter: none;
   }
-  
+
      body {
         background: #fff !important;
     }
@@ -462,19 +474,16 @@ body {
     header h1 {
         background: #fff;
     }
-  
-   .menu,
-  .banner,
-  nav { display: none; }
 
-  .print {
+    nav { display: none; }
+
+    .print {
   display: none; // quando o que eu quero imprimir está oculto
 }
-  
-.no-print {
-  display: block; //quando o que eu não quero imprimir esta visivel
+
+    .no-print {
+      display: block; //quando o que eu não quero imprimir esta visivel
 }
-  
 /*Todos los enlaces*/
   a:after {
     content: " (" attr(href) ")";
@@ -489,11 +498,7 @@ a[href^=http]:after {
 a[target=_blank]:after {
     content: " (" attr(href) ")";
 }
-    footer {
-        background: #fff;
     }
- 
-}
 
 
 @font-face {

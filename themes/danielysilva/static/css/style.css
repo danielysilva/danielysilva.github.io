@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 
-html, body {
+html, body, main {
   margin: 0 auto; }
 
 html {

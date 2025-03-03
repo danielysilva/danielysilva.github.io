@@ -42,7 +42,7 @@ nav, footer {
 }
 
 nav {
-   
+    display: flex;
     flex-direction: row;
     margin: 10px 0 15px 0;
 }
@@ -90,7 +90,7 @@ h1 {
   margin: 1vh;
   padding: 1vh;
   z-index: 4;
-  max-width: 100%;
+  width: 100%;
 }
 
 h2 {

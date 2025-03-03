@@ -6,6 +6,9 @@
   box-sizing: border-box;
 }
 
+html, body {
+  margin: 0 auto; }
+
 html {
   background-color: transparent;
   z-index: 1;

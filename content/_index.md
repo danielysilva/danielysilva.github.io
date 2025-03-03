@@ -5,7 +5,7 @@ permalink: /
 layout: home
 ---
 
-<div class="container">
+<div class="home-container">
   <div class="gallery">
     <figure class="gallery__item gallery__item--1">
       <a href="/acervo/logunede/">

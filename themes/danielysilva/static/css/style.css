@@ -86,7 +86,6 @@ h1 {
   font-weight: bold;
   margin: 1vh;
   padding: 1vh;
-  display: inline;
   z-index: 4;
   max-width: 100%;
 }

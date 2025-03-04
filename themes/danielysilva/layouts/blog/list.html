@@ -1,11 +1,13 @@
 {{ define "main" }}
 
 
-<tr>
 
-  <td> <h2>{{ .Title }}</h2></td>
 
-<div><td>  <nav>
+   <h2>{{ .Title }}</h2>
+
+
+
+ <nav style="justify-content:space-between;">
 
   <!-- Link para a página de Tags -->
   <a href="{{ "blog/blogroll/" | relURL }}">Blogroll</a>
@@ -14,10 +16,10 @@
   <a href="{{ "/blog/categories/" | relURL }}">Categorias</a>
 
   <!-- Link para a página de Tags -->
-  <a href="{{ "/blog/tags/" | relURL }}">Tags</a> </td>
+  <a href="{{ "/blog/tags/" | relURL }}">Tags</a> 
 
 </nav>
-</tr></div>
+
 
 {{ range .Pages }}
     {{ partial "post_summary.html" . }}

@@ -6,8 +6,9 @@
   box-sizing: border-box;
 }
 
-html, body, main {
-  margin: 0 auto; }
+html, body, header, main {
+  margin: 0 auto;
+}
 
 html {
   background-color: transparent;
@@ -17,7 +18,7 @@ html {
 }
 
 header {
-  margin: 0 auto;
+
   position: relative;
   white-space: nowrap;
   z-index: 2;
@@ -26,6 +27,7 @@ header {
 }
 
 body {
+
   background-color: snow;
   position: relative;
   display: grid;
@@ -157,14 +159,28 @@ li {
   }
 
 
+.container {
+  position: relative;
+}
+
+.home-container {
+position: relative;
+left: 49.6%; /* Ajusta a posição para a esquerda */
+transform: translateX(-50%); /* Centraliza a div */
+width: 140%; /* Define uma largura maior que a do contêiner pai */
+max-width: none; /* Remove qualquer limite máximo de largura */
+}
+
   .featured-image {
     display: block;
     transition: filter 0.3s ease; /* Animação de escurecimento */
+
   }
 
   .featured-image-container {
     overflow: hidden; /* Para garantir que nada saia dos limites do contêiner */
     border-radius: 8px;
+
   }
 
   .projects {
@@ -349,8 +365,9 @@ font: 14px/22px normal helvetica, sans-serif;
 /*layout responsivo para telas estreitas*/
 @media screen and (max-width: 768px), only screen or (orientation: portrait) {
   .home-container {
-  width: 95%;
+  width: 99%;
   margin: 0 auto;
+
 }
 
 nav {
@@ -429,9 +446,12 @@ nav {
 
 @media only screen and (min-width: 768px) {
 
-    html, body, main {
-      max-width: 80%;
+  main {
+
     }
+
+  .container {
+    width: 40%; }
 
 
 }

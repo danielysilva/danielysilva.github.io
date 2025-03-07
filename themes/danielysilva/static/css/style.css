@@ -188,6 +188,7 @@ max-width: none; /* Remove qualquer limite máximo de largura */
   .featured-image {
     display: block;
     transition: filter 0.3s ease; /* Animação de escurecimento */
+    border-radius: 8px;
 
   }
 
@@ -199,7 +200,6 @@ max-width: none; /* Remove qualquer limite máximo de largura */
 
   .projects {
     display: flex;
-
     flex-direction: column;
     gap: 16px; /* Espaçamento entre os itens */
 
@@ -207,7 +207,8 @@ max-width: none; /* Remove qualquer limite máximo de largura */
 
   .project-item {
   display: flex;
-  object-fit: contain;
+  object-fit: cover;
+  
 
 }
 

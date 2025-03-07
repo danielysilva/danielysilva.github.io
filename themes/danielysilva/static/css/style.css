@@ -12,13 +12,11 @@ html, body, header, main {
 
 html {
   background-color: transparent;
-  z-index: 1;
   font-size: 62.5%;
   overflow-x: hidden;
 }
 
 header {
-
   position: relative;
   white-space: nowrap;
   z-index: 2;
@@ -45,9 +43,7 @@ nav, footer {
 nav {
     display: flex;
     flex-direction: row;
-
     margin: 10px 0 15px 0;
-
 }
 
 nav > a {
@@ -61,7 +57,6 @@ nav > a {
 
 a {
   color: black;
-  text-decoration: blue;
   font-weight: bold;
   cursor: pointer;
   z-index: 5;
@@ -93,7 +88,6 @@ h1 {
   font-weight: bold;
   margin: 1vh;
   padding: 1vh;
-  z-index: 4;
   width: 100%;
 }
 
@@ -140,7 +134,6 @@ blockquote {
   }
 
 ol {
-    list-style-position: inside;  /* Coloca o marcador da lista dentro da caixa de conteúdo */
     padding-left: 20px;           /* Adiciona espaçamento à esquerda */
 }
 
@@ -167,11 +160,6 @@ footer {
     color: black;
   }
 
-
-#content {
-
-}
-
 .container {
   position: relative;
 }
@@ -188,28 +176,23 @@ max-width: none; /* Remove qualquer limite máximo de largura */
     display: block;
     transition: filter 0.3s ease; /* Animação de escurecimento */
     border-radius: 8px;
-
   }
 
   .featured-image-container {
     overflow: hidden; /* Para garantir que nada saia dos limites do contêiner */
     border-radius: 8px;
-
   }
 
   .projects {
     display: flex;
     flex-direction: column;
     gap: 16px; /* Espaçamento entre os itens */
-
   }
 
   .project-item {
   display: flex;
   object-fit: cover;
-  
-
-}
+  }
 
   .project-link {
     position: relative;
@@ -241,33 +224,6 @@ max-width: none; /* Remove qualquer limite máximo de largura */
     opacity: 1;
     transform: translate(-50%, -50%) scale(1.1);
   }
-
-
-.pagination > page-item {
-  border: 1px solid #ddd;
-  flex: 1;
-  text-align: center;
-  width: 5em;
-}
-
-.pagination .page-link {
-  display: block;
-  color: #000;
-  text-decoration: none;
-}
-
-.pagination > .page-item.active {
-  background-color: #333;
-}
-
-.pagination > .page-item.active > .page-link {
-  color: #fff;
-}
-
-.pagination > .page-item.disabled > .page-link {
-  color: #ddd;
-}
-
 
 .gallery {
   display: grid;
@@ -336,35 +292,6 @@ max-width: none; /* Remove qualquer limite máximo de largura */
   grid-row-end: 3;
 }
 
-.pagination {
-  display: flex;
-  justify-content: space-between;
-  list-style: none;
-  margin: 1em auto;
-  padding: 0;
-}
-
-.pagination > .page-item {
-  border: 1px solid #ddd;
-  flex: 1;
-  text-align: center;
-  width: 5em;
-}
-
-.pagination .page-link {
-  display: block;
-  color: #000;
-  text-decoration: none;
-}
-
-
-
-
-
-
-
-
-
 
 
 /*layout responsivo para telas estreitas*/
@@ -382,7 +309,6 @@ nav {
       font-size: 1.8rem;
   }
 
-
   .home-container {
   width: 99%;
   margin: 0 auto;
@@ -395,7 +321,6 @@ nav {
   .gallery {
     grid-template-columns: repeat(2, 1fr); /* 2 colunas */
     grid-template-rows: repeat(2, 1fr); /* Ajuste automático das linhas */
-
   }
 
   .gallery__item--1 {
@@ -451,19 +376,15 @@ nav {
   .project-item {
     flex: 1 1 100%; /* Itens ocupando 100% da largura em telas estreitas */
   }
-
 }
 
 @media only screen and (min-width: 768px) {
-
-  main {
-
-    }
-
   .container {
-    width: 40%; }
+    width: 60%; }
 
-
+  #content {
+    width: 40%;
+  }
 }
 
 @media print {
@@ -478,6 +399,7 @@ nav {
      body {
         background: #fff !important;
     }
+  
     header {
         box-shadow: none;
         background: #fff !important;
@@ -493,10 +415,10 @@ nav {
     .print {
   display: none; // quando o que eu quero imprimir está oculto
 }
-
     .no-print {
       display: block; //quando o que eu não quero imprimir esta visivel
 }
+  
 /*Todos los enlaces*/
   a:after {
     content: " (" attr(href) ")";
@@ -510,9 +432,8 @@ a[href^=http]:after {
 /*Enlaces que se abren en nueva pagina*/
 a[target=_blank]:after {
     content: " (" attr(href) ")";
+  }
 }
-    }
-
 
 @font-face {
   font-family: "Courier Prime";

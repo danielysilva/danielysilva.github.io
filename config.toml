@@ -34,3 +34,5 @@ block = false  # default is false
   disableAliases = false
   pagerSize = 10
   path = 'page'
+
+  

@@ -187,7 +187,7 @@ Como não quisesse nada\
   Aqui não é lugar pra tu\
   Só pra véia e jeca-tatu
 
-  \*
+\*
 
 — Moço, é cada história doida\
 Você não acreditaria\
@@ -208,7 +208,7 @@ E diga: tu de onde é que és?
 \*
 
 — Com todo prazer, meu nome é Hugo\
-Também te’ho a história arretada
+Também te’ho a história arretada\
 De um problema eu também fujo\
 Venho de Serra Talhada\
 Nem dá pra enfrentar na raça…\
@@ -241,7 +241,7 @@ Mas na gola ela o agarrara\
   — Volte aqui, cabra safado\
     Que eu vou dar-lhe já é um sopapo!
 
-    \*
+\*
 
 — Que desgraça, que desgraça —\
 Ela só repetia\

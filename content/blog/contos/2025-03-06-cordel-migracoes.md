@@ -7,7 +7,7 @@ categories: ["Contos", "Poesia"]
 tags: ["brasilidade", "escrita"]
 draft: false
 ---
-*38 sextetos no esquema de rimas ABABCC.*
+*38 sextilhas no esquema de rimas ABABCC.*
 
 Giovanna é o nome dela\
 Ela chegou de Garanhuns\

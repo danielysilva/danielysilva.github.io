@@ -8,10 +8,11 @@
 
 html, body, header, main {
   margin: 0 auto;
+  height: 100%;
+  width: 100%;
 }
 
 html {
-  height: 100%;
   background-color: transparent;
   font-size: 62.5%;
   overflow-x: hidden;
@@ -25,7 +26,6 @@ header {
 }
 
 body {
-  min-height: 100%;
   background-color: snow;
   position: relative;
   display: grid;
@@ -163,8 +163,13 @@ footer {
     color: black;
   }
 
+#content {
+  margin: 0 auto;
+}
+
 .container {
   position: relative;
+  margin: 0 auto;
 }
 
 .home-container {
@@ -314,12 +319,16 @@ nav {
   }
 
   .home-container {
-  width: 99%;
+  width: 100%;
   margin: 0 auto;
 }
 
+#content {
+  width: 90%;
+}
+
 .container {
-  width: 85%;
+  width: 90%;
 }
 
   .gallery {
@@ -384,11 +393,11 @@ nav {
 
 @media only screen and (min-width: 768px) {
   .container {
-    width: 50%; }
-
+    width: 40%; 
+ }
+    
   #content {
-    width: 70%;
-    margin: 0 auto;
+    width: 85%;
   }
 }
 

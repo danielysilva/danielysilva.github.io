@@ -11,6 +11,7 @@ html, body, header, main {
 }
 
 html {
+  height: 100%;
   background-color: transparent;
   font-size: 62.5%;
   overflow-x: hidden;
@@ -24,6 +25,7 @@ header {
 }
 
 body {
+  min-height: 100%;
   background-color: snow;
   position: relative;
   display: grid;
@@ -40,7 +42,6 @@ nav, footer {
 }
 
 nav {
-    
     display: flex;
     flex-direction: row;
     margin: 10px 0 15px 0;
@@ -54,6 +55,11 @@ nav > a {
   text-align: center;
   margin: 0 10px;
 }
+
+p > a {
+   text-decoration: underline;
+   color: #1C1C1C;
+ }
 
 a {
   text-decoration: none;
@@ -77,10 +83,6 @@ a.tag {
   padding: 0 1.0em 0 1.0em;
   font-size: 1.2rem;
   text-decoration: none;
-}
-
-main {
-
 }
 
 h1 {
@@ -117,11 +119,6 @@ h3 {
   p.indent {
       text-indent: 47px;
   }
-
- p > a {
-   text-decoration: underline;
-   color: #1C1C1C;
- }
 
  /* p::first-letter {
     font-size: 2rem;
@@ -179,6 +176,7 @@ max-width: none; /* Remove qualquer limite máximo de largura */
 }
 
   .featured-image {
+    width: 150%;
     display: block;
     transition: filter 0.3s ease; /* Animação de escurecimento */
     border-radius: 8px;

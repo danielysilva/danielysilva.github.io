@@ -87,7 +87,7 @@ a.tag {
 h1 {
   font-size: 3.6rem;
   font-weight: bold !important;
-  font-family: "Courier Prime", "Courier New", serif;
+  font-family: "Courier Prime Bold", "Courier New", serif;
   margin: 1vh;
   padding: 1vh;
   width: 100%;
@@ -96,7 +96,7 @@ h1 {
 h2 {
   font-size: 3.0rem;
   font-family: Monospace;
-    /*font-family: "Courier Prime", "Courier New", "Police Monospace", serif; */
+    /*font-family: "Courier Prime Bold", "Courier New", "Police Monospace", serif; */
   margin: 1vh;
   padding: 1vh;
 }
@@ -449,8 +449,8 @@ a[target=_blank]:after {
 }
 
 @font-face {
-  font-family: "Courier Prime";
-  src: local("Courier Prime"), url("fonts/courierprimebold.ttf");
+  font-family: "Courier Prime Bold";
+  src: local("Courier Prime Bold"), url("fonts/courierprimebold.ttf");
 }
 
 @font-face {

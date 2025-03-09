@@ -450,25 +450,25 @@ a[target=_blank]:after {
 
 @font-face {
   font-family: "Courier Prime Bold";
-  src: local("Courier Prime Bold"), url("fonts/courierprimebold.ttf");
+  src: local("Courier Prime Bold"), url("fonts/courierprimebold.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Courier New";
-  src: local("Courier New"), url("fonts/couriernew.ttf");
+  src: local("Courier New"), url("fonts/couriernew.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "EB Garamond";
-  src: local(Garamond), url("fonts/EBGaramond-Regular.ttf");
+  src: local("EB Garamond"), url("fonts/EBGaramond-Regular.ttf") format("truetype");
 }
 
 @font-face {
   font-family: Georgia;
-  src: local(Georgia), url("fonts/georgia.ttf");
+  src: local("Georgia"), url("fonts/georgia.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Gill Sans";
-  src: local(Constantia), url("fonts/gillsans.otf");
+  src: local("Gill Sans"), url("fonts/gillsans.otf") format("opentype");
 }

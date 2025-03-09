@@ -16,7 +16,7 @@ Numa rápida e corrida viagem pelo Cone Sul, quase me perdi conhecendo quase tod
 
 Deixei o Terminal Rodoviário Tietê numa noite de 2 de maio, com mochila tão pesada quanto a carga de trabalho de um ano de espera pelas férias.
 
-![Ponte Pênsil ao fundo, árvores em primeiro plano.](/assets/img/cone-sul/sul01.jpg "Ponte Hercílio Luz.")  
+![Ponte Pênsil ao fundo, árvores em primeiro plano.](/img/cone-sul/sul01.jpg "Ponte Hercílio Luz.")  
 
 O tempo era levemente frio, não havendo grande choques de temperatura no decorrer da maior parte da viagem. Não foi diferente na Ilha do Desterro. O Sol tímido entre nuvens e ares frescos me sopravam a vista que tinha das montanhas, aquelas que se sobressaíam das nuvens, mostrando um relevo bordado pela Ponte Pênsil; não era Rio de Janeiro, mas era maravilhosa. Apesar de tudo, não me sentia bem; perguntava-me se esse mal estar era resultado da ansiedade. Sabia que não era fome, então sobrava pensar que era culpa do café amargo.
 Logo, ou, não tão logo, já no terceiro dia de viagem, percebi a origem daquele mal estar: estava ficando resfriada. ¡Carajos! Ao ultrapassar os limites da Cidade Autônoma de Buenos Aires, de imediato, já me atacava a amigdalite. Que sorte!
@@ -34,7 +34,6 @@ Seguia com os sintomas que não me permitiram desfrutar do que a noite anterior 
 Algo positivo foi perceber que os portenhos jamais tolerariam algo como o Minhocão ou a Radial Leste nas entranhas de sua digníssima cidade. É claro que há vias expressas, como em toda megacidade, mas elas estão ao redor, não dentro. Além disso, essas vias são elevadas e não representam pontos de degradação urbana.  O tráfego é intenso, mas o portenho parece conviver com isso: não vai ser construída uma passarela onde é necessária uma faixa de pedestres; isso me fez me perder em devaneios pensando num Eixo Monumental de Brasília convidativo aos pedestres, idem a avenidas como a 9 de Julho e a 23 de Maio em São Paula, as quais também são coroadas por um obelisco tão charmoso como o portenho, mas rodeado por máquinas automotoras assassinas. Na eterna discussão se a avenida mais larga do mundo é a Nueve de Julio ou o Eixo Monumental, a portenha ganha da candanga na vitalidade urbana e nas atrações.
 
 Diferente do Brasil, ao que me pareceu, viadutos não garantem uma eleição. Como dito, convive-se com o engarrafamento e a vida segue sem invadir o espaço do pedestre. Na semana seguinte, ainda faria essa observação no tocante às ferrovias: há uma maior tolerância aos cruzamentos em nível: se há dinheiro, são feitos túneis, senão, não se toleram viadutos e prevalece o cruzamento via férrea em nível.
-
 
 ![Edifícios contemporâneos diante de canal de água.](/img/cone-sul/sul06.jpg "Puerto Madero.")    
 

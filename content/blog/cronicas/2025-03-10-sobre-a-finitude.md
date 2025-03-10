@@ -7,17 +7,15 @@ tags: ["emoção"]
 draft: false
 ---
 
-# Finitude
-
 > Eu tenho consciência da finitude. Eu sei que meu auge já passou, se eu não soubesse, virava um velho babão. E você não vai ficar linda pra sempre.
 
 Meu padrinho falava sobre como o filme *Mr. Nobody* impactou sua percepção sobre a vida, no sentido de que a morte pode ser o dia mais feliz da vida de alguém, pois, ainda que traga sofrimento, também alivia sofrimentos — na verdade, ela os cessa totalmente. Na ocasião, ele falava sobre um parente que, aos 95 anos, em extrema debilidade, implora e chora todos os dias para não morrer. Não é o que meu padrinho diz que fazia, estando na mesma situação, preferindo algo como a ortotanásia, ou seja, deixar que a morte venha no seu tempo, naturalmente, sem um prolongamento artificial da vida.
 
-> ### [Microconto: Anestesia](http://danielysilva.com.br/blog/contos/2025-03-10-microconto-anestesia)
+> **[Microconto: Anestesia](http://danielysilva.com.br/blog/contos/2025-03-10-microconto-anestesia)**
 >
 > Ela nunca mais sentiu aquela dor insuportável. Morreu.
 >
-> * Escrito aos 9 de julho de 2024*.
+> *Escrito aos 9 de julho de 2024*.
 
 Desde sempre tive certo medo do envelhecimento. É natural, todo mundo carrega esse medo, uns mais, outros menos. Afinal, envelhecer é ver o corpo se degradar lentamente, e ninguém quer isso.
 
@@ -47,4 +45,4 @@ Só que há un lado na finitude que nos convoca ao movimento. Ela nos mostra que
 
 A finitude é agressiva, mas nos serve como uma ampulheta ao nos anunciar que o tempo urge (e, como dizia minha mãe, Sapucaí é longe). Ainda não assisti ao filme que meu padrinho mencionou, mas toda a conversa que tivemos não pôde deixar de me remeter a *The Substance* (2024). Filme controverso mas que me deixou extremamente angustiada na sala de cinema, inclusive em cenas que arrancaram risadas na plateia.
 
-Por falar nesse filme, Arlon, do Ideias de Chirico, publicou uma resenha interessantíssima ontem, [O capitalismo etarista em “A Substância” (2024)](https://blog.ayom.media/ideiasdechirico/o-capitalismo-etarista-em-a-substancia-2024)
+Por falar nesse filme, Arlon, do Ideias de Chirico, publicou uma resenha interessantíssima ontem, [O capitalismo etarista em “A Substância” (2024)](https://blog.ayom.media/ideiasdechirico/o-capitalismo-etarista-em-a-substancia-2024).

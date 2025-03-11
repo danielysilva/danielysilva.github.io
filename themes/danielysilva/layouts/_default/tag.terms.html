@@ -4,10 +4,10 @@
 {{ .Content }}
 
 {{ range .Data.Terms.Alphabetical }}
-<p class="tag">
+<li class="tag">
   <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
   <span class="count">({{ .Count }})</span>
-</p>
+</li>
 {{ end }}
 
 {{ end }}

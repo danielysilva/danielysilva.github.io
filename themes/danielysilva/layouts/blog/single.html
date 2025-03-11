@@ -9,7 +9,7 @@
     <small> Tempo de leitura: {{ math.Round (div (countwords .Content) 200.0) }} minutos.
 
     <span >  {{ range .Params.categories }}
-               <a style="color: #640000; font-size: 14px; font-family: sans-serif" href="{{ "/blog/categories/" | relLangURL }}{{ . | urlize }}">{{ . }} </a>
+               <a style="color: #640000; font-size: 14px; font-family: sans-serif; text-decoration: none" href="{{ "/blog/categories/" | relLangURL }}{{ . | urlize }}">{{ . }} </a>
            {{ end }} </span>
 
     <span class="tags">

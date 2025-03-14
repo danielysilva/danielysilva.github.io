@@ -182,9 +182,12 @@ max-width: none; /* Remove qualquer limite máximo de largura */
   .featured-image {
     transition: filter 0.3s ease; /* Animação de escurecimento */
     border-radius: 8px;
-    width: 100vw;
-    margin-left: 50%;
-    transform: translate3d(-50%, 0, 0);
+ width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
   }
 
   .featured-image-container {

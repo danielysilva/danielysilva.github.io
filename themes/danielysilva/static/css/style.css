@@ -186,17 +186,15 @@ max-width: none; /* Remove qualquer limite máximo de largura */
 
   .featured-image {
     transition: filter 0.3s ease; /* Animação de escurecimento */
-    margin-left: -50vw;
-    margin-right: -50vw;
-    left: 49.6%; /* Ajusta a posição para a esquerda */
-    transform: translateX(-50%); /* Centraliza a div */
-    width: 140%; /* Define uma largura maior que a do contêiner pai */
-    max-width: none; /* Remove qualquer limite máximo de largura */
+    position: relative;
+    width: 100%;
+
   }
 
   .featured-image-container {
     overflow: hidden; /* Para garantir que nada saia dos limites do contêiner */
     border-radius: 8px;
+    display: block;
   }
 
   .projects {

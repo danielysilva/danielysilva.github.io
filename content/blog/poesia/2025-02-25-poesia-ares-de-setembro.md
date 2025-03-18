@@ -1,4 +1,5 @@
 ---
+layout: blog
 title: "Poesia: Ares de Setembro"
 date: 2025-02-25 20:04:11
 draft: false

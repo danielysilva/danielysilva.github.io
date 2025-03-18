@@ -1,4 +1,5 @@
 ---
+layout: blog
 title: "2025 03 12 Sob a Escrita"
 date: 2025-03-11 18:43:59
 author: Daniely Silva

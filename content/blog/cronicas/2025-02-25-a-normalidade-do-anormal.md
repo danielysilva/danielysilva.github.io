@@ -1,4 +1,5 @@
 ---
+layout: blog
 title: "A Normalidade do Anormal"
 date: 2025-02-25
 draft: false

@@ -1,4 +1,5 @@
 ---
+layout: blog
 title: "Cordel: Migrações"
 date: 2025-03-06 21:28:53
 draft: false

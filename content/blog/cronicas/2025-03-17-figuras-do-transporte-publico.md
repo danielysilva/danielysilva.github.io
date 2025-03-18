@@ -1,4 +1,5 @@
 ---
+layout: blog
 title: "Figuras do Transporte Público"
 date: 2025-03-17 21:09:59
 author: Daniely Silva

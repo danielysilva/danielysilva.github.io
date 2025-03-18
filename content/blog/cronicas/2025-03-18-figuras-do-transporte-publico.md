@@ -31,7 +31,10 @@ A irmã morrera no Rio de Janeiro já ia pra um mês. Começou a me contar da su
 
 > "Quem bebe uma, bebe todas. Não tem como parar".
 
-A terceira figura espectral foi a Vovó Naná. Essa é bem recente! Rez ................
+
+
+
+A terceira figura espectral foi a Vovó Naná. Essa é bem recente! Pegava o ônibus sentido bairro no final da tarde, para descer no Mercado da Lapa. Uma figura quase folclórica: uma idosa de cabelos desgrenhados rezando o Santo Rosário em voz alta. Quase uma sobrevivente do Brasil católico, pois essa não foi martirizada pela nova era do Brasil neopentecostal e agrícola.
 
 tadeu
 

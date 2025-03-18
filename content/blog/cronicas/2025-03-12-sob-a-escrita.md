@@ -41,4 +41,4 @@ Os recursos estão à disposição para que usom-los ao nosso gosto e conforme a
 
 ![Caderneta aberta sob caneta e máquina de escrever Olivetti Lettera 22](/img/blog/Olivetti.jpg "Sob a escrita")
 
-[^1]: O método *Bullet Journal* foi desenvolvido pelo americano Ryder Carroll. Ele acabou virando uma coisa "meio coach", mas o método ainda é interessante. Há uma série de livros publicados e um aplicativo pago, mas o [seu site](http://bulletjournal.com/) explica o essencial do método, o qual pode ser customizado conforme a necessidade, como eu faço.]
+[^1]: O método *Bullet Journal* foi desenvolvido pelo austríaco Ryder Carroll. Ele acabou virando uma coisa "meio coach", mas o método ainda é interessante. Há uma série de livros publicados e um aplicativo pago, mas o [seu site](http://bulletjournal.com/) explica o essencial do método, o qual pode ser customizado conforme a necessidade, como eu faço.]

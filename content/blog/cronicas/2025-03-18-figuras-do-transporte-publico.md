@@ -25,9 +25,9 @@ A primeira figura que eu menciono foi o motorista Jorge Barbosa. Acompanhou por 
 
 Outra figura foi a cigana Soraia. Eu ia em direção ao Centro, ao final da tarde, e eis que ela se senta ao meu lado com um latinha de cerveja.
 
---- Eu não bebo. Eu tô bebendo, mas eu não bebeo. Só tô bebendo hoje porque minha irmã morreu.
+"Eu não bebo. Eu tô bebendo, mas eu não bebeo. Só tô bebendo hoje porque minha irmã morreu".
 
-A irmã morrera no Rio de Janeiro já ia pra um mês. Começou a me contar da sua origem no povo kaló e como estava distante do seu povo. Ao perguntar se eu bebia, ela me disse uma frase que nunca mais esqueceria:
+A irmã morrera no Rio de Janeiro já ia pra um mês. Começou a me contar da sua origem na Zona Norte do Rio e no povo Roma e como estava distante do seu povo. Ao perguntar se eu bebia, ela me disse uma frase que nunca mais esqueceria:
 
 > "Quem bebe uma, bebe todas. Não tem como parar".
 

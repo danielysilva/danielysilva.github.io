@@ -151,7 +151,7 @@ time {
   }
 
 small {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
 
 }
 
@@ -180,7 +180,6 @@ footer {
     transition: filter 0.3s ease; /* Animação de escurecimento */
     position: relative;
     width: 100%;
-
   }
 
   .featured-image-container {
@@ -243,6 +242,15 @@ footer {
   object-fit: cover;
   display: block;
   border-radius: 6px;
+}
+
+.break-out{
+  padding: 50px;
+  position: relative;
+  left: calc(-50vw + 50%);
+  width: 100vw;
+  background: #056891;
+  text-align: center;
 }
 
 /*layout responsivo para telas estreitas*/
@@ -348,12 +356,8 @@ max-width: none; /* Remove qualquer limite máximo de largura */
 }
 
 .gallery {
-  display: grid;
-  grid-gap: 7px;
   grid-template-columns: repeat(12, 1fr);
   grid-template-rows: repeat(2, 1fr);
-  width: 100%;
-  height: 100%;
 }
 
 .gallery__item--1 {

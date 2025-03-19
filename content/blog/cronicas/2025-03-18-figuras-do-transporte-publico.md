@@ -34,7 +34,7 @@ A irmã morrera no Rio de Janeiro já ia pra um mês. Começou a me contar da su
 
 
 
-A terceira figura espectral foi a Vovó Naná. Essa é bem recente! Pegava o ônibus sentido bairro no final da tarde, para descer no Mercado da Lapa. Uma figura quase folclórica: uma idosa de cabelos desgrenhados rezando o Santo Rosário em voz alta. Quase uma sobrevivente do Brasil católico, pois essa não foi martirizada pela nova era do Brasil neopentecostal e agrícola.
+A terceira figura espectral foi a Vovó Naná. Essa é bem recente! Pegava o ônibus sentido bairro no final da tarde, para descer no Mercado da Lapa. Uma figura quase folclórica: uma idosa de cabelos desgrenhados rezando o Santo Rosário em voz alta. Quase uma sobrevivente do Brasil católico, pois essa não foi martirizada pela nova era do Brasil neopentecostal e agrícola. Achei que fosse só mais uma beata, mas descobri que era uma pessoa doce e preocupada com o mundo, nada tinha de alienada. Não me leve a mal, mas ver alguém, sob Sol do meio dia, rezando o terço em voz alta no ônibus e benzendo galpões abandonados é uma cena no mínimo pitoresca.
 
 tadeu
 

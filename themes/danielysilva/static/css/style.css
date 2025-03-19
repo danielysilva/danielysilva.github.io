@@ -176,14 +176,6 @@ footer {
   margin: 0 auto;
 }
 
-.home-container {
-position: relative;
-left: 49.6%; /* Ajusta a posição para a esquerda */
-transform: translateX(-50%); /* Centraliza a div */
-width: 140%; /* Define uma largura maior que a do contêiner pai */
-max-width: none; /* Remove qualquer limite máximo de largura */
-}
-
   .featured-image {
     transition: filter 0.3s ease; /* Animação de escurecimento */
     position: relative;
@@ -328,10 +320,6 @@ nav {
     grid-row-start: 4;
     grid-row-end: 6;
   }
-
-  .project-item {
-    flex: 1 1 100%; /* Itens ocupando 100% da largura em telas estreitas */
-  }
 }
 
 /* layout responsivo para telas largas */
@@ -343,6 +331,14 @@ nav {
   #content {
     width: 85%;
   }
+
+.home-container {
+position: relative;
+left: 49.6%; /* Ajusta a posição para a esquerda */
+transform: translateX(-50%); /* Centraliza a div */
+width: 140%; /* Define uma largura maior que a do contêiner pai */
+max-width: none; /* Remove qualquer limite máximo de largura */
+}
 
 .gallery {
   display: grid;

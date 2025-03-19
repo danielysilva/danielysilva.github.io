@@ -230,7 +230,7 @@ footer {
 
 .gallery {
   display: grid;
-  grid-gap: 9px;
+  grid-gap: 6px;
   width: 100%;
   height: 100%;
 }

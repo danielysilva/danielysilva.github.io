@@ -243,14 +243,6 @@ footer {
   border-radius: 6px;
 }
 
-.break-out{
-  margin: 0 auto;
-  padding: 0 50px 10 50px;
-  position: relative;
-  left: calc(-40vw + 50%);
-  width: 80vw;
-}
-
 .full-width {
   width: 100vw;
   margin-left: 50%;
@@ -339,6 +331,15 @@ nav {
     grid-row-start: 4;
     grid-row-end: 6;
   }
+
+  .break-out{
+  margin: 0 auto;
+  padding: 0 50px 10px 50px;
+  position: relative;
+  left: calc(-50vw + 50%);
+  width: 100vw;
+}
+  
 }
 
 /* layout responsivo para telas largas */
@@ -413,6 +414,14 @@ max-width: none; /* Remove qualquer limite máximo de largura */
   grid-row-end: 3;
 }
 
+.break-out{
+  margin: 0 auto;
+  padding: 0 50px 10px 50px;
+  position: relative;
+  left: calc(-40vw + 50%);
+  width: 80vw;
+}
+  
 }
 
 @media print {

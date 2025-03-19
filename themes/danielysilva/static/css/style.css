@@ -244,11 +244,11 @@ footer {
 }
 
 .break-out{
+  margin: 0 auto;
   padding: 0 50 10 50;
   position: relative;
   left: calc(-50vw + 50%);
   width: 80vw;
-  text-align: center;
 }
 
 .full-width {

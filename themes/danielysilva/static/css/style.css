@@ -253,6 +253,12 @@ footer {
   text-align: center;
 }
 
+.full-width {
+  width: 100vw;
+  margin-left: 50%;
+  transform: translate3d(-50%, 0, 0);
+}
+
 /*layout responsivo para telas estreitas*/
 @media screen and (max-width: 768px), only screen or (orientation: portrait) {
 

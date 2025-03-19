@@ -196,7 +196,6 @@ footer {
   .project-item {
   display: flex;
   object-fit: cover;
-  border-radius: 8px;
   }
 
   .project-link {
@@ -245,11 +244,10 @@ footer {
 }
 
 .break-out{
-  padding: 50px;
+  padding: 0 50 5 50;
   position: relative;
   left: calc(-50vw + 50%);
   width: 100vw;
-  background: #056891;
   text-align: center;
 }
 

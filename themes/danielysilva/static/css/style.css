@@ -334,7 +334,7 @@ nav {
 
   .break-out{
   margin: 0 auto;
-  padding: 0 50px 10px 50px;
+  padding: 0 0 10px 0;
   position: relative;
   left: calc(-50vw + 50%);
   width: 100vw;

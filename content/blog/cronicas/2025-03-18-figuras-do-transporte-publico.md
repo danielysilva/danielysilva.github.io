@@ -1,14 +1,14 @@
 ---
 layout: blog
 title: "Figuras do Transporte Público"
-date: 2025-03-18
+date: 2025-03-19
 author: Daniely Silva
 categories: ["Crônicas"]
-tags: ["urbanidades"]
-draft: true
+tags: ["urbanidades", "emoção"]
+draft: false
 ---
 
-> **[Microconto: Metrô](http://danielysilva.com.br/contos/......metro/)**\
+> **[Microconto: Metrô](http://danielysilva.com.br/contos/2025-03-19-metro/)**\
 > O metrô era tudo novo para ela. Ficou abismada ao viajar, não sabia que existia aquilo: tanta gente no mundo.
 >
 > *Escrito aos 17 de julho de 2024.*
@@ -31,17 +31,14 @@ A irmã morrera no Rio de Janeiro já ia pra um mês. Começou a me contar da su
 
 > "Quem bebe uma, bebe todas. Não tem como parar".
 
+Prometeu ler o meu futuro um dia, pelos búzios, pelo tarô ou pelas mãos. Tenho seu contato, mas os horários não bateram. Quem sabe a gente ainda não toma uma cerveja, apesar de que ela não bebe, mesmo que estivesse bebendo naquele dia. Mas não tem como parar, porque ninca é só uma!
+
+A terceira figura espectral foi a Vovó Naná. Essa é bem recente! Pegava o ônibus sentido bairro no final da tarde, para descer no Mercado da Lapa. Uma figura quase folclórica: uma idosa de cabelos desgrenhados rezando o Santo Rosário em voz alta. Quase uma sobrevivente do Brasil católico, pois essa não foi martirizada pela nova era do Brasil neopentecostal e agrícola. Achei que fosse só mais uma beata, mas descobri que era uma pessoa doce e preocupada com o mundo, nada tinha de alienada. Não me leve a mal, mas ver alguém, sob Sol do meio dia, rezando o terço em voz alta no ônibus e benzendo galpões abandonados é uma cena no mínimo pitoresca. Contou sobre os trabalhos seus e de seu filho com a população em situação de rua e animais abandonados e ainda explicou a um cristão que não dissesse "Obrigado",pois ela tudo vazia sem esperar nada em troca. A vovó Naná é bem informada, nada tem de bitolada e deve bem saber que a nossa forma de agradecer na língua portuguesa é uma forma reduzida da frase "Estou obrigado a retribuir-lhe por isso". Sábia beata, ainda disse ter uma nora que é minha chará; profetizou que um Tadeu na minha vida, como a Daniele sua nora encontrou o Tadeu seu filho.
+
+Findas as três figuras folclóricas, cito, *in memoriam*, o radialista Ricardo Boechat. Acompanhou praticamente os meus três anos de Ensino Médio na ida diária à escola técnica. Àquela época, o transporte era bem pior, então uma voz como a dele fazia toda a diferença naquelas manhãs. Estava no interior quando soube do acidente que o vitimou nas proximidades da minha casa. Nunca mais escutei a Band News FM, porque, se em 20 minutos tudo pode mudar, a Bandeirantes mudou muito mais com a perda de Boechat. Ainda me lembro dele mandando o fundamentalista cristão Silas Malafaia ir procurar uma rola, após as crises de histeria homofóbica deste último.
 
 
-
-A terceira figura espectral foi a Vovó Naná. Essa é bem recente! Pegava o ônibus sentido bairro no final da tarde, para descer no Mercado da Lapa. Uma figura quase folclórica: uma idosa de cabelos desgrenhados rezando o Santo Rosário em voz alta. Quase uma sobrevivente do Brasil católico, pois essa não foi martirizada pela nova era do Brasil neopentecostal e agrícola. Achei que fosse só mais uma beata, mas descobri que era uma pessoa doce e preocupada com o mundo, nada tinha de alienada. Não me leve a mal, mas ver alguém, sob Sol do meio dia, rezando o terço em voz alta no ônibus e benzendo galpões abandonados é uma cena no mínimo pitoresca.
-
-tadeu
-
-*In memoriam*, cito o radialista Ricardo Boechat. Acompanhou praticamente os meus três anos de Ensino Médio na ida diária à escola técnica. Àquela época, o transporte era bem pior, então uma voz como a dela fazia toda a diferença naquelas manhãs. Estava no interior quando soube do acidente que o vitimou nas proximidades da minha casa. Nunca mais escutei a Band News FM, porque, se em 20 minutos tudo pode mudar, a Bandeirantes mudou muito mais com a perda de Boechat. Ainda me lembro dele mandando o fundamentalista cristão Silas Malafaia ir procurar uma rola, após as crises de histeria homofóbica deste último.
-
-
-> **[Cidade Grande]()**\
+> **[Cidade Grande](http://danielysilva.com.br/contos/2025-03-19-microconto-cidade-grande)**\
 > Ela se perdeu na cidade. Andava em busca de si mesma. Não se achou.
 >
 > *Escrito aos 9 de julho de 2024.*

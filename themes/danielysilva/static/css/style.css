@@ -184,7 +184,6 @@ footer {
 
   .featured-image-container {
     overflow: hidden; /* Para garantir que nada saia dos limites do contêiner */
-    border-radius: 8px;
     display: block;
   }
 
@@ -197,6 +196,7 @@ footer {
   .project-item {
   display: flex;
   object-fit: cover;
+  border-radius: 8px;
   }
 
   .project-link {

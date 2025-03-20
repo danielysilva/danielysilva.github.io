@@ -2,7 +2,6 @@
 layout: blog
 title: "Microconto: Anestesia"
 date: 2025-03-10 18:35:46
-draft: false
 author: Daniely Silva
 categories: ["Contos"]
 tags: ["emoção", "microcontos"]

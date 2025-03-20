@@ -151,7 +151,7 @@ time {
   }
 
 small {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
 
 }
 
@@ -176,24 +176,14 @@ footer {
   margin: 0 auto;
 }
 
-.home-container {
-position: relative;
-left: 49.6%; /* Ajusta a posição para a esquerda */
-transform: translateX(-50%); /* Centraliza a div */
-width: 140%; /* Define uma largura maior que a do contêiner pai */
-max-width: none; /* Remove qualquer limite máximo de largura */
-}
-
   .featured-image {
     transition: filter 0.3s ease; /* Animação de escurecimento */
     position: relative;
     width: 100%;
-
   }
 
   .featured-image-container {
     overflow: hidden; /* Para garantir que nada saia dos limites do contêiner */
-    border-radius: 8px;
     display: block;
   }
 
@@ -238,16 +228,32 @@ max-width: none; /* Remove qualquer limite máximo de largura */
     transform: translate(-50%, -50%) scale(1.1);
   }
 
+<<<<<<< HEAD
   .gallery {
     display: grid;
     grid-gap: 7px;
     width: 100%;
     height: 100%;
   }
+=======
+.gallery {
+  display: grid;
+  grid-gap: 6px;
+  width: 100%;
+  height: 100%;
+}
+>>>>>>> 344f0e2041db4d73f231c52fe1109a1267bbdcd5
 
 .gallery__img {
   object-fit: cover;
-  border-radius: 6px;
+  display: block;
+  border-radius: 18px;
+}
+
+.full-width {
+  width: 100vw;
+  margin-left: 50%;
+  transform: translate3d(-50%, 0, 0);
 }
 
 
@@ -335,6 +341,14 @@ nav {
     grid-row-end: 6;
   }
 
+  .break-out{
+  margin: 0 auto;
+  padding: 0 0 10px 0;
+  position: relative;
+  left: calc(-50vw + 50%);
+  width: 100vw;
+}
+
 }
 
 /* layout responsivo para telas largas */
@@ -347,13 +361,13 @@ nav {
     width: 85%;
   }
 
+.home-container {
+position: relative;
+}
+
 .gallery {
-  display: grid;
-  grid-gap: 7px;
   grid-template-columns: repeat(12, 1fr);
   grid-template-rows: repeat(2, 1fr);
-  width: 100%;
-  height: 100%;
 }
 
 .gallery__item--1 {
@@ -403,6 +417,14 @@ nav {
   grid-column-end: 9;
   grid-row-start: 1;
   grid-row-end: 3;
+}
+
+.break-out{
+  margin: 0 auto;
+  padding: 0 50px 10px 50px;
+  position: relative;
+  left: calc(-40vw + 50%);
+  width: 80vw;
 }
 
 }

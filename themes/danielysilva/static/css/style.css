@@ -267,10 +267,9 @@ nav {
 
   .home-container {
   margin: 0 auto;
-  padding: 0 50px 10px 50px;
   position: relative;
-  left: calc(-40vw + 50%);
-  width: 80vw;
+  left: calc(-45vw + 50%);
+  width: 90vw;
 }
 
 #content {
@@ -358,8 +357,8 @@ nav {
 .home-container {
 position: relative;
 margin: 0 auto;
-  left: calc(-40vw + 50%);
-  width: 80vw;
+  left: calc(-30vw + 50%);
+  width: 60vw;
 }
 
 .gallery {

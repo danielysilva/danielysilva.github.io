@@ -4,7 +4,6 @@ draft: false
 permalink: /
 layout: home
 ---
-<div class="break-out">
 <div class="home-container">
   <div class="gallery">
     <figure class="gallery__item gallery__item--1">
@@ -43,5 +42,4 @@ layout: home
       </a>
     </figure>
   </div>
-</div>
 </div>

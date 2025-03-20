@@ -228,7 +228,6 @@ footer {
     transform: translate(-50%, -50%) scale(1.1);
   }
 
-<<<<<<< HEAD
   .gallery {
     display: grid;
     grid-gap: 7px;
@@ -248,16 +247,8 @@ footer {
   height: 100%;
   object-fit: cover;
   display: block;
-  border-radius: 6px;
+  border-radius: 15px;
 }
-
-.full-width {
-  width: 100vw;
-  margin-left: 50%;
-  transform: translate3d(-50%, 0, 0);
-}
-
-
 
 /*layout responsivo para telas estreitas*/
 @media screen and (max-width: 768px), only screen or (orientation: portrait) {
@@ -275,8 +266,11 @@ nav {
   }
 
   .home-container {
-  width: 100%;
   margin: 0 auto;
+  padding: 0 50px 10px 50px;
+  position: relative;
+  left: calc(-40vw + 50%);
+  width: 80vw;
 }
 
 #content {
@@ -363,6 +357,9 @@ nav {
 
 .home-container {
 position: relative;
+margin: 0 auto;
+  left: calc(-40vw + 50%);
+  width: 80vw;
 }
 
 .gallery {

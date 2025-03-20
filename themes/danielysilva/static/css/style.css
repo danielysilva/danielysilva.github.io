@@ -235,19 +235,20 @@ footer {
     width: 100%;
     height: 100%;
   }
-=======
+
 .gallery {
   display: grid;
   grid-gap: 6px;
   width: 100%;
   height: 100%;
 }
->>>>>>> 344f0e2041db4d73f231c52fe1109a1267bbdcd5
 
 .gallery__img {
+  width: 100%;
+  height: 100%;
   object-fit: cover;
   display: block;
-  border-radius: 18px;
+  border-radius: 6px;
 }
 
 .full-width {
@@ -348,7 +349,6 @@ nav {
   left: calc(-50vw + 50%);
   width: 100vw;
 }
-
 }
 
 /* layout responsivo para telas largas */

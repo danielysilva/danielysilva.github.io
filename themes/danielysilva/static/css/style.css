@@ -47,12 +47,13 @@ nav {
 }
 
 nav > a {
-  justify-content: space-around;
   font-size: 1.8rem;
   font-family: sans-serif;
   flex: 1;
   text-align: center;
+  font-size: 2.0rem;
   margin: 0 10px;
+  
 }
 
 p a {
@@ -257,7 +258,6 @@ nav {
     flex-direction: column;
     text-align: center;
     justify-content: center;
-    gap: 0;
   }
 
   nav > a {
@@ -346,6 +346,14 @@ nav {
 
 /* layout responsivo para telas largas */
 @media only screen and (min-width: 768px) {
+nav {
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    flex-grow: 1;
+    flex-shrink: 1;
+  }
+  
   .container {
     width: 40%;
  }

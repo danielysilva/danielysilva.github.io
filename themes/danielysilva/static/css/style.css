@@ -251,6 +251,11 @@ footer {
   border-radius: 9px;
 }
 
+.social {
+  height: 5em;
+  width: 5em;
+}
+
 /*layout responsivo para telas estreitas*/
 @media screen and (max-width: 768px), only screen or (orientation: portrait) {
 

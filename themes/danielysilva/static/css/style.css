@@ -363,8 +363,8 @@ nav {
   }
 
 .home-container {
-position: relative;
-margin: 0 auto;
+  position: relative;
+  margin: 0 auto;
   left: calc(-30vw + 50%);
   width: 60vw;
 }
@@ -429,6 +429,7 @@ margin: 0 auto;
   position: relative;
   left: calc(-40vw + 50%);
   width: 80vw;
+  border-radius: 6px;
 }
 
 }

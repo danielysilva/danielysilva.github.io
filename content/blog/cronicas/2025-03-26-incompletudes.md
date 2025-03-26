@@ -1,12 +1,12 @@
 ---
 layout: blog
-title: "2025 03 25 Incompletudes"
-date: 2025-03-25 21:24:31
+title: "Incompletudes"
+date: 2025-03-26 18:56
 author: Daniely Silva
 categories: ["Crônicas"]
 tags: ["emoção", "reflexões"]
 summary:
-draft: true
+draft: draft
 ---
 Católicos, protestantes e muçulmanos esperam pela Segunda Vinda de Cristo. Os primeiros esperam que ele venha para a ressurreição da carne, enquanto que boa parte dos segundos espera que ele acorde, na glória, os espíritos adormecidos, e os terceiros que ele reúna os povos do Livro para liderar a paz. Os portugueses até hoje esperam por Dom Sebastião, que voltará do mar com suas provas para restaurar a monarquia luso-brasileira. Tanto esperaram que nunca mais coroaram um monarca. Ora, se a coroa ficou com El-Rey menino que desapareceu em Alcácer-Quibir, ele então que volte para devolvê-la! Um tal Pedro de Bragança que ainda teve a ousaria de ser coroado, essa tal que em Portugal levara o nome de "o brasileiro" e por aqui era chamado de rei português.
 
@@ -14,10 +14,14 @@ Católicos, protestantes e muçulmanos esperam pela Segunda Vinda de Cristo. Os 
 > Nosso rei D. Sebastião
 > Coitado daquelle pobre
 > Que estiver na lei do cão!
+>
+> *Poema composto pelo povo de Canudos. Extraído d'Os Sertões, Euclides da Cunha.
 
 A verdade é que Jesus reluta até hoje em voltar:
 
-> — Se Jesus voltar ao mundo, continuava o coronel, há de ficar horrorizado com estas desorganizações. Deve ser por isso que êle não vem. (JESUS, 1963, p. 209)
+> — Se Jesus voltar ao mundo, continuava o coronel, há de ficar horrorizado com estas desorganizações. Deve ser por isso que êle não vem.
+>
+> *Fala do Coronel Fagundes na obra Pedaços da Fome, de Carolina Maria de Jesus, 1963. [Fiz uma resenha da obra](https://danielysilva.com.br/blog/resenhas/2022-04-30-resenha-de-pedacos-da-fome/).*
 
 Dom Sebastião, do mesmo modo, se emergisse do mar com suas tropas, talvez em Copacbana, voltaria à água, pediria uma capirinha e ficaria por lá mesmo, dado o calor que tem feito.
 
@@ -33,8 +37,3 @@ Assim são as histórias incompletas em nossas vidas, põem-nos incrédulas e em
 As incompletudes nos deixam no pensamento sobre como teria sido se fosse de outro jeito e até que ponto as coisas chegariam. Mais ainda, põemnos a dúvida se deveríamos ter tomado atitudes diferentes e se fizemos algo de errado. E se agisse mais? E se interferisse menos?, perguntamo-nos. Mas não tem como saber o que aconteceria, justamente porque não aconteceu. A resposta é sempre tão simples quanto parece.
 
 Mais que a dor da interrupção, lateja a dor da dúvida. Não é uma história tradicional numa estrutura de trẽs atos, mas uma quebra na narrativa. A história termina sem desfecho, ou, aliás, não termina. E aí ficaram os portugueses: a monarquia acabou e nunca coroaram ninguém.
-
-
-<hr>
-
-JESUS, Carolina Maria de. Pedaços da Fome. São Paulo, 1963.

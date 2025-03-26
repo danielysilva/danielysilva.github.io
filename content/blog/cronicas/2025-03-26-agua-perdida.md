@@ -1,12 +1,12 @@
 ---
 layout: blog
-title: "A água"
-date: 2025-03-18
+title: "Água perdida"
+date: 2025-03-26
 author: Daniely Silva
 categories: ["Crônicas"]
-tags: ["brasilidade"]
+tags: ["brasilidade", "causos"]
 summary:
-draft: true
+draft: false
 ---
 
 Meu tio não viveu para ver a explosão das inteligências artificiais generativas, mas sempre gritava ao Google para que lhe mostrasse o cemitério de Bezerros. A assistente de voz, hoje Gemnini, não entendia e ele berrava ainda mais alto. Bruto no trato com pessoas, animais e robôes, ele nem chegou a tentar pedir para ver o cemitério da cidade vizinha a Bezerros, Sairé.
@@ -29,7 +29,7 @@ Seguiu invicta para sua maloca, o coração batendo em triunfo. Já avistava a s
 
 — Vai pra Bahia, fecha a braguilha. Quem vai pro Ceará, que ajude a fechar! Bom dia, seu major.
 
-Ele nem se lembrara de fechar as calças e o cinto, já com o revólver enferrujado na mão. A tentativa de descontração da velha não adiantou, ao que ela pôes o jarro ao chão para implorarp ela vida, em nome de Nossa Senhora das Dores e de Santo Expedito. Nem o fato de que ele era devoto dessa santa adiantou.
+Ele nem se lembrara de fechar as calças e o cinto, já com o revólver enferrujado na mão. A tentativa de descontração da velha não adiantou, ao que ela pôes o jarro ao chão para implorarp ela vida, em nome de Nossa Senhora das Graças e de Santo Expedito. Nem o fato de que ele era devoto dessa santa adiantou.
 
 A partir daí, vou ter que quebrar a quarta parede para dividr o causo em duas versões. Dizem que ele pegou o jarro do chão e o quebrou na cabeça dela: além do galo na cabeça, ainda molhou a velha todinha. Como não é muito crível que ela não fosse ter um traumatismo carniano, a outra versão contada pelo meu tio em Natais diferentes diz que o dono disse à velha que podia levara água e, no que ela a ergueu na cabeça, ele estourou tudo num tiro de revólver, machucando-a com os estilhaços e, do mesmo modo, molhando a velha todinha.
 
@@ -41,7 +41,7 @@ Independente da versão, a seguir ela torce os cabelos prateados cheios d'água 
 
 Ajustava a fivela do cinto e fechava a bragulha ao tocar a mula para dentro. Esqueceu aquela história por um tempo, até que a chegada do Inverno o vitima numa enxurrada. Aliás, o pobre do Inverno pouco tem a ver: um cabra que não aguentou desaforo o afogou no seu próprio açude.
 
-Mas o pior vem depois:
+Mas o pior vem depois. Antes de morrer, o velho erguera um lindo mausoléu pintado a cal, com uma Nossa Senhora das Graças no topo, mandara até trazer artista de fora. No que ele foi sepultado, não sei se bateram muito fundo na hora de abrir o túmulo, mas sucedeu que no amanhecer seguinte ao sepultamento uma poça perpétua se formou ao redor do túmulo: ninguém podia drená-la. Mas o povo daquele distrito no agreste fazia fila era pra ver uma coisa ainda mais esquisita: escorria água dos olhos da Nossa Senhora das Graças. Não era uma cachoeira, mas era água constante, a qual não deixaria de surpreender qualquer judeu, ateu ou protestante. A poça até diminuiu, mas a água até hoje escorre. Quem ouve a história por trás vai duvidar de que jeito?
 
 A navalha de Ockham nos diz que a cova atingiu a ponta do lençol freático e que havia algum tipo de infiltração bizarra no mausoléu, mas a sabedoria popular diz que a língua da velha lançou maldição da braba.
 

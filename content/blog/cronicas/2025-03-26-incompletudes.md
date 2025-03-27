@@ -16,7 +16,7 @@ Católicos, protestantes e muçulmanos esperam pela Segunda Vinda de Cristo. Os 
 > Coitado daquelle pobre
 > Que estiver na lei do cão!
 >
-> *Poema composto pelo povo de Canudos. Extraído d'Os Sertões, Euclides da Cunha.
+> *Poema composto pelo povo de Canudos. Extraído d'Os Sertões, Euclides da Cunha.*
 
 A verdade é que Jesus reluta até hoje em voltar:
 

@@ -8,14 +8,12 @@ aliases:
 ---
 O movimento de criar uma página [*Now*/Agora](https://nownownow.com/about) em websites pessoais é uma forma de humanizar a internete. É um registro do que estamos focadas neste momento da vida, servindo pra quebrar um pouco da formalidade e permitir conhecer um pouco mais sobre a autora.
 
-1. Às vésperas de voltar das férias da Especialização em Humanidades, ainda não mexi mais no pré-projeto da monografia. Já é hora! Novamente, vou trabalhar com rios.
+1. Voltei de férias e sigo o último semestre da Especialização em Humanidades. Já estou trabalhando na monografia de conclusão enquanto tento me dedicar mais às disciplinas do que no semestre passado. Agora tenho uma impressora!, então a leitura da bibliografia vai ser mais confortável.
 
-2. Finalizo a leitura d'*Os Sertões* (1902), de Euclides da Cunha, para seguir com outras leituras. É a segunda vez que tento lê-lo. É uma leitura arrastada, mas de grande valor.
+2. Estou no finalzinho da leitura d'*Os Sertões* (1902), de Euclides da Cunha, numa altura em que as forças do Estado brasileiro, depois de sucessivas humilhações, toma o arraial covardemente.
 
-3. Acabo de finalizar o cordel [Migrações](https://danielysilva.com.br/blog/contos/2025-03-06-cordel-migracoes/). Agora posso seguir com o conto *Doutora Cadela*, para, depois, dar sequência a um conto em estado germinal, *Cidade Pólo*.
+3. Ainda não voltei ao conto *Doutora Cadela*. Ainda terei, em sequência, o conto em estado germinal *Cidade Pólo*. Por ora, tenho criado crônicas e contos menores e os tenho usado para alimentar o site. Em todo caso, um site é um bom empurrão para a escrita!
 
-4. Estou no último terço do curso de direção. Vixe, ainda não estou nos 100%! Mas bora lá.
+4. Nesta semana farei o meu exame de direção no Detran. Vamos ver no que dá!, se passar, vou me dar um relógio de presente com o dinheiro que seria o de refazer a prova. E muito cuidado com a máfia do quebra!
 
-5. Depois de migrar do Jekyll para o Hugo, ando trabalhando em alguns ajustes na folha de estilos deste site.
-
-**Atualizado aos 9 de março de 2025.**
+**Atualizado aos 30 de março de 2025.**

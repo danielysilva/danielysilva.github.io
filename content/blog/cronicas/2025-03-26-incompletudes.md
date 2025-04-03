@@ -11,9 +11,9 @@ draft: false
 
 Católicos, protestantes e muçulmanos esperam pela Segunda Vinda de Cristo. Os primeiros esperam que ele venha para a ressurreição da carne, enquanto que boa parte dos segundos espera que ele acorde, na glória, os espíritos adormecidos, e os terceiros que ele reúna os povos do Livro para liderar a paz. Os portugueses até hoje esperam por Dom Sebastião, que voltará do mar com suas provas para restaurar a monarquia luso-brasileira. Tanto esperaram que nunca mais coroaram um monarca. Ora, se a coroa ficou com El-Rey menino que desapareceu em Alcácer-Quibir, ele então que volte para devolvê-la! Um tal Pedro de Bragança que ainda teve a ousaria de ser coroado, essa tal que em Portugal levara o nome de "o brasileiro" e por aqui era chamado de rei português.
 
-> Visita nos vem fazer
-> Nosso rei D. Sebastião
-> Coitado daquelle pobre
+> Visita nos vem fazer\
+> Nosso rei D. Sebastião\
+> Coitado daquelle pobre\
 > Que estiver na lei do cão!
 >
 > *Poema composto pelo povo de Canudos. Extraído d'Os Sertões, Euclides da Cunha.*

@@ -20,9 +20,9 @@ draft: false
 >
 > *Trecho da entrevista a Aloizio Mercadente no Roda Viva exibido aos 15 de maio de 2023.*
 
-O homem de bigode é um homem de princípios, é aquele que assume não só um estilo, mas um modo de viver. Não, não falo daquele que botou um bigode hoje como experimento, esse só teve a sarcástica ousadia de se fantasiar de uma categoria da qual ele não faz parte. A moda do bigode vai e vem, mas há aqueles homens não usam um bigode, o bigode simplesmente é parte deles. Remover esses pelos pode ser perigoso: até a personalidade pode mudar e a saúde fraquejar, é como tirar os cabelos de Sansão.
+O homem de bigode é um homem de princípios, é aquele que assume não só um estilo, mas um modo de viver. Não, não falo daquele que botou um bigode hoje como experimento, esse só teve a sarcástica ousadia de se fantasiar de uma categoria da qual ele não faz parte. É uma moda que vai e vem, mas há aqueles homens não usam um bigoe: o bigode simplesmente é parte deles. Remover esses pelos pode ser perigoso: até a personalidade pode mudar e a saúde fraquejar, é como tirar os cabelos de Sansão.
 
-Todos os meus tios usaram bigode, ao menos em algum momento da vida. Dois deles morreram e foram enterrados de bigode: o do lado materno tentou tirar o bigode uma vez, mas era algo mais forte que ele: o bigode voltou e o acompanhou pelo resto da vida; o do lado paterno não deixou de usar o bigode sequer por um mês da sua vida longeva, inclusive, mal seu nome sabíamos, conhecendo-o apenas pela alcunha de *Bigode*.
+Todos os meus tios usaram bigode, ao menos em algum momento da vida. Dois deles morreram e foram enterrados de bigode: o do lado materno tentou tirá-louma vez, mas era algo mais forte que ele: o bigode voltou e o acompanhou pelo resto da vida; o do lado paterno não deixou de usar o bigode sequer por um mês da sua vida longeva, inclusive, mal seu nome sabíamos, conhecendo-o apenas pela alcunha de *Bigode*.
 
 Um outro tio viveu por mais de 50 anos de bigode. Foi um espanto visitá-lo depois de algum tempo sem vê-lo e encontrá-lo sem o seu companheiro de tantas décadas. Foi assustador! E pior foi vê-lo tentando se justificar.
 

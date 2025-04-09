@@ -6,7 +6,7 @@ author: Daniely Silva
 categories: [""]
 tags: ["tecnologia"]
 summary:
-draft: false
+draft: true
 ---
 
 Pelo [Manualdousuário.net](https://manualdousuario.net/dia-do-css-pelado/) descobri ser o Dia do CSS Pelado (CSS Naked Day).

@@ -258,6 +258,7 @@ nav {
     flex-direction: column;
     text-align: center;
     justify-content: center;
+    gap: 5px;
   }
 
   nav > a {

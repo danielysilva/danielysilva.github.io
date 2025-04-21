@@ -15,7 +15,7 @@ Tocou um novo disco\
 Era 2013 o ano
 
 A fumaça branca saiu\
-Ouviu-se o Habemus Papam\
+Ouviu-se o *Habemus Papam*\
 Ele acenou e então sorriu\
 Escutam o nome e saltam:\
 É Jorge Mario Bergoglio

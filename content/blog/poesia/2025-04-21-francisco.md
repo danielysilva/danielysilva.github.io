@@ -12,8 +12,8 @@ draft: false
 Seu nome é Francisco\
 Lá no Vaticano\
 Tocou um novo disco\
-Era 2013 o ano
 
+Era 2013 o ano\
 A fumaça branca saiu\
 Ouviu-se o *Habemus Papam*\
 Ele acenou e então sorriu\

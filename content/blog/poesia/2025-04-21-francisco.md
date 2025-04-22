@@ -11,7 +11,7 @@ draft: false
 
 Seu nome é Francisco\
 Lá no Vaticano\
-Tocou um novo disco\
+Tocou um novo disco
 
 Era 2013 o ano\
 A fumaça branca saiu\

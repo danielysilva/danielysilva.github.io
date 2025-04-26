@@ -13,6 +13,6 @@ A seca era braba, até incomum para aquele setor da Chapada. Foi nalgum momento 
 
 O padre Venâncio conseguiu reunir metade do distrito ao final da tarde para clamar aos céus pela chuva esperançada. Os fiéis chegaram cedo e lá ficaram à espera do vigário.
 
-— Vocês são uns incrédulos!, todos se sobressaltaram ao ver o padre colérigo; ele continuou: — Viemos nos reunir para rezar pela chuva e, tirando aquele menino ali, ninguém mais trouxe uma sombrinha! Não vai ter chuva desse jeito.
+— Vocês são uns incrédulos!, todos se sobressaltaram ao ver o padre colérico; ele continuou: — Viemos nos reunir para rezar pela chuva e, tirando aquele menino ali, ninguém mais trouxe uma sombrinha! Não vai ter chuva desse jeito.
 
 De fato, não houve Inverno até o outro ano. Não choveu.

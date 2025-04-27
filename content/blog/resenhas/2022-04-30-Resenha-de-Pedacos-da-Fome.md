@@ -1,9 +1,9 @@
 ---
 layout: blog
-title:  "Resenha de Pedaços da Fome, Carolina Maria de Jesus"
+title:  "Resenha de Pedaços da Fome (1963), Carolina Maria de Jesus"
 date:   2022-04-30
 categories: ["Resenhas"]
-tags: ["escrita", "emoção", "brasilidade"]
+tags: ["escrita", "emoção", "brasilidade", "leituras"]
 permalink: /blog/:categories/:title
 author: "Daniely Silva"
 ---

@@ -3,7 +3,7 @@ layout: blog
 title:  "O Auto da Compadecida 2 (2024): o filme que ninguém pediu mas todo mundo viu"
 date:   2025-01-07
 categories: ["Resenhas"]
-tags: ["brasilidade"]
+tags: ["brasilidade", "filmes"]
 author: "Daniely Silva"
 draft: false
 ---

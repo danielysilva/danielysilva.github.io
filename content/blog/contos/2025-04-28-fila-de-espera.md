@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "2025 04 28 Fila De Espera"
+title: "Conto: Fila de espera"
 date: 2025-04-28 17:13:50
 author: Daniely Silva
 categories: ["Contos"]

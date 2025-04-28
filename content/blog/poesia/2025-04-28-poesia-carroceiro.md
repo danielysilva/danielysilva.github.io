@@ -6,7 +6,7 @@ author: Daniely Silva
 categories: ["Poesia"]
 tags: ["brasilidade"]
 summary:
-draft: true
+draft: false
 ---
 Carro de humana tração\
 Que no entanto é a álcool movido\

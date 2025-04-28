@@ -43,14 +43,14 @@ AS caçadas se alternam entre momentos contemplativos em esconderijos, entre tir
 
 A trilha sonora é modesta em quantidade de faixas, mas soberba em profundidade. Para encerrar o filme, os créditos nos trazem outro clássico que nos toca o coração: *Tudo Passará*, do pequeno gigante da canção, Nelson Ned.
 
-> Voltarei a querer algum dia
-> Hoje eu sei que não vou mais chorar
-> Se em mim já não há alegria
+> Voltarei a querer algum dia\
+> Hoje eu sei que não vou mais chorar\
+> Se em mim já não há alegria\
 > A esperança me ensina a gritas
 >
-> Que tudo passa, tudo passará
-> Que nada fica, nada ficará
-> Só se encontra a felicidade
+> Que tudo passa, tudo passará\
+> Que nada fica, nada ficará\
+> Só se encontra a felicidade\
 > Quando se entrega o coração
 
 A letra cai bem para a escolha por um final fechado que, no entanto, deixa aberto o coração da audiência para um vazio de sabor amargo.

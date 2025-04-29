@@ -9,7 +9,7 @@ summary:
 draft: false
 ---
 
-<hr>
+
 * **Direção**: Érico Rassi;
 * **Produção**: Cristiane Miotto e Lidiane Reis;
 * **Elenco**: Ângelo Antônio é Totó; Babu Santana é Durval; Rodger Rogério é o capanga; Antônio Pitanga é o primo ermitão;

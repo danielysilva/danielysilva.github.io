@@ -8,7 +8,7 @@ tags: ["religião", "emoção"]
 summary:
 draft: false
 aliases:
-  - /2025-04-21-francisco/
+  - /blog/poesia/2025-04-21-francisco/
 ---
 
 Seu nome é Francisco\

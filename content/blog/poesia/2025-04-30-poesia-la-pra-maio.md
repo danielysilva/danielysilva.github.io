@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Poesia: Lá pra maio"
-date: 2025-04-28 18:05:42
+date: 2025-04-30
 author: Daniely Silva
 categories: ["Poesia"]
 tags: ["emoção"]

@@ -4,7 +4,7 @@ title: "Os Bastidores dos dias de maior ansiedade na nossa história"
 date: 2025-05-13
 author: Daniely Silva
 categories: ["Crônicas"]
-tags: ["historia"]
+tags: ["brasilidade"]
 summary:
 draft: true
 ---

@@ -8,13 +8,11 @@ tags: ["filmes", "brasilidade"]
 summary:
 draft: false
 ---
-
-
 * **Direção**: Érico Rassi;
 * **Produção**: Cristiane Miotto e Lidiane Reis;
 * **Elenco**: Ângelo Antônio é Totó; Babu Santana é Durval; Rodger Rogério é o capanga; Antônio Pitanga é o primo ermitão;
 * **Estreia**: 2024 no Festival de Gramado;
-* **Lançamento nacional**: 27 março de 2025.\
+* **Lançamento nacional**: 27 março de 2025.
 <hr>
 
 *Oeste Outra Vez* se propõe a ser um faroeste tropical, mas é muito mais do que isso. Inclusive, imaginava encontrar mais ação, em se tratando de um filme do tipo. Longe de ser isso um demérito, é um filme com uma forte tendência contemplativa, sem deixar totalmente de lado as cenas de tiros e perseguição.

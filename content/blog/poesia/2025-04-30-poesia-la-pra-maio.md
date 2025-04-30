@@ -38,4 +38,4 @@ Não será ainda este mês\
 Por volta de maio talvez\
 eu possa até te esquecer
 
-*Escrito aos 14 de fevereiro de 2025.*
+*Escrito aos 14 de fevereiro de 2025*.

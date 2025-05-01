@@ -45,7 +45,7 @@ Em todo o caso, a interiorização do Brasil passa pela expansão da fronteira a
 
 Gostando ou não do agronegócio brasileiro, é ele quem pesa para parte importante da nossa balança comercial e é esse agro, principal motor da economia do Brasil central, é um dos grandes difusores da cultura atual e nas últimas décadas. O Brasil vive um momento de transição. Pode ser que ao final deste século, se ainda houver civilização moderna, nós tenhamos outra cara, uma bem diferente daquela que conhecemos nas novelas da Globo. Tomando à frente ou não, o interior do nosso país vai ter a cada ano mais protagonismo e, no amor ou na dor, vamos precisar lidar com isso.
 
-Porque, afinal, toda a essa gente vai descer pra BC no finalzinho do ano.
+Porque, afinal, toda a essa gente vai descer lá pra BC no finalzinho do ano.
 
 https://noticias.uol.com.br/cotidiano/ultimas-noticias/2023/06/28/crescimento-media-cidades-ibge.htm
 

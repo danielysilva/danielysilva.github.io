@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: "Os Bastidores dos dias de maior ansiedade na nossa história"
+title: "13 de maio: os bastidores dos dias de maior ansiedade na nossa história"
 date: 2025-05-13
 author: Daniely Silva
 categories: ["Crônicas"]
-tags: ["brasilidade"]
+tags: ["brasilidade", "história"]
 summary:
 draft: true
 ---
@@ -40,26 +40,31 @@ Foram longos dias. Os parlamentares compareceram até no sábado e no domingo (i
 
 Fiz algumas pesquisas para estampar os nomes dos parlamentares que votaram contra a Lei Áurea, mas não encontrei em fontes confiáveis. Que sigam na lata de lixo da história.
 
-Lembro que no Império o senador era um cargo vitalício. Um dos que votaram contra e teve o discurso mais agressivo foi o Barão de Cotegipe, senador pela província da Bahia. O mesmo barão, quando Chefe de Gabinete (cargo equivalente a um primeiro-ministro, foi responsável por engavetar propostas abolicionistas no ano anterior, já na terceira e última regência da Princesa Imperial. Isabel precisou gerar uma situação para que o conversador renunciasse e, assim, foi sucedido pelo também conservador, mas abolicionista, João Alfredo Correia de Oliveira.
+Lembro que no Império o senador era um cargo vitalício. Um dos que votaram contra e teve o discurso mais agressivo foi o Barão de Cotegipe, senador pela província da Bahia. O mesmo barão, quando Chefe de Gabinete (cargo equivalente a um primeiro-ministro, foi responsável por engavetar propostas abolicionistas no ano anterior, já na terceira e última regência da Princesa Imperial. Isabel precisou gerar uma situação para que o conservador renunciasse e, assim, foi sucedido pelo também conservador, mas abolicionista, João Alfredo Correia de Oliveira.
 
 > A Constituição, as leis civis, as eleitorais, as de impostos etc., tudo reconhece o escravo como propriedade. Mas, de um traço de pena, legisla-se que não existe mais tal propriedade, que tudo pode ser destruído por meio de uma lei, sem atenção a direitos adquiridos? Daqui a pouco se pedirá a divisão dos latifúndios, a expropriação, por preço mínimo ou de graça. Esperem. O primeiro passo é o que custa a dar, depois...
 >
 > Discurso do Barão de Cotegipe nas votações no Senado. Fonte: Agência Senado
 
-Ora, nem tudo o que é moral é legal, e nem tudo o que é legal, é moral. Muitos conservadores e reacionários de hoje teriam o mesmo discurso do senador. De fato, na lei crua a proposta poderia ser inconstitucional ,mas a imoralidade da escravidão é tão grande que não é aceitável que o direito à propriedade se sobreponha ao da vida e ao da liberdade. Não sou estudiosa do direito, mas basta ser razoável. Ainda o senador Barão de Cotegipe (BA), principal líder da bancada escravagista, discursou:
+Ora, nem tudo o que é moral é legal, e nem tudo o que é legal, é moral. Muitos conservadores e reacionários de hoje teriam o mesmo discurso do senador. De fato, na lei crua a proposta poderia ser inconstitucional, mas a imoralidade da escravidão é tão grande que não é aceitável que o direito à propriedade se sobreponha ao da vida e ao da liberdade. Não sou estudiosa do direito, mas basta ser razoável. Ainda o senador Barão de Cotegipe (BA), principal líder da bancada escravagista, apelou ao pânico:
 
 > — Tenho conhecimento da nossa lavoura, especialmente das províncias de São Paulo, Minas Gerais, Rio de Janeiro e Bahia, e afianço que a crise será medonha. A verdade é que haverá uma perturbação enorme no país durante muitos anos.
 
-> O senador Paulino de Souza (RJ), ele próprio um latifundiário do Vale do Paraíba (região entre as cidades de São Paulo e Rio de Janeiro), bateu na mesma tecla:
+ O senador Paulino de Souza (RJ), ele próprio um latifundiário do Vale do Paraíba, bateu na mesma tecla:
+ 
 > — O elemento servil é o único trabalho organizado em quase todo o país, inclusive na extensa e rica zona das margens do Rio Paraíba, que tem sido nestes últimos 50 anos a oficina da riqueza nacional. Eu, ligado por muitos laços com os outros produtores da região, tenho o dever de colocar-me na resistência, em defesa de tamanhos e tão legítimos interesses, que entendem tanto com a fortuna particular como com a ordem econômica e financeira do Estado.
 >
->Fonte: Agência Senado
+> Fonte: Agência Senado
 
-E digo mais: muitos dos que gritavam pela economia eram os mesmos que, após a abolição, queriam ser indenizados em tantos contos de réis pelos escravizados perdidos, ainda que o Estado brasileiro estivesse quebrado. Muito por conta desse desejo foi que as elites agrárias apoiaram a quartelada que foi o golpe do 15 de novembro de 1889. A grande frustração desses ex-escravocratas foi quando o Ministro da Fazenda  Ruy Barbosa, já na República sob Deodoro, tomou a decisão polêmica de queimar os registros relativos à escravidão. Por um lado, negamos uma mácula da nossa história, a qual a Primeira República já fechava os olhos ao cantar no hino que *“Nós nem cremos que escravos outrora/ Tenha havido em tão nobre país”*, de forma cínica, visto que uma das motivações para o golpe foi uma represália à abolição. A ação do ministro Ruy Barbosa teve por efeito extinguir qualquer possibilidade de indenização aos escravocratas. Deveras, os que gritam pela economia mais se preocupam com a economia das próprias fazendas que com a do país.
+E digo mais: muitos dos que gritavam pela economia eram os mesmos que, após a abolição, queriam ser indenizados em tantos contos de réis pelos escravizados perdidos, ainda que o Estado brasileiro estivesse quebrado. Muito por conta desse desejo foi que as elites agrárias (a bancada ruralista da época!) apoiaram a quartelada que foi o golpe do 15 de novembro de 1889. A grande frustração desses ex-escravocratas foi quando o Ministro da Fazenda  Ruy Barbosa, já na República sob Deodoro, tomou a decisão polêmica de queimar os registros relativos à escravidão. Por um lado, negamos uma mácula da nossa história, a qual a Primeira República já fechava os olhos ao cantar no hino que *“Nós nem cremos que escravos outrora/ Tenha havido em tão nobre país”*, de forma cínica, visto que o próprio golpe foi uma represália à abolição. A ação do ministro Ruy Barbosa teve por efeito extinguir qualquer possibilidade de indenização aos escravocratas. Deveras, os que gritam pela economia mais se preocupam com a economia das próprias fazendas que com a do país.
 
 O abolicionismo já estava tão enraizado no Brasil, que figuras como José de Alencar, enquanto demonstrava simpatia ao abolicionismo nas suas obras literárias, foi ferrenho opositor à abolição na Câmara, onde foi deputado pela província do Ceará. A contradição estava posta: todos queriam a abolição, mas ninguém queria pagar a conta. Em 1867 o escritor do Partido Conservador já instaurava o pânico ao se opor à abolição.
 
-Nas comemorações da abolição da missa de 17 de maio, o Barão de Cotegipe, ao parabenizar a Princesa Regente, ironizou ao dizer que ela acabava de libertar um povo e perder o trono, ao que ela respondeu que, se mil tronos tivesse, mil tronos daria pela abolição. É curioso que há dois extremos com relação à figura de dona Isabel: ou se a romantiza exageradamente como redentora, ignorando o papel do movimento abolicionista, ou se desconsidera totalmente o seu papel. É importante lembrar que, depois de três monarcas homens, foi uma Regente mulher que teve peito para pautar o tema. Até se pode supor que o golpe, mais que contra o Segundo Reinado, foi contra a possibilidade de um futuro Terceiro Reinado sob ela. E é claro que, dado o contexto, é impensável que ela vetasse qualquer proposta abolicionista. Levando também em conta que ela não tinha afeição ao poder, talvez um trono perdido nem fizesse tanta diferença para ela — mas garanto que ela não quereria ir para o exílio.
+Nas comemorações da abolição da missa de 17 de maio, o Barão de Cotegipe, ao parabenizar a Princesa Regente, ironizou ao dizer que ela acabava de libertar um povo e perder o trono, ao que ela respondeu que, se mil tronos tivesse, mil tronos daria pela abolição. É curioso que há dois extremos com relação à figura de dona Isabel: ou se a romantiza exageradamente como redentora, ignorando o papel do movimento abolicionista, ou se desconsidera totalmente o seu papel. É importante lembrar que, depois de três monarcas homens a reger o Brasil, foi uma Regente mulher que teve peito para pautar o tema. Até se pode supor que o golpe, mais que contra o Segundo Reinado, foi contra a possibilidade de um futuro Terceiro Reinado sob sua figura feminina. E é claro que, dado o contexto, é impensável que ela vetasse qualquer proposta abolicionista. Levando também em conta que ela não tinha afeição ao poder, talvez um trono perdido nem fizesse tanta diferença para ela — mas garanto que ela não quereria ir para o exílio.
+
+
+
+......................................................
 
 Curioso notar como sua caligrafia estava rude no documento da Lei Áurea. Mas olhando outros escritos seus, a caligrafia era bela como a de pessoas letradas de sua época. Talvez fosse pelo cansaço e pelo pai doente.
 

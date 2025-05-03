@@ -16,20 +16,18 @@ Mesmo antes de o Brasil ser Brasil, o país já estava comprometido a abolir a e
 
 E o tráfico não acabou assim. Mesmo com os bombardeios constantes dos navios negreiros pelas patrulhas inglesas, ainda valia o risco financeiro para os traficantes. Sem falar no tráfico interprovincial, que durou até a abolição.
 
-A gente tende a pensar que leis como o Ventre-Livre (1871) e a Saraiva-Cotegipe (a dos Sexagenários, de 1885) representaram uma tentativa de abolição gradual, mas é o contrário: não à toa, a Lei dos Sexagenários leva o nome, junto aos de dois liberais, da autoria do conservador Barão de Cotegipe, ferrenho anti-abolicionista! Quando se diz que os conservadores passaram mais leis no Parlamento que os liberais contra a escravidão, é porque o que se pretendia era postergar ao máximo a abolição. Desse modo, a escravidão duraria até por volta de 1930, quando o último liberto pelo Ventre-Livre fosse liberto pela Lei dos Sexagenários. Basta calcular: alguém nascido em 1870, um ano antes da lei do Ventre-Livre, estaria liberto aos 6......................... anos completos em 1930, se antes não fosse forro. Um cenário hediondo no qual o Brasil se tornaria um pária entre as nações, se dependesse dos escravocratas. A situação era vil ao ponto de crianças serem batizadas como nascidas antes de 1871 para que permanecessem cativas como seus pais.
+A gente tende a pensar que leis como o Ventre-Livre (1871) e a Saraiva-Cotegipe (a dos Sexagenários, de 1885) representaram uma tentativa de abolição gradual, mas é o contrário: não à toa, a Lei dos Sexagenários leva o nome, junto aos de dois liberais, da autoria do conservador Barão de Cotegipe, ferrenho anti-abolicionista! Quando se diz que os conservadores passaram mais leis no Parlamento que os liberais contra a escravidão, é porque o que se pretendia era postergar ao máximo a abolição. Desse modo, a escravidão duraria até por volta de 1930, quando o último liberto pelo Ventre-Livre fosse liberto pela Lei dos Sexagenários. Basta calcular: alguém nascido em 1870, um ano antes da lei do Ventre-Livre, estaria liberto aos 60 anos completos em 1930, se antes não fosse forro. Um cenário hediondo no qual o Brasil se tornaria um pária entre as nações, se dependesse dos escravocratas. A situação era vil ao ponto de crianças serem batizadas como nascidas antes de 1871 para que permanecessem cativas como seus pais.
 
-.........................
-
-Mas vamos à votação da Lei Áurea. Em tempos televisionados, acostumamo-nos a acompanhar sessões do Congresso marcantes: a votação do Impeachment da presidenta Dilma, a reforma tributária, a Constituinte em 1988 e a declaração da vaguidão da presidência seguida de golpe em 1964.
+Mas vamos à votação da Lei Áurea. Em tempos televisionados, acostumamo-nos a acompanhar sessões do Congresso marcantes: a votação do Impeachment da presidenta Dilma, a reforma tributária, a Constituinte em 1988 e o golpe que declarou vaga a presidência da República em 1964.
 
 Diante disso, ficava muito curiosa sobre como foi a votação da Lei Áurea no Parlamento. Tem-se a impressão de que tudo se resume a uma canetada, ignorando toda a complexidade e história do abolicionismo como movimento social. Mas o que aconteceu na votação, eu me perguntava?
 
-Chegou um momento em que defender a escravidão abertamente já era obsceno demais. Tanto que, na Câmara, 85 votaram a favor da abolição, enquanto 9 foram contra. No Senado, a situação foi de 71 contra 5. Mas não pense que esses poucos animais não fizeram barulho (não tem outro nome pra eles, já que chamá-los fascistas seria anacrônico).
+Chegou um momento em que defender a escravidão abertamente já era obsceno demais. Tanto que, na Câmara, 85 votaram a favor da abolição, enquanto 9 foram contra. No Senado, a situação foi de 71 contra 6. Mas não vamos pensar que esses poucos animais não fizeram barulho (não tem outro nome pra eles, já que chamá-los fascistas seria anacrônico).
 
-Foram longos dias. Os parlamentares compareceram até no sábado e no domingo.
+Foram longos dias. Os parlamentares compareceram até no sábado e no domingo (isso é que feito no Brasil!).
 
-* **3 de maio, quinta-feira – Fala do Trono**: a abertura do ano Parlamentar era feita pelo monarca em exercício. A Princesa Regente intimou os parlamentares a abolirem a escravidão naquele ano;
-* **8 de maio, terça-feira**: É enviada a a proposta pelo Ministro da Agricultura, Rodrigo Augusto da Silva:
+* **3 de maio, quinta-feira – Fala do Trono**: no Império, a abertura do ano Parlamentar era feita pelo monarca em exercício. A Princesa Regente intimou os parlamentares a abolirem a escravidão naquele ano;
+* **8 de maio, terça-feira**: É enviada a proposta ao Parlamento pelo Ministro da Agricultura, Rodrigo Augusto da Silva:
 > * Artigo 1º: É declarada extincta a escravidão no Brasil;
 > * Artigo 2º: Revogam-se as disposições em contrário.
 >

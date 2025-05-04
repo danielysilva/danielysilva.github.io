@@ -8,6 +8,20 @@ tags: ["brasilidade", "história"]
 summary:
 draft: true
 ---
+> ~“A extinção do elemento servil, pelo influxo do sentimento nacional e das liberalidades particulares, em honra do Brasil, adiantou-se pacificamente do tal modo, que é hoje aspiração aclamada por todas as classes, com admiráveis exemplos de abnegação da parte dos proprietários. Quando o próprio interesse privado vem espontaneamente colaborar para que o Brasil se desfaça da infeliz herança, que as necessidades da lavoura haviam mantido, confio que não hesitareis em apagar do direito pátrio a única excepção que nele figura em antagonismo com o espírito cristão e liberal das nossas instituições”.~
+
+> **LEI Nº 3.353, DE 13 DE MAIO DE 1888**. *Declara extincta a escravidão no Brazil*.
+> A Princeza Imperial Regente, em Nome de Sua Magestade o Imperador o Senhor D. Pedro II, Faz saber a todos os subditos do Imperio que a Assembléa Geral decretou e Ella sanccionou a Lei seguinte:
+> **Art. 1.°** É declarada extincta, desde a data desta Lei, a escravidão no Brazil.
+> **Art. 2.°** Revogam-se as disposições em contrario.
+> Manda, portanto, a todas as autoridades, a quem o conhecimento e execução da referida Lei pertencer, que a cumpram, e façam cumprir e guardar tão inteiramente como nella se contém.
+> O Secretario de Estado dos Negocios da Agricultura, Commercio e Obras Publicas e interino dos Negocios Estrangeiros, Bacharel Rodrigo Augusto da Silva, do Conselho de Sua Magestade o Imperador, a faça imprimir, publicar e correr.
+>
+> Dada no Palacio do Rio de Janeiro em 13 de maio de 1888, 67º da Independencia e do Imperio.
+> 
+> PRINCEZA IMPERIAL REGENTE.
+> Rodrigo Augusto da Silva.
+
 Não é novidade pra ninguém que as coisas demoram a acontecer no Brasil. Tradou a reforma tributária, tardou o Plano Real, a independência e mais ainda a reforma agrária, a qual esperamos para agosto — a gosto de Deus.
 
 Também não há dúvida de que entre os acontecimentos necessários mas morosos, o mais obsceno foi a longa espera pela abolição.
@@ -28,11 +42,9 @@ Foram longos dias. Os parlamentares compareceram até no sábado e no domingo (i
 
 * **3 de maio, quinta-feira – Fala do Trono**: no Império, a abertura do ano Parlamentar era feita pelo monarca em exercício. A Princesa Regente intimou os parlamentares a abolirem a escravidão naquele ano;
 * **8 de maio, terça-feira**: É enviada a proposta ao Parlamento pelo Ministro da Agricultura, Rodrigo Augusto da Silva:
-> * Artigo 1º: É declarada extincta a escravidão no Brasil;
-> * Artigo 2º: Revogam-se as disposições em contrário.
->
+> * *Artigo 1º*: É declarada extincta a escravidão no Brasil;
+> * *Artigo 2º*: Revogam-se as disposições em contrário.
 > `[O deputado baiano Araújo Góes foi perspicar ao acrescentar o trecho “desde a data desta lei” ao artigo primeiro. Não fosse isso, havia o risco de se tornar uma lei simbólica e interpretável.]`
-
 * **10 de maio, quinta-feira**: aprovação na Câmara: 85 deputados votam a favor, 9 contra;
 * **11 de maio, sexta-feira**: a proposta entra no Senado;
 * **12 de maio, sábado**: a proposta entra na ordem do dia do Senado;
@@ -50,7 +62,7 @@ Ora, nem tudo o que é moral é legal, e nem tudo o que é legal, é moral. Muit
 
 > — Tenho conhecimento da nossa lavoura, especialmente das províncias de São Paulo, Minas Gerais, Rio de Janeiro e Bahia, e afianço que a crise será medonha. A verdade é que haverá uma perturbação enorme no país durante muitos anos.
 
- O senador Paulino de Souza (RJ), ele próprio um latifundiário do Vale do Paraíba, bateu na mesma tecla:
+O senador Paulino de Souza (RJ), ele próprio um latifundiário do Vale do Paraíba, bateu na mesma tecla:
  
 > — O elemento servil é o único trabalho organizado em quase todo o país, inclusive na extensa e rica zona das margens do Rio Paraíba, que tem sido nestes últimos 50 anos a oficina da riqueza nacional. Eu, ligado por muitos laços com os outros produtores da região, tenho o dever de colocar-me na resistência, em defesa de tamanhos e tão legítimos interesses, que entendem tanto com a fortuna particular como com a ordem econômica e financeira do Estado.
 >

@@ -8,19 +8,14 @@ tags: ["brasilidade", "história"]
 summary:
 draft: true
 ---
-> ~“A extinção do elemento servil, pelo influxo do sentimento nacional e das liberalidades particulares, em honra do Brasil, adiantou-se pacificamente do tal modo, que é hoje aspiração aclamada por todas as classes, com admiráveis exemplos de abnegação da parte dos proprietários. Quando o próprio interesse privado vem espontaneamente colaborar para que o Brasil se desfaça da infeliz herança, que as necessidades da lavoura haviam mantido, confio que não hesitareis em apagar do direito pátrio a única excepção que nele figura em antagonismo com o espírito cristão e liberal das nossas instituições”.~
-
-> **LEI Nº 3.353, DE 13 DE MAIO DE 1888**. *Declara extincta a escravidão no Brazil*.
-> A Princeza Imperial Regente, em Nome de Sua Magestade o Imperador o Senhor D. Pedro II, Faz saber a todos os subditos do Imperio que a Assembléa Geral decretou e Ella sanccionou a Lei seguinte:
-> **Art. 1.°** É declarada extincta, desde a data desta Lei, a escravidão no Brazil.
-> **Art. 2.°** Revogam-se as disposições em contrario.
-> Manda, portanto, a todas as autoridades, a quem o conhecimento e execução da referida Lei pertencer, que a cumpram, e façam cumprir e guardar tão inteiramente como nella se contém.
-> O Secretario de Estado dos Negocios da Agricultura, Commercio e Obras Publicas e interino dos Negocios Estrangeiros, Bacharel Rodrigo Augusto da Silva, do Conselho de Sua Magestade o Imperador, a faça imprimir, publicar e correr.
->
-> Dada no Palacio do Rio de Janeiro em 13 de maio de 1888, 67º da Independencia e do Imperio.
-> 
-> PRINCEZA IMPERIAL REGENTE.
-> Rodrigo Augusto da Silva.
+> A extinção do elemento servil, pelo influxo do sentimento nacional e das liberalidades particulares, em honra do Brasil, adiantou-se pacificamente de tal modo que é hoje aspiração aclamada por todas as classes, com admiráveis exemplos de abnegação da parte dos proprietários.
+> Quando o próprio interesse privado vem espontaneamente colaborar para que o Brasil se desfaça da infeliz herança que as necessidades da lavoura haviam mantido, confio que não hesitareis em apagar do direito pátrio a única exceção que nele figura em antagonismo com o espírito cristão e liberal das nossas instituições.
+>Mediante providências que acautelem a ordem na transformação do trabalho, apressem pela imigração o povoamento do país, facilitem as comunicações, utilizem as terras devolutas, desenvolvam o crédito agrícola e aviventem a indústria nacional, pode-se asseverar que a produção sempre crescente tomará forte impulso e nos habilitará a chegar mais rapidamente aos nossos auspiciosos destinos.
+> [...]
+> Tenho fé que correspondereis ao que o Brasil espera de vós.
+> Está aberta a sessão.
+> ISABEL, PRINCESA IMPERIAL REGENTE.
+> Fonte: (BRASIL, 2019), Editora do Senado Federal.
 
 Não é novidade pra ninguém que as coisas demoram a acontecer no Brasil. Tradou a reforma tributária, tardou o Plano Real, a independência e mais ainda a reforma agrária, a qual esperamos para agosto — a gosto de Deus.
 
@@ -56,51 +51,66 @@ Lembro que no Império o senador era um cargo vitalício. Um dos que votaram con
 
 > A Constituição, as leis civis, as eleitorais, as de impostos etc., tudo reconhece o escravo como propriedade. Mas, de um traço de pena, legisla-se que não existe mais tal propriedade, que tudo pode ser destruído por meio de uma lei, sem atenção a direitos adquiridos? Daqui a pouco se pedirá a divisão dos latifúndios, a expropriação, por preço mínimo ou de graça. Esperem. O primeiro passo é o que custa a dar, depois...
 >
-> Discurso do Barão de Cotegipe nas votações no Senado. Fonte: Agência Senado
+> Discurso do Barão de Cotegipe nas votações no Senado. Fonte: (WESTIN, 2018), Agência Senado
 
 Ora, nem tudo o que é moral é legal, e nem tudo o que é legal, é moral. Muitos conservadores e reacionários de hoje teriam o mesmo discurso do senador. De fato, na lei crua a proposta poderia ser inconstitucional, mas a imoralidade da escravidão é tão grande que não é aceitável que o direito à propriedade se sobreponha ao da vida e ao da liberdade. Não sou estudiosa do direito, mas basta ser razoável. Ainda o senador Barão de Cotegipe (BA), principal líder da bancada escravagista, apelou ao pânico:
 
 > — Tenho conhecimento da nossa lavoura, especialmente das províncias de São Paulo, Minas Gerais, Rio de Janeiro e Bahia, e afianço que a crise será medonha. A verdade é que haverá uma perturbação enorme no país durante muitos anos.
+>
+> 
 
 O senador Paulino de Souza (RJ), ele próprio um latifundiário do Vale do Paraíba, bateu na mesma tecla:
  
 > — O elemento servil é o único trabalho organizado em quase todo o país, inclusive na extensa e rica zona das margens do Rio Paraíba, que tem sido nestes últimos 50 anos a oficina da riqueza nacional. Eu, ligado por muitos laços com os outros produtores da região, tenho o dever de colocar-me na resistência, em defesa de tamanhos e tão legítimos interesses, que entendem tanto com a fortuna particular como com a ordem econômica e financeira do Estado.
 >
-> Fonte: Agência Senado
+> Fonte: (WESTIN, 2018), Agência Senado
 
 E digo mais: muitos dos que gritavam pela economia eram os mesmos que, após a abolição, queriam ser indenizados em tantos contos de réis pelos escravizados perdidos, ainda que o Estado brasileiro estivesse quebrado. Muito por conta desse desejo foi que as elites agrárias (a bancada ruralista da época!) apoiaram a quartelada que foi o golpe do 15 de novembro de 1889. A grande frustração desses ex-escravocratas foi quando o Ministro da Fazenda  Ruy Barbosa, já na República sob Deodoro, tomou a decisão polêmica de queimar os registros relativos à escravidão. Por um lado, negamos uma mácula da nossa história, a qual a Primeira República já fechava os olhos ao cantar no hino que *“Nós nem cremos que escravos outrora/ Tenha havido em tão nobre país”*, de forma cínica, visto que o próprio golpe foi uma represália à abolição. A ação do ministro Ruy Barbosa teve por efeito extinguir qualquer possibilidade de indenização aos escravocratas. Deveras, os que gritam pela economia mais se preocupam com a economia das próprias fazendas que com a do país.
 
 O abolicionismo já estava tão enraizado no Brasil, que figuras como José de Alencar, enquanto demonstrava simpatia ao abolicionismo nas suas obras literárias, foi ferrenho opositor à abolição na Câmara, onde foi deputado pela província do Ceará. A contradição estava posta: todos queriam a abolição, mas ninguém queria pagar a conta. Em 1867 o escritor do Partido Conservador já instaurava o pânico ao se opor à abolição.
 
-Nas comemorações da abolição da missa de 17 de maio, o Barão de Cotegipe, ao parabenizar a Princesa Regente, ironizou ao dizer que ela acabava de libertar um povo e perder o trono, ao que ela respondeu que, se mil tronos tivesse, mil tronos daria pela abolição. É curioso que há dois extremos com relação à figura de dona Isabel: ou se a romantiza exageradamente como redentora, ignorando o papel do movimento abolicionista, ou se desconsidera totalmente o seu papel. É importante lembrar que, depois de três monarcas homens a reger o Brasil, foi uma Regente mulher que teve peito para pautar o tema. Até se pode supor que o golpe, mais que contra o Segundo Reinado, foi contra a possibilidade de um futuro Terceiro Reinado sob sua figura feminina. E é claro que, dado o contexto, é impensável que ela vetasse qualquer proposta abolicionista. Levando também em conta que ela não tinha afeição ao poder, talvez um trono perdido nem fizesse tanta diferença para ela — mas garanto que ela não quereria ir para o exílio.
+É curioso que há dois extremos com relação à figura de dona Isabel: ou se a romantiza exageradamente como redentora, ignorando o papel do movimento abolicionista, ou se desconsidera totalmente o seu papel. É importante lembrar que, depois de três monarcas homens a reger o Brasil, foi uma Regente mulher que teve peito para pautar o tema. Até se pode supor que o golpe, mais que contra o Segundo Reinado, foi contra a possibilidade de um futuro Terceiro Reinado sob sua figura feminina. E é claro que, dado o contexto, é impensável que ela vetasse qualquer proposta abolicionista. Levando também em conta que ela não tinha afeição ao poder, talvez um trono perdido nem fizesse tanta diferença para ela — mas garanto que ela não quereria ir para o exílio.
 
-
-
-......................................................
-
-Curioso notar como sua caligrafia estava rude no documento da Lei Áurea. Mas olhando outros escritos seus, a caligrafia era bela como a de pessoas letradas de sua época. Talvez fosse pelo cansaço e pelo pai doente.
+Curioso notar como sua caligrafia estava rude no documento da Lei Áurea. Mas olhando outros escritos seus, a caligrafia era bela como a de pessoas letradas de sua época. Talvez fosse pelo cansaço?
 
 > Seria o dia de hoje um dos mais belos da minha vida se não fosse saber meu pai enfermo
 >
-> Fonte: Agência Senado
+> Fonte: (WESTIN, 2018), Agência Senado.
 
-> Ainda na histórica sessão do Senado em 13 de maio de 1888, o senador Paulino encerrou sua fala da seguinte maneira:
+Durante a conturbada sessão, o senador Paulino (RJ) encerrou sua fala de forma ácida:
+
 > — São tantas as impaciências que sou obrigado a concluir meu pronunciamento sem demora. Confesso-me vencido. Cumpri, como as circunstâncias permitiram, o meu dever de senador. Agora posso cumprir o de cavalheiro, não fazendo esperar uma dama de tão alta hierarquia.
 >
-> Fonte: Agência Senado
+> Fonte: (WESTIN, 2018), Agência Senado.
 
-Ela aguardava no Paço da Cidade com a pena de ouro para assinar a lei, mas os parlamentares que lhe levariam o livro de leis se atrasou devido à agitação nas ruas lotadas do Rio de Janeiro. A assinatura aconteceu por volta das três e meia da tarde, que foi seguida de grande agitação naquele domingo. A euforia da abolição foi seguida pela Missa Campal do 17 de maio, no Campo de São Cristóvão, onde a Princesa Regente foi ovacionada e, inclusive, recebendo a ameaça velada pelo Barão de Cotegipe, como mencionado acima.
+Ela aguardava no Paço da Cidade com a pena de ouro para assinar a lei, mas os parlamentares que lhe levariam o livro de leis se atrasou devido à agitação nas ruas lotadas do Rio de Janeiro; é o delírio público descrito por Machado de Assis, o qual menciono adiante! A assinatura aconteceu por volta das três e meia da tarde, que foi seguida de grande agitação naquele domingo. A euforia da abolição foi seguida pela Missa Campal do 17 de maio, no Campo de São Cristóvão, onde a Princesa Regente foi ovacionada. Na ocasião, o Barão de Cotegipe, ao parabenizar a Princesa Regente, não perdeu a oportunidade de ironizou ao dizer que ela acabava de libertar um povo e perder o trono, ao que ela respondeu que, se mil tronos tivesse, mil tronos daria pela abolição.
 
 Machado de Assis declarou nunca ter visto nada igual. No jornal A Semana, assim escreveu em 1893:
 
 > Houve sol, e grande sol, naquele domingo de 1888, em que o Senado votou a lei, que a regente sancionou, e todos saímos à rua. Sim, também eu saí à rua, eu o mais encolhido dos caramujos, também eu entrei no préstito, em carruagem aberta, se me fazem favor, hóspede de um gordo amigo ausente; todos respiravam felicidade, tudo era delírio. Verdadeiramente, foi o único dia de delírio público que me lembra ter visto.
+> Fonte: (DUARTE, 2022)
 
-Lima Barreto, o qual comemorara o aniversário de 7 anos em meio à euforia do 13 de maio, declarou décadas depois: “Jamais na minha vida vi tanta alegria. Era geral, era total. E os dias que se seguiram, dias de folganças e satisfação, deram-me uma visão da vida inteiramente festa e harmonia”.
+Lima Barreto, quem comemorara o aniversário de 7 anos em meio à euforia do 13 de maio, declarou décadas depois: “Jamais na minha vida vi tanta alegria. Era geral, era total. E os dias que se seguiram, dias de folganças e satisfação, deram-me uma visão da vida inteiramente festa e harmonia”.
 
-Machado, no entanto, não perdeu a oportunidade de ironizar a certa ineficácia da lei. Publicou anonimamente a crônica Bons Dias, na Gazeta de Notícias, aos 19 de maio de 1888, a semana seguinte da abolição. Na crônica, ele ironiza como as leis mudariam mas tudo continuaria igual, de certo modo. Ele mostra nas suas palavras que há um cativeiro maior que o estabelecido pela lei: o das fronteiras invisíveis e de uma educação repressora. Na crônica, o escravizado e seu senhor passam a ter as mesmas relações do escravismo, mas agora na posição de empregador e empregado, na qual o ex-senhor sempre reforça, perversamente, fazer o que faz uma forma livre. A visão de escritor carioca é certeira quando percebemos que uma lei como a Lei Áurea, embora indispensável, foi insuficiente. Outras reparações históricas foram e se fazem necessárias até hoje para corrigir as feridas de um sistema que perdurou por tanto tempo. É fácil botar a culpa em Portugal, mesmo quando nós brasileiros mantivemos por tantas décadas a escravidão e, mesmo depois da abolição, fingimos se tratar de um passado distante, num cínico negacionismo.
+Machado, no entanto, não perdeu a oportunidade de ironizar a certa ineficácia da lei. Publicou anonimamente a crônica *Bons Dias*, na Gazeta de Notícias, aos 19 de maio de 1888, a semana seguinte da abolição. Na crônica, ele ironiza como as leis mudariam mas tudo continuaria igual, de certo modo. Ele mostra nas suas palavras que há um cativeiro maior que o estabelecido pela lei: o das fronteiras invisíveis e de uma educação repressora. Na crônica, o escravizado e seu senhor passam a ter as mesmas relações do escravismo, mas agora na posição de empregador e empregado, na qual o ex-senhor sempre reforça, perversamente, fazer o que faz uma forma livre. A visão de escritor carioca é certeira quando percebemos que uma lei como a Lei Áurea, embora indispensável, foi insuficiente. Outras reparações históricas foram e se fazem necessárias para corrigir as feridas de um sistema que perdurou por tanto tempo. É fácil botar a culpa em Portugal, mesmo quando nós brasileiros mantivemos por tantas décadas a escravidão e, mesmo depois da abolição, fingimos se tratar de um passado distante, num cínico negacionismo.
+
+> **LEI Nº 3.353, DE 13 DE MAIO DE 1888**. *Declara extincta a escravidão no Brazil*.
+> A Princeza Imperial Regente, em Nome de Sua Magestade o Imperador o Senhor D. Pedro II, Faz saber a todos os subditos do Imperio que a Assembléa Geral decretou e Ella sanccionou a Lei seguinte:
+> **Art. 1.°** É declarada extincta, desde a data desta Lei, a escravidão no Brazil.
+> **Art. 2.°** Revogam-se as disposições em contrario.
+> Manda, portanto, a todas as autoridades, a quem o conhecimento e execução da referida Lei pertencer, que a cumpram, e façam cumprir e guardar tão inteiramente como nella se contém.
+> O Secretario de Estado dos Negocios da Agricultura, Commercio e Obras Publicas e interino dos Negocios Estrangeiros, Bacharel Rodrigo Augusto da Silva, do Conselho de Sua Magestade o Imperador, a faça imprimir, publicar e correr.
+>
+> Dada no Palacio do Rio de Janeiro em 13 de maio de 1888, 67º da Independencia e do Imperio.
+> 
+> PRINCEZA IMPERIAL REGENTE.
+> Rodrigo Augusto da Silva.
 
 * CAMPELLO, André Barreto. Lei Áurea: a história do seu nascimento. 13 maio 2021. Disponível em: < https://congressoemfoco.uol.com.br/blogs-e-opiniao/forum/lei-aurea-a-historia-do-seu-nascimento/ >. Acesso: 27 jan. 2025.
-* DUARTE, E. A. Machado de Assis afrodescendente, 3. ed., p. 79-81. Disponível em: < http://www.letras.ufmg.br/literafro/autores/11-textos-dos-autores/800-machado-de-assis-a-semana >. Acesso: 27 jan. 2025.
+* BRASIL. Falas do Trono: Desde o Ano de 1823 até 1889. Brasília: Editora do Senado Federal, 2019. Disponível em: < https://www2.senado.leg.br/bdsf/handle/id/562127 >. Acesso: 04 maio 2025.
+* BRASIL. Lei Nº 3.353. Declara extincta a escravidão no Brazil. Rio de Janeiro, 13 de maio de 1888. Disponível em: < https://www.planalto.gov.br/ccivil_03/leis/lim/lim3353.htm >. Acesso: 4 maio 2025.
+* DUARTE, E. A. Machado de Assis afrodescendente, 3. ed., p. 79-81. 2022. Disponível em: < http://www.letras.ufmg.br/literafro/autores/11-textos-dos-autores/800-machado-de-assis-a-semana >. Acesso: 27 jan. 2025.
 * WESTIN, Ricardo. Senado e Câmara aprovaram Lei Áurea em 5 dias. Brasília: Agência Senado, 07 maio 2018. Disponível em: < https://www12.senado.leg.br/noticias/especiais/arquivo-s/senado-e-camara-aprovaram-lei-aurea-em-5-dias/senado-e-camara-aprovaram-lei-aurea-em-5-dias >. Acesso: 27 jan. 2025.
+
 
 *Escrito aos 23 de janeiro de 2025.*

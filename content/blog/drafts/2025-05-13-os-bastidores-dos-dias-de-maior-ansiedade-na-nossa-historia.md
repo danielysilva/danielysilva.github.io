@@ -8,9 +8,9 @@ tags: ["brasilidade", "história"]
 summary:
 draft: true
 ---
-> A extinção do elemento servil, pelo influxo do sentimento nacional e das liberalidades particulares, em honra do Brasil, adiantou-se pacificamente de tal modo que é hoje aspiração aclamada por todas as classes, com admiráveis exemplos de abnegação da parte dos proprietários.
+> A extinção do elemento servil, pelo influxo do sentimento nacional e das liberalidades particulares, em honra do Brasil, adiantou-se pacificamente de tal modo que é hoje aspiração aclamada por todas as classes, com admiráveis exemplos de abnegação da parte dos proprietários.
 > Quando o próprio interesse privado vem espontaneamente colaborar para que o Brasil se desfaça da infeliz herança que as necessidades da lavoura haviam mantido, confio que não hesitareis em apagar do direito pátrio a única exceção que nele figura em antagonismo com o espírito cristão e liberal das nossas instituições.
->Mediante providências que acautelem a ordem na transformação do trabalho, apressem pela imigração o povoamento do país, facilitem as comunicações, utilizem as terras devolutas, desenvolvam o crédito agrícola e aviventem a indústria nacional, pode-se asseverar que a produção sempre crescente tomará forte impulso e nos habilitará a chegar mais rapidamente aos nossos auspiciosos destinos.
+> Mediante providências que acautelem a ordem na transformação do trabalho, apressem pela imigração o povoamento do país, facilitem as comunicações, utilizem as terras devolutas, desenvolvam o crédito agrícola e aviventem a indústria nacional, pode-se asseverar que a produção sempre crescente tomará forte impulso e nos habilitará a chegar mais rapidamente aos nossos auspiciosos destinos.
 > [...]
 > Tenho fé que correspondereis ao que o Brasil espera de vós.
 > Está aberta a sessão.
@@ -27,6 +27,10 @@ E o tráfico não acabou assim. Mesmo com os bombardeios constantes dos navios n
 
 A gente tende a pensar que leis como o Ventre-Livre (1871) e a Saraiva-Cotegipe (a dos Sexagenários, de 1885) representaram uma tentativa de abolição gradual, mas é o contrário: não à toa, a Lei dos Sexagenários leva o nome, junto aos de dois liberais, da autoria do conservador Barão de Cotegipe, ferrenho anti-abolicionista! Quando se diz que os conservadores passaram mais leis no Parlamento que os liberais contra a escravidão, é porque o que se pretendia era postergar ao máximo a abolição. Desse modo, a escravidão duraria até por volta de 1930, quando o último liberto pelo Ventre-Livre fosse liberto pela Lei dos Sexagenários. Basta calcular: alguém nascido em 1870, um ano antes da lei do Ventre-Livre, estaria liberto aos 60 anos completos em 1930, se antes não fosse forro. Um cenário hediondo no qual o Brasil se tornaria um pária entre as nações, se dependesse dos escravocratas. A situação era vil ao ponto de crianças serem batizadas como nascidas antes de 1871 para que permanecessem cativas como seus pais.
 
+>— Pretende-se dividir os brasileiros em escravocratas e não escravocratas, tornando odiosos aqueles que pugnam pela restrita execução das leis de 1871 e 1885 — afirmou o senador Cotegipe. — Isso não é certo. **Na prática, a escravidão já está extinta. A questão é apenas de prazo**.
+>
+> Fonte: (WESTIN, 2018), Agência Senado. Grifos da autora.
+
 Mas vamos à votação da Lei Áurea. Em tempos televisionados, acostumamo-nos a acompanhar sessões do Congresso marcantes: a votação do Impeachment da presidenta Dilma, a reforma tributária, a Constituinte em 1988 e o golpe que declarou vaga a presidência da República em 1964.
 
 Diante disso, ficava muito curiosa sobre como foi a votação da Lei Áurea no Parlamento. Tem-se a impressão de que tudo se resume a uma canetada, ignorando toda a complexidade e história do abolicionismo como movimento social. Mas o que aconteceu na votação, eu me perguntava?
@@ -39,13 +43,21 @@ Foram longos dias. Os parlamentares compareceram até no sábado e no domingo (i
 * **8 de maio, terça-feira**: É enviada a proposta ao Parlamento pelo Ministro da Agricultura, Rodrigo Augusto da Silva:
 > * *Artigo 1º*: É declarada extincta a escravidão no Brasil;
 > * *Artigo 2º*: Revogam-se as disposições em contrário.
-> `[O deputado baiano Araújo Góes foi perspicar ao acrescentar o trecho “desde a data desta lei” ao artigo primeiro. Não fosse isso, havia o risco de se tornar uma lei simbólica e interpretável.]`
-* **10 de maio, quinta-feira**: aprovação na Câmara: 85 deputados votam a favor, 9 contra;
+> `[O deputado baiano Araújo Góes foi perspicar ao acrescentar o trecho “desde a data desta lei” ao artigo primeiro. Não fosse isso, havia o risco de se tornar uma lei simbólica, a ser seguida em outro momento.]`
+* **10 de maio, quinta-feira**: aprovação na Câmara: 83 deputados votam a favor, 9 contra;
 * **11 de maio, sexta-feira**: a proposta entra no Senado;
 * **12 de maio, sábado**: a proposta entra na ordem do dia do Senado;
 * **13 de maio, domingo**: a proposta é aprovada em sessão extraordinária no Senado: 71 senadores votam a favor, 6 contra.
 
-Fiz algumas pesquisas para estampar os nomes dos parlamentares que votaram contra a Lei Áurea, mas não encontrei em fontes confiáveis. Que sigam na lata de lixo da história.
+
+
+
+
+No Senado, votaram contra os conservadores Barão de Cotegipe (BA, João Maurício Wanderley) e Paulino de Sousa (RJ, o Segundo Visconde do Uruguai). Que sigam na lata de lixo da história.
+
+https://www2.senado.leg.br/bdsf/handle/id/500986
+
+
 
 Lembro que no Império o senador era um cargo vitalício. Um dos que votaram contra e teve o discurso mais agressivo foi o Barão de Cotegipe, senador pela província da Bahia. O mesmo barão, quando Chefe de Gabinete (cargo equivalente a um primeiro-ministro, foi responsável por engavetar propostas abolicionistas no ano anterior, já na terceira e última regência da Princesa Imperial. Isabel precisou gerar uma situação para que o conservador renunciasse e, assim, foi sucedido pelo também conservador, mas abolicionista, João Alfredo Correia de Oliveira.
 
@@ -57,7 +69,7 @@ Ora, nem tudo o que é moral é legal, e nem tudo o que é legal, é moral. Muit
 
 > — Tenho conhecimento da nossa lavoura, especialmente das províncias de São Paulo, Minas Gerais, Rio de Janeiro e Bahia, e afianço que a crise será medonha. A verdade é que haverá uma perturbação enorme no país durante muitos anos.
 >
-> 
+> ..............................
 
 O senador Paulino de Souza (RJ), ele próprio um latifundiário do Vale do Paraíba, bateu na mesma tecla:
  
@@ -105,12 +117,13 @@ Machado, no entanto, não perdeu a oportunidade de ironizar a certa ineficácia 
 > 
 > PRINCEZA IMPERIAL REGENTE.
 > Rodrigo Augusto da Silva.
+>
+> Fonte: (BRASIL, 1888)
 
 * CAMPELLO, André Barreto. Lei Áurea: a história do seu nascimento. 13 maio 2021. Disponível em: < https://congressoemfoco.uol.com.br/blogs-e-opiniao/forum/lei-aurea-a-historia-do-seu-nascimento/ >. Acesso: 27 jan. 2025.
 * BRASIL. Falas do Trono: Desde o Ano de 1823 até 1889. Brasília: Editora do Senado Federal, 2019. Disponível em: < https://www2.senado.leg.br/bdsf/handle/id/562127 >. Acesso: 04 maio 2025.
 * BRASIL. Lei Nº 3.353. Declara extincta a escravidão no Brazil. Rio de Janeiro, 13 de maio de 1888. Disponível em: < https://www.planalto.gov.br/ccivil_03/leis/lim/lim3353.htm >. Acesso: 4 maio 2025.
 * DUARTE, E. A. Machado de Assis afrodescendente, 3. ed., p. 79-81. 2022. Disponível em: < http://www.letras.ufmg.br/literafro/autores/11-textos-dos-autores/800-machado-de-assis-a-semana >. Acesso: 27 jan. 2025.
 * WESTIN, Ricardo. Senado e Câmara aprovaram Lei Áurea em 5 dias. Brasília: Agência Senado, 07 maio 2018. Disponível em: < https://www12.senado.leg.br/noticias/especiais/arquivo-s/senado-e-camara-aprovaram-lei-aurea-em-5-dias/senado-e-camara-aprovaram-lei-aurea-em-5-dias >. Acesso: 27 jan. 2025.
-
 
 *Escrito aos 23 de janeiro de 2025.*

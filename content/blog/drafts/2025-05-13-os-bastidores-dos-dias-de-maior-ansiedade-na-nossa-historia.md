@@ -49,14 +49,14 @@ Foram longos dias. Os parlamentares compareceram até no sábado e no domingo (i
 * **12 de maio, sábado**: a proposta entra na ordem do dia do Senado;
 * **13 de maio, domingo**: a proposta é aprovada em sessão extraordinária no Senado: 71 senadores votam a favor, 6 contra.
 
-
-
-
+Na Câmara dos Deputados, votaram contra o Barão de Araçaji (PE), Bulhões de Caravalho (RJ), Castrioto (???), Pedro Luís (RJ), Bezamat (), Alfredo Chaves (), Lacerda Werneck (), Andrade Figueira () e Cunha Leitão. 
 
 No Senado, votaram contra os conservadores Barão de Cotegipe (BA, João Maurício Wanderley) e Paulino de Sousa (RJ, o Segundo Visconde do Uruguai). Que sigam na lata de lixo da história.
 
 https://www2.senado.leg.br/bdsf/handle/id/500986
 
+
+https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/escrevendohistoria/125-anos-da-lei-aurea/1888-2013-a-abolicao-da-escravatura (detalhes da votação na Câmara)
 
 
 Lembro que no Império o senador era um cargo vitalício. Um dos que votaram contra e teve o discurso mais agressivo foi o Barão de Cotegipe, senador pela província da Bahia. O mesmo barão, quando Chefe de Gabinete (cargo equivalente a um primeiro-ministro, foi responsável por engavetar propostas abolicionistas no ano anterior, já na terceira e última regência da Princesa Imperial. Isabel precisou gerar uma situação para que o conservador renunciasse e, assim, foi sucedido pelo também conservador, mas abolicionista, João Alfredo Correia de Oliveira.

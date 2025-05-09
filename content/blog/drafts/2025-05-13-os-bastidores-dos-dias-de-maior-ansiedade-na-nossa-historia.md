@@ -59,7 +59,6 @@ https://www2.senado.leg.br/bdsf/handle/id/500986
 
 https://bd.camara.leg.br/bd/items/902bc31b-b064-4fe7-868c-acf74253061e (anaes da Câmara)
 
-
 https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/escrevendohistoria/125-anos-da-lei-aurea/1888-2013-a-abolicao-da-escravatura (detalhes da votação na Câmara)
 
 
@@ -101,7 +100,7 @@ Durante a conturbada sessão, o senador Paulino (RJ) encerrou sua fala de forma 
 
 Ela aguardava no Paço da Cidade com a pena de ouro para assinar a lei, mas os parlamentares que lhe levariam o livro de leis se atrasou devido à agitação nas ruas lotadas do Rio de Janeiro; é o delírio público descrito por Machado de Assis, o qual menciono adiante! A assinatura aconteceu por volta das três e meia da tarde, que foi seguida de grande agitação naquele domingo. A euforia da abolição foi seguida pela Missa Campal do 17 de maio, no Campo de São Cristóvão, onde a Princesa Regente foi ovacionada. Na ocasião, o Barão de Cotegipe, ao parabenizar a Princesa Regente, não perdeu a oportunidade de ironizou ao dizer que ela acabava de libertar um povo e perder o trono, ao que ela respondeu que, se mil tronos tivesse, mil tronos daria pela abolição.
 
-Machado de Assis declarou nunca ter visto nada igual. No jornal A Semana, assim escreveu em 1893:
+Machado de Assis declarou nunca ter visto nada igual. No jornal *A Semana*, assim escreveu em 1893:
 
 > Houve sol, e grande sol, naquele domingo de 1888, em que o Senado votou a lei, que a regente sancionou, e todos saímos à rua. Sim, também eu saí à rua, eu o mais encolhido dos caramujos, também eu entrei no préstito, em carruagem aberta, se me fazem favor, hóspede de um gordo amigo ausente; todos respiravam felicidade, tudo era delírio. Verdadeiramente, foi o único dia de delírio público que me lembra ter visto.
 > Fonte: (DUARTE, 2022)
@@ -130,4 +129,4 @@ Machado, no entanto, não perdeu a oportunidade de ironizar a certa ineficácia 
 * DUARTE, E. A. Machado de Assis afrodescendente, 3. ed., p. 79-81. 2022. Disponível em: < http://www.letras.ufmg.br/literafro/autores/11-textos-dos-autores/800-machado-de-assis-a-semana >. Acesso: 27 jan. 2025.
 * WESTIN, Ricardo. Senado e Câmara aprovaram Lei Áurea em 5 dias. Brasília: Agência Senado, 07 maio 2018. Disponível em: < https://www12.senado.leg.br/noticias/especiais/arquivo-s/senado-e-camara-aprovaram-lei-aurea-em-5-dias/senado-e-camara-aprovaram-lei-aurea-em-5-dias >. Acesso: 27 jan. 2025.
 
-*Escrito aos 23 de janeiro de 2025.*
+*Escrito aos 23 de janeiro de 2025. Ficaria só na gaveta, mas foi revisado e complementado ao longos dos primeiros dias de maio.*

@@ -43,17 +43,21 @@ Foram longos dias. Os parlamentares compareceram até no sábado e no domingo (i
 * **8 de maio, terça-feira**: É enviada a proposta ao Parlamento pelo Ministro da Agricultura, Rodrigo Augusto da Silva:
 > * *Artigo 1º*: É declarada extincta a escravidão no Brasil;
 > * *Artigo 2º*: Revogam-se as disposições em contrário.
-> `[O deputado baiano Araújo Góes foi perspicar ao acrescentar o trecho “desde a data desta lei” ao artigo primeiro. Não fosse isso, havia o risco de se tornar uma lei simbólica, a ser seguida em outro momento.]`
+> `[O deputado baiano Araújo Góes ( foi perspicar ao acrescentar o trecho “desde a data desta lei” ao artigo primeiro. Conforme ele relata na sessão, as leis brasileiras vigoravam após 8 dias na Corte e após três meses na província. Os escravocratas aproveitar-se-iam disso.]`
 * **10 de maio, quinta-feira**: aprovação na Câmara: 83 deputados votam a favor, 9 contra;
 * **11 de maio, sexta-feira**: a proposta entra no Senado;
 * **12 de maio, sábado**: a proposta entra na ordem do dia do Senado;
 * **13 de maio, domingo**: a proposta é aprovada em sessão extraordinária no Senado: 71 senadores votam a favor, 6 contra.
 
-Na Câmara dos Deputados, votaram contra o Barão de Araçaji (PE), Bulhões de Caravalho (RJ), Castrioto (???), Pedro Luís (RJ), Bezamat (), Alfredo Chaves (), Lacerda Werneck (), Andrade Figueira () e Cunha Leitão. 
+Na Câmara dos Deputados, votaram contra os conservadores Barão de Araçaji (PE), Bulhões de Caravalho (RJ), Carlos Frederico Castrioto (RJ), Pedro Luís (RJ), Roberto Bezamath (RJ), Alfredo Rodrigues Fernandes Chaves (RJ), Manoel Peixoto de Lacerda Werneck (RJ), Domingos de Andrade Figueira (RJ) e Antônio Cândido da Cunha Leitão (RJ). No Senado, votaram contra os conservadores Barão de Cotegipe (BA, João Maurício Wanderley) e Paulino de Sousa (RJ, o Segundo Visconde do Uruguai). Que sigam na lata de lixo da história.
 
-No Senado, votaram contra os conservadores Barão de Cotegipe (BA, João Maurício Wanderley) e Paulino de Sousa (RJ, o Segundo Visconde do Uruguai). Que sigam na lata de lixo da história.
+Um adendo sobre a pesquisa é que achar esses nomes foi difícil. Fontes diferentes apontavam números diferentes, e mais difícil ainda foi achar os nomes. Mesmo encontrando as atas das sessões na Câmara, lá eram citados os nomes incompletos ou com variações de ortografia dos votantes. São preocupações que os taquígrafos nem sempre têm para a posteridade de outro século. Um detalhe importante é que, embora todos os deputados que votaram contra fossem conservadores, o fato é que aquela legislatura era composta por uma bancada de maioria conservadora.
+
+https://www2.senado.leg.br/bdsf/handle/id/220525 (legislatura)
 
 https://www2.senado.leg.br/bdsf/handle/id/500986
+
+https://bd.camara.leg.br/bd/items/902bc31b-b064-4fe7-868c-acf74253061e (anaes da Câmara)
 
 
 https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/escrevendohistoria/125-anos-da-lei-aurea/1888-2013-a-abolicao-da-escravatura (detalhes da votação na Câmara)
@@ -69,7 +73,7 @@ Ora, nem tudo o que é moral é legal, e nem tudo o que é legal, é moral. Muit
 
 > — Tenho conhecimento da nossa lavoura, especialmente das províncias de São Paulo, Minas Gerais, Rio de Janeiro e Bahia, e afianço que a crise será medonha. A verdade é que haverá uma perturbação enorme no país durante muitos anos.
 >
-> ..............................
+> Fonte: (WESTIN, 2018), Agência Senado
 
 O senador Paulino de Souza (RJ), ele próprio um latifundiário do Vale do Paraíba, bateu na mesma tecla:
  

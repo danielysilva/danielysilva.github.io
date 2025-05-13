@@ -49,17 +49,11 @@ Foram longos dias. Os parlamentares compareceram até no sábado e no domingo (i
 * **12 de maio, sábado**: a proposta entra na ordem do dia do Senado;
 * **13 de maio, domingo**: a proposta é aprovada em sessão extraordinária no Senado: 71 senadores votam a favor, 6 contra.
 
-Na Câmara dos Deputados, votaram contra os conservadores Barão de Araçaji (PE), Bulhões de Caravalho (RJ), Carlos Frederico Castrioto (RJ), Pedro Luís (RJ), Roberto Bezamath (RJ), Alfredo Rodrigues Fernandes Chaves (RJ), Manoel Peixoto de Lacerda Werneck (RJ), Domingos de Andrade Figueira (RJ) e Antônio Cândido da Cunha Leitão (RJ). No Senado, votaram contra os conservadores Barão de Cotegipe (BA, João Maurício Wanderley) e Paulino de Sousa (RJ, o Segundo Visconde do Uruguai). Que sigam na lata de lixo da história.
+Na Câmara dos Deputados, votaram contra os conservadores Barão de Araçaji (PE), Bulhões de Caravalho (RJ), Carlos Frederico Castrioto (RJ), Pedro Luís (RJ), Roberto Bezamath (RJ), Alfredo Rodrigues Fernandes Chaves (RJ), Manoel Peixoto de Lacerda Werneck (RJ), Domingos de Andrade Figueira (RJ) e Antônio Cândido da Cunha Leitão (RJ) (BRASIL: 1888, 1889, 2013) No Senado, votaram contra os conservadores Barão de Cotegipe (BA, João Maurício Wanderley) e Paulino de Sousa (RJ, o Segundo Visconde do Uruguai) (BRASIL, 2013). Que sigam na lata de lixo da história.
 
 Um adendo sobre a pesquisa é que achar esses nomes foi difícil. Fontes diferentes apontavam números diferentes, e mais difícil ainda foi achar os nomes. Mesmo encontrando as atas das sessões na Câmara, lá eram citados os nomes incompletos ou com variações de ortografia dos votantes. São preocupações que os taquígrafos nem sempre têm para a posteridade de outro século. Um detalhe importante é que, embora todos os deputados que votaram contra fossem conservadores, o fato é que aquela legislatura era composta por uma bancada de maioria conservadora.
 
-https://www2.senado.leg.br/bdsf/handle/id/220525 (legislatura)
 
-https://www2.senado.leg.br/bdsf/handle/id/500986
-
-https://bd.camara.leg.br/bd/items/902bc31b-b064-4fe7-868c-acf74253061e (anaes da Câmara)
-
-https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/escrevendohistoria/125-anos-da-lei-aurea/1888-2013-a-abolicao-da-escravatura (detalhes da votação na Câmara)
 
 
 Lembro que no Império o senador era um cargo vitalício. Um dos que votaram contra e teve o discurso mais agressivo foi o Barão de Cotegipe, senador pela província da Bahia. O mesmo barão, quando Chefe de Gabinete (cargo equivalente a um primeiro-ministro, foi responsável por engavetar propostas abolicionistas no ano anterior, já na terceira e última regência da Princesa Imperial. Isabel precisou gerar uma situação para que o conservador renunciasse e, assim, foi sucedido pelo também conservador, mas abolicionista, João Alfredo Correia de Oliveira.
@@ -124,8 +118,12 @@ Machado, no entanto, não perdeu a oportunidade de ironizar a certa ineficácia 
 > Fonte: (BRASIL, 1888)
 
 * CAMPELLO, André Barreto. Lei Áurea: a história do seu nascimento. 13 maio 2021. Disponível em: < https://congressoemfoco.uol.com.br/blogs-e-opiniao/forum/lei-aurea-a-historia-do-seu-nascimento/ >. Acesso: 27 jan. 2025.
+* BRASIL. Annaes do Parlamento Brazileiro. Tomo I , 288 p. `[1888]`. Disponível em: < https://bd.camara.leg.br/bd/items/902bc31b-b064-4fe7-868c-acf74253061e >. Acesso: 12 maio 2025.
 * BRASIL. Falas do Trono: Desde o Ano de 1823 até 1889. Brasília: Editora do Senado Federal, 2019. Disponível em: < https://www2.senado.leg.br/bdsf/handle/id/562127 >. Acesso: 04 maio 2025.
+* BRASIL. Jornal do Senado : ano 19, n. 3869: Encarte: Uma reconstituição histórica (13 maio 2013). Disponível em: < https://www2.senado.leg.br/bdsf/handle/id/500986 >. Acesso: 12 maio 2025.
 * BRASIL. Lei Nº 3.353. Declara extincta a escravidão no Brazil. Rio de Janeiro, 13 de maio de 1888. Disponível em: < https://www.planalto.gov.br/ccivil_03/leis/lim/lim3353.htm >. Acesso: 4 maio 2025.
+* BRASIL. Organisações e programmas ministeriaes desde 1822 a 1889. Rio de Janeiro: Imprensa Nacional, 1889. Disponível em: < https://www2.senado.leg.br/bdsf/handle/id/220525 >. Acesso: 12 maio 2025.
+* BRASIL. Sessões e Reuniões: 1888 - A abolição da Escravatura, 125 anos da Lei Áurea. Portal da Câmara dos Deputados. Disponível em: < https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/escrevendohistoria/125-anos-da-lei-aurea/1888-2013-a-abolicao-da-escravatura >. Acesso: 12 maio 2025.
 * DUARTE, E. A. Machado de Assis afrodescendente, 3. ed., p. 79-81. 2022. Disponível em: < http://www.letras.ufmg.br/literafro/autores/11-textos-dos-autores/800-machado-de-assis-a-semana >. Acesso: 27 jan. 2025.
 * WESTIN, Ricardo. Senado e Câmara aprovaram Lei Áurea em 5 dias. Brasília: Agência Senado, 07 maio 2018. Disponível em: < https://www12.senado.leg.br/noticias/especiais/arquivo-s/senado-e-camara-aprovaram-lei-aurea-em-5-dias/senado-e-camara-aprovaram-lei-aurea-em-5-dias >. Acesso: 27 jan. 2025.
 

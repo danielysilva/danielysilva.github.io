@@ -6,7 +6,7 @@ author: Daniely Silva
 categories: ["Crônicas"]
 tags: ["brasilidade", "história"]
 summary:
-draft: true
+draft: false
 ---
 > A extinção do elemento servil, pelo influxo do sentimento nacional e das liberalidades particulares, em honra do Brasil, adiantou-se pacificamente de tal modo que é hoje aspiração aclamada por todas as classes, com admiráveis exemplos de abnegação da parte dos proprietários.
 > Quando o próprio interesse privado vem espontaneamente colaborar para que o Brasil se desfaça da infeliz herança que as necessidades da lavoura haviam mantido, confio que não hesitareis em apagar do direito pátrio a única exceção que nele figura em antagonismo com o espírito cristão e liberal das nossas instituições.
@@ -43,7 +43,7 @@ Foram longos dias. Os parlamentares compareceram até no sábado e no domingo (i
 * **8 de maio, terça-feira**: É enviada a proposta ao Parlamento pelo Ministro da Agricultura, Rodrigo Augusto da Silva:
 > * *Artigo 1º*: É declarada extincta a escravidão no Brasil;
 > * *Artigo 2º*: Revogam-se as disposições em contrário.
-> `[O deputado baiano Araújo Góes ( foi perspicar ao acrescentar o trecho “desde a data desta lei” ao artigo primeiro. Conforme ele relata na sessão, as leis brasileiras vigoravam após 8 dias na Corte e após três meses na província. Os escravocratas aproveitar-se-iam disso.]`
+> `[O deputado baiano Innocencio Marques de Araújo Góes Junior (Conservador), foi perspicar ao acrescentar o trecho “desde a data desta lei” ao artigo primeiro. Conforme ele relata na sessão, as leis brasileiras vigoravam após 8 dias na Corte e após três meses na província. Os escravocratas aproveitar-se-iam disso (BRASIL, 1888)]`
 * **10 de maio, quinta-feira**: aprovação na Câmara: 83 deputados votam a favor, 9 contra;
 * **11 de maio, sexta-feira**: a proposta entra no Senado;
 * **12 de maio, sábado**: a proposta entra na ordem do dia do Senado;
@@ -52,9 +52,6 @@ Foram longos dias. Os parlamentares compareceram até no sábado e no domingo (i
 Na Câmara dos Deputados, votaram contra os conservadores Barão de Araçaji (PE), Bulhões de Caravalho (RJ), Carlos Frederico Castrioto (RJ), Pedro Luís (RJ), Roberto Bezamath (RJ), Alfredo Rodrigues Fernandes Chaves (RJ), Manoel Peixoto de Lacerda Werneck (RJ), Domingos de Andrade Figueira (RJ) e Antônio Cândido da Cunha Leitão (RJ) (BRASIL: 1888, 1889, 2013) No Senado, votaram contra os conservadores Barão de Cotegipe (BA, João Maurício Wanderley) e Paulino de Sousa (RJ, o Segundo Visconde do Uruguai) (BRASIL, 2013). Que sigam na lata de lixo da história.
 
 Um adendo sobre a pesquisa é que achar esses nomes foi difícil. Fontes diferentes apontavam números diferentes, e mais difícil ainda foi achar os nomes. Mesmo encontrando as atas das sessões na Câmara, lá eram citados os nomes incompletos ou com variações de ortografia dos votantes. São preocupações que os taquígrafos nem sempre têm para a posteridade de outro século. Um detalhe importante é que, embora todos os deputados que votaram contra fossem conservadores, o fato é que aquela legislatura era composta por uma bancada de maioria conservadora.
-
-
-> https://congressoemfoco.uol.com.br/blogs-e-opiniao/forum/lei-aurea-a-historia-do-seu-nascimento/
 
 Lembro que no Império o senador era um cargo vitalício. Um dos que votaram contra e teve o discurso mais agressivo foi o Barão de Cotegipe, senador pela província da Bahia. O mesmo barão, quando Chefe de Gabinete (cargo equivalente a um primeiro-ministro, foi responsável por engavetar propostas abolicionistas no ano anterior, já na terceira e última regência da Princesa Imperial. Isabel precisou gerar uma situação para que o conservador renunciasse e, assim, foi sucedido pelo também conservador, mas abolicionista, João Alfredo Correia de Oliveira.
 
@@ -76,11 +73,9 @@ O senador Paulino de Souza (RJ), ele próprio um latifundiário do Vale do Para�
 
 E digo mais: muitos dos que gritavam pela economia eram os mesmos que, após a abolição, queriam ser indenizados em tantos contos de réis pelos escravizados perdidos, ainda que o Estado brasileiro estivesse quebrado. Muito por conta desse desejo foi que as elites agrárias (a bancada ruralista da época!) apoiaram a quartelada que foi o golpe do 15 de novembro de 1889. A grande frustração desses ex-escravocratas foi quando o Ministro da Fazenda  Ruy Barbosa, já na República sob Deodoro, tomou a decisão polêmica de queimar os registros relativos à escravidão. Por um lado, negamos uma mácula da nossa história, a qual a Primeira República já fechava os olhos ao cantar no hino que *“Nós nem cremos que escravos outrora/ Tenha havido em tão nobre país”*, de forma cínica, visto que o próprio golpe foi uma represália à abolição. A ação do ministro Ruy Barbosa teve por efeito extinguir qualquer possibilidade de indenização aos escravocratas. Deveras, os que gritam pela economia mais se preocupam com a economia das próprias fazendas que com a do país.
 
-O abolicionismo já estava tão enraizado no Brasil, que figuras como José de Alencar, enquanto demonstrava simpatia ao abolicionismo nas suas obras literárias, foi ferrenho opositor à abolição na Câmara, onde foi deputado pela província do Ceará. A contradição estava posta: todos queriam a abolição, mas ninguém queria pagar a conta. Em 1867 o escritor do Partido Conservador já instaurava o pânico ao se opor à abolição.
+O abolicionismo já estava tão enraizado no Brasil, que figuras como José de Alencar, enquanto demonstrava simpatia ao abolicionismo nas suas obras literárias, foi ferrenho opositor à abolição na Câmara, onde foi deputado pela província do Ceará. A contradição estava posta: todos queriam a abolição, mas ninguém queria pagar a conta. A partir de 1867, quando da Fala do Trono que abordou o prazo para o fim do "elemento servil", o escritor cearense do Partido Conservador já instaurava o pânico ao se opor à abolição nas Cartas de Erasmo ao Imperador, defendendo a escravidão enquanto instituição que sustenta as bases da estrutura social e que seu rompimento culminaria num caos generalizado. Esse lado escravocrata do renomado autor do romantismo ficou meio de lado, da mesma forma que muitos negam as cartas de cunho abertamente racista de Monteiro Lobato.
 
-
-
-É curioso que há dois extremos com relação à figura de dona Isabel: ou se a romantiza exageradamente como redentora, ignorando o papel do movimento abolicionista, ou se desconsidera totalmente o seu papel. É importante lembrar que, depois de três monarcas homens a reger o Brasil, foi uma Regente mulher que teve peito para pautar o tema. Até se pode supor que o golpe, mais que contra o Segundo Reinado, foi contra a possibilidade de um futuro Terceiro Reinado sob sua figura feminina. E é claro que, dado o contexto, é impensável que ela vetasse qualquer proposta abolicionista. Levando também em conta que ela não tinha afeição ao poder, talvez um trono perdido nem fizesse tanta diferença para ela — mas garanto que ela não quereria ir para o exílio.
+Quanto à família imperial, é curioso que há dois extremos com relação à figura de Isabel: ou se a romantiza exageradamente como redentora, ignorando o papel do movimento abolicionista, ou se desconsidera totalmente o seu papel. É importante lembrar que, depois de três monarcas homens a reger o Brasil, foi uma Regente mulher que teve peito para pautar o tema de forma enfática. Até se pode supor que o golpe, mais que contra o Segundo Reinado, foi contra a possibilidade de um futuro Terceiro Reinado sob sua figura feminina. E é claro que, dado o contexto, é impensável que ela vetasse qualquer proposta abolicionista. Levando também em conta que ela não tinha afeição ao poder, talvez um trono perdido nem fizesse tanta diferença para ela — mas garanto que ela não quereria ir para o exílio.
 
 Curioso notar como sua caligrafia estava rude no documento da Lei Áurea. Mas olhando outros escritos seus, a caligrafia era bela como a de pessoas letradas de sua época. Talvez fosse pelo cansaço?
 
@@ -88,7 +83,7 @@ Curioso notar como sua caligrafia estava rude no documento da Lei Áurea. Mas ol
 >
 > Fonte: (WESTIN, 2018), Agência Senado.
 
-Durante a conturbada sessão, o senador Paulino (RJ) encerrou sua fala de forma ácida:
+Durante a conturbada sessão, o senador Paulino (RJ) encerrou sua fala de forma ácida e sarcástica:
 
 > — São tantas as impaciências que sou obrigado a concluir meu pronunciamento sem demora. Confesso-me vencido. Cumpri, como as circunstâncias permitiram, o meu dever de senador. Agora posso cumprir o de cavalheiro, não fazendo esperar uma dama de tão alta hierarquia.
 >
@@ -117,15 +112,15 @@ Machado, no entanto, não perdeu a oportunidade de ironizar a certa ineficácia 
 > PRINCEZA IMPERIAL REGENTE.
 > Rodrigo Augusto da Silva.
 >
-> Fonte: (BRASIL, 1888)
+> Fonte: (BRASIL, 1888a)
 
-* CAMPELLO, André Barreto. Lei Áurea: a história do seu nascimento. 13 maio 2021. Disponível em: < https://congressoemfoco.uol.com.br/blogs-e-opiniao/forum/lei-aurea-a-historia-do-seu-nascimento/ >. Acesso: 27 jan. 2025.
-* BRASIL. Annaes do Parlamento Brazileiro. Tomo I , 288 p. `[1888]`. Disponível em: < https://bd.camara.leg.br/bd/items/902bc31b-b064-4fe7-868c-acf74253061e >. Acesso: 12 maio 2025.
+* CAMPELLO, André Barreto. Lei Áurea: a história do seu nascimento. 13 maio 2021. Disponível em: < https://www.congressoemfoco.com.br/noticia/14616/lei-aurea-a-historia-do-seu-nascimento >. Acesso: 27 jan. 2025.
+* BRASIL. Annaes do Parlamento Brazileiro. Tomo I , 288 p. 1888. Disponível em: < https://bd.camara.leg.br/bd/items/902bc31b-b064-4fe7-868c-acf74253061e >. Acesso: 12 maio 2025.
 * BRASIL. Falas do Trono: Desde o Ano de 1823 até 1889. Brasília: Editora do Senado Federal, 2019. Disponível em: < https://www2.senado.leg.br/bdsf/handle/id/562127 >. Acesso: 04 maio 2025.
 * BRASIL. Jornal do Senado : ano 19, n. 3869: Encarte: Uma reconstituição histórica (13 maio 2013). Disponível em: < https://www2.senado.leg.br/bdsf/handle/id/500986 >. Acesso: 12 maio 2025.
-* BRASIL. Lei Nº 3.353. Declara extincta a escravidão no Brazil. Rio de Janeiro, 13 de maio de 1888. Disponível em: < https://www.planalto.gov.br/ccivil_03/leis/lim/lim3353.htm >. Acesso: 4 maio 2025.
+* BRASIL. Lei Nº 3.353. Declara extincta a escravidão no Brazil. Rio de Janeiro, 13 de maio de 1888. 1888a. Disponível em: < https://www.planalto.gov.br/ccivil_03/leis/lim/lim3353.htm >. Acesso: 4 maio 2025.
 * BRASIL. Organisações e programmas ministeriaes desde 1822 a 1889. Rio de Janeiro: Imprensa Nacional, 1889. Disponível em: < https://www2.senado.leg.br/bdsf/handle/id/220525 >. Acesso: 12 maio 2025.
-* BRASIL. Sessões e Reuniões: 1888 - A abolição da Escravatura, 125 anos da Lei Áurea. Portal da Câmara dos Deputados. Disponível em: < https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/escrevendohistoria/125-anos-da-lei-aurea/1888-2013-a-abolicao-da-escravatura >. Acesso: 12 maio 2025.
+* BRASIL. Sessões e Reuniões: 1888 - A abolição da Escravatura, 125 anos da Lei Áurea. 1888b. Portal da Câmara dos Deputados. Disponível em: < https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/escrevendohistoria/125-anos-da-lei-aurea/1888-2013-a-abolicao-da-escravatura >. Acesso: 12 maio 2025.
 * DUARTE, E. A. Machado de Assis afrodescendente, 3. ed., p. 79-81. 2022. Disponível em: < http://www.letras.ufmg.br/literafro/autores/11-textos-dos-autores/800-machado-de-assis-a-semana >. Acesso: 27 jan. 2025.
 * WESTIN, Ricardo. Senado e Câmara aprovaram Lei Áurea em 5 dias. Brasília: Agência Senado, 07 maio 2018. Disponível em: < https://www12.senado.leg.br/noticias/especiais/arquivo-s/senado-e-camara-aprovaram-lei-aurea-em-5-dias/senado-e-camara-aprovaram-lei-aurea-em-5-dias >. Acesso: 27 jan. 2025.
 

@@ -78,6 +78,8 @@ E digo mais: muitos dos que gritavam pela economia eram os mesmos que, após a a
 
 O abolicionismo já estava tão enraizado no Brasil, que figuras como José de Alencar, enquanto demonstrava simpatia ao abolicionismo nas suas obras literárias, foi ferrenho opositor à abolição na Câmara, onde foi deputado pela província do Ceará. A contradição estava posta: todos queriam a abolição, mas ninguém queria pagar a conta. Em 1867 o escritor do Partido Conservador já instaurava o pânico ao se opor à abolição.
 
+
+
 É curioso que há dois extremos com relação à figura de dona Isabel: ou se a romantiza exageradamente como redentora, ignorando o papel do movimento abolicionista, ou se desconsidera totalmente o seu papel. É importante lembrar que, depois de três monarcas homens a reger o Brasil, foi uma Regente mulher que teve peito para pautar o tema. Até se pode supor que o golpe, mais que contra o Segundo Reinado, foi contra a possibilidade de um futuro Terceiro Reinado sob sua figura feminina. E é claro que, dado o contexto, é impensável que ela vetasse qualquer proposta abolicionista. Levando também em conta que ela não tinha afeição ao poder, talvez um trono perdido nem fizesse tanta diferença para ela — mas garanto que ela não quereria ir para o exílio.
 
 Curioso notar como sua caligrafia estava rude no documento da Lei Áurea. Mas olhando outros escritos seus, a caligrafia era bela como a de pessoas letradas de sua época. Talvez fosse pelo cansaço?

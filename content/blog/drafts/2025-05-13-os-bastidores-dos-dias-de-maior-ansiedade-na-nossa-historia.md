@@ -54,7 +54,7 @@ Na Câmara dos Deputados, votaram contra os conservadores Barão de Araçaji (PE
 Um adendo sobre a pesquisa é que achar esses nomes foi difícil. Fontes diferentes apontavam números diferentes, e mais difícil ainda foi achar os nomes. Mesmo encontrando as atas das sessões na Câmara, lá eram citados os nomes incompletos ou com variações de ortografia dos votantes. São preocupações que os taquígrafos nem sempre têm para a posteridade de outro século. Um detalhe importante é que, embora todos os deputados que votaram contra fossem conservadores, o fato é que aquela legislatura era composta por uma bancada de maioria conservadora.
 
 
-
+> https://congressoemfoco.uol.com.br/blogs-e-opiniao/forum/lei-aurea-a-historia-do-seu-nascimento/
 
 Lembro que no Império o senador era um cargo vitalício. Um dos que votaram contra e teve o discurso mais agressivo foi o Barão de Cotegipe, senador pela província da Bahia. O mesmo barão, quando Chefe de Gabinete (cargo equivalente a um primeiro-ministro, foi responsável por engavetar propostas abolicionistas no ano anterior, já na terceira e última regência da Princesa Imperial. Isabel precisou gerar uma situação para que o conservador renunciasse e, assim, foi sucedido pelo também conservador, mas abolicionista, João Alfredo Correia de Oliveira.
 

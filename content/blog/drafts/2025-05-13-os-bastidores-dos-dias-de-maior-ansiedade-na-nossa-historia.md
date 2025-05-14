@@ -6,7 +6,7 @@ author: Daniely Silva
 categories: ["Crônicas"]
 tags: ["brasilidade", "história"]
 summary:
-draft: true
+draft: false
 ---
 > A extinção do elemento servil, pelo influxo do sentimento nacional e das liberalidades particulares, em honra do Brasil, adiantou-se pacificamente de tal modo que é hoje aspiração aclamada por todas as classes, com admiráveis exemplos de abnegação da parte dos proprietários.
 > Quando o próprio interesse privado vem espontaneamente colaborar para que o Brasil se desfaça da infeliz herança que as necessidades da lavoura haviam mantido, confio que não hesitareis em apagar do direito pátrio a única exceção que nele figura em antagonismo com o espírito cristão e liberal das nossas instituições.
@@ -66,7 +66,7 @@ Ora, nem tudo o que é moral é legal, e nem tudo o que é legal, é moral. Muit
 > Fonte: (WESTIN, 2018), Agência Senado
 
 O senador Paulino de Souza (RJ), ele próprio um latifundiário do Vale do Paraíba, bateu na mesma tecla:
- 
+
 > — O elemento servil é o único trabalho organizado em quase todo o país, inclusive na extensa e rica zona das margens do Rio Paraíba, que tem sido nestes últimos 50 anos a oficina da riqueza nacional. Eu, ligado por muitos laços com os outros produtores da região, tenho o dever de colocar-me na resistência, em defesa de tamanhos e tão legítimos interesses, que entendem tanto com a fortuna particular como com a ordem econômica e financeira do Estado.
 >
 > Fonte: (WESTIN, 2018), Agência Senado
@@ -108,7 +108,7 @@ Machado, no entanto, não perdeu a oportunidade de ironizar a certa ineficácia 
 > O Secretario de Estado dos Negocios da Agricultura, Commercio e Obras Publicas e interino dos Negocios Estrangeiros, Bacharel Rodrigo Augusto da Silva, do Conselho de Sua Magestade o Imperador, a faça imprimir, publicar e correr.
 >
 > Dada no Palacio do Rio de Janeiro em 13 de maio de 1888, 67º da Independencia e do Imperio.
-> 
+>
 > PRINCEZA IMPERIAL REGENTE.
 > Rodrigo Augusto da Silva.
 >
@@ -124,4 +124,4 @@ Machado, no entanto, não perdeu a oportunidade de ironizar a certa ineficácia 
 * DUARTE, E. A. Machado de Assis afrodescendente, 3. ed., p. 79-81. 2022. Disponível em: < http://www.letras.ufmg.br/literafro/autores/11-textos-dos-autores/800-machado-de-assis-a-semana >. Acesso: 27 jan. 2025.
 * WESTIN, Ricardo. Senado e Câmara aprovaram Lei Áurea em 5 dias. Brasília: Agência Senado, 07 maio 2018. Disponível em: < https://www12.senado.leg.br/noticias/especiais/arquivo-s/senado-e-camara-aprovaram-lei-aurea-em-5-dias/senado-e-camara-aprovaram-lei-aurea-em-5-dias >. Acesso: 27 jan. 2025.
 
-*Escrito aos 23 de janeiro de 2025. Ficaria só na gaveta, mas foi revisado e complementado ao longos dos primeiros dias de maio.*
+*Escrito aos 23 de janeiro de 2025. Ficaria só na gaveta, mas foi revisado e complementado ao longos da primeira quinzena de maio.*

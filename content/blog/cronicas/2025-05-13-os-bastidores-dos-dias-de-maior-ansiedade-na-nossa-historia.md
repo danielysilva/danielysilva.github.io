@@ -10,11 +10,11 @@ draft: false
 ---
 > A extinção do elemento servil, pelo influxo do sentimento nacional e das liberalidades particulares, em honra do Brasil, adiantou-se pacificamente de tal modo que é hoje aspiração aclamada por todas as classes, com admiráveis exemplos de abnegação da parte dos proprietários.
 > Quando o próprio interesse privado vem espontaneamente colaborar para que o Brasil se desfaça da infeliz herança que as necessidades da lavoura haviam mantido, confio que não hesitareis em apagar do direito pátrio a única exceção que nele figura em antagonismo com o espírito cristão e liberal das nossas instituições.
-> Mediante providências que acautelem a ordem na transformação do trabalho, apressem pela imigração o povoamento do país, facilitem as comunicações, utilizem as terras devolutas, desenvolvam o crédito agrícola e aviventem a indústria nacional, pode-se asseverar que a produção sempre crescente tomará forte impulso e nos habilitará a chegar mais rapidamente aos nossos auspiciosos destinos.
-> [...]
-> Tenho fé que correspondereis ao que o Brasil espera de vós.
-> Está aberta a sessão.
-> ISABEL, PRINCESA IMPERIAL REGENTE.
+> Mediante providências que acautelem a ordem na transformação do trabalho, apressem pela imigração o povoamento do país, facilitem as comunicações, utilizem as terras devolutas, desenvolvam o crédito agrícola e aviventem a indústria nacional, pode-se asseverar que a produção sempre crescente tomará forte impulso e nos habilitará a chegar mais rapidamente aos nossos auspiciosos destinos.\
+> [...]\
+> Tenho fé que correspondereis ao que o Brasil espera de vós.\
+> Está aberta a sessão.\
+> ISABEL, PRINCESA IMPERIAL REGENTE.\
 > Fonte: (BRASIL, 2019), Editora do Senado Federal.
 
 Não é novidade pra ninguém que as coisas demoram a acontecer no Brasil. Tradou a reforma tributária, tardou o Plano Real, a independência e mais ainda a reforma agrária, a qual esperamos para agosto — a gosto de Deus.
@@ -27,8 +27,7 @@ E o tráfico não acabou assim. Mesmo com os bombardeios constantes dos navios n
 
 A gente tende a pensar que leis como o Ventre-Livre (1871) e a Saraiva-Cotegipe (a dos Sexagenários, de 1885) representaram uma tentativa de abolição gradual, mas é o contrário: não à toa, a Lei dos Sexagenários leva o nome, junto aos de dois liberais, da autoria do conservador Barão de Cotegipe, ferrenho anti-abolicionista! Quando se diz que os conservadores passaram mais leis no Parlamento que os liberais contra a escravidão, é porque o que se pretendia era postergar ao máximo a abolição. Desse modo, a escravidão duraria até por volta de 1930, quando o último liberto pelo Ventre-Livre fosse liberto pela Lei dos Sexagenários. Basta calcular: alguém nascido em 1870, um ano antes da lei do Ventre-Livre, estaria liberto aos 60 anos completos em 1930, se antes não fosse forro. Um cenário hediondo no qual o Brasil se tornaria um pária entre as nações, se dependesse dos escravocratas. A situação era vil ao ponto de crianças serem batizadas como nascidas antes de 1871 para que permanecessem cativas como seus pais.
 
->— Pretende-se dividir os brasileiros em escravocratas e não escravocratas, tornando odiosos aqueles que pugnam pela restrita execução das leis de 1871 e 1885 — afirmou o senador Cotegipe. — Isso não é certo. **Na prática, a escravidão já está extinta. A questão é apenas de prazo**.
->
+> — Pretende-se dividir os brasileiros em escravocratas e não escravocratas, tornando odiosos aqueles que pugnam pela restrita execução das leis de 1871 e 1885 — afirmou o senador Cotegipe. — Isso não é certo. **Na prática, a escravidão já está extinta. A questão é apenas de prazo**.\
 > Fonte: (WESTIN, 2018), Agência Senado. Grifos da autora.
 
 Mas vamos à votação da Lei Áurea. Em tempos televisionados, acostumamo-nos a acompanhar sessões do Congresso marcantes: a votação do Impeachment da presidenta Dilma, a reforma tributária, a Constituinte em 1988 e o golpe que declarou vaga a presidência da República em 1964.
@@ -40,9 +39,9 @@ Chegou um momento em que defender a escravidão abertamente já era obsceno dema
 Foram longos dias. Os parlamentares compareceram até no sábado e no domingo (isso é que feito no Brasil!).
 
 * **3 de maio, quinta-feira – Fala do Trono**: no Império, a abertura do ano Parlamentar era feita pelo monarca em exercício. A Princesa Regente intimou os parlamentares a abolirem a escravidão naquele ano;
-* **8 de maio, terça-feira**: É enviada a proposta ao Parlamento pelo Ministro da Agricultura, Rodrigo Augusto da Silva:
-> * *Artigo 1º*: É declarada extincta a escravidão no Brasil;
-> * *Artigo 2º*: Revogam-se as disposições em contrário.
+* **8 de maio, terça-feira**: É enviada a proposta ao Parlamento pelo Ministro da Agricultura, Rodrigo Augusto da Silva:\
+> * *Artigo 1º*: É declarada extincta a escravidão no Brasil;\
+> * *Artigo 2º*: Revogam-se as disposições em contrário.\
 > `[O deputado baiano Innocencio Marques de Araújo Góes Junior (Conservador), foi perspicar ao acrescentar o trecho “desde a data desta lei” ao artigo primeiro. Conforme ele relata na sessão, as leis brasileiras vigoravam após 8 dias na Corte e após três meses na província. Os escravocratas aproveitar-se-iam disso (BRASIL, 1888)]`
 * **10 de maio, quinta-feira**: aprovação na Câmara: 83 deputados votam a favor, 9 contra;
 * **11 de maio, sexta-feira**: a proposta entra no Senado;

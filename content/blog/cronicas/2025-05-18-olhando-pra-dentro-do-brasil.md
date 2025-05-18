@@ -49,7 +49,9 @@ Porque, afinal, toda a essa gente vai descer lá pra BC no finalzinho do ano.
 
 <hr>
 
-BIMBATI, Ana Paula; FERREIRA, Lola; MADEIRO, Carlos. Censo 2022 mostra inédita queda de população em 8 capitais; veja lista. Rio de Janeiro: Uol, 28 jun. 2023. Disponível em: < https://noticias.uol.com.br/cotidiano/ultimas-noticias/2023/06/28/crescimento-media-cidades-ibge.htm >. Acesso: 18 maio 2025. 
+BIMBATI, Ana Paula; FERREIRA, Lola; MADEIRO, Carlos. Censo 2022 mostra inédita queda de população em 8 capitais; veja lista. Rio de Janeiro: Uol, 28 jun. 2023. Disponível em: < https://noticias.uol.com.br/cotidiano/ultimas-noticias/2023/06/28/crescimento-media-cidades-ibge.htm >. Acesso: 18 maio 2025.
+
+HOLLANDA, Heloisa Buarque de. Rachel de Queiroz: Coleção Melhores Crônicas. São Paulo: Global, 2004.
 
 RODRIGUES, Leo. Censo 2022: o que explica a queda populacional em diferentes capitais. Brasília: Agência brasil, 02 jul. 2023. Disponível em: < https://agenciabrasil.ebc.com.br/geral/noticia/2023-07/censo-2022-o-que-explica-queda-populacional-em-diferentes-capitais >. Acesso: 18 maio 2025.
 

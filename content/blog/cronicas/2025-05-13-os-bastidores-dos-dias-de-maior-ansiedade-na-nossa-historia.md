@@ -99,11 +99,11 @@ Lima Barreto, quem comemorara o aniversário de 7 anos em meio à euforia do 13 
 
 Machado, no entanto, não perdeu a oportunidade de ironizar a certa ineficácia da lei. Publicou anonimamente a crônica *Bons Dias*, na Gazeta de Notícias, aos 19 de maio de 1888, a semana seguinte da abolição. Na crônica, ele ironiza como as leis mudariam mas tudo continuaria igual, de certo modo. Ele mostra nas suas palavras que há um cativeiro maior que o estabelecido pela lei: o das fronteiras invisíveis e de uma educação repressora. Na crônica, o escravizado e seu senhor passam a ter as mesmas relações do escravismo, mas agora na posição de empregador e empregado, na qual o ex-senhor sempre reforça, perversamente, fazer o que faz uma forma livre. A visão de escritor carioca é certeira quando percebemos que uma lei como a Lei Áurea, embora indispensável, foi insuficiente. Outras reparações históricas foram e se fazem necessárias para corrigir as feridas de um sistema que perdurou por tanto tempo. É fácil botar a culpa em Portugal, mesmo quando nós brasileiros mantivemos por tantas décadas a escravidão e, mesmo depois da abolição, fingimos se tratar de um passado distante, num cínico negacionismo.
 
-> **LEI Nº 3.353, DE 13 DE MAIO DE 1888**. *Declara extincta a escravidão no Brazil*.
-> A Princeza Imperial Regente, em Nome de Sua Magestade o Imperador o Senhor D. Pedro II, Faz saber a todos os subditos do Imperio que a Assembléa Geral decretou e Ella sanccionou a Lei seguinte:
-> **Art. 1.°** É declarada extincta, desde a data desta Lei, a escravidão no Brazil.
-> **Art. 2.°** Revogam-se as disposições em contrario.
-> Manda, portanto, a todas as autoridades, a quem o conhecimento e execução da referida Lei pertencer, que a cumpram, e façam cumprir e guardar tão inteiramente como nella se contém.
+> **LEI Nº 3.353, DE 13 DE MAIO DE 1888**. *Declara extincta a escravidão no Brazil*.\
+> A Princeza Imperial Regente, em Nome de Sua Magestade o Imperador o Senhor D. Pedro II, Faz saber a todos os subditos do Imperio que a Assembléa Geral decretou e Ella sanccionou a Lei seguinte:\
+> **Art. 1.°** É declarada extincta, desde a data desta Lei, a escravidão no Brazil.\
+> **Art. 2.°** Revogam-se as disposições em contrario.\
+> Manda, portanto, a todas as autoridades, a quem o conhecimento e execução da referida Lei pertencer, que a cumpram, e façam cumprir e guardar tão inteiramente como nella se contém.\
 > O Secretario de Estado dos Negocios da Agricultura, Commercio e Obras Publicas e interino dos Negocios Estrangeiros, Bacharel Rodrigo Augusto da Silva, do Conselho de Sua Magestade o Imperador, a faça imprimir, publicar e correr.
 >
 > Dada no Palacio do Rio de Janeiro em 13 de maio de 1888, 67º da Independencia e do Imperio.
@@ -123,4 +123,4 @@ Machado, no entanto, não perdeu a oportunidade de ironizar a certa ineficácia 
 * DUARTE, E. A. Machado de Assis afrodescendente, 3. ed., p. 79-81. 2022. Disponível em: < http://www.letras.ufmg.br/literafro/autores/11-textos-dos-autores/800-machado-de-assis-a-semana >. Acesso: 27 jan. 2025.
 * WESTIN, Ricardo. Senado e Câmara aprovaram Lei Áurea em 5 dias. Brasília: Agência Senado, 07 maio 2018. Disponível em: < https://www12.senado.leg.br/noticias/especiais/arquivo-s/senado-e-camara-aprovaram-lei-aurea-em-5-dias/senado-e-camara-aprovaram-lei-aurea-em-5-dias >. Acesso: 27 jan. 2025.
 
-*Escrito aos 23 de janeiro de 2025. Ficaria só na gaveta, mas foi revisado e complementado ao longos da primeira quinzena de maio.*
+*Escrito aos 23 de janeiro de 2025. Ficaria só na gaveta, mas foi revisado e complementado ao longo da primeira quinzena de maio.*

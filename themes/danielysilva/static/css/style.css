@@ -9,6 +9,7 @@
 html, body, header, main {
   margin: 0 auto;
   width: 100%;
+  white-space: normal;
 
 }
 
@@ -69,7 +70,7 @@ a {
   cursor: pointer;
   z-index: 3;
   position: relative;
-  display: inline-block;
+  display: inline;
   word-break: break-word;
   overflow-wrap: anywhere;
 }

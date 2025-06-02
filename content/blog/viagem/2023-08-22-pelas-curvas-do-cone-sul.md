@@ -209,3 +209,57 @@ A Catedral de Porto Alegre é quem foi o principal ponto de descanso. O silênci
 **O décimo-quarto dia de viagem, aquela terça-feira de 16 de maio**, não me deu muito tempo em Curitiba. Depois de me despedir do Guaíba em seu alaranjado ocaso, os engarrafamentos do amanhecer de Curitiba reduziram minhas previstas duas horas para meros 40 minutos na Capital das Araucárias. Esses minutos me deixaram a impressão de que os curitibanos são tímidos, mas simpáticos, além de terem me deixado uma chocolate de um garçom garante dos olhos brilhantes.
 
 A vida já cobrava voltar, porque, nesse dia, depois de enfrentar o engarrafamento curitibano pela manhã e o da Marginal Tietê pela tarde, ainda teria uma aula à qual não poderia mais faltar, na São Paulo de Piratininga. Que bom que acabou cedo, porque, quando olhei o espelho, não vi uma pessoa: vi um farrapo. Mas era isso o que eu era depois daquela viagem: um farrapo de gente com um pouco de aprendizado e uma ou outra anedota pra contar.
+
+<div hidden>
+<section class="galeria2">
+
+  <div class="item"><a href="#imagem1"><img src="/img/cone-sul/sul01.jpg" alt="Ponte Pênsil ao fundo, árvores em primeiro plano." title="Ponte Hercílio Luz." /></a></div>
+  <div class="item"><a href="#imagem2"><img src="/img/cone-sul/sul02.jpg" alt="Táxi em rua repleta de edifícios e obelisco ao fundo." title="Obelisco ao fundo." /></a></div>
+  <div class="item"><a href="#imagem3"><img src="/img/cone-sul/sul04.jpg" alt="Rua repleta de edifícios e obelisco ao fundo; no meio, pedestre atravessa a rua." title="Caminhando diante do Obelisco." /></a></div>
+  <div class="item"><a href="#imagem4"><img src="/img/cone-sul/sul06.jpg" alt="Edifícios contemporâneos diante de canal de água." title="Puerto Madero." /></a></div>
+  <div class="item"><a href="#imagem5"><img src="/img/cone-sul/sul07.jpg" alt="Edifícios envelhecidos e torre de relógio ao fundo, entre a neblina." title="Coração de Buenos Aires." /></a></div>
+  <div class="item"><a href="#imagem6"><img src="/img/cone-sul/sul09.jpg" alt="Edifícios, parque, roda gigante e província ao fundo." title="El Mirador, Córdoba Capital." /></a></div>
+  <div class="item"><a href="#imagem7"><img src="/img/cone-sul/sul08.jpg" alt="Cidade média diante de lago e serra ao fundo." title="Carlos Paz, Córdoba." /></a></div>
+  <div class="item"><a href="#imagem8"><img src="/img/cone-sul/sul14.jpg" alt="Ponte Pênsil ao fundo." title="El Calamar de Alta Gracia, Córdoba." /></a></div>
+  <div class="item"><a href="#imagem9"><img src="/img/cone-sul/sul13.jpg" alt="Ponte Pênsil ao fundo." title="Alta Gracia, Córdoba." /></a></div>
+  <div class="item"><a href="#imagem10"><img src="/img/cone-sul/sul19.jpg" alt="Rua suburbana em ladeira e serras da província ao fundo." title="Serras de Alta Gracia, Córdoba." /></a></div>
+  <div class="item"><a href="#imagem11"><img src="/img/cone-sul/sul16.jpg" alt="Vista para a província entre edifícios e casario térreo. Motocicleta vermelha à esquerda." title="Alta Gracia, Córdoba." /></a></div>
+  <div class="item"><a href="#imagem12"><img src="/img/cone-sul/sul18.jpg" alt="Interior de igreja antiga com porta entre-aberta em contra-luz." title="Paróquia d'El Calamar, Alta Gracia, Córdoba." /></a></div>
+  <div class="item"><a href="#imagem13"><img src="/img/cone-sul/sul12.jpg" alt="Ponte Pênsil ao fundo." title="El Mirador." /></a></div>
+  <div class="item"><a href="#imagem14"><img src="/img/cone-sul/sul23.jpg" alt="Silhueta urbana sobre as águas e sob céu intimidador." title="Adeus à Ciudad Autónoma de Buenos Aires." /></a></div>
+  <div class="item"><a href="#imagem15"><img src="/img/cone-sul/sul28.jpg" alt="Pessoa solitária entre rochas marítimas contempla veleiro entre ilhas." title="Serenidade em Colônia." /></a></div>
+  <div class="item"><a href="#imagem16"><img src="/img/cone-sul/sul24.jpg" alt="Rua com carros estacionados coberta pela copa das árvores." title="Domo arbóreo, Colonia del Sacramento." /></a></div>
+  <div class="item"><a href="#imagem17"><img src="/img/cone-sul/sul25.jpg" alt="Interior de igreja antiga com bancos de madeira e Santíssimo Sacramento no altar." title="Basílica de Colonia del Sacramento." /></a></div>
+  <div class="item"><a href="#imagem18"><img src="/img/cone-sul/sul26.jpg" alt="Janela de pedras de igreja antiga, luz e sombra." title="A luz da fé." /></a></div>
+  <div class="item"><a href="#imagem19"><img src="/img/cone-sul/sul27.jpg" alt="Dupla contempla as águas entre pedras marítimas. Quebra-mar ao fundo." title="O Mar del Plata em Colônia." /></a></div>
+  <div class="item"><a href="#imagem20"><img src="/img/cone-sul/sul37.jpg" alt="Sol se põe entre prédios diante da praia." title="Pôr-do-Sol em Montevidéu." /></a></div>
+  <div class="item"><a href="#imagem21"><img src="/img/cone-sul/sul39.jpg" alt="Sol se põe entre bicicleta e veleiro diante de lago." title="Disco voador do Guaíba." /></a></div>
+
+</section>
+
+<div class="lightboxes">
+
+  <div class="lightbox" id="imagem1"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul01.jpg" alt="Ponte Pênsil ao fundo, árvores em primeiro plano." title="Ponte Hercílio Luz." /><p>Ponte Pênsil ao fundo, árvores em primeiro plano.</p></div></div>
+  <div class="lightbox" id="imagem2"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul02.jpg" alt="Táxi em rua repleta de edifícios e obelisco ao fundo." title="Obelisco ao fundo." /><p>Táxi em rua repleta de edifícios e obelisco ao fundo.</p></div></div>
+  <div class="lightbox" id="imagem3"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul04.jpg" alt="Rua repleta de edifícios e obelisco ao fundo; no meio, pedestre atravessa a rua." title="Caminhando diante do Obelisco." /><p>Rua repleta de edifícios e obelisco ao fundo; no meio, pedestre atravessa a rua.</p></div></div>
+  <div class="lightbox" id="imagem4"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul06.jpg" alt="Edifícios contemporâneos diante de canal de água." title="Puerto Madero." /><p>Edifícios contemporâneos diante de canal de água.</p></div></div>
+  <div class="lightbox" id="imagem5"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul07.jpg" alt="Edifícios envelhecidos e torre de relógio ao fundo, entre a neblina." title="Coração de Buenos Aires." /><p>Edifícios envelhecidos e torre de relógio ao fundo, entre a neblina.</p></div></div>
+  <div class="lightbox" id="imagem6"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul09.jpg" alt="Edifícios, parque, roda gigante e província ao fundo." title="El Mirador, Córdoba Capital." /><p>Edifícios, parque, roda gigante e província ao fundo.</p></div></div>
+  <div class="lightbox" id="imagem7"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul08.jpg" alt="Cidade média diante de lago e serra ao fundo." title="Carlos Paz, Córdoba." /><p>Cidade média diante de lago e serra ao fundo.</p></div></div>
+  <div class="lightbox" id="imagem8"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul14.jpg" alt="Ponte Pênsil ao fundo." title="El Calamar de Alta Gracia, Córdoba." /><p>Ponte Pênsil ao fundo.</p></div></div>
+  <div class="lightbox" id="imagem9"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul13.jpg" alt="Ponte Pênsil ao fundo." title="Alta Gracia, Córdoba." /><p>Ponte Pênsil ao fundo.</p></div></div>
+  <div class="lightbox" id="imagem10"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul19.jpg" alt="Rua suburbana em ladeira e serras da província ao fundo." title="Serras de Alta Gracia, Córdoba." /><p>Rua suburbana em ladeira e serras da província ao fundo.</p></div></div>
+  <div class="lightbox" id="imagem11"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul16.jpg" alt="Vista para a província entre edifícios e casario térreo. Motocicleta vermelha à esquerda." title="Alta Gracia, Córdoba." /><p>Vista para a província entre edifícios e casario térreo. Motocicleta vermelha à esquerda.</p></div></div>
+  <div class="lightbox" id="imagem12"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul18.jpg" alt="Interior de igreja antiga com porta entre-aberta em contra-luz." title="Paróquia d'El Calamar, Alta Gracia, Córdoba." /><p>Interior de igreja antiga com porta entre-aberta em contra-luz.</p></div></div>
+  <div class="lightbox" id="imagem13"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul12.jpg" alt="Ponte Pênsil ao fundo." title="El Mirador." /><p>Ponte Pênsil ao fundo.</p></div></div>
+  <div class="lightbox" id="imagem14"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul23.jpg" alt="Silhueta urbana sobre as águas e sob céu intimidador." title="Adeus à Ciudad Autónoma de Buenos Aires." /><p>Silhueta urbana sobre as águas e sob céu intimidador.</p></div></div>
+  <div class="lightbox" id="imagem15"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul28.jpg" alt="Pessoa solitária entre rochas marítimas contempla veleiro entre ilhas." title="Serenidade em Colônia." /><p>Pessoa solitária entre rochas marítimas contempla veleiro entre ilhas.</p></div></div>
+  <div class="lightbox" id="imagem16"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul24.jpg" alt="Rua com carros estacionados coberta pela copa das árvores." title="Domo arbóreo, Colonia del Sacramento." /><p>Rua com carros estacionados coberta pela copa das árvores.</p></div></div>
+  <div class="lightbox" id="imagem17"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul25.jpg" alt="Interior de igreja antiga com bancos de madeira e Santíssimo Sacramento no altar." title="Basílica de Colonia del Sacramento." /><p>Interior de igreja antiga com bancos de madeira e Santíssimo Sacramento no altar.</p></div></div>
+  <div class="lightbox" id="imagem18"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul26.jpg" alt="Janela de pedras de igreja antiga, luz e sombra." title="A luz da fé." /><p>Janela de pedras de igreja antiga, luz e sombra.</p></div></div>
+  <div class="lightbox" id="imagem19"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul27.jpg" alt="Dupla contempla as águas entre pedras marítimas. Quebra-mar ao fundo." title="O Mar del Plata em Colônia." /><p>Dupla contempla as águas entre pedras marítimas. Quebra-mar ao fundo.</p></div></div>
+  <div class="lightbox" id="imagem20"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul37.jpg" alt="Sol se põe entre prédios diante da praia." title="Pôr-do-Sol em Montevidéu." /><p>Sol se põe entre prédios diante da praia.</p></div></div>
+  <div class="lightbox" id="imagem21"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/cone-sul/sul39.jpg" alt="Sol se põe entre bicicleta e veleiro diante de lago." title="Disco voador do Guaíba." /><p>Sol se põe entre bicicleta e veleiro diante de lago.</p></div></div>
+
+</div>
+</div>

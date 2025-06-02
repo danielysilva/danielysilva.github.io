@@ -4,7 +4,7 @@ title: "Poesia: Bigode"
 date: 2025-03-30 16:57:27
 author: Daniely Silva
 categories: ["Poesia"]
-tags: ["brasilidade"]
+tags: []
 summary:
 draft: false
 ---

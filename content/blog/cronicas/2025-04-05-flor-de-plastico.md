@@ -4,7 +4,7 @@ title: "Flor de plástico"
 date: 2025-04-05
 author: Daniely Silva
 categories: ["Crônicas"]
-tags: ["emoção", "reflexões"]
+tags: ["reflexões"]
 summary:
 draft: false
 ---

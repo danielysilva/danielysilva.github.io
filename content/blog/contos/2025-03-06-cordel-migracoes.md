@@ -4,7 +4,7 @@ title: "Cordel: Migrações"
 date: 2025-03-06 21:28:53
 author: Daniely Silva
 categories: ["Contos", "Poesia"]
-tags: ["brasilidade", "escrita"]
+tags: ["brasilidade"]
 draft: false
 ---
 *38 sextilhas no esquema de rimas ABABCC.*

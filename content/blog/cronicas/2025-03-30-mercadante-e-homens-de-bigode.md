@@ -4,7 +4,7 @@ title: "Mercadante e os homens de bigode"
 date: 2025-03-30 17:47:28
 author: Daniely Silva
 categories: ["Crônicas"]
-tags: ["brasilidade", "reflexões"]
+tags: ["reflexões"]
 summary:
 draft: false
 ---

@@ -4,7 +4,7 @@ title: "Traição em Cubatão"
 date: 2025-03-24
 author: Daniely Silva
 categories: ["Contos"]
-tags: ["brasilidade", "urbanidades"]
+tags: ["urbanidades"]
 summary:
 draft: false
 ---

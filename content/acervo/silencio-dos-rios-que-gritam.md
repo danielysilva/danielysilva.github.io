@@ -20,9 +20,11 @@ A população, que antes dependia dos rios para recreação e trabalho, viu-se i
 
 Ainda que degradados, os corpos hídricos impõem sua presença na paisagem. Se emparedados, inundam, se enterrados, alagam e, se confrontados, resistem. Mais que repositórios de biodiversidade e garantia de abastecimento, os rios são também fontes de cultura, pertencimento e territorialidades. Uma cidade que dá as costas aos seus rios está dando as costas à sua própria história.
 
+<div hidden>
+
 ![Tamanduateí](/img/projects/silencio-dos-rios-que-gritam/grito01.jpg "Tamanduateí")
 
-![Tietê e Ponte Orestes Quércie](/img/projects/silencio-dos-rios-que-gritam/grito02.jpg "Tietê e Ponte Orestes Quércie")
+![Tietê e Ponte Orestes Quércia](/img/projects/silencio-dos-rios-que-gritam/grito02.jpg "Tietê e Ponte Orestes Quércia")
 
 ![Cebolão](/img/projects/silencio-dos-rios-que-gritam/grito03.jpg "Cebolão")
 
@@ -37,3 +39,131 @@ Ainda que degradados, os corpos hídricos impõem sua presença na paisagem. Se 
 ![Guarapiranga](/img/projects/silencio-dos-rios-que-gritam/grito08.jpg "Guarapiranga")
 
 ![Taiaçupeba](/img/projects/silencio-dos-rios-que-gritam/grito09.jpg "Taiaçupeba")
+
+</div>
+
+<section class="galeria">
+
+  <div class="item">
+    <a href="#imagem1">
+      <img src="/img/projects/silencio-dos-rios-que-gritam/grito01.jpg" alt="Tamanduateí" title="Tamanduateí" />
+    </a>
+  </div>
+
+  <div class="item">
+    <a href="#imagem2">
+      <img src="/img/projects/silencio-dos-rios-que-gritam/grito02.jpg" alt="Tietê e Ponte Orestes Quércia" title="Tietê e Ponte Orestes Quércia" />
+    </a>
+  </div>
+
+  <div class="item">
+    <a href="#imagem3">
+      <img src="/img/projects/silencio-dos-rios-que-gritam/grito03.jpg" alt="Cebolão" title="Cebolão" />
+    </a>
+  </div>
+
+  <div class="item">
+    <a href="#imagem4">
+      <img src="/img/projects/silencio-dos-rios-que-gritam/grito04.jpg" alt="Rio Guarapiranga" title="Rio Guarapiranga" />
+    </a>
+  </div>
+
+  <div class="item">
+    <a href="#imagem5">
+      <img src="/img/projects/silencio-dos-rios-que-gritam/grito05.jpg" alt="Santo Amaro" title="Santo Amaro" />
+    </a>
+  </div>
+
+  <div class="item">
+    <a href="#imagem6">
+      <img src="/img/projects/silencio-dos-rios-que-gritam/grito06.jpg" alt="Rio Tietê em Santana de Parnaíba" title="Rio Tietê em Santana de Parnaíba" />
+    </a>
+  </div>
+
+  <div class="item">
+    <a href="#imagem7">
+      <img src="/img/projects/silencio-dos-rios-que-gritam/grito07.jpg" alt="Braço Bororé da Billings" title="Braço Bororé da Billings" />
+    </a>
+  </div>
+
+  <div class="item">
+    <a href="#imagem8">
+      <img src="/img/projects/silencio-dos-rios-que-gritam/grito08.jpg" alt="Guarapiranga" title="Guarapiranga" />
+    </a>
+  </div>
+
+  <div class="item">
+    <a href="#imagem9">
+      <img src="/img/projects/silencio-dos-rios-que-gritam/grito09.jpg" alt="Taiaçupeba" title="Taiaçupeba" />
+    </a>
+  </div>
+
+</section>
+
+
+
+<div class="lightboxes">
+  <div class="lightbox" id="imagem1">
+    <a href="#" class="fechar">&times;</a>
+    <div class="conteudo">
+      <img src="/img/projects/silencio-dos-rios-que-gritam/grito01.jpg" alt="Tamanduateí" title="Tamanduateí" />
+      <p>Tamanduateí</p>
+    </div>
+  </div>
+  <div class="lightbox" id="imagem2">
+    <a href="#" class="fechar">&times;</a>
+    <div class="conteudo">
+      <img src="/img/projects/silencio-dos-rios-que-gritam/grito02.jpg" alt="Tietê e Ponte Orestes Quércia" title="Tietê e Ponte Orestes Quércia" />
+      <p>Tietê e Ponte Orestes Quércia</p>
+    </div>
+  </div>
+  <div class="lightbox" id="imagem3">
+    <a href="#" class="fechar">&times;</a>
+    <div class="conteudo">
+      <img src="/img/projects/silencio-dos-rios-que-gritam/grito03.jpg" alt="Cebolão" title="Cebolão" />
+      <p>Cebolão</p>
+    </div>
+  </div>
+  <div class="lightbox" id="imagem4">
+    <a href="#" class="fechar">&times;</a>
+    <div class="conteudo">
+      <img src="/img/projects/silencio-dos-rios-que-gritam/grito04.jpg" alt="Rio Guarapiranga" title="Rio Guarapiranga" />
+      <p>Rio Guarapiranga</p>
+    </div>
+  </div>
+  <div class="lightbox" id="imagem5">
+    <a href="#" class="fechar">&times;</a>
+    <div class="conteudo">
+      <img src="/img/projects/silencio-dos-rios-que-gritam/grito05.jpg" alt="Santo Amaro" title="Santo Amaro" />
+      <p>Santo Amaro</p>
+    </div>
+  </div>
+  <div class="lightbox" id="imagem6">
+    <a href="#" class="fechar">&times;</a>
+    <div class="conteudo">
+      <img src="/img/projects/silencio-dos-rios-que-gritam/grito06.jpg" alt="Rio Tietê em Santana de Parnaíba" title="Rio Tietê em Santana de Parnaíba" />
+      <p>Rio Tietê em Santana de Parnaíba</p>
+    </div>
+  </div>
+  <div class="lightbox" id="imagem7">
+    <a href="#" class="fechar">&times;</a>
+    <div class="conteudo">
+      <img src="/img/projects/silencio-dos-rios-que-gritam/grito07.jpg" alt="Braço Bororé da Billings" title="Braço Bororé da Billings" />
+      <p>Braço Bororé da Billings</p>
+    </div>
+  </div>
+  <div class="lightbox" id="imagem8">
+    <a href="#" class="fechar">&times;</a>
+    <div class="conteudo">
+      <img src="/img/projects/silencio-dos-rios-que-gritam/grito08.jpg" alt="Guarapiranga" title="Guarapiranga" />
+      <p>Guarapiranga</p>
+    </div>
+  </div>
+  <div class="lightbox" id="imagem9">
+    <a href="#" class="fechar">&times;</a>
+    <div class="conteudo">
+      <img src="/img/projects/silencio-dos-rios-que-gritam/grito09.jpg" alt="Taiaçupeba" title="Taiaçupeba" />
+      <p>Taiaçupeba</p>
+    </div>
+  </div>
+</div>

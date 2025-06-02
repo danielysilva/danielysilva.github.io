@@ -498,49 +498,49 @@ a[target=_blank]:after {
 }
 
 
+
+
+
+
 /* trying a lightbox */
 
 /* Galeria */
+
 .galeria {
   display: grid;
   grid-gap: 1em;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: 10vh auto;
-  margin: 2em auto;
-  max-width: 100%;
-  width: 600px;
-}
-
-.galeria h2 {
-  font-size: 30px;
-  grid-column: 1/4;
-}
+  }
 
 .galeria a {
-  cursor: zoom-in;
   transition: filter 0.2s ease-in-out;
 }
 
 .galeria a:hover {
-  filter: brightness(90%);
+  filter: brightness(60%);
 }
 
 .galeria .item strong {
   display: block;
-  font-size: 1.5em;
+  font-size: 0.9em;
   text-align: center;
 }
 
 .galeria img {
-  border-radius: 1em;
+  border-radius: 0;
   max-width: 100%;
 }
 
 .lightbox {
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.9);
   display: none;
   position: fixed;
   z-index: 1000;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem; /* evita que a imagem fique colada na borda */
+  box-sizing: border-box;
 }
 
 .lightbox:target {
@@ -554,32 +554,30 @@ a[target=_blank]:after {
 }
 
 .lightbox img {
-  border-radius: 1em;
+  border-radius: 0.5em;
   display: block;
-  margin: auto;
   max-height: 80vh;
-  max-width: 90vh;
+  max-width: 90vw;
+  height: auto;
+  width: auto;
 }
 
 .lightbox .fechar {
   color: #fff;
-  font-size: 4em;
-  font-weight: bold;
-  height: 1em;
-  position: fixed;
-  right: 0;
-  top: 0;
-  width: 1em;
+  font-size: 2rem;
+  position: absolute;
+  top: 2rem;
+  right: 1rem; /* antes era 2rem */
+  text-decoration: none;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 50%;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   z-index: 1001;
 }
-
-.lightbox p {
-  font-size: 2em;
-  font-weight: bold;
-  text-align: center;
-}
-
-
 
 @font-face {
   font-family: "Courier Prime";

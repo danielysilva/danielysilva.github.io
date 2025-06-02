@@ -11,6 +11,8 @@ draft: true
 
 *Encontro entre os rios Pinheiros e Tietê. Ponte dos Remédios, limite Osasco-São Paulo*
 
+<div hidden>
+
 São Paulo é uma cidade anfíbia, construída entre rios e sobre rios. Entre valas de concreto, jazem aprisionados sem crime algum cometido. Quando vêm as torrentes tropicais, relembram à metrópole sua existência, ocupando as ruas e preenchendo o vazio deixado pelo deserto de asfalto. Num grito silencioso, anunciam sua presença, tão ignorada pelo indiferente ronco dos motores.
 
 Nas águas represadas para geração de energia, abastecimento e macrodrenagem, o povo hidro-carente encontra águas mais limpas e menos barreiras entre a água e a cidade, podendo se aproximar para nadar, pescar e navegar. Esse povo faz nos lagos artificiais das barragens o que sonha fazer nos rios, enquanto estes esperam o dia em que não serão mais abraçados por máquinas e autopistas, mas por gente. Aguardam em silêncio: no silêncio dos rios que gritam.
@@ -21,62 +23,63 @@ A população, que antes dependia dos rios para recreação e trabalho, viu-se i
 
 Ainda que degradados, os corpos hídricos impõem sua presença na paisagem. Se emparedados, inundam, se enterrados, alagam e, se confrontados, resistem. Mais que repositórios de biodiversidade e garantia de abastecimento, os rios são também fontes de cultura, pertencimento e territorialidades. Uma cidade que dá as costas aos seus rios está dando as costas à sua própria história.
 
+</div>
 
 <section class="galeria">
-  <h2>Gallery</h2>
+
   <div class="item">
     <a href="#imagem1">
       <img src="/img/projects/silencio-dos-rios-que-gritam/grito01.jpg" />
     </a>
-    <strong>Tamanduateí</strong>
   </div>
+
   <div class="item">
     <a href="#imagem2">
       <img src="/img/projects/silencio-dos-rios-que-gritam/grito02.jpg" />
     </a>
-    <strong>Tietê e Ponte Orestes Quércie</strong>
   </div>
+
   <div class="item">
     <a href="#imagem3">
       <img src="/img/projects/silencio-dos-rios-que-gritam/grito03.jpg" />
     </a>
-    <strong>Cebolão</strong>
   </div>
+
   <div class="item">
     <a href="#imagem4">
       <img src="/img/projects/silencio-dos-rios-que-gritam/grito04.jpg" />
     </a>
-    <strong>Rio Guarapiranga</strong>
   </div>
+
   <div class="item">
     <a href="#imagem5">
       <img src="/img/projects/silencio-dos-rios-que-gritam/grito05.jpg" />
     </a>
-    <strong>Santo Amaro</strong>
   </div>
+
   <div class="item">
     <a href="#imagem6">
       <img src="/img/projects/silencio-dos-rios-que-gritam/grito06.jpg" />
     </a>
-    <strong>Rio Tietê em Santana de Parnaíba</strong>
   </div>
+
   <div class="item">
     <a href="#imagem7">
       <img src="/img/projects/silencio-dos-rios-que-gritam/grito07.jpg" />
     </a>
-    <strong>Braço Bororé da Billings</strong>
   </div>
+
   <div class="item">
     <a href="#imagem8">
       <img src="/img/projects/silencio-dos-rios-que-gritam/grito08.jpg" />
     </a>
-    <strong>Guarapiranga</strong>
   </div>
+
   <div class="item">
     <a href="#imagem9">
       <img src="/img/projects/silencio-dos-rios-que-gritam/grito09.jpg" />
     </a>
-    <strong>Taiaçupeba</strong>
+
   </div>
 </section>
 

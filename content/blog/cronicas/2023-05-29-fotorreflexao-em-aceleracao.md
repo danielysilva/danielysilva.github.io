@@ -3,7 +3,7 @@ layout: blog
 title:  "Fotorreflexão em aceleração"
 date:   2023-05-29
 categories: ["Crônicas"]
-tags: ["tecnologia", "emoção"]
+tags: ["tecnologia", "reflexões"]
 author: "Daniely Silva"
 ---
 ![Objetiva fotográfica em primeiro plano; máquina de escrever desfocada ao fundo](/img/blog/canon_lens.jpg "Objetiva em objetividade")

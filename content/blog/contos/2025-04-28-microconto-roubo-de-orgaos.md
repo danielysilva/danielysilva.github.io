@@ -4,7 +4,7 @@ title: "Microconto: roubo de órgãos"
 date: 2025-04-28 19:01:08
 author: Daniely Silva
 categories: ["Contos"]
-tags: ["emoção", "microcontos"]
+tags: ["microcontos"]
 summary:
 draft: false
 ---

@@ -3,7 +3,7 @@ layout: blog
 title:  "Bolsonaro é Treze"
 date:   2022-10-29
 categories: ["Crônicas"]
-tags: ["brasilidade", "política"]
+tags: ["política"]
 author: "Daniely Silva"
 ---
 

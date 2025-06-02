@@ -4,7 +4,7 @@ title: "Incompletudes"
 date: 2025-03-26
 author: Daniely Silva
 categories: ["Crônicas"]
-tags: ["emoção", "reflexões"]
+tags: ["reflexões"]
 summary:
 draft: false
 ---

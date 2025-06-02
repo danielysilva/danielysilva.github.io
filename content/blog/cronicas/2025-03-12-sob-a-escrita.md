@@ -4,7 +4,7 @@ title: "Sob a Escrita"
 date: 2025-03-18
 author: Daniely Silva
 categories: ["Crônicas"]
-tags: ["emoção", "escrita"]
+tags: ["escrita"]
 draft: false
 ---
 

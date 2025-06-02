@@ -4,7 +4,7 @@ title: "Sobre a Finitude"
 date: 2025-03-10 18:34:39
 author: Daniely Silva
 categories: ["Crônicas"]
-tags: ["emoção"]
+tags: ["reflexões"]
 draft: false
 ---
 

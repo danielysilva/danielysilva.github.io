@@ -1,4 +1,5 @@
 ---
+layout: acervo
 title: "{{replace .Name "-" " " | title }}"
 draft: 'false'
 author: 'Daniely Silva'

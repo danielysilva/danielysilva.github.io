@@ -9,7 +9,7 @@ draft: false
 ---
 
 <video width="100%" controls>
- <source src="/img/blog/Olivetti.mp4" type="video/mp4" alt="Squência de escrita na máquina de escrever" title="Um minuto de escrita.">  
+ <source src="/img/blog/Olivetti.mp4" type="video/mp4" alt="Sequência de escrita na máquina de escrever" title="Um minuto de escrita.">  
 Este vídeo não é suportado pelo seu navegador.
 </video>
 

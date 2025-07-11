@@ -1,6 +1,6 @@
 ---
-title: "Acervo"
-permalink: /acervo/
+title: "Projetos"
+permalink: /projetos/
 draft: false
 layout: default
 description: Lista dos principais projetos autorais e documentais.

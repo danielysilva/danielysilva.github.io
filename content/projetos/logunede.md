@@ -1,5 +1,5 @@
 ---
-layout: acervo
+layout: projetos
 title: 'Logunedé'
 author: 'Daniely Silva'
 summary: "Registro de nascimento para o orixá Logunedé"

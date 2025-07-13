@@ -1,5 +1,5 @@
 ---
-layout: acervo
+layout: projetos
 title: 'Guaicurus'
 author: 'Daniely Silva'
 summary: "Registro de antigos galpões na Rua Guaicurus, Lapa"

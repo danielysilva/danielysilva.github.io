@@ -1,5 +1,5 @@
 ---
-layout: acervo
+layout: projetos
 title: 'Silêncio dos Rios que Gritam'
 author: 'Daniely Silva'
 summary: "Registro dos rios urbanos de São Paulo"

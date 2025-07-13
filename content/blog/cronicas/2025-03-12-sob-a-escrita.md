@@ -8,7 +8,7 @@ tags: ["escrita"]
 draft: false
 ---
 
-<video width="100%" controls>
+<video width="100%" controls poster="/img/blog/olivetti3.png">
  <source src="/img/blog/Olivetti.mp4" type="video/mp4" alt="Sequência de escrita na máquina de escrever" title="Um minuto de escrita.">  
 Este vídeo não é suportado pelo seu navegador.
 </video>

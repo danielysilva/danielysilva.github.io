@@ -1,5 +1,5 @@
 ---
-layout: acervo
+layout: projetos
 title: 'Sibipiruna'
 author: 'Daniely Silva'
 summary: "Registro de ramo de sibipiruna ao longo das estações"

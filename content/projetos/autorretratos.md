@@ -1,5 +1,5 @@
 ---
-layout: acervo
+layout: projetos
 title: 'Autorretratos'
 author: 'Daniely Silva'
 summary: "Sessões de autorretratos"

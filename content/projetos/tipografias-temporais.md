@@ -1,5 +1,5 @@
 ---
-layout: acervo
+layout: projetos
 title: 'Tipografias Temporais'
 author: 'Daniely Silva'
 summary: "Projeto autoral sobre o vício no cigarro e no celular"

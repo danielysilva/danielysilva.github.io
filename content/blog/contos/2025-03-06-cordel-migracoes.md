@@ -8,7 +8,7 @@ tags: ["brasilidade", "cordel"]
 draft: false
 ---
 
-*38 sextilhas no esquema de rimas ABABCC. Redondilha maior.*
+*38 sextilhas no esquema de rimas ABABCC. Versoso em redondilha maior.*
 
 Giovanna é o nome dela\
 Ela chegou de Garanhuns\

@@ -9,7 +9,7 @@ summary:
 draft: false
 ---
 
-*21 sextilhas no esquema de rimas xAxAxA.*
+*21 sextilhas no esquema de rimas xAxAxA. Redondilha maior.*
 
 Pouca gente sabe o pacto\
 Que feito por Bolsonaro\

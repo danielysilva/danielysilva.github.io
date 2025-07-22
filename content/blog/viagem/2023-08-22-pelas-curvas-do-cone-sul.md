@@ -3,7 +3,7 @@ layout: blog
 title:  "Pelas curvas do Cone Sul"
 date:   2023-08-22
 categories: ["Viagem"]
-tags: ["brasilidade", "urbanidades"]
+tags: ["urbanidades"]
 author: "Daniely Silva"
 draft: false
 aliases:

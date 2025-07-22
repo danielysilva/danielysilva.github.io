@@ -4,7 +4,7 @@ title: "Sombrinhas"
 date: 2025-04-14 18:39:43
 author: Daniely Silva
 categories: ["Crônicas"]
-tags: ["brasilidade", "causos", "religião"]
+tags: ["causos", "religião"]
 summary:
 draft: false
 ---

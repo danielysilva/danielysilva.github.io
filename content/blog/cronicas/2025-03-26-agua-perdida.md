@@ -4,7 +4,7 @@ title: "Água perdida"
 date: 2025-03-26
 author: Daniely Silva
 categories: ["Crônicas"]
-tags: ["brasilidade", "causos"]
+tags: ["causos"]
 summary:
 draft: false
 ---

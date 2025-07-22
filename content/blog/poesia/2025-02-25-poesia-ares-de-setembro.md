@@ -5,7 +5,7 @@ date: 2025-02-25 20:04:11
 draft: false
 author: Daniely Silva
 categories: ["Poesia"]
-tags: ["urbanidades", "brasilidade"]
+tags: ["coisas do Brasil"]
 draft: false
 ---
 Fartos d’ares infernais\

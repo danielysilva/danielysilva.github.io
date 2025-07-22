@@ -4,7 +4,7 @@ title: "Olhando pra dentro do Brasil"
 date: 2025-05-18
 author: Daniely Silva
 categories: ["Crônicas"]
-tags: ["brasilidade", "história"]
+tags: ["coisas do Brasil", "história"]
 summary:
 draft: false
 ---
@@ -54,5 +54,3 @@ BIMBATI, Ana Paula; FERREIRA, Lola; MADEIRO, Carlos. Censo 2022 mostra inédita 
 HOLLANDA, Heloisa Buarque de. Rachel de Queiroz: Coleção Melhores Crônicas. São Paulo: Global, 2004.
 
 RODRIGUES, Leo. Censo 2022: o que explica a queda populacional em diferentes capitais. Brasília: Agência brasil, 02 jul. 2023. Disponível em: < https://agenciabrasil.ebc.com.br/geral/noticia/2023-07/censo-2022-o-que-explica-queda-populacional-em-diferentes-capitais >. Acesso: 18 maio 2025.
-
-

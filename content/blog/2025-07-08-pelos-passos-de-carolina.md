@@ -5,7 +5,7 @@ date: 2025-07-08
 draft: 'false'
 author: 'Daniely Silva'
 categories: [""]
-tags: ["tecnologia"]
+tags: ["leituras"]
 summary: "Summary of the Pelos Passos De Carolina project"
 featured_image: "/img/projects/pelos-passos-de-carolina/pelos-passos-de-carolina.png"
 featured_image_title: "Sem luz nem feijão"

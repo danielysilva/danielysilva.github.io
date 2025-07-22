@@ -4,7 +4,7 @@ title: "Resenha d'O Mulato (1881), Aluisio Azevedo"
 date: 2025-04-27 13:10:26
 author: Daniely Silva
 categories: ["Resenhas"]
-tags: ["brasilidade", "filmes"]
+tags: ["leituras"]
 summary:
 draft: false
 ---

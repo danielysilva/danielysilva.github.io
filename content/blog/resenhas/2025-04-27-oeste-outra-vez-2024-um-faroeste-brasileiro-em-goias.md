@@ -4,7 +4,7 @@ title: "Oeste Outra Vez (2024): um faroeste brasileiro em Goiás"
 date: 2025-04-27 13:11:33
 author: Daniely Silva
 categories: ["Resenhas"]
-tags: ["filmes", "brasilidade"]
+tags: ["filmes"]
 summary:
 draft: false
 ---

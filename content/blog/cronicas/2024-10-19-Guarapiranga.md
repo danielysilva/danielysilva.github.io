@@ -15,7 +15,7 @@ Seu Deco e Seu Fernando. Não se trata de ribeirinhos porque cresceram às marge
 
 Deco me contava sobre a pior seca vista nas suas quase seis décadas de vida. No Verão de 1985 para 86, podia-se chegar a pé até aquele ilhéu. Uma loucura! Levavam as barracas para a nova península e lá se tornou o novo ponto de recreação da região.
 
-As famílias adoraram o novo espaço, belo e arejado. ERa isso o que as duas famílias aproveitavam. Dois casais, cada qual com uma menina. Mas represa é coisa traiçoeira, até pra quem sabe nadar e até pra quem já conhece a área. Que dirá pra duas crianças. Foi um desespero! Seu Deco era moço, tinha nem seus 30 anos, mas pulou sem pensar duas vezes. Seu irmão também, conheciam a Guarapiranga como a própria casa: são dois anfíbios.
+As famílias adoraram o novo espaço, belo e arejado. Era isso o que as duas famílias aproveitavam. Dois casais, cada qual com uma menina. Mas represa é coisa traiçoeira, até pra quem sabe nadar e até pra quem já conhece a área. Que dirá pra duas crianças. Foi um desespero! Seu Deco era moço, tinha nem seus 30 anos, mas pulou sem pensar duas vezes. Seu irmão também, conheciam a Guarapiranga como a própria casa: são dois anfíbios.
 
 A tragédia já se anunciava. Braçada pra cá e pra lá, eis que chegam os bombeiros. Não para ajudar, como Seu Deco já sabia de outras tragédias.
 

@@ -6,7 +6,51 @@
     <description>Recent content in Blogue on Daniely Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 08 Jul 2025 00:00:00 -0300</lastBuildDate><atom:link href="http://danielysilva.com.br/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Jul 2025 09:39:45 -0300</lastBuildDate><atom:link href="http://danielysilva.com.br/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Copo Americano</title>
+      <link>http://danielysilva.com.br/blog/cronicas/2025-07-28-copo-americano/</link>
+      <pubDate>Mon, 28 Jul 2025 09:39:45 -0300</pubDate>
+      
+      <guid>http://danielysilva.com.br/blog/cronicas/2025-07-28-copo-americano/</guid>
+      <description>A Nadir Figueiredo Indústria e Comércio S.A anuncia que, a partir de 1°̩ de agosto, em resposta ao tarifaço de Donald Trump, o copo americano será rebatizado copo soberano.
+É uma brincadeira em forma de homenagem a esse ícone do desenho industrial onipresente nos balcões de bares, restaurantes e lares do Brasil inteiro.
+Esse copo, que com carinho acompanha nossas vidas e prateleiras há quase 80 anos, é mais brasileiro que Carmen Miranda.</description>
+    </item>
+    
+    <item>
+      <title>Quebrando a cabeça com Dvorak</title>
+      <link>http://danielysilva.com.br/blog/resenhas/2025-07-22-quebrando-a-cabeca-com-dvorak/</link>
+      <pubDate>Tue, 22 Jul 2025 13:33:56 -0300</pubDate>
+      
+      <guid>http://danielysilva.com.br/blog/resenhas/2025-07-22-quebrando-a-cabeca-com-dvorak/</guid>
+      <description>Já conhecia o leiaute de teclado Dvorak, mas ainda não tinha procurado saber mais sobre. Resumindo um pouco, se trata de um teclado voltado para a eficiência e menor necessidade de movimentar os dedos. Se voltarmos no tempo, as primeiras máquinas de escrever seguiam a ordem alfabética, o que resultava que os tipos se enroscavam o tempo todo. Em 1868, Christopher Sholes vendeu a patente de máquina de escrever à Remington com o padrão Qwerty, no qual afastou as letras mais usadas da língua inglesa para evitar os enroscos.</description>
+    </item>
+    
+    <item>
+      <title>Cordel: O Pacto de Bolsonaro</title>
+      <link>http://danielysilva.com.br/blog/contos/2025-07-21-cordel-o-pacto-de-bolsonaro/</link>
+      <pubDate>Mon, 21 Jul 2025 09:37:34 -0300</pubDate>
+      
+      <guid>http://danielysilva.com.br/blog/contos/2025-07-21-cordel-o-pacto-de-bolsonaro/</guid>
+      <description>21 sextilhas no esquema de rimas xAxAxA. Versos em redondilha maior.
+Pouca gente sabe o pacto
+Que feito por Bolsonaro
+Entregou bem muitas almas
+Num acordo muito caro
+Se está querendo saber
+Se atente que eu te falo
+*
+No acordo por ele feito
+De vidas seria um milhão
+Ceifadas pela Covid
+Para entregá-las ao Cão
+E ele assim comprar as almas
+Em troca da reeleição
+*
+Afinal, não foi reeleito</description>
+    </item>
+    
     <item>
       <title>Pelos passos de Carolina</title>
       <link>http://danielysilva.com.br/blog/2025-07-08-pelos-passos-de-carolina/</link>
@@ -63,7 +107,7 @@ Apesar de ser favorável ao mandato executivo fixo de 5 anos, não acho que esse
       
       <guid>http://danielysilva.com.br/blog/cronicas/2025-05-10-habemus-papam/</guid>
       <description>O conclave de 2025 foi o único que acompanhei. Com Bento XVI eu era criança demais para saber o que é Vaticano. Com Francisco, eu era adolescente demais e era anti-clerical.
-Foi o primeior que tive a oportunidade. Até o trabalho parou para esperar o anúncio depois da fumaça branca, num clima de Copa do Mundo. Haja ansiedade por mais de uma hora entre a fumaça e a revelação por Dominique Mamberti.</description>
+Foi o primeiro que tive a oportunidade. Até o trabalho parou para esperar o anúncio depois da fumaça branca, num clima de Copa do Mundo. Haja ansiedade por mais de uma hora entre a fumaça e a revelação por Dominique Mamberti.</description>
     </item>
     
     <item>
@@ -362,7 +406,7 @@ No meu caso, não demorei muito pra ter o site a partir do registro do domínio.
       <pubDate>Tue, 18 Mar 2025 00:00:00 -0300</pubDate>
       
       <guid>http://danielysilva.com.br/blog/cronicas/2025-03-12-sob-a-escrita/</guid>
-      <description>&lt;video width=&#34;100%&#34; controls&gt;
+      <description>&lt;video width=&#34;100%&#34; controls poster=&#34;/img/blog/olivetti3.png&#34;&gt;
  &lt;source src=&#34;http://danielysilva.com.br/img/blog/Olivetti.mp4&#34; type=&#34;video/mp4&#34; alt=&#34;Sequência de escrita na máquina de escrever&#34; title=&#34;Um minuto de escrita.&#34;&gt;  
 Este vídeo não é suportado pelo seu navegador.
 &lt;/video&gt;
@@ -395,7 +439,7 @@ Meu padrinho falava sobre como o filme Mr. Nobody impactou sua percepção sobre
       <pubDate>Thu, 06 Mar 2025 21:28:53 -0300</pubDate>
       
       <guid>http://danielysilva.com.br/blog/contos/2025-03-06-cordel-migracoes/</guid>
-      <description>38 sextilhas no esquema de rimas ABABCC.
+      <description>38 sextilhas no esquema de rimas ABABCC. Versoso em redondilha maior.
 Giovanna é o nome dela
 Ela chegou de Garanhuns
 Não é conto de Cinderela
@@ -410,8 +454,7 @@ O Sul o povo buscava,
 à triste seca fugiam
 porque a esperança não perdiam
 *
-Só que ainda existe muito
-Quem uma nova vida busca</description>
+Só que ainda existe muito</description>
     </item>
     
     <item>

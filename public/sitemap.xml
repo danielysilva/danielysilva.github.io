@@ -3,19 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://danielysilva.com.br/blog/</loc>
-    <lastmod>2025-07-08T00:00:00-03:00</lastmod>
+    <lastmod>2025-07-28T09:39:45-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/tags/coisas-do-brasil/</loc>
+    <lastmod>2025-07-28T09:39:45-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-07-28-copo-americano/</loc>
+    <lastmod>2025-07-28T09:39:45-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/categories/cr%C3%B4nicas/</loc>
+    <lastmod>2025-07-28T09:39:45-03:00</lastmod>
   </url><url>
     <loc>http://danielysilva.com.br/</loc>
+    <lastmod>2025-07-28T09:39:45-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/resenhas/2025-07-22-quebrando-a-cabeca-com-dvorak/</loc>
+    <lastmod>2025-07-22T13:33:56-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/categories/resenhas/</loc>
+    <lastmod>2025-07-22T13:33:56-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/tags/tecnologia/</loc>
+    <lastmod>2025-07-22T13:33:56-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/categories/contos/</loc>
+    <lastmod>2025-07-21T09:37:34-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/tags/cordel/</loc>
+    <lastmod>2025-07-21T09:37:34-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/contos/2025-07-21-cordel-o-pacto-de-bolsonaro/</loc>
+    <lastmod>2025-07-21T09:37:34-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/tags/leituras/</loc>
     <lastmod>2025-07-08T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://danielysilva.com.br/blog/2025-07-08-pelos-passos-de-carolina/</loc>
     <lastmod>2025-07-08T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://danielysilva.com.br/blog/tags/tecnologia/</loc>
-    <lastmod>2025-07-08T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://danielysilva.com.br/blog/categories/cr%C3%B4nicas/</loc>
-    <lastmod>2025-06-07T10:52:05-03:00</lastmod>
   </url><url>
     <loc>http://danielysilva.com.br/blog/tags/reflex%C3%B5es/</loc>
     <lastmod>2025-06-07T10:52:05-03:00</lastmod>
@@ -28,9 +52,6 @@
   </url><url>
     <loc>http://danielysilva.com.br/blog/tags/pol%C3%ADtica/</loc>
     <lastmod>2025-05-28T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://danielysilva.com.br/blog/tags/brasilidade/</loc>
-    <lastmod>2025-05-18T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://danielysilva.com.br/blog/tags/hist%C3%B3ria/</loc>
     <lastmod>2025-05-18T00:00:00-03:00</lastmod>
@@ -62,13 +83,7 @@
     <loc>http://danielysilva.com.br/blog/resenhas/2025-04-29-relato-de-duas-semanas-usando-o-celular-em-preto-e-branco/</loc>
     <lastmod>2025-04-29T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://danielysilva.com.br/blog/categories/resenhas/</loc>
-    <lastmod>2025-04-29T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>http://danielysilva.com.br/blog/contos/2025-04-28-conto-invasor/</loc>
-    <lastmod>2025-04-28T19:27:03-03:00</lastmod>
-  </url><url>
-    <loc>http://danielysilva.com.br/blog/categories/contos/</loc>
     <lastmod>2025-04-28T19:27:03-03:00</lastmod>
   </url><url>
     <loc>http://danielysilva.com.br/blog/contos/2025-04-28-conto-dilacerada/</loc>
@@ -218,9 +233,6 @@
     <loc>http://danielysilva.com.br/blog/cronicas/2024-10-19-guarapiranga/</loc>
     <lastmod>2024-10-19T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://danielysilva.com.br/blog/tags/leituras/</loc>
-    <lastmod>2024-05-22T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>http://danielysilva.com.br/blog/resenhas/2024-05-22-resenha-de-historia-do-cerco-de-lisboa-1989/</loc>
     <lastmod>2024-05-22T00:00:00-03:00</lastmod>
   </url><url>
@@ -250,26 +262,26 @@
   </url><url>
     <loc>http://danielysilva.com.br/acervo/</loc>
   </url><url>
-    <loc>http://danielysilva.com.br/acervo/</loc>
-  </url><url>
-    <loc>http://danielysilva.com.br/acervo/autorretratos/</loc>
+    <loc>http://danielysilva.com.br/projetos/autorretratos/</loc>
   </url><url>
     <loc>http://danielysilva.com.br/bio/</loc>
   </url><url>
     <loc>http://danielysilva.com.br/contato/</loc>
   </url><url>
-    <loc>http://danielysilva.com.br/acervo/guaicurus/</loc>
+    <loc>http://danielysilva.com.br/projetos/guaicurus/</loc>
   </url><url>
-    <loc>http://danielysilva.com.br/acervo/logunede/</loc>
+    <loc>http://danielysilva.com.br/projetos/logunede/</loc>
   </url><url>
     <loc>http://danielysilva.com.br/agora/</loc>
   </url><url>
+    <loc>http://danielysilva.com.br/projetos/</loc>
+  </url><url>
     <loc>http://danielysilva.com.br/blog/blogroll/</loc>
   </url><url>
-    <loc>http://danielysilva.com.br/acervo/sibipiruna/</loc>
+    <loc>http://danielysilva.com.br/projetos/sibipiruna/</loc>
   </url><url>
-    <loc>http://danielysilva.com.br/acervo/silencio-dos-rios-que-gritam/</loc>
+    <loc>http://danielysilva.com.br/projetos/silencio-dos-rios-que-gritam/</loc>
   </url><url>
-    <loc>http://danielysilva.com.br/acervo/tipografias-temporais/</loc>
+    <loc>http://danielysilva.com.br/projetos/tipografias-temporais/</loc>
   </url>
 </urlset>

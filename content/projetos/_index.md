@@ -4,6 +4,8 @@ permalink: /projetos/
 draft: false
 layout: default
 description: Lista dos principais projetos autorais e documentais.
+aliases:
+  - /acervo/
 ---
 
 <video width="100%" controls poster="/img/blog/olivetti3.png" style="border-radius:8px;">

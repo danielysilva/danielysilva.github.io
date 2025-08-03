@@ -19,7 +19,7 @@ Mas já era tarde: o Qwerty já dominava há décadas e as escolas de datilograf
 
 Guardadas as devidas proporções, o Dvorak me lembrou muito o Esperanto. A gente continua usando a língua franca predominante não por ser mais eficiente, mas porque é o padrão de mercado ao qual todo mundo se habituou e não quer mudar. E coincidentemente ou não, tanto a língua internacional quanto o teclado eficiente pegaram o nome do seu criador.
 
-Minha curiosidade sobre o Dvorak se acendeu ao ler a história em quadrinhos *[The Dvorat Zine](https://www.dvzine.org/zine/TheDvorakZine.pdf)* e a [publicação do blogue Ideias de Chirico](https://blog.ayom.media/ideiasdechirico/como-e-porque-passei-a-escrever-com-teclado-dvorak), de onde também me saiu a ideia de fazer anotações por voz.
+Minha curiosidade sobre o Dvorak se acendeu ao ler a história em quadrinhos *[The Dvorak Zine](https://www.dvzine.org/zine/TheDvorakZine.pdf)* e a [publicação do blogue Ideias de Chirico](https://blog.ayom.media/ideiasdechirico/como-e-porque-passei-a-escrever-com-teclado-dvorak), de onde também me saiu a ideia de fazer anotações por voz.
 
 A verdade é que não há um consenso dos benefícios de mudar de leiaute. Os maiores indícios são que o aprendizado é mais rápido em iniciantes e que a recordista do Guiness a atingir 212 palavras por minuto, Barbara Blackburn, usava um teclado Dvorak desde 1938.
 

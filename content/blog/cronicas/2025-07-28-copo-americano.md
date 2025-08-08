@@ -6,11 +6,12 @@ author: Daniely Silva
 categories: ["Crônicas"]
 tags: ["coisas do Brasil"]
 summary:
+draft: false
 ---
 
 ![Copos americanos com diferetes bebidas. Ao fundo, filtro de barro.](/img/blog/copo_americano2.jpg)
 
-A Nadir Figueiredo Indústria e Comércio S.A anuncia que, a partir de 1⁰ de agosto, em resposta ao tarifaço de Donald Trump, o **copo americano** será rebatizado **copo soberano**.
+A Nadir Figueiredo Indústria e Comércio S.A anuncia que, a partir de 1⁰ de agosto, em resposta ao tarifaço de Donald Trump, o **copo americano** será rebatizado **copo soberano**. <!--more-->
 
 É uma brincadeira em forma de homenagem a esse ícone do desenho industrial onipresente nos balcões de bares, restaurantes e lares do Brasil inteiro.
 

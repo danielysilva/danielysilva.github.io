@@ -6,7 +6,6 @@ author: Daniely Silva
 categories: ["Crônicas"]
 tags: ["coisas do Brasil"]
 summary:
-draft: false
 ---
 
 ![Copos americanos com diferetes bebidas. Ao fundo, filtro de barro.](/img/blog/copo_americano2.jpg)

@@ -11,6 +11,8 @@ draft: false
 
 A relação de cada um com os cemitérios é sempre um caixa de surpresas: uns sentem medo, outros os veneram e outros buscam ali a paz. Essa impressão é construída não só social e culturalmente, mas depende também da história de vida e o que cada um passou nos cemitérios.
 
+<!--more-->
+
 Durante minha formação, meus pais sempre tiveram um respeito exagerado com relação aos cemitérios. Após chegar em casa, sempre fui orientada a tirar os sapatos e tomar um banho, com as icônicas frases “tô com pé de cemitério” e “tô com roupa de cemitério”. Meu pai, inclusive, sempre preferiu os cemitérios-jardim em lugar dos cemitérios tradicionais, já que estes escancaram através de sua monumentalidade a ideia de morte.
 
 Meu pai não é o único a ter esse tipo de pensamento: essa preferência tem uma origem no processo de higienização da morte e um afastamento dos rituais durante a Modernidade (FERREIRA SILVA, 2012). Não se morre mais em casa, morre-se no hospital; preparar o corpo se tornou um serviço contratado, não um cuidado familiar de despedida; raramente se vela o finado em casa, levando-se o momento da despedida a um espaço terceirizado.

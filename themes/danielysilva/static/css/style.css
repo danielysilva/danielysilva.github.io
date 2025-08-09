@@ -156,6 +156,8 @@ li {
 time {
     font-size: 1.8rem;
     color: #363636;
+    display: inline;
+  
   }
 
 small {

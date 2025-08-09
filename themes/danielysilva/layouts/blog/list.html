@@ -33,4 +33,7 @@
 
 
 
+<span class="tags">
+      {{ range .Params.tags }}
+      <a class="tag" href="/blog/tags/{{ . | urlize }}">{{ . }}</a> {{ end }} </span>
 

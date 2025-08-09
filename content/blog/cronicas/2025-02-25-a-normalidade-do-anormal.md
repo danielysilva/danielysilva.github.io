@@ -10,8 +10,6 @@ draft: false
 ---
 Nem tudo se trata de mudança climática. E não, não sou negacionista do aquecimento global — muito pelo contrário. Mas muita impressão errada se trata apenas de falta de percepção do próprio ambiente.
 
-<!--more-->
-
 No meio rural, todo mundo já cresce atento aos ciclos naturais. No meio urbano, a relação é outra e esse conhecimento não se constrói espontaneamente, tendo que vir da escola. Uma pena que ultimamente andem tão desvalorizados os ensinos de Geografia e Ciências da Natureza. Ser cidadão também é saber onde está e conseguir olhar ao redor.
 
 É sobre isso que falo quando digo que existe certo catastrofismo. Novamente, não se trata de minimizar o aquecimento global, porque a situação é não só preocupante, mas desesperadora. Só que não é um Apocalipse: ainda que provocado pela ação humana, desencadeia dinâmicas já existentes no planeta.

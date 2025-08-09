@@ -40,7 +40,7 @@
    <img src="{{ .Params.featured_image }}" alt="{{ .Params.featured_image_alt }}" title="{{ .Params.featured_image_title }}" class="featured-image" style="aspect-ratio: 19 / 9; object-fit: cover; border-radius: 8px;">
 
 {{ end }}
-</div>
+</a></div>
 
 
 
@@ -50,6 +50,7 @@
 <small>
   {{ .Summary }}    {{ if .Truncated }}
     <a href="{{ .RelPermalink }}">Leia mais...</a> </small>
+
 </div>
 
       {{ end }}

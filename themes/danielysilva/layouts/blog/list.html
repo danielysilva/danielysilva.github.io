@@ -32,11 +32,13 @@
 {{ end }}
 
 
-
+<div>
 
 
 
 {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
 {{ $name }} ({{ len $taxonomy }})
-{{ end }}
+{{ end }} 
+
+   </div>
 

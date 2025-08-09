@@ -2,18 +2,23 @@
 
 
 
-
+<li>
 <span>
 
-    <h3>
+    <ol>
+
+
+<span >  <time>{{ .Date | dateFormat "02/01/2006" }}</time>
+
+
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    </h3>
+    
   </span>
 
 
 
 
-<span >  <time>{{ .Date | dateFormat "02/01/2006" }}</time>
+
 
   {{ range .Params.categories }}
            <a style="color: #640000; font-size: 14px; font-family: sans-serif" href="{{ "/blog/categories/" | relLangURL }}{{ . | urlize }}">{{ . }} </a>
@@ -34,6 +39,6 @@
 </div>
 
       {{ end }}
-
-
+</ol>
+</li>
 </article>

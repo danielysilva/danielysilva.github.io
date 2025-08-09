@@ -5,7 +5,7 @@ timeZone = 'America/Sao_Paulo'
 dateFormat = '2 de janeiro de 2006'
 title = 'Daniely Silva'
 theme = 'danielysilva'
-summaryLength = 70
+summaryLength = 9
 [params]
 author = "Daniely Silva"
 description = "Este é o espaço virtual de Daniely Silva. Contém acervo de crônicas visuais e produção textual."

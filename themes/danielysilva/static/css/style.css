@@ -84,7 +84,7 @@ text-decoration: none;
 a.tag {
   background-color: #ddd;
   color: #333;
-  padding: 0 1.0em 0 1.0em;
+  padding: 0 0.5em 0 0.5em;
   font-size: 1.2rem;
   text-decoration: none;
 }
@@ -138,6 +138,10 @@ blockquote p {
     padding-left: 15px;
     border-left: 3px solid #ddd;
   }
+
+article {
+  margin-bottom: 3vh;
+}
 
 ol {
     padding-left: 20px;           /* Adiciona espaçamento à esquerda */

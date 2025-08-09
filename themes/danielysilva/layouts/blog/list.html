@@ -33,6 +33,18 @@
 
 
 
+{{ define "main" }}
+<h2>{{ .Title }}</h2>
 
+{{ .Content }}
+
+{{ range .Data.Terms.Alphabetical }}
+<li class="tag">
+  <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+  <span class="count">({{ .Count }})</span>
+</li>
+{{ end }}
+
+{{ end }}
 
 

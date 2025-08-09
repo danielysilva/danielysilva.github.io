@@ -8,7 +8,7 @@ permalink: /blog/:categories/:title
 author: "Daniely Silva"
 ---
 
-*A Felizarda*, publicado em 1963 sob o título de *Pedaços da Fome*, mostra-se uma obra particularmente representativa da produção literária de Carolina Maria de Jesus, começando pelo fato de se tratar de um romance. Isso por que em Casa de Alvenaria (1961, reeditado em 2021), Carolina deixa explícito seu descontentamento em continuar a escrever diários. <!--more-->
+*A Felizarda*, publicado em 1963 sob o título de *Pedaços da Fome*, mostra-se uma obra particularmente representativa da produção literária de Carolina Maria de Jesus, começando pelo fato de se tratar de um romance. Isso por que em Casa de Alvenaria (1961, reeditado em 2021), Carolina deixa explícito seu descontentamento em continuar a escrever diários.
 
 Fiz esta resenha enquanto ainda lia *Casa de Alvenaria*, seu segundo livro de diários, onde podemos encontrar uma Carolina que se queixa de que pouco lhe sobrava de seu valioso tempo para se dedicar à sua verdadeira vocação: ser romancista, novelista, cronista, dramaturga, compositora e viver como poetisa, como a própria faz questão de se identificar e se reafirmar.
 

@@ -6,7 +6,7 @@
    <h2>{{ .Title }}</h2>
 
 
-
+<header>
  <nav style="justify-content:space-between;">
 
   <!-- Link para a página de Tags -->
@@ -18,7 +18,7 @@
   <!-- Link para a página de Tags -->
   <a href="{{ "/blog/tags/" | relURL }}">Tags</a> 
 
-</nav>
+</nav> </header>
 
 
 
@@ -33,15 +33,6 @@
 
 
 
-<div>
 
-{{ range .Data.Terms.Alphabetical }}
-<li class="tag">
-  <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
-  <span class="count">({{ .Count }})</span>
-</li>
-{{ end }}
-
-</div>
 
 

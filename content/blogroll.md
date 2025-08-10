@@ -10,37 +10,35 @@ Resgatando uma ideia popular no auge da blogosfera, o rolo de blogue spermite cu
 
 A seguir os blogues que acompanho regularmente, os quais vão acompanhados de um ícone para seu respectivo feed RSS.
 
-* <a href="https://blog.ayom.media/felipe-siles/feed/"><img  alt="Logotipo do RSS." src="/img/rss.svg"  height="12"  width="12" style="display: inline"> </a>[Felipe Siles](https://blog.ayom.media/felipe-siles/), o blogue de Felipe Siles;
+* <a href="https://blog.ayom.media/felipe-siles/feed/"><img  alt="Logotipo do RSS." src="/img/rss.svg"  height="12"  width="12" style="display: inline"> </a>[Felipe Siles](https://blog.ayom.media/felipe-siles/), o blogue de Felipe Siles. Ele traz observações muito sensíveis quanto ao impacto das tecnologias digitais na sociedade e no nosso cotidiano;
 
-* <a href="https://roney.com.br/feed/"><img alt="Logotipo do RSS." src="/img/rss.svg" height="12"  width="12" style="display: inline"></a> [Galeria de Espelhos](https://www.roney.com.br/), o blogue de Roney Belhassof;
+* <a href="https://www.gmgall.net/blog/index.xml"><img alt="Logotipo do RSS." src="/img/rss.svg" height="12"  width="12" style="display: inline"></a> [Gmgall.net](http://gmgall.net/), o blogue de Guilherme Gall. Ele escreve sobre tecnologia e literatura. Foi ele quem me ajudou no início da construção do meu site;
 
-* <a href="https://www.gmgall.net/blog/index.xml"><img alt="Logotipo do RSS." src="/img/rss.svg" height="12"  width="12" style="display: inline"></a> [Gmgall.net](http://gmgall.net/), o blogue de Guilherme Gall;
-
-<div hidden>
-* <a href="https://herman.bearblog.dev/feed/"><img alt="Logotipo do RSS." src="/img/rss.svg" height="12"  width="12" style="display: inline"> [Herman's Blog](https://herman.bearblog.dev), o blogue de 
-</div>
+* <a href="https://herman.bearblog.dev/feed/"><img alt="Logotipo do RSS." src="/img/rss.svg" height="12"  width="12" style="display: inline"> [Herman's Blog](https://herman.bearblog.dev): em inglês, é o blogue de Herman. Natural de cidade do Cabo, ele traz impressões sobre a África do Sul e fala sobre hábitos de higiene digital. Gostei de sua postagem em que fala de uma experiência da sua cidade parecida com a tida nas cidades do Centro-Sul do Brasil, em que faz frio, mas, como não é um frio mortal, as edificações não estão preparadas para tal. Ele desenvolveu o [Bear Blog](https://bearblog.dev/), plataforma aberta para publicações de textos;
 
 * <a href="http://blog.ayom.media/ideiasdechirico/feed"><img alt="Logotipo do RSS." src="/img/rss.svg" height="12"  width="12" style="display: inline"></a> [Ideias de Chirico](http://blog.ayom.media/ideiasdechirico), o blogue de Arlon;
 
-* <a href="https://www.manualdousuario.net/feed/"><img alt="Logotipo do RSS." src="/img/rss.svg" height="12"  width="12" style="display: inline"></a> [Manual do Usuário](https://www.manualdousuario.net/), o blogue de Rodrigo Ghedin;
+* <a href="https://www.manualdousuario.net/feed/"><img alt="Logotipo do RSS." src="/img/rss.svg" height="12"  width="12" style="display: inline"></a> [Manual do Usuário](https://www.manualdousuario.net/) é o blogue de Rodrigo Ghedin, em que ele fala de segurança digital, dicas de serviços, mochilas e faz entrevistas com escritores de newsletter;
+  
+* <a href="https://www.memedecarbono.com.br/feed/"><img alt="Logotipo do RSS." src="/img/rss.svg" height="12"  width="12" style="display: inline"></a> [Meme de Carbono](https://www.memedecarbono.com.br), o blogue de Roney Belhassof. Ele escreve sobre literatura e cultura digital;
+  
+* <a href="https://ploum.net/feed"><img alt="Logotipo do RSS." src="/img/rss.svg" height="12"  width="12" style="display: inline"></a> [Ploum.net](https://ploum.net/): em francês e inglês, é o blogue de Lionel Dricot. Natural da Bélgica, seu principal assunto é a forma êfemera com que lidamos com a tecnologia nos últimos anos e propõe alternativas para tal. É autor do romance [Bikepunk](https://bikepunk.fr/) e desenvolveu o protótipo de [um computador que dura 50 anos](https://ploum.net/the-computer-built-to-last-50-years/index.html);
 
-* <a href="https://ploum.net/feed"><img alt="Logotipo do RSS." src="/img/rss.svg" height="12"  width="12" style="display: inline"></a> [Ploum.net](https://ploum.net/), blogue de Lionel Dricot;
-
-* <a href="https://infosec.press/sirius/feed/"><img alt="Logotipo do RSS." src="/img/rss.svg" height="12"  width="12" style="display: inline"></a> [Sirius](https://infosec.press/sirius), o blogue de Sirius.
+* <a href="https://infosec.press/sirius/feed/"><img alt="Logotipo do RSS." src="/img/rss.svg" height="12"  width="12" style="display: inline"></a> [Sirius](https://infosec.press/sirius), o blogue de Sirius, onde ele comenta sobre filosofia, linguística, Ciência Política e uma pitada de atualidades.
 
 
 <div hidden>
 
 <h3> Rolo de podcasts </h3>
 
-Um tempo atrás fiz uma limpeza. 
+Um tempo atrás fiz uma limpeza. Acontece que eu acompanhava tantos podcasta que não tinha tempo hábil. Quando chega ao ponto de escutarmos um conteúdo acelerado, é melhor não consumi-lo e selecionar melhor.
+
+* Babel podcast: 
 
 * O Assunto:
 
 * E eu com isso?
 
 * Tecnocast
-
-* Babel podcast:
 
 </div>

@@ -4,9 +4,12 @@ title:  "Fotorreflexão em aceleração"
 date:   2023-05-29
 categories: ["Crônicas"]
 tags: ["tecnologia", "reflexões"]
+featured_image: "/img/blog/canon_lens.jpg"
+featured_image_title: "Objetiva em objetividade."
+featured_image_alt: "Objetiva fotográfica em primeiro plano; máquina de escrever desfocada ao fundo."
 author: "Daniely Silva"
 ---
-![Objetiva fotográfica em primeiro plano; máquina de escrever desfocada ao fundo](/img/blog/canon_lens.jpg "Objetiva em objetividade")
+
 
 Às vezes, é preciso desacelerar e simplesmente tomar um ar. Vivemos numa compulsão pela produtividade que perpassa os vários campos das nossas vidas, até o momento em que a lógica produtiva sai de onde não deveria sair: do trabalho.
 

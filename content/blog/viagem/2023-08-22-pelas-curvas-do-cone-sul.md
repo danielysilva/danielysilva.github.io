@@ -5,12 +5,13 @@ date:   2023-08-22
 categories: ["Viagem"]
 tags: ["urbanidades"]
 author: "Daniely Silva"
+featured_image: "/img/cone-sul/sul00.jpg"
+featured_image_title: "Rodoviária do Tietê."
+featured_image_alt: "Vista de movimento de passageiros em rodoviária. Mulher caminha ao centro sob iluminação cor púrpura."
 draft: false
 aliases:
   - /blog/viagem/pelas-curvas-do-cone-sul/
 ---
-
-![Vista de movimento de passageiros em rodoviária. Mulher caminha ao centro sob iluminação cor púrpura](/img/cone-sul/sul00.jpg "Rodoviária do Tietê")
 
 Numa rápida e corrida viagem pelo Cone Sul, quase me perdi conhecendo quase todas as suas capitais. Se ainda me faltam a Pacífica Santiago do Chile e la Asunción de Paraguay, não me faltam lembranças de Floripa, Buenos Aires, Montevideo, Porto Alegre e Curitiba, com direito às capitais departamental e provincial Colonia del Sacramento e Córdoba.
 

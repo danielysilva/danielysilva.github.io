@@ -11,11 +11,9 @@ draft: false
 <video width="100%" controls poster="/img/blog/olivetti3.png">
  <source src="/img/blog/Olivetti.mp4" type="video/mp4" alt="Sequência de escrita na máquina de escrever" title="Um minuto de escrita.">  
 Este vídeo não é suportado pelo seu navegador.
-</video>
+</video> <!--more-->
 
 Escrevo desde antes de saber escrever. Sim, quando criança, ditava livrinhsos às visitas que iam a casa, fossem tios ou primos, novos ou velhos; devia ser bem cansativo, mas foi estimulante para a alfabetização. Que bom que ninguém destruiu esse sonho de criança!
-
-<!--more-->
 
 Aí essa história de escrita para por aí. Ou faz uma longa pausa, pelo menos. Escrevi algumas coisas na infância e na adolescência, mas sem muita regularidade (e com pouco estímulo externo).
 

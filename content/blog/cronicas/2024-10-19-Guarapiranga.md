@@ -6,12 +6,14 @@ categories: ["Crônicas"]
 tags: ["urbanidades", "reflexões"]
 permalink: /blog/:categories/:title
 author: "Daniely Silva"
+featured_image: "/img/blog/guarapiranga.jpg"
+featured_image_title: "Olhares à Guarapiranga."
+featured_image_alt: "Ave em primeiro plano sobre um toco de madeira; ao fundo, ilhéu em represa, tarde nublada."
 draft: false
 ---
 
-![Ave em primeiro plano sobre um toco de madeira; ao fundo, ilhéu em represa, tarde nublada](/img/blog/guarapiranga.jpg "Olhares à Guarapiranga")
 
-Seu Deco e Seu Fernando. Não se trata de ribeirinhos porque cresceram às margens da represa, não de uma clássica ribeira brava do Amazonas. Guarapiranga: do tupi clássico, lugar dos guarás vermelhos, a ave que nasce negra como a noite e enrubesce ao longo da vida. <!--more-->
+Seu Deco e Seu Fernando. Não se trata de ribeirinhos porque cresceram às margens da represa, não de uma clássica ribeira brava do Amazonas. Guarapiranga: do tupi clássico, lugar dos guarás vermelhos, a ave que nasce negra como a noite e enrubesce ao longo da vida.
 
 Deco me contava sobre a pior seca vista nas suas quase seis décadas de vida. No Verão de 1985 para 86, podia-se chegar a pé até aquele ilhéu. Uma loucura! Levavam as barracas para a nova península e lá se tornou o novo ponto de recreação da região.
 

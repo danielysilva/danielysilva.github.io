@@ -6,10 +6,12 @@ author: Daniely Silva
 categories: ["Crônicas"]
 tags: ["coisas do Brasil"]
 summary:
+featured_image: "/img/blog/copo_americano2.jpg"
+featured_image_title: "Os vários usos de um copo americano."
+featured_image_alt: "Copos americanos com diferetes bebidas. Ao fundo, filtro de barro."
 draft: false
 ---
 
-![Copos americanos com diferetes bebidas. Ao fundo, filtro de barro.](/img/blog/copo_americano2.jpg)
 
 A Nadir Figueiredo Indústria e Comércio S.A anuncia que, a partir de 1⁰ de agosto, em resposta ao tarifaço de Donald Trump, o **copo americano** será rebatizado **copo soberano**. <!--more-->
 

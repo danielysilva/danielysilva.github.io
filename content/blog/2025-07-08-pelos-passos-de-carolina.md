@@ -6,19 +6,23 @@ draft: 'false'
 author: 'Daniely Silva'
 categories: [""]
 tags: ["leituras"]
-summary: "Summary of the Pelos Passos De Carolina project"
-featured_image: "/img/projects/pelos-passos-de-carolina/pelos-passos-de-carolina.png"
-featured_image_title: "Sem luz nem feijão"
-featured_image_alt: "Colher em prato com migalhas sob luz de vela"
+summary:
+
 aliases:
   - /acervo/pelos-passos-de-carolina/
 ---
 
 <iframe alt="Documentário com cenas da cidade de São Paulo e narração de trechos do livro Quarto de Despejo, de Carolina Maria de Jesus" title="Pelos Passos de Carolina" src="https://player.vimeo.com/video/1099809207?h=49de22ee13" width="100%" height="260" frameborder="0"    allowfullscreen></iframe>
 
-Carolina Maria de Jesus nasceu em Sacramento, Minas Gerais, aos 14 de março de 1914. Morreu aos 62 anos, aos 13 de fevereiro de 1977, no seu sítio em Parelheiros, vítima de problemas respiratórios. Conheceu a miséria, saboreou a riqueza e morreu na pobreza. Além do *Quarto de Despejo* (1960), publicou *Casa de Alvenaria* (1961) e *Pedaços da Fome* (1963), seu único romance. Também cantora e compositora, lançou o álbum *Quarto de Despejo* em 1961. 
+Carolina Maria de Jesus nasceu em Sacramento, Minas Gerais, aos 14 de março de 1914. Morreu aos 62 anos, aos 13 de fevereiro de 1977, no seu sítio em Parelheiros, vítima de problemas respiratórios. Conheceu a miséria, saboreou a riqueza e morreu na pobreza. Além do *Quarto de Despejo* (1960), publicou *Casa de Alvenaria* (1961) e *Pedaços da Fome* (1963), seu único romance. Também cantora e compositora, lançou o álbum *Quarto de Despejo* em 1961.
 
-<!--more-->
+<div hidden>
+<!--more--
+featured_image: "/img/projects/pelos-passos-de-carolina/pelos-passos-de-carolina.png"
+featured_image_title: "Sem luz nem feijão"
+featured_image_alt: "Colher em prato com migalhas sob luz de vela"
+</div>
+
 
 Apesar do fenômeno no qual se converteu, a verdade é que ela não suportava mais escrever diários. Queria ser reconhecida na sua vocação para contista, romancista, poetisa e dramaturga. *Journal de Bitita* (1982), autobiografia, foi publicada de forma póstuma na França por manuscritos extraviados. Teve que ser traduzida para o português e é raro encontrá-la no Brasil. Os direitos às suas obras estão em polêmica disputa entre a filha, Vera Eunice, e as netas, representantes do filho José Carlos.
 

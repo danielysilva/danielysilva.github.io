@@ -5,12 +5,11 @@ date: {{ now.Format "2006-01-02 15:04:05" }}
 author: Daniely Silva
 categories: [""]
 tags: [""]
-summary: 
-featured_image: "/img/projects/autorretratos/daniely-silva05.jpg"
+summary:
+featured_image: "/img/blog/daniely-silva05.jpg"
 featured_image_title: "lorem ipsum dolor sit amet"
 featured_image_alt: "Lorem ipsum dolor sit amet, consectur adipiscing elit."
 draft: true
-
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

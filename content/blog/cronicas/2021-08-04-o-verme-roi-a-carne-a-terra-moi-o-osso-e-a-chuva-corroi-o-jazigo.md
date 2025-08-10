@@ -5,11 +5,13 @@ date:   2021-08-04
 categories: ["Crônicas"]
 tags: ["urbanidades"]
 author: "Daniely Silva"
+featured_image: "/img/blog/necropole1.jpg"
+featured_image_title: "A oração do arcanjo."
+featured_image_alt: "rte tumular em necrópole paulistana: estátua de anjo em oração."
 draft: false
 ---
-![Arte tumular em necrópole paulistana: estátua de anjo em oração](/img/blog/necropole1.jpg "A oração do arcanjo")
 
-A relação de cada um com os cemitérios é sempre um caixa de surpresas: uns sentem medo, outros os veneram e outros buscam ali a paz. Essa impressão é construída não só social e culturalmente, mas depende também da história de vida e o que cada um passou nos cemitérios. <!--more-->
+A relação de cada um com os cemitérios é sempre um caixa de surpresas: uns sentem medo, outros os veneram e outros buscam ali a paz. Essa impressão é construída não só social e culturalmente, mas depende também da história de vida e o que cada um passou nos cemitérios. 
 
 Durante minha formação, meus pais sempre tiveram um respeito exagerado com relação aos cemitérios. Após chegar em casa, sempre fui orientada a tirar os sapatos e tomar um banho, com as icônicas frases “tô com pé de cemitério” e “tô com roupa de cemitério”. Meu pai, inclusive, sempre preferiu os cemitérios-jardim em lugar dos cemitérios tradicionais, já que estes escancaram através de sua monumentalidade a ideia de morte.
 

@@ -5,12 +5,13 @@ date:   2021-04-10
 categories: ["Crônicas"]
 tags: ["escrita", "tecnologia"]
 author: "Daniely Silva"
+featured_image: "/img/blog/datilografando_uma_historia1.png"
+featured_image_title: "Olivetti Dora, o verde predomina"
+featured_image_alt: "Recorte de máquina de escrever verde vista de cima"
 summary:
 ---
 
-![Recorte de máquina de escrever verde vista de cima](/img/blog/datilografando_uma_historia1.png "Olivetti Dora, o verde predomina")
-
-A companhia Godrej & Boyce, a última fábrica de máquinas de escrever do mundo, teve o fechar de suas portas em 2011, em Mumbai, na Índia. O fim de uma era?  Apesar de esse fechamento ser um marco, eras não acabam da noite para o dia. Além de entusiastas, é possível que em muitos lugares do mundo as máquinas de escrever ainda tenham algum uso profissional. Como comparação, basta pensar no transtorno causado pelo fim do suporte aos pagers no Japão, tecnologia já defasada que ainda encontrava no país do Sol nascente um número expressivo de usuários. <!--more-->
+A companhia Godrej & Boyce, a última fábrica de máquinas de escrever do mundo, teve o fechar de suas portas em 2011, em Mumbai, na Índia. O fim de uma era?  Apesar de esse fechamento ser um marco, eras não acabam da noite para o dia. Além de entusiastas, é possível que em muitos lugares do mundo as máquinas de escrever ainda tenham algum uso profissional. Como comparação, basta pensar no transtorno causado pelo fim do suporte aos pagers no Japão, tecnologia já defasada que ainda encontrava no país do Sol nascente um número expressivo de usuários.
  
 O processo de substituição de tecnologias é quase sempre uma transição: há dez anos, encontrava facilmente fitas para minha Olivetti em praticamente qualquer papelaria. Mais recentemente, pouco antes da pandemia, procurei por uma em vários estabelecimentos da Região Central e só encontrei em um local; atualmente compro pela Internet, visto que no Mercado Livre há várias opções. Mas a questão é: até quando? Difícil saber, pois tecnologias nascem e morrem num processo gradual, sobretudo quando seu uso foi largamente difundido.
 

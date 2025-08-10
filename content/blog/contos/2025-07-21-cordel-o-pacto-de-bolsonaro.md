@@ -5,7 +5,7 @@ date: 2025-07-21 09:37:34
 author: Daniely Silva
 categories: ["Contos"]
 tags: ["cordel"]
-summary:
+summary: Quando Bolsonaro fez um pacto em troca da reeleição e não pagou a dívida, o Cão veio cobrá-lo.
 draft: false
 ---
 

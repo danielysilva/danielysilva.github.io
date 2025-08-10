@@ -18,7 +18,6 @@ aliases:
 Carolina Maria de Jesus nasceu em Sacramento, Minas Gerais, aos 14 de março de 1914. Morreu aos 62 anos, aos 13 de fevereiro de 1977, no seu sítio em Parelheiros, vítima de problemas respiratórios. Conheceu a miséria, saboreou a riqueza e morreu na pobreza. Além do *Quarto de Despejo* (1960), publicou *Casa de Alvenaria* (1961) e *Pedaços da Fome* (1963), seu único romance. Também cantora e compositora, lançou o álbum *Quarto de Despejo* em 1961.
 
 <div hidden>
-<!--more--
 featured_image: "/img/projects/pelos-passos-de-carolina/pelos-passos-de-carolina.png"
 featured_image_title: "Sem luz nem feijão"
 featured_image_alt: "Colher em prato com migalhas sob luz de vela"

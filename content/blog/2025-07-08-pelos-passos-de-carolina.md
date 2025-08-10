@@ -12,10 +12,9 @@ summary:
 aliases:
   - /acervo/pelos-passos-de-carolina/
 ---
-
-<iframe alt="Documentário com cenas da cidade de São Paulo e narração de trechos do livro Quarto de Despejo, de Carolina Maria de Jesus" title="Pelos Passos de Carolina" src="https://player.vimeo.com/video/1099809207?h=49de22ee13" width="100%" height="auto" frameborder="0"    allowfullscreen></iframe>
-
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe alt="Documentário com cenas da cidade de São Paulo e narração de trechos do livro Quarto de Despejo, de Carolina Maria de Jesus" title="Pelos Passos de Carolina" src="https://player.vimeo.com/video/1099809207?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Pelos passos de Carolina"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+<!--more-->
 
 Carolina Maria de Jesus nasceu em Sacramento, Minas Gerais, aos 14 de março de 1914. Morreu aos 62 anos, aos 13 de fevereiro de 1977, no seu sítio em Parelheiros, vítima de problemas respiratórios. Conheceu a miséria, saboreou a riqueza e morreu na pobreza. Além do *Quarto de Despejo* (1960), publicou *Casa de Alvenaria* (1961) e *Pedaços da Fome* (1963), seu único romance. Também cantora e compositora, lançou o álbum *Quarto de Despejo* em 1961.
 

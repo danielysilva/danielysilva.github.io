@@ -13,7 +13,7 @@ draft: false
 ---
 
 
-A Nadir Figueiredo Indústria e Comércio S.A anuncia que, a partir de 1⁰ de agosto, em resposta ao tarifaço de Donald Trump, o **copo americano** será rebatizado **copo soberano**. <!--more-->
+A Nadir Figueiredo Indústria e Comércio S.A anuncia que, a partir de 1⁰ de agosto, em resposta ao tarifaço de Donald Trump, o **copo americano** será rebatizado **copo soberano**.
 
 É uma brincadeira em forma de homenagem a esse ícone do desenho industrial onipresente nos balcões de bares, restaurantes e lares do Brasil inteiro.
 

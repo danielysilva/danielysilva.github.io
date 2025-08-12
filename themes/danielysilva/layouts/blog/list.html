@@ -30,12 +30,14 @@
     {{ end }}
 
 
-
+  <span class="tags">
 {{ $tags := site.GetPage "/tags" }}
 {{ range $tags.Pages }}
  <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-{{ end }}
+	  <span class="count">({{ .Count }})</span>
+{{ end }} </span>
 
+<div hidden>
 	{{range $name, $taxonomy := .Site.Taxonomies.tags}} {{ $cnt := .Count }}
 	  {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
           <div class="tagbutton">
@@ -44,7 +46,7 @@
           </div>
 	  {{end}}
 	{{end}}
-
+</div>
 
 
 

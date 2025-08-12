@@ -34,7 +34,7 @@
 {{ $tags := site.GetPage "/tags" }}
 {{ range $tags.Pages }}
  <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-	  <span class="count">({{ .Count }})</span>
+
 {{ end }} </span>
 
 <div hidden>

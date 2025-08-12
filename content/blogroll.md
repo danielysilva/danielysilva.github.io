@@ -2,7 +2,6 @@
 layout: default
 title: Rolo de blogues
 author: "Daniely Silva"
-url: ""
 draft: false
 ---
 

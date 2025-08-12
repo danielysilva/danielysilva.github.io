@@ -2,7 +2,7 @@
 layout: default
 title: Rolo de blogues
 author: "Daniely Silva"
-url: "blog/blogroll"
+url: "/blogroll"
 draft: false
 ---
 
@@ -31,14 +31,14 @@ A seguir os blogues que acompanho regularmente, os quais vão acompanhados de um
 
 <h3> Rolo de podcasts </h3>
 
-Um tempo atrás fiz uma limpeza. Acontece que eu acompanhava tantos podcasta que não tinha tempo hábil. Quando chega ao ponto de escutarmos um conteúdo acelerado, é melhor não consumi-lo e selecionar melhor.
+Um tempo atrás fiz uma limpeza. Acontece que eu acompanhava tantos podcasta que não tinha tempo hábil. Quando chega ao ponto de escutarmos um conteúdo acelerado, é melhor não consumi-lo e selecionar melhor. .......
 
-* Babel podcast: 
+* [Babel](https://apoia.se/babelpodcast): o programa escolhe uma língua e fala sobre sua história, características linguísticas e dá voz a falantes nativos, finalizando com uma música na língua. O intervalo entre episódios anda bem longo, mas não deixo de seguir para quando aparece, eventualmente. É um assunto muito trabalhoso, o qual envolve pesquisa e contatos. 
 
-* O Assunto:
+* [O Assunto](https://g1.globo.com/podcast/o-assunto/): podcast do G1, do grupo Globo, é o meu programa para aprofundar sobre atualidades e temas quentes. Comecei a escutá-lo quando era regido por Renata Lo Prete e hoje é apresentado por Natuza Nery. Escolhi-o como substituto do *Café da Manhã*, da Folha de S. Paulo, quando este passou a ser exclusivo do principal serviço de *streaming* de áudio.
 
 * E eu com isso?
 
-* Tecnocast
+* [Tecnocast](https://tecnoblog.net/tecnocast/): podcast de tecnologia do Tecnoblog. S
 
 </div>

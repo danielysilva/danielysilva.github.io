@@ -2,7 +2,7 @@
 layout: default
 title: Rolo de blogues
 author: "Daniely Silva"
-url: "/blogroll"
+url: ""
 draft: false
 ---
 

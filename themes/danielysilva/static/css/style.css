@@ -606,8 +606,9 @@ a[target=_blank]:after {
 
 .conteudo p {
   color: white;
-  font-size: 16px;
+  font-size: 1.8rem;
   font-weight: bold;
+  text-align: center;
 }
 
 @font-face {

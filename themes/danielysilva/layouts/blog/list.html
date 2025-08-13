@@ -7,12 +7,12 @@
 
 
 
-<span><p>
+ <nav style="justify-content:space-between;">
 {{ range $name, $taxonomy := site.Taxonomies.categories }}
   <a href="{{ $taxonomy.Page.RelPermalink }}">{{ $name }}</a>
 {{ end }}
 </p>
-</span>
+ </nav>
 
 
 <span class="tags">

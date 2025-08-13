@@ -604,8 +604,10 @@ a[target=_blank]:after {
   z-index: 1001;
 }
 
-div .conteudo p {
-  text-color: white;
+.conteudo p {
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
 }
 
 @font-face {

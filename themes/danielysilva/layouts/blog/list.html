@@ -7,17 +7,26 @@
 
 
 
+
+<span class="tags">
+{{ $tags := site.GetPage "/tags" }}
+{{ range $tags.Pages }}
+<a class="tag" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+{{ end }} </span>
+
+
+
  <nav style="justify-content:space-between;">
 
   <div hidden>
   <a href="{{ "blog/blogroll/" | relURL }}">Blogroll</a>
   </div>
-     
+
   <!-- Link para a página de Categorias -->
   <a href="{{ "/blog/categories/" | relURL }}">Categorias</a>
 
   <!-- Link para a página de Tags -->
-  <a href="{{ "/blog/tags/" | relURL }}">Tags</a>
+<div hidden>  <a href="{{ "/blog/tags/" | relURL }}">Tags</a> </div>
 
 </nav>
 
@@ -30,22 +39,20 @@
     {{ end }}
 
 
-  <span class="tags">
-{{ $tags := site.GetPage "/tags" }}
-{{ range $tags.Pages }}
- <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
 
-{{ end }} </span>
 
 <div hidden>
-	{{range $name, $taxonomy := .Site.Taxonomies.tags}} {{ $cnt := .Count }}
+	{{range $name, $taxonomy := .Site.Taxonomies.tags}}
+ <span class="count">
+  {{ $cnt := .Count }} </span>
 	  {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
           <div class="tagbutton">
-		<a href={{ .RelPermalink }} title="All pages with tag <i>{{$name}}</i>">{{$name}}</a>
+    <a class="tag" href={{ .RelPermalink }} title="All pages with tag <i>{{$name}}</i>">{{$name}}</a>
 		<sup>{{$cnt}}</sup>
           </div>
 	  {{end}}
 	{{end}}
+
 </div>
 
 

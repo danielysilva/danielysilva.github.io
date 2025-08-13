@@ -6,11 +6,13 @@
    <h2>{{ .Title }}</h2>
 
 
+
 <span>
-{{ $tags := site.GetPage "/categories" }}
-{{ range $categories.Pages }}
-<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-{{ end }} </span>
+{{ range $name, $taxonomy := site.Taxonomies.categories }}
+  <a href="{{ $taxonomy.Page.RelPermalink }}">{{ $name }}</a>
+{{ end }}
+</span>
+
 
 <span class="tags">
 {{ $tags := site.GetPage "/tags" }}

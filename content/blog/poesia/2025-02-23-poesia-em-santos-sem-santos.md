@@ -3,7 +3,7 @@ layout: blog
 title:  "Poesia: Em Santos, sem santos"
 date:   2025-02-23
 categories: ["Poesia"]
-tags: ["urbanidades"]
+tags: ["cidade"]
 author: "Daniely Silva"
 draft: false
 ---

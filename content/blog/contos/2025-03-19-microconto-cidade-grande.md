@@ -4,7 +4,7 @@ title: "Microconto: Cidade Grande"
 date: 2025-03-19
 author: Daniely Silva
 categories: ["Contos"]
-tags: ["urbanidades", "microcontos"]
+tags: ["microcontos"]
 draft: false
 ---
 

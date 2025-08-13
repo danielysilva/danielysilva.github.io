@@ -4,7 +4,7 @@ title: "Conto: Fila de espera"
 date: 2025-04-28 17:13:50
 author: Daniely Silva
 categories: ["Contos"]
-tags: ["reflexões", "urbanidades"]
+tags: ["reflexões"]
 summary:
 draft: false
 ---

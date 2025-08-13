@@ -5,7 +5,7 @@ date: 2025-08-04 19:31:26
 author: Daniely Silva
 categories: ["Crônicas"]
 tags: ["tecnologia"]
-summary: 
+summary:
 draft: false
 ---
 

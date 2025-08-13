@@ -82,10 +82,17 @@ text-decoration: none;
 }
 
 a.tag {
-  background-color: #ddd;
-  color: #333;
+  background-color: #;
+  color: #696969;
   padding: 0 0.5em 0 0.5em;
   font-size: 1.2rem;
+  text-decoration: none;
+}
+
+a.category {
+  color: #640000;
+  font-size: 14px;
+  font-family: sans-serif;
   text-decoration: none;
 }
 
@@ -106,7 +113,7 @@ h2 {
 }
 
 h3 {
-    font-size: 1.8rem; 
+    font-size: 2.0rem;
     font-family: Georgia, "EB Garamond", Garamond, Georgia, Times, serif;
     padding-top: 0.1vw;
 
@@ -157,7 +164,7 @@ time {
     font-size: 1.8rem;
     color: #363636;
     display: inline;
-  
+
   }
 
 small {
@@ -606,9 +613,9 @@ a[target=_blank]:after {
 
 .conteudo p {
   color: white;
+  background: black;
   font-size: 1.8rem;
   font-weight: bold;
-  text-align: center;
   align-items: center;
 }
 

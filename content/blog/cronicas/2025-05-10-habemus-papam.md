@@ -24,7 +24,7 @@ Só que Prevost terá tempo de sobra para construir seu legado. É um homem "jov
 
 Ao ser tão próximo de Francisco, o papa agostiniano não precisa viver à sua sombra. Sua imagem mostra ser um homem carismático, mas mais protocolar. Ao sair da sacada, retomou as vestes tradicionais deixadas de lado pelo pontífice anterior. Não é demérito para um nem para outro, são imagens e hábitos diferentes.
 
-Abraçar a tradição também é disruptivo num momento em que conservadores batem no peito para desprezar os ritos tradicionais. Uma contradição tremenda, visto que a principal característica histórica do conservadorismo é o apego às tradições. Essas reações se somam aos negacionismos, aos preconceitos, às estruturas consolidadas e ao "sistema" na sua forma mais caricata possível. 
+Abraçar a tradição também é disruptivo num momento em que conservadores batem no peito para desprezar os ritos tradicionais. Uma contradição tremenda, visto que a principal característica histórica do conservadorismo é o apego às tradições. Essas reações se somam aos negacionismos, aos preconceitos, às estruturas consolidadas e ao "sistema" na sua forma mais caricata possível.
 
 A Igreja já mudou e vai continuar mudando. A principal diferença é o discurso, não dogmática. Dizer que gay também é gente, trabalhador tem direito a uma jornada humana, que mulheres divorciadas podem participar da comunidade e que o Capitalismo é uma aberração não vai contra o Catecismo e o Evangelho, mas os confirma. Quem espuma de ódio e intolerância é que entendeu errado a mensagem.
 

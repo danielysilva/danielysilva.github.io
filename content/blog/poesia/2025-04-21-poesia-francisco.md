@@ -4,7 +4,7 @@ title: "Poesia: Francisco"
 date: 2025-04-21 10:21:13
 author: Daniely Silva
 categories: ["Poesia"]
-tags: ["religião", "sentimento"]
+tags: ["religião"]
 summary:
 draft: false
 aliases:

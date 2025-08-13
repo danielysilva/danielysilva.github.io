@@ -5,7 +5,7 @@ date: 2025-07-21 09:37:34
 author: Daniely Silva
 categories: ["Contos"]
 tags: ["cordel"]
-summary: Quando Bolsonaro fez um pacto em troca da reeleição e não pagou a dívida, o Cão veio cobrá-lo.
+summary: Quando Bolsonaro fez um pacto em troca da reeleição e não pagou a dívida, o Cão veio cobrá-lo. 21 sextilhas no esquema de rimas xAxAxA. Versos em redondilha maior.
 draft: false
 ---
 

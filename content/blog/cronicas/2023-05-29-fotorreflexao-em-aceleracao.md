@@ -3,7 +3,7 @@ layout: blog
 title:  "Fotorreflexão em aceleração"
 date:   2023-05-29
 categories: ["Crônicas"]
-tags: ["tecnologia", "reflexões"]
+tags: ["tecnologia"]
 featured_image: "/img/blog/canon_lens.jpg"
 featured_image_title: "Objetiva em objetividade."
 featured_image_alt: "Objetiva fotográfica em primeiro plano; máquina de escrever desfocada ao fundo."

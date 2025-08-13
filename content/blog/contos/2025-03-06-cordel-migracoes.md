@@ -5,10 +5,11 @@ date: 2025-03-06 21:28:53
 author: Daniely Silva
 categories: ["Contos", "Poesia"]
 tags: ["cordel"]
+summary: Como tantos ao redor do mundo, ela migrou em busca de uma vida melhor. Tudo virou de ponta-cabeça ao descobrir que o bairro Jardim em que a prima se vangloriava por morar não era o que ela pensava. 38 sextilhas no esquema de rimas ABABCC. Versos em redondilha maior.
 draft: false
 ---
 
-*38 sextilhas no esquema de rimas ABABCC. Versoso em redondilha maior.*
+*38 sextilhas no esquema de rimas ABABCC. Versos em redondilha maior.*
 
 Giovanna é o nome dela\
 Ela chegou de Garanhuns\

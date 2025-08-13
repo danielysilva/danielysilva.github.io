@@ -18,12 +18,12 @@
 
 
   {{ range .Params.categories }}
- <a style="color: #640000; font-size: 14px; font-family: sans-serif" href="{{ "/blog/categories/" | relLangURL }}{{ . | urlize }}">{{ . }} </a>
+ <a class="category" href="{{ "/blog/categories/" | relLangURL }}{{ . | urlize }}">{{ . }} </a>
        {{ end }}
 
 <span class="tags">
       {{ range .Params.tags }}
-      <a class="tag" href="/blog/tags/{{ . | urlize }}">{{ . }}</a> {{ end }} </span>
+      <a class="tag" href="/blog/tags/{{ . | urlize }}">#{{ . }}</a> {{ end }} </span>
 
 
 

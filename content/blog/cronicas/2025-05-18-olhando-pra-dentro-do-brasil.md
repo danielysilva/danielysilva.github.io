@@ -4,7 +4,7 @@ title: "Olhando pra dentro do Brasil"
 date: 2025-05-18
 author: Daniely Silva
 categories: ["Crônicas"]
-tags: ["coisas do Brasil", "história"]
+tags: ["história"]
 summary:
 draft: false
 ---

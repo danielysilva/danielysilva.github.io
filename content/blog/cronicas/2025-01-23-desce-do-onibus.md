@@ -3,7 +3,7 @@ layout: blog
 title:  "Desce do ônibus"
 date: 2025-01-23
 categories: ["Crônicas"]
-tags: ["urbanidades"]
+tags: ["causos"]
 author: "Daniely Silva"
 draft: false
 ---
@@ -15,7 +15,6 @@ Nesse caso de hoje, o motô apenas parou uns 15 ou 20 metros à frente do ponto.
 “Dona, tinha um carro parado atrás no ponto, não tinha outro jeito. A senhora me desculpe”.
 
 Mas que adianta ser racional com doido, quando na verdade o remédio pra doido é outro doido. Pois isso torna quem discute com ele mais doido que o próprio doido. Quanto mais explicava, mais o motorista levava o nome de excomungado e de desgraçado, quando puxa-saco era o mais leve dos nomes.
-
 
 Foi quando, não aguentando mais, parou na Avenida Dr. Arnaldo, mesmo fora do ponto de ônibus. Estavam em frente ao Cemitério do Araçá.
 — Por que parou, demônio?

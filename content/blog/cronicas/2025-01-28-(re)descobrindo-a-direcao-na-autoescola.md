@@ -3,7 +3,7 @@ layout: blog
 title:  "(Re)descobrindo a direção na autoescola"
 date:   2025-01-28
 categories: ["Crônicas"]
-tags: ["urbanidades"]
+tags: ["cidade"]
 author: "Daniely Silva"
 draft: false
 ---

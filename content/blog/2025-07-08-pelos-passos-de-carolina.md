@@ -1,5 +1,3 @@
-
-
 ---
 layout: blog
 title: "Pelos passos de Carolina"

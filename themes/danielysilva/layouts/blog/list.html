@@ -7,18 +7,18 @@
 
 
 
- <nav style="justify-content:space-between;">
+ <p style="text-align:center;">
 {{ range $name, $taxonomy := site.Taxonomies.categories }}
-  <a href="{{ $taxonomy.Page.RelPermalink }}">{{ $name }}</a>
+  <a href="{{ $taxonomy.Page.RelPermalink }}">{{ $name }}  </a>
 {{ end }}
 </p>
- </nav>
+
 
 
 <span class="tags">
 {{ $tags := site.GetPage "/tags" }}
 {{ range $tags.Pages }}
-<a class="tag" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+<a class="tag" href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>
 {{ end }} </span>
 
 

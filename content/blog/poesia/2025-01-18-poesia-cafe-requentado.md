@@ -3,7 +3,7 @@ layout: blog
 title:  "Poesia: Requentado"
 date:   2025-01-29
 categories: ["Poesia"]
-tags: ["sentimento"]
+tags: [""]
 author: "Daniely Silva"
 draft: false
 ---

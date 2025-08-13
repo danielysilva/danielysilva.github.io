@@ -26,4 +26,3 @@ Muito bonito, mas não num país com 10 milhões de analfabetos e incontáveis f
 Além dos votos perdidos por confusão de números, nem imagino as intermináveis filas causadas pelas eleições num dia só. Até eu já troquei de chapa por não me lembrar do número do meu candidato para o legislativo — confiei demais na memória sem cola. Senador, prefeito, deputado estadual, vereador, deputado federal, governador, presidente... Tantos nomes já me embaralham só de pensar!
 
 Já que vamos trabalhar em cima do mundo ideal, que todos votem em casa pelo aplicativo *e-Título*, porque os grupos criminosos que pderiam comprovante de voto em vídeo certamente não vão inspecionar o voto remoto. Eles vão pensar na comidade geral! Assim é bom porque não teremos mais gastos com urnas, mesários e policiamente nas zonas eleitorais. Sim, senhor, eficiência vem antes da realidade.
-

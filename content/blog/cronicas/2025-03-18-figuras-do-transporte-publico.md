@@ -4,7 +4,7 @@ title: "Figuras do Transporte Público"
 date: 2025-03-19
 author: Daniely Silva
 categories: ["Crônicas"]
-tags: ["urbanidades"]
+tags: ["cidade"]
 draft: false
 ---
 

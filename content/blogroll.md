@@ -30,13 +30,15 @@ A seguir os blogues que acompanho regularmente, os quais vão acompanhados de um
 
 <h3> Rolo de podcasts </h3>
 
-Um tempo atrás fiz uma limpeza. Acontece que eu acompanhava tantos podcasta que não tinha tempo hábil. Quando chega ao ponto de escutarmos um conteúdo acelerado, é melhor não consumi-lo e selecionar melhor. .......
+Comecei a escutar podcasts na década passada, pelo SoundCloud e ainda no computador. Anos foram passando e muitos prometiam o famigerado "ano do podcast*, o que realmente acabou acontecendo quando o Spotify se apropriou do formato, inclusive contratando podcasts exclusivos para a sua plataforma. Se um programa é exclusivo do serviço de streaming de cor verde, eu simplesmente não o escuto mais. Sou até assinante do serviço, mas prefiro acompanhar os programas por um agregador; antes era o Google Podcasts e, após sua extinção, hoje uso o AntennaPod, uma opção FOSS.
+
+Há não muito fiz uma limpeza, ao perceber que acompanhava mais programas que o meu tempo permitia. Quando chega ao ponto de escutarmos um conteúdo acelerado, é melhor não consumi-lo e selecionar melhor. A gente vive um bombardeio de informação, portanto, tem horas que é melhor deixar passar.
 
 * [Babel](https://apoia.se/babelpodcast): o programa escolhe uma língua e fala sobre sua história, características linguísticas e dá voz a falantes nativos, finalizando com uma música na língua. O intervalo entre episódios anda bem longo, mas não deixo de seguir para quando aparece, eventualmente. É um assunto muito trabalhoso, o qual envolve pesquisa e contatos. 
 
 * [O Assunto](https://g1.globo.com/podcast/o-assunto/): podcast do G1, do grupo Globo, é o meu programa para aprofundar sobre atualidades e temas quentes. Comecei a escutá-lo quando era regido por Renata Lo Prete e hoje é apresentado por Natuza Nery. Escolhi-o como substituto do *Café da Manhã*, da Folha de S. Paulo, quando este passou a ser exclusivo do principal serviço de *streaming* de áudio.
 
-* E eu com isso?: o podcast do Instituto Brasil-Israel.
+* [E eu com isso?](https://www.institutobrasilisrael.org/e-eu-com-isso/): o podcast do Instituto Brasil-Israel. Fala sobre cultura judaica no Brasil e no mundo.
 
 * [Tecnocast](https://tecnoblog.net/tecnocast/): podcast de tecnologia do Tecnoblog.
 

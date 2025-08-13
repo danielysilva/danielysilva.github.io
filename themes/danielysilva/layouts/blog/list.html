@@ -22,20 +22,16 @@
 {{ end }} </span>
 
 
-
- <nav style="justify-content:space-between;">
-
   <div hidden>
+ <nav style="justify-content:space-between;">
   <a href="{{ "blog/blogroll/" | relURL }}">Blogroll</a>
-  </div>
-
   <!-- Link para a página de Categorias -->
   <a href="{{ "/blog/categories/" | relURL }}">Categorias</a>
-
   <!-- Link para a página de Tags -->
   <a href="{{ "/blog/tags/" | relURL }}">Tags</a>
 </nav>
 </div>
+
 
 {{ .Content }}
 

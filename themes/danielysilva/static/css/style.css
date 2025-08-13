@@ -498,7 +498,6 @@ a[target=_blank]:after {
 
 
 /* Galeria de lightbox */
-
 .galeria {
   display: grid;
   grid-gap: 1em;
@@ -603,6 +602,10 @@ a[target=_blank]:after {
   align-items: center;
   justify-content: center;
   z-index: 1001;
+}
+
+.conteudo p {
+  text-color: white;
 }
 
 @font-face {

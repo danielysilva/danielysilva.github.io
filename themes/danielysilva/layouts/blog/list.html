@@ -7,10 +7,11 @@
 
 
 
-<span>
+<span><p>
 {{ range $name, $taxonomy := site.Taxonomies.categories }}
   <a href="{{ $taxonomy.Page.RelPermalink }}">{{ $name }}</a>
 {{ end }}
+</p>
 </span>
 
 
@@ -32,9 +33,9 @@
   <a href="{{ "/blog/categories/" | relURL }}">Categorias</a>
 
   <!-- Link para a página de Tags -->
-<div hidden>  <a href="{{ "/blog/tags/" | relURL }}">Tags</a> </div>
-
+  <a href="{{ "/blog/tags/" | relURL }}">Tags</a>
 </nav>
+</div>
 
 {{ .Content }}
 

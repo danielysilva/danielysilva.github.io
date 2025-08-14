@@ -6,6 +6,8 @@ summary: "Registro de ramo de sibipiruna ao longo das estações"
 featured_image: "/img/projects/sibipiruna/sibipiruna10.jpg"
 featured_image_alt: "Mosaico de ramo de sibipiruna ao longo das estações"
 featured_image_title: "Um ano de Sibipiruna"
+aliases:
+ - /acervo/sibipiruna/
 ---
 
 A sibipiruna é árvore nativa da Mata Atlântica, a qual tem forte parentesco com o icônico pau-brasil. A partir de agosto, suas fartas flores amarelas ajudam o compor o mosaico de cores nas metrópoles dos Mares de Morros Florestados brasileiros. Especialmente em São Paulo, é amplamente utilizada no ajardinamento urbano. Foi assim que começou a crônica visual aqui exibida.

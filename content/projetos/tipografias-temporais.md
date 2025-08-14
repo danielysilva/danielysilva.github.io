@@ -6,6 +6,8 @@ summary: "Projeto autoral sobre o vício no cigarro e no celular"
 featured_image: "/img/projects/tipografias-temporais/tipografia00.jpg"
 featured_image_alt: "Longa exposição de tela de um celular rolando freneticamente"
 featured_image_title: "Máquinas de roubar tempo"
+aliases:
+ - /acervo/tipografias-temporais/
 ---
 
 Cada época tem seus vícios. Algumas das imagens que nos remetem aos anos de 1970 são a máquina de escrever e o cigarro, em meio a ambientes e objetos coloridos. Talvez não seja a impressão mais precisa, estando mais próxima de um estereótipo. Mas me pergunto: qual seria a leitura que alguém, transportado diretamente da década de 1970 para os anos 2020, teria de nós? Parece um horror imaginar alguém fumando num escritório, num restaurante ou no transporte público. Mas nós estamos a todo momento atados a nosso telefone celular, sem a menor polidez. Se seria tão rude abrir um livro no meio de uma conversa, por que não temos pudor algum com o celular?

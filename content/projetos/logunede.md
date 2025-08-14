@@ -6,6 +6,8 @@ summary: "Registro de nascimento para o orixá Logunedé"
 featured_image: "/img/projects/logunede/logunede05.jpg"
 featured_image_alt: "Cerimonial religioso do Candomblé"
 featured_image_title: "Nascimento a Logunedé"
+aliases:
+ - /acervo/logunede/
 ---
 *Nascimento a Logunedé*:
 

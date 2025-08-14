@@ -6,6 +6,8 @@ summary: "Registro de antigos galpões na Rua Guaicurus, Lapa"
 featured_image: "/img/projects/guaicurus/guaicurus06.jpg"
 featured_image_alt: "Moto trafega diante de galpão antigo com placa dos Correios"
 featured_image_title: "Guaicurus"
+aliases:
+ - /acervo/guaicurus/
 ---
 
 A Rua Guaicurus percorre o distrito da Lapa, na Zona Oeste da cidade de São Paulo. Na sua extremidade oeste, dá acesso à Estação Lapa da Linha 8-Diamante de CPTM, herdeira da antiga Estrada de Ferro Sorocabana, onde se conecta ao Terminal Lapa; na extremidade leste, por sua vez, há a proximidade com a Estação Água Branca da Linha 7-Rubi da CPTM, que sucede a antiga Estrada de Ferro Santos-Jundiaí, da inglesa São Paulo Railway.

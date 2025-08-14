@@ -1,11 +1,5 @@
 {{ define "main" }}
-
-
-
-
    <h2>{{ .Title }}</h2>
-
-
 
  <p style="text-align:center;">
 {{ range $name, $taxonomy := site.Taxonomies.categories }}
@@ -13,11 +7,6 @@
 {{ end }}
 </p>
 
-<span class="tags">
-{{ $tags := site.GetPage "/tags" }}
-{{ range $tags.Pages }}
-<a class="tag" href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>
-{{ end }} </span>
 
 <span class="tags">
 {{ range $name, $taxonomy := site.Taxonomies.tags }}
@@ -27,50 +16,12 @@
 {{ end }}
 </span>
 
-
-
-
-
-  <div hidden>
- <nav style="justify-content:space-between;">
-  <a href="{{ "blog/blogroll/" | relURL }}">Blogroll</a>
-  <!-- Link para a página de Categorias -->
-  <a href="{{ "/blog/categories/" | relURL }}">Categorias</a>
-  <!-- Link para a página de Tags -->
-  <a href="{{ "/blog/tags/" | relURL }}">Tags</a>
-</nav>
-</div>
-
-
 {{ .Content }}
-
-
 
 {{ range .Pages }}
     {{ partial "post_summary.html" . }}
     {{ end }}
 
-
-
-
-<div hidden>
-	{{range $name, $taxonomy := .Site.Taxonomies.tags}}
- <span class="count">
-  {{ $cnt := .Count }} </span>
-	  {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
-          <div class="tagbutton">
-    <a class="tag" href={{ .RelPermalink }} title="All pages with tag <i>{{$name}}</i>">{{$name}}</a>
-		<sup>{{$cnt}}</sup>
-          </div>
-	  {{end}}
-	{{end}}
-
-</div>
-
-
-
-
-<br>
     <div hidden><p>
       {{ partial "pagination.html" . }}</p>
     </div>

@@ -6,6 +6,8 @@ summary: "Registro dos rios urbanos de São Paulo"
 featured_image: "/img/rios/ponte-remedios.jpg"
 featured_image_alt: "Encontro entre os rios Pinheiros e Tietê"
 featured_image_title: "Ponte dos Remédios"
+aliases:
+ - /acervo/silencio-dos-rios-que-gritam/
 ---
 
 *Encontro entre os rios Pinheiros e Tietê. Ponte dos Remédios, limite Osasco-São Paulo*

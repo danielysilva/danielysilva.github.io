@@ -13,13 +13,22 @@
 {{ end }}
 </p>
 
-
-
 <span class="tags">
 {{ $tags := site.GetPage "/tags" }}
 {{ range $tags.Pages }}
 <a class="tag" href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>
 {{ end }} </span>
+
+<span class="tags">
+{{ range $name, $taxonomy := site.Taxonomies.tags }}
+  <a class="tag" href="{{ $taxonomy.Page.RelPermalink }}">
+    #{{ $name }} <span class="count">({{ len $taxonomy.Pages }})</span>
+  </a>
+{{ end }}
+</span>
+
+
+
 
 
   <div hidden>

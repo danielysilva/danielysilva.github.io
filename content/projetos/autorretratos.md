@@ -6,6 +6,8 @@ summary: "Sessões de autorretratos"
 featured_image: "/img/projects/autorretratos/daniely-silva05.jpg"
 featured_image_title: "Reflexo fragmentado"
 featured_image_alt: "Autorretrato enfocado no olhar sobre espelho partido"
+aliases:
+ - /acervo/autorretratos
 ---
 
 Autorretratar-se é um processo delicado. Estamos na posição de fotógrafa e personagem. Quanto de nós vamos expor? Estamos realmente mostrando o que somos ou interpretando?

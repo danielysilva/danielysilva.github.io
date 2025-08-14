@@ -25,7 +25,7 @@ A seguir, os blogues que leio regularmente, os quais vão acompanhados de um íc
 
 * <a href="https://infosec.press/sirius/feed/"><img alt="Logotipo do RSS." src="/img/rss.svg" height="12"  width="12" style="display: inline"></a> [Sirius](https://infosec.press/sirius): o blogue de Sirius, sobre filosofia, linguística, Ciência Política e uma pitada de atualidades.
 
-### Rolo de podcasts
+## Rolo de podcasts
 
 Comecei a escutar podcasts na década passada, pelo SoundCloud e ainda no computador. Anos foram passando e muitos prometiam o famigerado "ano do podcast*, o que realmente acabou acontecendo quando o Spotify se apropriou do formato, inclusive contratando podcasts exclusivos para a sua plataforma. Se um programa é exclusivo do serviço de streaming de cor verde, eu simplesmente não o escuto mais. Sou até assinante do serviço, mas prefiro acompanhar os programas por um agregador; antes era o Google Podcasts e, após sua extinção, hoje uso o AntennaPod, uma opção FOSS.
 
@@ -39,7 +39,7 @@ Há não muito tempo fiz uma limpeza, ao perceber que acompanhava mais programas
 
 * [Tecnocast](https://tecnoblog.net/tecnocast/): podcast de tecnologia do Tecnoblog. Divertido e informativo, também o acompanho há anos. Atualmente, são dois episódios longos por mês.
 
-### Rolo de rádios
+## Rolo de rádios
 
 Em tempos de streaming, muita gente deixou o rádio de lado ou reservado às viagens de carro. Mas as estações ainda têm um papel comunitário, de interação e, é claro, de curadoria. Apesar da sensação de escolha dos serviços atuais, o tempo todo o algoritmo decide por nós. Na rádio, há um toque humano.
 

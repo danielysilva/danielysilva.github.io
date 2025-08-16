@@ -43,7 +43,7 @@ Há não muito tempo fiz uma limpeza, ao perceber que acompanhava mais programas
 
 Em tempos de streaming, muita gente deixou o rádio de lado ou reservado às viagens de carro. Mas as estações ainda têm um papel comunitário, de interação e, é claro, de curadoria. Apesar da sensação de escolha dos serviços atuais, o tempo todo o algoritmo decide por nós. Na rádio, há um toque humano.
 
-* Bossa Jazz Brasil (web, Santos): Música para relaxar na hora do almoço enquanto tomo um banho de Sol ou escovo os dentes.
+* Bossa Jazz Brasil ([web](https://bossajazzbrasil.com/), sediada em Santos): Música para relaxar na hora do almoço enquanto tomo um banho de Sol ou escovo os dentes.
 
 * Gazeta FM (88.1 MHz): Música sertaneja e uma torre de transmissão que marca a paisagem da cidade.
 

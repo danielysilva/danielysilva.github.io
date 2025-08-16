@@ -3,7 +3,7 @@ layout: blog
 title:  "Poesia: A umas léguas..."
 date:   2025-02-07
 categories: ["Poesia"]
-tags: [""]
+tags: []
 author: "Daniely Silva"
 draft: false
 ---

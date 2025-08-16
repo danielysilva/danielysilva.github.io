@@ -8,6 +8,7 @@ tags: []
 summary:
 draft: false
 ---
+
 Homens de bigode\
 Têm seu poder\
 um de enlouquecer

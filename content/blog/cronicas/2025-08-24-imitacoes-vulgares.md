@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Imitações vulgares: tudo é plástico"
+title: "Imitações vulgares"
 date: 2025-08-24 08:41:23
 author: Daniely Silva
 categories: ["Crônicas"]

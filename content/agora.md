@@ -10,8 +10,9 @@ O movimento de criar uma página [*Now*/Agora](https://nownownow.com/about) adic
 
 1. Estou focada em fazer várias "viagens" de campo à Zona Sul da cidade. Numa sequência do [Silêncio dos Rios que Gritam](https://danielysilva.com.br/acervo/silencio-dos-rios-que-gritam/), estudo o recreio aquático e a preservação ambiental nas represas Billings e Guarapiranga.
 
-2. Estou indo para o último terço de *Grandes Sertões: Veredas*. Ufa!, que leitura longe. É cansativa, mas já me afeiçoei à prosa sem capítulos de Riobaldo. Traições, fúrias e desamores.
+2. Produzo o projeto documental sobre a cultura do prato do dia em São Paulo, junto ao registro dos tradicionais botecos de esquina.
 
-3. Com calma, trabalho no meu projeto fotodocumental sobre os botecos de esquina. Tô com a ideia de registrar os pratos do dia, mas essa parte ainda está no campo das ideias.
+3. Acabo de finalizar *Grandes Sertões: Veredas*. Ufa!, que leitura longa. Agora, fui para *Vida e Morte de M. J. Gonzaga de Sá*, de Lima Barreto.
 
-**Atualizado aos 10 de agosto de 2025.**
+**Atualizado aos 3 de setembro de 2025.**
+

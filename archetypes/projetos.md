@@ -1,7 +1,7 @@
 ---
 layout: projetos
 title: "{{replace .Name "-" " " | title }}"
-draft: 'false'
+draft: 'true'
 author: 'Daniely Silva'
 summary: "Summary of the {{ replace .Name "-" " " | title }} project"
 featured_image: "/img/projects/autorretratos/daniely-silva05.jpg"

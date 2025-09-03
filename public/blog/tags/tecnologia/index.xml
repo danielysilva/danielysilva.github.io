@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tecnologia on Daniely Silva</title>
+    <link>http://localhost:1313/blog/tags/tecnologia/</link>
+    <description>Recent content in Tecnologia on Daniely Silva</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 30 Aug 2025 11:46:50 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/tecnologia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mídias antissociais</title>
+      <link>http://localhost:1313/blog/cronicas/2025-08-30-midias-antissociais/</link>
+      <pubDate>Sat, 30 Aug 2025 11:46:50 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2025-08-30-midias-antissociais/</guid>
+      <description>Domesticar vem do latim domus, do latim, no sentido de levar para casa.</description>
+    </item>
+    <item>
+      <title>Aplicativos de desencontros</title>
+      <link>http://localhost:1313/blog/cronicas/2025-08-04-aplicativos-de-desencontros/</link>
+      <pubDate>Mon, 04 Aug 2025 19:31:26 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2025-08-04-aplicativos-de-desencontros/</guid>
+      <description>Nada como o cara a cara. Ou nem isso, se meio mundo já se habituou à comodidade dos aplicativos de encontro.</description>
+    </item>
+    <item>
+      <title>Quebrando a cabeça com Dvorak</title>
+      <link>http://localhost:1313/blog/resenhas/2025-07-22-quebrando-a-cabeca-com-dvorak/</link>
+      <pubDate>Tue, 22 Jul 2025 13:33:56 -0300</pubDate>
+      <guid>http://localhost:1313/blog/resenhas/2025-07-22-quebrando-a-cabeca-com-dvorak/</guid>
+      <description>Já conhecia o leiaute de teclado Dvorak, mas ainda não tinha procurado saber mais sobre.</description>
+    </item>
+    <item>
+      <title>Meu tributo ao ePUB</title>
+      <link>http://localhost:1313/blog/2025-05-01-meu-tributo-ao-epub/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/2025-05-01-meu-tributo-ao-epub/</guid>
+      <description>O formato que já tem quase duas décadas, desde 2007, e é padrão mais moderno para livros digitais.</description>
+    </item>
+    <item>
+      <title>Relato de 2 semanas usando o celular em preto e branco</title>
+      <link>http://localhost:1313/blog/resenhas/2025-04-29-relato-de-duas-semanas-usando-o-celular-em-preto-e-branco/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/resenhas/2025-04-29-relato-de-duas-semanas-usando-o-celular-em-preto-e-branco/</guid>
+      <description>Por que usar o celular em preto e branco, no que isso vai acrescentar?</description>
+    </item>
+    <item>
+      <title>9 de abril: dia do CSS pelado</title>
+      <link>http://localhost:1313/blog/2025-04-09-dia-do-css-pelado/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/2025-04-09-dia-do-css-pelado/</guid>
+      <description>Pelo Manualdousuário.net descobri ser o Dia do CSS Pelado (CSS Naked Day).</description>
+    </item>
+    <item>
+      <title>Biênio do site</title>
+      <link>http://localhost:1313/blog/cronicas/2025-03-18-bienio-do-site/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2025-03-18-bienio-do-site/</guid>
+      <description>Hoje, o domínio deste site completa 2 anos no Registro.</description>
+    </item>
+    <item>
+      <title>RSS: sorrindo para uma possibilidade</title>
+      <link>http://localhost:1313/blog/cronicas/2025-01-07-rss-sorrindo-para-uma-possibilidade/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2025-01-07-rss-sorrindo-para-uma-possibilidade/</guid>
+      <description>O RSS sempre foi algo de nicho, sobretudo num tempo em que a própria internete era um nicho.</description>
+    </item>
+    <item>
+      <title>Fotorreflexão em aceleração</title>
+      <link>http://localhost:1313/blog/cronicas/2023-05-29-fotorreflexao-em-aceleracao/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2023-05-29-fotorreflexao-em-aceleracao/</guid>
+      <description>Às vezes, é preciso desacelerar e simplesmente tomar um ar.</description>
+    </item>
+    <item>
+      <title>Datilografando uma história: a sobrevida das máquinas de escrever</title>
+      <link>http://localhost:1313/blog/cronicas/2021-04-10-datilografando-uma-historia/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2021-04-10-datilografando-uma-historia/</guid>
+      <description>A companhia Godrej &amp;amp; Boyce, a última fábrica de máquinas de escrever do mundo, teve o fechar de suas portas em 2011, em Mumbai, na Índia.</description>
+    </item>
+  </channel>
+</rss>

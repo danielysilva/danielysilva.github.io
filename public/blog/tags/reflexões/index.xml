@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reflexões on Daniely Silva</title>
+    <link>http://localhost:1313/blog/tags/reflex%C3%B5es/</link>
+    <description>Recent content in Reflexões on Daniely Silva</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 24 Aug 2025 08:41:23 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/reflex%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imitações vulgares</title>
+      <link>http://localhost:1313/blog/cronicas/2025-08-24-imitacoes-vulgares/</link>
+      <pubDate>Sun, 24 Aug 2025 08:41:23 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2025-08-24-imitacoes-vulgares/</guid>
+      <description>Tudo é feito de plástico. Estamos rodeados de imitações vulgares.</description>
+    </item>
+    <item>
+      <title>Sexta-feira</title>
+      <link>http://localhost:1313/blog/cronicas/2025-06-07-sexta-feira/</link>
+      <pubDate>Sat, 07 Jun 2025 10:52:05 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2025-06-07-sexta-feira/</guid>
+      <description>Sextou. O dia mais feliz na semana de sete dias.</description>
+    </item>
+    <item>
+      <title>Poesia: Lá pra maio</title>
+      <link>http://localhost:1313/blog/poesia/2025-04-30-poesia-la-pra-maio/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/poesia/2025-04-30-poesia-la-pra-maio/</guid>
+      <description>Bem mais do que se lembrar&#xA;Dói a lembrança da lembrança</description>
+    </item>
+    <item>
+      <title>Conto: Invasor</title>
+      <link>http://localhost:1313/blog/contos/2025-04-28-conto-invasor/</link>
+      <pubDate>Mon, 28 Apr 2025 19:27:03 -0300</pubDate>
+      <guid>http://localhost:1313/blog/contos/2025-04-28-conto-invasor/</guid>
+      <description>— Ele ainda está aqui? — punha o ouvido à porta, deixando a falsa sensação de segurança dos cobertores.</description>
+    </item>
+    <item>
+      <title>Conto: Fila de espera</title>
+      <link>http://localhost:1313/blog/contos/2025-04-28-conto-fila-de-espera/</link>
+      <pubDate>Mon, 28 Apr 2025 17:13:50 -0300</pubDate>
+      <guid>http://localhost:1313/blog/contos/2025-04-28-conto-fila-de-espera/</guid>
+      <description>O estômago pedia socorro, palpitando a cada passo pelos ladrilhos portugueses da Rua XV de novembro.</description>
+    </item>
+    <item>
+      <title>Flor de plástico</title>
+      <link>http://localhost:1313/blog/cronicas/2025-04-05-flor-de-plastico/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2025-04-05-flor-de-plastico/</guid>
+      <description>Poucas coisas no mundo são mais hediondas que uma flor de plástico.</description>
+    </item>
+    <item>
+      <title>Mercadante e os homens de bigode</title>
+      <link>http://localhost:1313/blog/cronicas/2025-03-30-mercadante-e-homens-de-bigode/</link>
+      <pubDate>Sun, 30 Mar 2025 17:47:28 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2025-03-30-mercadante-e-homens-de-bigode/</guid>
+      <description>Julio Wiziack: Eu tenho uma [pergunta] pessoal e eu vou fazer, não me aguento.</description>
+    </item>
+    <item>
+      <title>Incompletudes</title>
+      <link>http://localhost:1313/blog/cronicas/2025-03-26-incompletudes/</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2025-03-26-incompletudes/</guid>
+      <description>Católicos, protestantes e muçulmanos esperam pela Segunda Vinda de Cristo.</description>
+    </item>
+    <item>
+      <title>Sobre a Finitude</title>
+      <link>http://localhost:1313/blog/cronicas/2025-03-10-sobre-a-finitude/</link>
+      <pubDate>Mon, 10 Mar 2025 18:34:39 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2025-03-10-sobre-a-finitude/</guid>
+      <description>Eu tenho consciência da finitude. Eu sei que meu auge já passou, se eu não soubesse, virava um velho babão.</description>
+    </item>
+    <item>
+      <title>Um bom perfume?</title>
+      <link>http://localhost:1313/blog/cronicas/2025-02-07-um-bom-perfume/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2025-02-07-um-bom-perfume/</guid>
+      <description>Não adianta comprar um bom perfume. Esse perfume não foi feito pra você — ainda que tenha o dinheiro para comprá-lo.</description>
+    </item>
+  </channel>
+</rss>

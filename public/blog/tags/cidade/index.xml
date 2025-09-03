@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cidade on Daniely Silva</title>
+    <link>http://localhost:1313/blog/tags/cidade/</link>
+    <description>Recent content in Cidade on Daniely Silva</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 19 Mar 2025 00:00:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/cidade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Figuras do Transporte Público</title>
+      <link>http://localhost:1313/blog/cronicas/2025-03-18-figuras-do-transporte-publico/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2025-03-18-figuras-do-transporte-publico/</guid>
+      <description>Microconto: Metrô&#xA;O metrô era tudo novo para ela.</description>
+    </item>
+    <item>
+      <title>A Normalidade do Anormal</title>
+      <link>http://localhost:1313/blog/cronicas/2025-02-25-a-normalidade-do-anormal/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2025-02-25-a-normalidade-do-anormal/</guid>
+      <description>Nem tudo se trata de mudança climática. E não, não sou negacionista do aquecimento global — muito pelo contrário.</description>
+    </item>
+    <item>
+      <title>Poesia: Em Santos, sem santos</title>
+      <link>http://localhost:1313/blog/poesia/2025-02-23-poesia-em-santos-sem-santos/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/poesia/2025-02-23-poesia-em-santos-sem-santos/</guid>
+      <description>Sequer ali pisou a Marquesa&#xA;de Santos e degredados</description>
+    </item>
+    <item>
+      <title>(Re)descobrindo a direção na autoescola</title>
+      <link>http://localhost:1313/blog/cronicas/2025-01-28-redescobrindo-a-direcao-na-autoescola/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2025-01-28-redescobrindo-a-direcao-na-autoescola/</guid>
+      <description>Nunca quis tirar habilitação, mas de uns meses pra cá me deu a louca e apliquei todo o meu 13º nisso.</description>
+    </item>
+    <item>
+      <title>Poesia: 6x1</title>
+      <link>http://localhost:1313/blog/poesia/2025-01-18-poesia-6x1/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/poesia/2025-01-18-poesia-6x1/</guid>
+      <description>Eu trabalho 6 por 1&#xA;Fujo à condução lotada</description>
+    </item>
+    <item>
+      <title>Poesia: Vultos à Espera de Quê?</title>
+      <link>http://localhost:1313/blog/poesia/2025-01-18-poesia-vultos-a-espera-de-que/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/poesia/2025-01-18-poesia-vultos-a-espera-de-que/</guid>
+      <description>No ponto grita o silêncio&#xA;Multidão de um só trabalhador</description>
+    </item>
+    <item>
+      <title>O verme rói a carne, a terra mói o osso e a chuva corrói o jazigo</title>
+      <link>http://localhost:1313/blog/cronicas/2021-08-04-o-verme-roi-a-carne-a-terra-moi-o-osso-e-a-chuva-corroi-o-jazigo/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2021-08-04-o-verme-roi-a-carne-a-terra-moi-o-osso-e-a-chuva-corroi-o-jazigo/</guid>
+      <description>A relação de cada um com os cemitérios é sempre um caixa de surpresas: uns sentem medo, outros os veneram e outros buscam ali a paz.</description>
+    </item>
+  </channel>
+</rss>

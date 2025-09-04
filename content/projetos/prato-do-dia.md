@@ -73,11 +73,11 @@ A dobradinha vem temperada com um pouco de memória afetiva. Minha tia, Vera Lú
 * Salada à vontade.
 * Caipirinha.
 
-É tanta comida que mal cabe na mesa! — e no enquadramento. Quarta-feira é o dia do prato que é a cara do Brasil. O registro mais antigo da feijoada remete a 1827, em que um anúncio no Diário de Pernambuco fala sobre a feijoada à brasileira na então Rua das Cruzes.
+É tanta comida que mal cabe na mesa! — e no enquadramento. Quarta-feira é o dia do prato que é a cara do Brasil. O registro mais antigo da feijoada remete a 1827, em que um anúncio no Diário de Pernambuco fala sobre a feijoada à brasileira a preço cômodo, na então Rua das Cruzes.
 
-A lenda do surgimento do prato tem muito a ver com o mito da democracia, 
+A lenda do surgimento do prato tem muito a ver com o mito da democracia racial. Conta-se que, ao se matar um porco, as partes indesejadadas eram entregues aos escravizados, que, assim, desenvolveram o prato. Acontece que, num contexto do alto custo da carne e sem refrigeração, os miúdos eram valorizados, tudo era aproveitado. Além disso, há larga tradição dos cozidos de feijão nos países de língua portuguesa: feijoada à transmontana em Portugal, a catxupa em Cabo Verde, o mufete em Angola e a própria dobradinha no Brasil.
 
-https://www.uol.com.br/nossa/noticias/redacao/2025/02/08/e-dia-de-feijoada-na-sua-cidade-recife-imperial-comecou-a-difundir-habito.htm
+https://memoria.bn.gov.br/DocReader/docreader.aspx?bib=029033_01&pasta=ano%20182&pesq=feijoada&pagfis=119
 
 
 
@@ -101,9 +101,15 @@ Ainda havia a opção de ser serviço meio a meio: macarrão com arroz e feijão
 
 No catolicismo, a sexta-feira é um dia de penitência, em tradicionalmente se abstém da carne vermelha.
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.
+
 ![](/img/projects/prato-do-dia/sabado1.jpg)
 
 ### Sábado: Feijoada de novo (R$...)
+
+Feijoada de novo, mas agora pra celebrar. Muita gente faz meio-período aos sábados, então pode comer mais, com mais calma e ainda beber mais, porque não vai voltar ao trabalho.
+
+Ao redor do Brasil, é comum que os dias da feijoada sejam as sextas e sábados. Não à toa, o governador Tarcísio de Freitas, ao assumir o governo do estado de São Paulo em 2023, mudou o cardápio do Palácio dos Bandeirantes para deixar de servir a feijoada na quarta para a sexta-feira.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.
 
@@ -111,9 +117,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu le
 
 ### Domingo é dia de pastel! (R$...)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.
+Normalmente, o domingo não é um dia de trabalho, portanto, os restaurantes focados em trabalhadores não precisam abrir. É o dia do almoço de família e amigos: baião de dois, macarronada, risoto, arroz de forno, lasanha, maionese... E, quem sabe, um churrasco junto a tudo isso.
 
-Baião de dois, macarronada, nhoque, risoto, arroz de forno, lasanha, maionese.....
+Depois de fazer a feira, resta comer o pastel e tomar a garapa, esses dois odes à brasilidade e ao encontro de culturas.
+
+
 
 
 <section class="galeria">

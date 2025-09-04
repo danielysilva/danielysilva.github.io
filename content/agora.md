@@ -16,4 +16,6 @@ O movimento de criar uma página [*Now*/Agora](https://nownownow.com/about) adic
 
 4. Tento manter o ritmo da escrita. O conto *Cidade Pólo* furou a fila de *Doutora Cadela*. Escrever sobre gaúchos na Amazônia não é fácil, porque não tenho relações com uma coisa nem outra; tenho o cuidado de não cair nos estereótipos.
 
+5. Desativei as mídias sociais da Meta. Sei que ainda voltarei (senão, tê-las-ia excluído), só que não vai ser agora, porque tô querendo respirar.
+
 **Atualizado aos 4 de setembro de 2025.**

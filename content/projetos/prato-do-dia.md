@@ -9,10 +9,6 @@ featured_image_title: "lorem ipsum dolor sit amet"
 featured_image_alt: "Lorem ipsum dolor sit amet, consectur adipiscing elit."
 ---
 
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.
-
 São Paulo está no seio do que Dória (....) chama de Paulistânea, território correspondente à antiga capitania de São Paulo, dividida na década de 1720. O território marca o encontro culinário entre as tradições luso e guarani, na qual o tripé do porco, o milho e o feijão (????) representavam a ..... 
 
 Durante o regionalismo ascendnete da Primeira República, Minas Gerais abraçou a tradição culinária caipira, enquanto São Paulo tratou essa gastronomia como pré-moderna e atrasada.
@@ -29,16 +25,19 @@ O prato do dia é um autêntico atavismo de brasilidade, um encontro de tradiç�
 ### Segunda-feira: Virado à Paulista (R$27)
 
 * Virado de feijão;
-* Arroz;
 * Banana-da-terra empanada;
 * Bisteca a cavalo;
 * Torresmo.
+* Arroz;
+* Salada (repolho, cenoura e alface americana).
 
 A semana começa com o prato tradicionalmente paulista, para quem diz que São Paulo não tem culinária. O prato tem uma origem mítica, numa narrativa semelhante à do cuscuz paulista, que diz que os ingredientes se misturavam no lombo das mulas dos tropeiros.
 ........
 
+origem mítica
 
-![](/img/projects/prato-do-dia-terca.jpg)
+
+![](/img/projects/prato-do-dia/terca1.jpg)
 
 ### Terça-feira: Dobradinha (R$34)
 
@@ -60,34 +59,55 @@ Habitualmente, ela tem sido substituída pelo bife a rolê, como meu pai relata 
 A dobradinha vem temperada com um pouco de memória afetiva. Minha tia, Vera Lúcia, morreu com vontade de comê-la. Haviam-lhe comprado o bucho e os embutidos, mas ela já não tinha apetite àquela altura. Tudo ficou congelado por um tempo e acabei pegando para mim, para preparar o prato em casa. Assim que cada dobradinha é dedicada à tia poetiza.
 
 
-![](/img/projects/prato-do-dia-quarta.jpg)
+![](/img/projects/prato-do-dia/quarta1.jpg)
 
-### Quarta-feira: Feijoada (R$...)
+### Quarta-feira: Feijoada (R$45 - Média p/ três pessoas)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.
+* Feijoada (cozido de feijão com costela e miúdos suínos);
+* Biteca;
+* Couve;
+* Torresmo;
+* Farofa;
+* Molho picante;
+* Arroz;
+* Salada à vontade.
+* Caipirinha.
+
+É tanta comida que mal cabe na mesa! — e no enquadramento. Quarta-feira é o dia do prato que é a cara do Brasil. O registro mais antigo da feijoada remete a 1827, em que um anúncio no Diário de Pernambuco fala sobre a feijoada à brasileira na então Rua das Cruzes.
+
+A lenda do surgimento do prato tem muito a ver com o mito da democracia, 
+
+https://www.uol.com.br/nossa/noticias/redacao/2025/02/08/e-dia-de-feijoada-na-sua-cidade-recife-imperial-comecou-a-difundir-habito.htm
 
 
 
-![](/img/projects/prato-do-dia-quinta.jpg)
+![](/img/projects/prato-do-dia/quinta1.jpg)
 
-### Quinta-feira: Massa (R$...)
+### Quinta-feira: Massa (R$22)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.
+* Macarrão espaguete ao molho;
+* Frango ao molho;
+* Salada (alface, tomate e cebola).
+
+A massa percorreu um longo caminho pela China, o Oriente Médio e a Península Itália, de onde veio a penetrar com força ao Brasil por meio da comida globalizada e da imigração italiana. São Paulo já chegou a ter mais italianos que qualquer cidade da própria Itália. Contudo, ali no prato ainda resiste a galinha, a qual compõe, junto ao porco e ao milho, o tripé da culinária caipira tradicional. Não sou tão assim fã de macarrão, e ainda prefiro ao alho e óleo, mas esse estava delicioso! (............... CITAR CITAR)
+
+Ainda havia a opção de ser serviço meio a meio: macarrão com arroz e feijão. Uma mistura popular aos quais uns ainda adicionam a farinha de mandioca. Em 2020, durante a pandemia da Covid-19, Bolsonaro fez como Maria Antonieta: se não têm pão, que comam brioches!, e, se o arroz tá caro, que comam macarrão. No caso da consorte francesa, não há evidência de que ela realmenet tenha dito isso, mas nosso ex-presidente realmente articulou com empresários do setor alimentício a divulgação da substituição do arroz pelo macarrão (BBC https://www.bbc.com/portuguese/brasil-54100601 )
 
 
-![](/img/projects/prato-do-dia-sexta.jpg)
+
+![](/img/projects/prato-do-dia/sexta1.jpg)
 
 ### Sexta-feira: Peixe (R$...)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.
+No catolicismo, a sexta-feira é um dia de penitência, em tradicionalmente se abstém da carne vermelha.
 
-![](/img/projects/prato-do-dia-sabado.jpg)
+![](/img/projects/prato-do-dia/sabado1.jpg)
 
 ### Sábado: Feijoada de novo (R$...)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.
 
-![](/img/projects/prato-do-dia-domingo.jpg)
+![](/img/projects/prato-do-dia/domingo1.jpg)
 
 ### Domingo é dia de pastel! (R$...)
 

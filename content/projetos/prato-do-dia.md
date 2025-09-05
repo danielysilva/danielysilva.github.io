@@ -9,7 +9,7 @@ featured_image_title: "lorem ipsum dolor sit amet"
 featured_image_alt: "Lorem ipsum dolor sit amet, consectur adipiscing elit."
 ---
 
-São Paulo está no seio do que Dória (....) chama de Paulistânea, território correspondente à antiga capitania de São Paulo, dividida na década de 1720. O território marca o encontro culinário entre as tradições luso e guarani, na qual o tripé do porco, o milho e o feijão (????) representavam a ..... 
+São Paulo está no seio do que Dória (....) chama de Paulistânea, território correspondente à antiga capitania de São Paulo, dividida na década de 1720. O território marca o encontro culinário entre as tradições luso e guarani, na qual o tripé do porco, o milho e o feijão (????) representavam a .....
 
 Durante o regionalismo ascendnete da Primeira República, Minas Gerais abraçou a tradição culinária caipira, enquanto São Paulo tratou essa gastronomia como pré-moderna e atrasada.
 
@@ -20,7 +20,7 @@ O prato do dia é um autêntico atavismo de brasilidade, um encontro de tradiç�
 
 
 
-![](/img/projects/prato-do-dia/segunda1.jpg)
+![](/img/projects/prato-do-dia/2segunda-feira1.jpg)
 
 ### Segunda-feira: Virado à Paulista (R$27)
 
@@ -37,7 +37,7 @@ A semana começa com o prato tradicionalmente paulista, para quem diz que São P
 origem mítica
 
 
-![](/img/projects/prato-do-dia/terca1.jpg)
+![](/img/projects/prato-do-dia/3terca-feira1.jpg)
 
 ### Terça-feira: Dobradinha (R$34)
 
@@ -59,7 +59,7 @@ Habitualmente, ela tem sido substituída pelo bife a rolê, como meu pai relata 
 A dobradinha vem temperada com um pouco de memória afetiva. Minha tia, Vera Lúcia, morreu com vontade de comê-la. Haviam-lhe comprado o bucho e os embutidos, mas ela já não tinha apetite àquela altura. Tudo ficou congelado por um tempo e acabei pegando para mim, para preparar o prato em casa. Assim que cada dobradinha é dedicada à tia poetiza.
 
 
-![](/img/projects/prato-do-dia/quarta1.jpg)
+![](/img/projects/prato-do-dia/4quarta-feira1.jpg)
 
 ### Quarta-feira: Feijoada (R$45 - Média p/ três pessoas)
 
@@ -81,7 +81,7 @@ https://memoria.bn.gov.br/DocReader/docreader.aspx?bib=029033_01&pasta=ano%20182
 
 
 
-![](/img/projects/prato-do-dia/quinta1.jpg)
+![](/img/projects/prato-do-dia/5quinta-feira1.jpg)
 
 ### Quinta-feira: Massa (R$22)
 
@@ -95,7 +95,7 @@ Ainda havia a opção de ser serviço meio a meio: macarrão com arroz e feijão
 
 
 
-![](/img/projects/prato-do-dia/sexta1.jpg)
+![](/img/projects/prato-do-dia/6sexta-feira1.jpg)
 
 ### Sexta-feira: Peixe (R$...)
 

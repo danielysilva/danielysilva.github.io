@@ -17,6 +17,7 @@ Entre o último quartel do século XIX e a primeira metade do século XX, São P
 
 O prato do dia é um autêntico atavismo de brasilidade, um encontro de tradições. Algo que não se apagou.
 
+Tavernas, armazénse e botequins (SILVA, 2009)
 
 Bar e lanches, imperatriz, princesinha, flor.....
 
@@ -134,3 +135,12 @@ Depois de fazer a feira, resta comer o pastel e tomar a garapa, esses dois odes 
 <div class="lightboxes">
 
   <div class="lightbox" id="imagem1"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/autorretratos/daniely-silva02.jpg" alt="Dupla exposição em que a personagem conversa com uma cópia de si." title="Duas de mim" /><p>Dupla exposição em que a personagem conversa com uma cópia de si.</p></div></div>
+
+
+
+
+
+
+  SILVA, João Luiz Maximo Da. **Alimentação de rua na cidade de São Paulo (1828 - 1900)**. Doutorado em História Social—São Paulo: Universidade de São Paulo, 10 mar. 2009.
+
+

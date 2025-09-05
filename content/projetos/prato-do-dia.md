@@ -15,8 +15,10 @@ Durante o regionalismo ascendnete da Primeira República, Minas Gerais abraçou 
 
 Entre o último quartel do século XIX e a primeira metade do século XX, São Paulo passou pelas imigrações estrangeiras, ao ponto em que, em importantes porções da cidade, pouco se falava português. Levas de imigrantes italianos, árabes, ibéricos e judeus construíram a vida na cidade. Posteriormente, a partir da metade do século, a cidade passa por um reabrasileiramento: mineiros, pernambucanos, baianos, paraibanos, cearenses, potiguares, maranhenses e gente de todo canto do Brasil migrou para a metrópole que recentemente ultrapassara o Rio de Janeiro em população (????? ano ?????) — processo do qual sou filha.
 
-O prato do dia é um autêntico atavismo de brasilidade, um encontro de tradições. Algo que não se apagou
+O prato do dia é um autêntico atavismo de brasilidade, um encontro de tradições. Algo que não se apagou.
 
+
+Bar e lanches, imperatriz, princesinha, flor.....
 
 
 

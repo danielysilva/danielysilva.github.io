@@ -9,6 +9,7 @@ tags: ["coisas do Brasil"]
 draft: false
 ---
 <section class="poesia">
+
 Fartos d’ares infernais\
 Num seco ypê que perece\
 Cada acre galho floresce\

@@ -12,6 +12,7 @@ draft: false
 *21 sextilhas no esquema de rimas xAxAxA. Versos em redondilha maior.*
 
 <section class="poesia">
+
 Pouca gente sabe o pacto\
 Que feito por Bolsonaro\
 Entregou bem muitas almas\

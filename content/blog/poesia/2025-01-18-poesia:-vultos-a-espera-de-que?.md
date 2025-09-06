@@ -8,6 +8,7 @@ author: "Daniely Silva"
 draft: false
 ---
 <section class="poesia">
+
 No ponto grita o silêncio\
 Multidão de um só trabalhador\
 Estáticos na sua dor\

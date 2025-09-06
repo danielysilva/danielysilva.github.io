@@ -7,7 +7,7 @@ tags: ["cidade"]
 author: "Daniely Silva"
 draft: false
 ---
-
+<section class="poesia">
 Sequer ali pisou a Marquesa\
 de Santos e degredados\
 Viver na ilha dos Andrada e de Bonifácio\
@@ -22,5 +22,6 @@ vossa servil hidrografia decapitada ousa percorrer
 ao estuário um grito de desperdício\
 Onde se buscam os anais\
 num mostruário de meretrício
+</section>
 
 **Escrito aos 19 de janeiro de 2022.**

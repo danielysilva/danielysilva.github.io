@@ -11,6 +11,7 @@ draft: false
 
 *38 sextilhas no esquema de rimas ABABCC. Versos em redondilha maior.*
 
+<section class="poesia">
 Giovanna é o nome dela\
 Ela chegou de Garanhuns\
 Não é conto de Cinderela\
@@ -350,5 +351,6 @@ ela fugiu pra outra estrada\
 O que acontece em São Paulo\
 Você fica aí a imaginar\
 Dá até outra história pra contar
+</section>
 
 **Finalizado aos 28 de fevereiro de 2025.**

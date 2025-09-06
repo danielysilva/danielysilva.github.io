@@ -8,6 +8,7 @@ categories: ["Poesia"]
 tags: ["coisas do Brasil"]
 draft: false
 ---
+<section class="poesia">
 Fartos d’ares infernais\
 Num seco ypê que perece\
 Cada acre galho floresce\
@@ -25,5 +26,6 @@ e colorido anelo
 Sobre a passada lacuna\
 Lanço uma nova memória\
 Desta futura história
+</section>
 
 *Escrito aos 9 de agosto de 2022.*

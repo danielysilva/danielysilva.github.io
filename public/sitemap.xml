@@ -5,17 +5,11 @@
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-08-30T11:46:50-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/cr%C3%B4nicas/</loc>
-    <lastmod>2025-08-30T11:46:50-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-08-30T11:46:50-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-08-30-midias-antissociais/</loc>
-    <lastmod>2025-08-30T11:46:50-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/tecnologia/</loc>
-    <lastmod>2025-08-30T11:46:50-03:00</lastmod>
+    <loc>http://localhost:1313/blog/categories/cr%C3%B4nicas/</loc>
+    <lastmod>2025-08-24T08:41:23-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/cronicas/2025-08-24-imitacoes-vulgares/</loc>
     <lastmod>2025-08-24T08:41:23-03:00</lastmod>
@@ -24,6 +18,9 @@
     <lastmod>2025-08-24T08:41:23-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/cronicas/2025-08-04-aplicativos-de-desencontros/</loc>
+    <lastmod>2025-08-04T19:31:26-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/tecnologia/</loc>
     <lastmod>2025-08-04T19:31:26-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/coisas-do-brasil/</loc>
@@ -272,15 +269,11 @@
   </url><url>
     <loc>http://localhost:1313/contato/</loc>
   </url><url>
-    <loc>http://localhost:1313/projetos/esquinas/</loc>
-  </url><url>
     <loc>http://localhost:1313/projetos/guaicurus/</loc>
   </url><url>
     <loc>http://localhost:1313/projetos/logunede/</loc>
   </url><url>
     <loc>http://localhost:1313/agora/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projetos/prato-do-dia/</loc>
   </url><url>
     <loc>http://localhost:1313/projetos/</loc>
   </url><url>

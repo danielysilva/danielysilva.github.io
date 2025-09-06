@@ -8,7 +8,7 @@ tags: []
 summary:
 draft: false
 ---
-
+<section class="poesia">
 Homens de bigode\
 Têm seu poder\
 um de enlouquecer
@@ -23,5 +23,6 @@ Que bênção de Deus!
 Faça o que quiser\
 Tens passe de fé\
 Vôo aos braços seus
+</section>
 
 *Escrito aos 26 de março de 2025.*

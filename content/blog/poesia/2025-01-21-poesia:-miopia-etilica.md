@@ -7,6 +7,7 @@ tags: []
 author: "Daniely Silva"
 draft: false
 ---
+<section class="poesia">
 
 Eu tentei fugir do tempo\
 Tanto que tanto o encontrei\
@@ -33,5 +34,7 @@ a esperança em erosão\
 Bem por causa desses copos\
 Que ressaca só lhe dão\
 Esperando os dias novos
+
+</section>
 
 **Escrito aos 20 de junho de 2023.**

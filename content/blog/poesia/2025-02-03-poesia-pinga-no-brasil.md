@@ -7,6 +7,7 @@ tags: ["coisas do Brasil"]
 author: "Daniely Silva"
 draft: false
 ---
+<section class="poesia">
 Como é que pode a cachaça\
 Ser assim tão ambivalente?\
 A pergunta alguém lhe faça!
@@ -32,5 +33,6 @@ tal como é sagrada
 Espairece a pessoa amada\
 Mas, se bebe pra esquecer,\
 lembre de pagar antes de beber!
+</section>
 
 **Escrito em 28 de julho de 2024.**

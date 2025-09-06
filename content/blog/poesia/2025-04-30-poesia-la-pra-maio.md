@@ -8,7 +8,7 @@ tags: ["reflexões"]
 summary:
 draft: false
 ---
-
+<section class="poesia">
 Bem mais do que se lembrar\
 Dói a lembrança da lembrança\
 A qual ao longe me alcança
@@ -37,5 +37,6 @@ Chega de verso escrever
 Não será ainda este mês\
 Por volta de maio talvez\
 eu possa até te esquecer
+</section>
 
 *Escrito aos 14 de fevereiro de 2025*.

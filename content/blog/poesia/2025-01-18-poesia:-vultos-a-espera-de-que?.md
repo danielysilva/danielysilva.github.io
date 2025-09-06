@@ -7,6 +7,7 @@ tags: ["cidade"]
 author: "Daniely Silva"
 draft: false
 ---
+<section class="poesia">
 No ponto grita o silêncio\
 Multidão de um só trabalhador\
 Estáticos na sua dor\
@@ -24,5 +25,7 @@ Enorme esforço ao respirar
 A existência mascarada\
 revela a fragilidade\
 do habitar esta cidade
+
+</section>
 
 **Escrito aos 7 de julho de 2022.**

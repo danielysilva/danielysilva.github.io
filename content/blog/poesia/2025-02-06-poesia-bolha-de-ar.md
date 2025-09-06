@@ -7,6 +7,7 @@ tags: []
 author: "Daniely Silva"
 draft: false
 ---
+<section class="poesia">
 Ao ar condicionado\
 Vil e aburguesado\
 O meu ódio eu declaro
@@ -21,5 +22,6 @@ e das matas a matança
 Um novo prefácio:\
 mais criatividade\
 com natividade
+</section>
 
 **Escrito em 27 de setembro de 2024.**

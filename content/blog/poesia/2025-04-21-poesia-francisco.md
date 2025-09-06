@@ -10,7 +10,7 @@ draft: false
 aliases:
   - /blog/poesia/2025-04-21-francisco/
 ---
-
+<section class="poesia">
 Seu nome é Francisco\
 Lá no Vaticano\
 Tocou um novo disco
@@ -46,3 +46,4 @@ Só que Deus é brasileiro
 A Francisco o adeus\
 Fica aqui o desterro\
 Chico, vai com Deus
+</section>

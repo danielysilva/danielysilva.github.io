@@ -7,6 +7,7 @@ tags: []
 author: "Daniely Silva"
 draft: false
 ---
+<section class="poesia">
 Olhei pro céu e já era tarde\
 Mas pior é que ainda era dia\
 Naquela noite esfriaria
@@ -50,5 +51,6 @@ Nada de olhar para trás
 Adiante, um estoico semblante\
 O bairro está ainda distante\
 Faltam só umas léguas mais
+</section>
 
 **Escrito em 20 de janeiro de 2025.**

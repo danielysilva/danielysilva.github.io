@@ -191,6 +191,10 @@ footer {
   margin: 0 auto;
 }
 
+.poesia {
+  white-space: nowrap;
+}
+
   .featured-image {
     transition: filter 0.3s ease; /* Animação de escurecimento */
     position: relative;

@@ -8,6 +8,7 @@ tags: ["coisas do Brasil"]
 summary:
 draft: false
 ---
+<section class="poesia">
 Carro de humana tração\
 Que no entanto é a álcool movido\
 Homem forte e destemido\
@@ -21,5 +22,6 @@ Faz um trabalho invisível\
 Rodeado por seus cachorros\
 Percorre várzeas e morros\
 com sua perícia incrível
+</section>
 
 *Escrito aos 9 de fevereiro de 2025.*

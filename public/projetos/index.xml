@@ -15,13 +15,6 @@
       <description>Sessões de autorretratos</description>
     </item>
     <item>
-      <title>Esquinas</title>
-      <link>http://localhost:1313/projetos/esquinas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projetos/esquinas/</guid>
-      <description>Summary of the Esquinas project</description>
-    </item>
-    <item>
       <title>Guaicurus</title>
       <link>http://localhost:1313/projetos/guaicurus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,13 +27,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projetos/logunede/</guid>
       <description>Registro de nascimento para o orixá Logunedé</description>
-    </item>
-    <item>
-      <title>Prato do dia</title>
-      <link>http://localhost:1313/projetos/prato-do-dia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projetos/prato-do-dia/</guid>
-      <description>Summary of the Prato Do Ddia project</description>
     </item>
     <item>
       <title>Sibipiruna</title>

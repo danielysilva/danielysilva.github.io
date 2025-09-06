@@ -191,10 +191,6 @@ footer {
   margin: 0 auto;
 }
 
-.poesia {
-  white-space: nowrap;
-}
-
   .featured-image {
     transition: filter 0.3s ease; /* Animação de escurecimento */
     position: relative;
@@ -294,6 +290,10 @@ nav {
 
 .container {
   width: 90%;
+}
+
+.poesia {
+  font-size: 0.5rem;
 }
 
   .gallery {
@@ -619,6 +619,7 @@ a[target=_blank]:after {
   font-size: 1.8rem;
   font-weight: bold;
   align-items: center;
+  justify-content: center;
 }
 
 @font-face {

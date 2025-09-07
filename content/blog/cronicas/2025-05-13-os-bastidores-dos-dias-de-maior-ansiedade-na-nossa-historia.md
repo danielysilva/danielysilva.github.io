@@ -4,7 +4,7 @@ title: "13 de maio: os bastidores dos dias de maior ansiedade na nossa história
 date: 2025-05-13
 author: Daniely Silva
 categories: ["Crônicas"]
-tags: ["história"]
+tags: ["crônica histórica"]
 summary:
 draft: false
 ---

@@ -100,7 +100,7 @@ Ainda havia a opção de ser serviço meio a meio: macarrão com arroz e feijão
 
 ![](/img/projects/prato-do-dia/6sexta-feira1.jpg)
 
-### Sexta-feira: Peixe (R$...)
+### Sexta-feira: Peixe (R$37)
 
 No catolicismo, a sexta-feira é um dia de penitência, em tradicionalmente se abstém da carne vermelha.
 
@@ -108,7 +108,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu le
 
 ![](/img/projects/prato-do-dia/sabado1.jpg)
 
-### Sábado: Feijoada de novo (R$...)
+### Sábado: Feijoada de novo (R$76 - Grande p/ 4 pessoas)
 
 Feijoada de novo, mas agora pra celebrar. Muita gente faz meio-período aos sábados, então pode comer mais, com mais calma e ainda beber mais, porque não vai voltar ao trabalho.
 
@@ -142,5 +142,3 @@ Depois de fazer a feira, resta comer o pastel e tomar a garapa, esses dois odes 
 
 
   SILVA, João Luiz Maximo Da. **Alimentação de rua na cidade de São Paulo (1828 - 1900)**. Doutorado em História Social—São Paulo: Universidade de São Paulo, 10 mar. 2009.
-
-

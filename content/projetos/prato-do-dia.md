@@ -23,13 +23,14 @@ Bar e lanches, imperatriz, princesinha, flor.....
 
 
 
-![](/img/projects/prato-do-dia/2segunda-feira1.jpg)
+
 
 ### Segunda-feira: Virado à Paulista (R$27)
+![](/img/projects/prato-do-dia/2segunda-feira1.jpg)
 
 * Virado de feijão;
-* Banana-da-terra empanada;
 * Bisteca a cavalo;
+* Banana-da-terra empanada;
 * Torresmo.
 * Arroz;
 * Salada (repolho, cenoura e alface americana).
@@ -40,9 +41,10 @@ A semana começa com o prato tradicionalmente paulista, para quem diz que São P
 origem mítica
 
 
-![](/img/projects/prato-do-dia/3terca-feira1.jpg)
+
 
 ### Terça-feira: Dobradinha (R$34)
+![](/img/projects/prato-do-dia/3terca-feira1.jpg)
 
 > Mas, se eu pedi amor, porque é que me trouxeram\
   Dobrada à moda do Porto fria?\
@@ -61,13 +63,11 @@ Habitualmente, ela tem sido substituída pelo bife a rolê, como meu pai relata 
 
 A dobradinha vem temperada com um pouco de memória afetiva. Minha tia, Vera Lúcia, morreu com vontade de comê-la. Haviam-lhe comprado o bucho e os embutidos, mas ela já não tinha apetite àquela altura. Tudo ficou congelado por um tempo e acabei pegando para mim, para preparar o prato em casa. Assim que cada dobradinha é dedicada à tia poetiza.
 
-
+### Quarta-feira: Feijoada (R$45 - Média p/ três pessoas)
 ![](/img/projects/prato-do-dia/4quarta-feira1.jpg)
 
-### Quarta-feira: Feijoada (R$45 - Média p/ três pessoas)
-
 * Feijoada (cozido de feijão com costela e miúdos suínos);
-* Biteca;
+* Bisteca;
 * Couve;
 * Torresmo;
 * Farofa;
@@ -82,11 +82,8 @@ A lenda do surgimento do prato tem muito a ver com o mito da democracia racial. 
 
 https://memoria.bn.gov.br/DocReader/docreader.aspx?bib=029033_01&pasta=ano%20182&pesq=feijoada&pagfis=119
 
-
-
-![](/img/projects/prato-do-dia/5quinta-feira1.jpg)
-
 ### Quinta-feira: Massa (R$22)
+![](/img/projects/prato-do-dia/5quinta-feira1.jpg)
 
 * Macarrão espaguete ao molho;
 * Frango ao molho;
@@ -96,36 +93,52 @@ A massa percorreu um longo caminho pela China, o Oriente Médio e a Península I
 
 Ainda havia a opção de ser serviço meio a meio: macarrão com arroz e feijão. Uma mistura popular aos quais uns ainda adicionam a farinha de mandioca. Em 2020, durante a pandemia da Covid-19, Bolsonaro fez como Maria Antonieta: se não têm pão, que comam brioches!, e, se o arroz tá caro, que comam macarrão. No caso da consorte francesa, não há evidência de que ela realmenet tenha dito isso, mas nosso ex-presidente realmente articulou com empresários do setor alimentício a divulgação da substituição do arroz pelo macarrão (BBC https://www.bbc.com/portuguese/brasil-54100601 )
 
-
-
+### Sexta-feira: Peixe (R$37)
 ![](/img/projects/prato-do-dia/6sexta-feira1.jpg)
 
-### Sexta-feira: Peixe (R$37)
+* Filé de merluza empanado;
+* Molho de camarão;
+* ...
 
 No catolicismo, a sexta-feira é um dia de penitência, em tradicionalmente se abstém da carne vermelha.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.
-
-![](/img/projects/prato-do-dia/7sabado1.jpg)
+Esse é um bar que subiu de nível. O prato foi caro, mas a comida é saborosa. 
 
 ### Sábado: Feijoada de novo (R$76 - Grande p/ 4 pessoas)
+![](/img/projects/prato-do-dia/7sabado1.jpg)
 
 Feijoada de novo, mas agora pra celebrar. Muita gente faz meio-período aos sábados, então pode comer mais, com mais calma e ainda beber mais, porque não vai voltar ao trabalho.
 
 Ao redor do Brasil, é comum que os dias da feijoada sejam as sextas e sábados. Não à toa, o governador Tarcísio de Freitas, ao assumir o governo do estado de São Paulo em 2023, mudou o cardápio do Palácio dos Bandeirantes para deixar de servir a feijoada na quarta para a sexta-feira.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.
+Dessa vez a caipirinha saiu na foto.
 
+
+### Domingo é dia de pastel e garapa! (R$23)
 ![](/img/projects/prato-do-dia/8domingo1.jpg)
 
-### Domingo é dia de pastel! (R$...)
+* Pastel de queijo;
+* Garapa.
 
-Normalmente, o domingo não é um dia de trabalho, portanto, os restaurantes focados em trabalhadores não precisam abrir. É o dia do almoço de família e amigos: baião de dois, macarronada, risoto, arroz de forno, lasanha, maionese... E, quem sabe, um churrasco junto a tudo isso.
+Não há um prato do dia para esse dia. Normalmente, o domingo não é um dia de trabalho, portanto, os restaurantes focados em trabalhadores não precisam abrir. É o dia do almoço de família e amigos: baião de dois, macarronada, risoto, arroz de forno, lasanha, maionese... E, quem sabe, um churrasco junto a tudo isso.
 
-Depois de fazer a feira, resta comer o pastel e tomar a garapa, esses dois odes à brasilidade e ao encontro de culturas.
+Também é dia de, depois de fazer a feira, parar para comer pastel e tomar a garapa, esses dois odes à brasilidade e ao encontro de culturas. As barracas de pastel ficam nas pontas das feiras, porque é uma despedida depois das compras. A feira aonde fui é a da Rua Aurélia, entre as ruas Coriolano, Fábia e Tito, na Vila Romana; funciona aos domingos, das 6 da manhã às duas da tarde.
+
+A barraca na qual parei era a da família Nakamura. Diz ter a tradição desde 1970, estando já na terceira geração. A história do pastel brasileiro, semelhante ao rolinho-primavera e à guioza/jiaozi, é meio nebulosa. Não vou entrar nessa seara da sua origem, que é incerta e cercada de mitos e fabulações, mas o fato é que a receita está intimamente ligada à trajetória da comunidade nipônica em São Paulo. Outrora a cidade com mais japoneses no mundo, com imigração marcante a partir de 1908, parte dessa população se especializou na apicultura, cogumelos e hortifrutigranjeiros; já que vendem na feira, por que não aproveitar e vender o pastel?
+
+O pastel foi, na verdade, o meu café da manhã. Junto à garapa, subproduto da indústria canavieira de sabor doce e intenso. O saboroso caldo-de-cana contém antioxidantes que aliviam um pouco da gordura do pastel. Podem não formar a combinação mais nutritiva, mas não é algo que se come todos os dias e, ao menos, não são produtos ultraprocessados. 
+
+De tão popular, a combinação acabou virando tema das propagandas eleitorais. Como é popular não só na fama, mas também por partir de classes populares, numa medida higienista, o clássico pastel de feira chegou a ser proibido pela Prefeitura de São Paulo, através do Decreto Nº 8786 de 1970, numa cruzada contra a comida de rua. A partir de 1976 e 1978, gradualmente, as autoridades voltaram atrás na medida, mas depois de muita dor de cabeça. 
+
+Depois de um pastel com garapa, o brasileiro aproveita o dia sagrado dos cristãos, o domingo, para ir à missa, ao culto, à reunião do serviço voluntário e almoçar. No meu caso, nesta vida de trabalhar aos finais de semana, perco tudo isso há anos. É uma realidade infeliz.
 
 
 
+
+
+https://www.uol.com.br/nossa/noticias/redacao/2023/07/09/paixao-paulistana-pastel-foi-motivo-de-guerra-entre-feirantes-e-prefeitura.htm
+
+https://legislacao.prefeitura.sp.gov.br/leis/decreto-8786-de-21-de-maio-de-1970
 
 <section class="galeria">
   <div class="item"><a href="#imagem1"><img src="/img/projects/autorretratos/daniely-silva08.jpg" alt="Preto e Branco. Personagem encara a câmera com máquina de escrever ao fundo." title="Olhar" /></a></div>

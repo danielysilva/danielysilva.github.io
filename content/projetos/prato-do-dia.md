@@ -4,7 +4,7 @@ title: "Prato do dia"
 draft: 'true'
 author: 'Daniely Silva'
 summary: "Summary of the Prato Do Ddia project"
-featured_image: "/img/projects/autorretratos/daniely-silva05.jpg"
+featured_image: "/img/projects/prato-do-dia/7sabado1.jpg"
 featured_image_title: "lorem ipsum dolor sit amet"
 featured_image_alt: "Lorem ipsum dolor sit amet, consectur adipiscing elit."
 ---
@@ -106,7 +106,7 @@ No catolicismo, a sexta-feira é um dia de penitência, em tradicionalmente se a
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.
 
-![](/img/projects/prato-do-dia/sabado1.jpg)
+![](/img/projects/prato-do-dia/7sabado1.jpg)
 
 ### Sábado: Feijoada de novo (R$76 - Grande p/ 4 pessoas)
 
@@ -116,7 +116,7 @@ Ao redor do Brasil, é comum que os dias da feijoada sejam as sextas e sábados.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.
 
-![](/img/projects/prato-do-dia/domingo1.jpg)
+![](/img/projects/prato-do-dia/8domingo1.jpg)
 
 ### Domingo é dia de pastel! (R$...)
 

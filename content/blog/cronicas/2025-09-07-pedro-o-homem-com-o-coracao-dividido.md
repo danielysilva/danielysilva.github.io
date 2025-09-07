@@ -1,14 +1,14 @@
 ---
 layout: blog
-title: "2025 09 07 Pedro O Homem Com O Coracao Dividido"
+title: "Pedro de Alcântara: o homem do coração dividido"
 date: 2025-09-07 06:20:04
 author: Daniely Silva
 categories: ["Crônicas"]
 tags: ["crônica histórica"]
 summary:
-featured_image: "/img/blog/daniely-silva05.jpg"
-featured_image_title: "lorem ipsum dolor sit amet"
-featured_image_alt: "Lorem ipsum dolor sit amet, consectur adipiscing elit."
+featured_image:
+featured_image_title:
+featured_image_alt: 
 draft: true
 ---
 
@@ -27,11 +27,6 @@ Como resultado, o príncipe vira Imperador --- como Napoleão, achou que ser cha
 O título de Defensor Perpétuo fora dado pelo Senado da Câmara do Reino do Brasil, com a proposta de Protetor e Defensor Perpétuo do Brasil, mas a segunda parte foi recusada, já que o Brasil a si próprio se protegia.
 
 No 1º de dezembro, vem a coroação inédita. Isso porque reis em Portugal não eram coroadas há séculos, apenas aclamados, como o fora D. João VI, no Rio de Janeiro, em 1815. Tal prático vinha desde o desaparecimento de D. Sebastião e a traumática absorção de Portugal pela Espanha filipina. Quem ia imaginar que o único Bragança a ser coroado na história o faria num império nos trópicos?
-
-
-
-Senado do Câmara
-
 
 
 MOTA, Carlos Guilherme (org.). 1822: Dimensões. 5ed. São Paulo: Perspectiva/Sesc, 2022.

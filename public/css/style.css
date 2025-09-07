@@ -166,7 +166,7 @@ time {
   }
 
 small {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
 
 }
 
@@ -189,10 +189,6 @@ footer {
 .container {
   position: relative;
   margin: 0 auto;
-}
-
-.poesia {
-  white-space: nowrap;
 }
 
   .featured-image {
@@ -294,6 +290,10 @@ nav {
 
 .container {
   width: 90%;
+}
+
+.poesia p {
+  font-size: 1.5rem;
 }
 
   .gallery {
@@ -619,6 +619,7 @@ a[target=_blank]:after {
   font-size: 1.8rem;
   font-weight: bold;
   align-items: center;
+  justify-content: center;
 }
 
 @font-face {

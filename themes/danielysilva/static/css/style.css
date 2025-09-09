@@ -357,7 +357,7 @@ nav {
   position: relative;
   left: calc(-50vw + 50%);
   width: 100vw;
-}
+  }
 }
 
 /* layout responsivo para telas largas */

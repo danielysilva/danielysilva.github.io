@@ -4,7 +4,7 @@ title: "Prato do dia"
 draft: 'true'
 author: 'Daniely Silva'
 summary: "Summary of the Prato Do Ddia project"
-featured_image: "/img/projects/prato-do-dia/7sabado1.jpg"
+featured_image: "/img/projects/prato-do-dia/1lousa-de-cardapio.jpg"
 featured_image_title: "lorem ipsum dolor sit amet"
 featured_image_alt: "Lorem ipsum dolor sit amet, consectur adipiscing elit."
 ---
@@ -26,7 +26,9 @@ Bar e lanches, imperatriz, princesinha, flor.....
 
 
 ### Segunda-feira: Virado à Paulista (R$27)
-![](/img/projects/prato-do-dia/2segunda-feira1.jpg)
+<div class="break-out">
+<img src="/img/projects/prato-do-dia/2segunda-feira1.jpg" alt="Dupla exposição em que a personagem conversa com uma cópia de si." title="Duas de mim"/>
+</div>
 
 * Virado de feijão;
 * Bisteca a cavalo;
@@ -44,7 +46,9 @@ origem mítica
 
 
 ### Terça-feira: Dobradinha (R$34)
+
 ![](/img/projects/prato-do-dia/3terca-feira1.jpg)
+
 
 > Mas, se eu pedi amor, porque é que me trouxeram\
   Dobrada à moda do Porto fria?\
@@ -97,22 +101,33 @@ Ainda havia a opção de ser serviço meio a meio: macarrão com arroz e feijão
 ![](/img/projects/prato-do-dia/6sexta-feira1.jpg)
 
 * Filé de merluza empanado;
-* Molho de camarão;
-* ...
+* Molho de camarão, tomate e cebola;
+* Purê de batata;
+* Arroz;
+* Salada (alface, repolho, tomate e beterraba).
 
 No catolicismo, a sexta-feira é um dia de penitência, em tradicionalmente se abstém da carne vermelha.
 
-Esse é um bar que subiu de nível. O prato foi caro, mas a comida é saborosa. 
+Esse é um bar que subiu de nível. O prato foi caro, mas a comida é saborosa.
 
 ### Sábado: Feijoada de novo (R$76 - Grande p/ 4 pessoas)
 ![](/img/projects/prato-do-dia/7sabado1.jpg)
+
+* Feijoada (cozido de feijão com costela e miúdos suínos);
+* Bisteca;
+* Couve;
+* Torresmo;
+* Farofa;
+* Molho picante;
+* Arroz;
+* Não havia salada;
+* Caipirinha.
 
 Feijoada de novo, mas agora pra celebrar. Muita gente faz meio-período aos sábados, então pode comer mais, com mais calma e ainda beber mais, porque não vai voltar ao trabalho.
 
 Ao redor do Brasil, é comum que os dias da feijoada sejam as sextas e sábados. Não à toa, o governador Tarcísio de Freitas, ao assumir o governo do estado de São Paulo em 2023, mudou o cardápio do Palácio dos Bandeirantes para deixar de servir a feijoada na quarta para a sexta-feira.
 
-Dessa vez a caipirinha saiu na foto.
-
+Dessa vez, a caipirinha saiu na foto.
 
 ### Domingo é dia de pastel e garapa! (R$23)
 ![](/img/projects/prato-do-dia/8domingo1.jpg)
@@ -126,9 +141,9 @@ Também é dia de, depois de fazer a feira, parar para comer pastel e tomar a ga
 
 A barraca na qual parei era a da família Nakamura. Diz ter a tradição desde 1970, estando já na terceira geração. A história do pastel brasileiro, semelhante ao rolinho-primavera e à guioza/jiaozi, é meio nebulosa. Não vou entrar nessa seara da sua origem, que é incerta e cercada de mitos e fabulações, mas o fato é que a receita está intimamente ligada à trajetória da comunidade nipônica em São Paulo. Outrora a cidade com mais japoneses no mundo, com imigração marcante a partir de 1908, parte dessa população se especializou na apicultura, cogumelos e hortifrutigranjeiros; já que vendem na feira, por que não aproveitar e vender o pastel?
 
-O pastel foi, na verdade, o meu café da manhã. Junto à garapa, subproduto da indústria canavieira de sabor doce e intenso. O saboroso caldo-de-cana contém antioxidantes que aliviam um pouco da gordura do pastel. Podem não formar a combinação mais nutritiva, mas não é algo que se come todos os dias e, ao menos, não são produtos ultraprocessados. 
+O pastel foi, na verdade, o meu café da manhã. Junto à garapa, subproduto da indústria canavieira de sabor doce e intenso. O saboroso caldo-de-cana contém antioxidantes que aliviam um pouco da gordura do pastel. Podem não formar a combinação mais nutritiva, mas não é algo que se come todos os dias e, ao menos, não são produtos ultraprocessados.
 
-De tão popular, a combinação acabou virando tema das propagandas eleitorais. Como é popular não só na fama, mas também por partir de classes populares, numa medida higienista, o clássico pastel de feira chegou a ser proibido pela Prefeitura de São Paulo, através do Decreto Nº 8786 de 1970, numa cruzada contra a comida de rua. A partir de 1976 e 1978, gradualmente, as autoridades voltaram atrás na medida, mas depois de muita dor de cabeça. 
+De tão popular, a combinação acabou virando tema das propagandas eleitorais. Como é popular não só na fama, mas também por partir de classes populares, numa medida higienista, o clássico pastel de feira chegou a ser proibido pela Prefeitura de São Paulo, através do Decreto Nº 8786 de 1970, numa cruzada contra a comida de rua. A partir de 1976 e 1978, gradualmente, as autoridades voltaram atrás na medida, mas depois de muita dor de cabeça.
 
 Depois de um pastel com garapa, o brasileiro aproveita o dia sagrado dos cristãos, o domingo, para ir à missa, ao culto, à reunião do serviço voluntário e almoçar. No meu caso, nesta vida de trabalhar aos finais de semana, perco tudo isso há anos. É uma realidade infeliz.
 

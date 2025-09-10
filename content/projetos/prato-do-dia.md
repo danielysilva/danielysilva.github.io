@@ -17,6 +17,8 @@ Entre o último quartel do século XIX e a primeira metade do século XX, São P
 
 O prato do dia é um autêntico atavismo de brasilidade, um encontro de tradições. Algo que não se apagou.
 
+Em Alimentação de rua na cidade de São Paulo (1828 - 1900)
+
 Tavernas, armazénse e botequins (SILVA, 2009)
 
 Bar e lanches, imperatriz, princesinha, flor.....

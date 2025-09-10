@@ -21,7 +21,7 @@ Em Alimentação de rua na cidade de São Paulo (1828 - 1900)
 
 Tavernas, armazénse e botequins (SILVA, 2009)
 
-Bar e lanches, imperatriz, princesinha, flor.....
+Bar e lanches, imperatriz, princesinha, flor..... recanto
 
 
 

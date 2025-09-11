@@ -10,21 +10,27 @@ featured_image_alt: "Lorem ipsum dolor sit amet, consectur adipiscing elit."
 ---
 
 São Paulo está no seio do que Carlos Alberto Dória chama de Paulistânea (FAVARETO, 2019), território correspondente à antiga capitania de São Paulo, dividida na década de 1720. O território marca o encontro culinário entre as tradições luso e guarani, na qual o tripé do porco, o milho e o feijão representava os mínimos vitais da população (Antônio Cândido *apud* AGUIAR, 2019).
-
-
-
-Entre o último quartel do século XIX e a primeira metade do século XX, São Paulo passou pelas imigrações estrangeiras, ao ponto em que, em importantes porções da cidade, pouco se falava português. Levas de imigrantes italianos, árabes, ibéricos e judeus construíram a vida na cidade. Posteriormente, a partir da metade do século, a cidade passa por um reabrasileiramento: mineiros, pernambucanos, baianos, paraibanos, cearenses, potiguares, maranhenses e gente de todo canto do Brasil migrou para a metrópole que recentemente ultrapassara o Rio de Janeiro em população (????? ano ?????) — processo do qual sou filha.
-
-
-Durante o regionalismo ascendnete da Primeira República, Minas Gerais abraçou a tradição culinária caipira, enquanto São Paulo tratou essa gastronomia como pré-moderna e atrasada (FAVARETO, 2019).
+Durante o regionalismo ascendente da Primeira República, Minas Gerais abraçou a tradição culinária caipira, enquanto São Paulo tratou essa gastronomia como pré-moderna e atrasada (FAVARETO, 2019).
 .....................
-O prato do dia é um autêntico atavismo de brasilidade, um encontro de tradições. Algo que não se apagou.
+
+
+Entre o último quartel do século XIX e a primeira metade do século XX, São Paulo passou pelas imigrações estrangeiras, ao ponto em que, em importantes porções da cidade, pouco se falava português. Levas de imigrantes italianos, árabes, ibéricos e judeus construíram a vida na cidade. Posteriormente, a partir da metade do século, a cidade passa por um reabrasileiramento: mineiros, pernambucanos, baianos, paraibanos, cearenses, potiguares, maranhenses e gente de todo canto do Brasil migrou para a metrópole que só no Censo de 1960 ultrapassara o Rio de Janeiro em população (ZANLORENSSI & FRONER, 2023) — processo do qual sou filha.
+
+
+
 
 Em Alimentação de rua na cidade de São Paulo (1828 - 1900), Máximo do Silva (2009) percorre a trajetória de tavernas, armazénse e botequins, num tempo em que São Paulo era mero entroncamento entre os caminhos que ligavam o litoral, o sertão e o Rio de Janeiro. Esses estabelecimentos, es
 
 perseguidos mal vistos mas essenciais
 
 Bar e lanches, imperatriz, princesinha, flor..... recanto
+comer fora e o trabalhador
+
+
+
+
+
+O prato do dia é um autêntico atavismo de brasilidade, um encontro de tradições. Algo que não se apagou, quando, através da culinária, São Paulo revisita sua origem caipira e as influências que recebeu ao longo das décadas.
 
 
 
@@ -183,3 +189,5 @@ https://legislacao.prefeitura.sp.gov.br/leis/decreto-8786-de-21-de-maio-de-1970
 * SILVA, João Luiz Maximo Da. **Alimentação de rua na cidade de São Paulo (1828 - 1900)**. Doutorado em História Social—São Paulo: Universidade de São Paulo, 10 mar. 2009.
 
 * FAVARETO, Arilson. *A culinária caipira da Paulistânia – a história e as receitas de um modo antigo de comer, de Carlos Alberto Dória e Marcelo Corrêa Bastos*. v. 27, n. 1, p. 207–214, fev 2019.
+  
+* ZANLORENSSI, Gabriel; FRONER, Mariana. Com mais de 12 milhões de habitantes, São Paulo completa 469 anos. São Paulo: Nexo Jornal, 24 jan. 2023. Disponível em: < https://www.nexojornal.com.br/grafico/2023/01/24/com-mais-de-12-milhoes-de-habitantes-sao-paulo-completa-469-anos >. Acesso: 7 jun. 2025.

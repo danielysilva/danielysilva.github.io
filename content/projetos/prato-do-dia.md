@@ -11,15 +11,18 @@ featured_image_alt: "Lorem ipsum dolor sit amet, consectur adipiscing elit."
 
 São Paulo está no seio do que Carlos Alberto Dória chama de Paulistânea (FAVARETO, 2019), território correspondente à antiga capitania de São Paulo, dividida na década de 1720. O território marca o encontro culinário entre as tradições luso e guarani, na qual o tripé do porco, o milho e o feijão representava os mínimos vitais da população (Antônio Cândido *apud* AGUIAR, 2019).
 
-Durante o regionalismo ascendnete da Primeira República, Minas Gerais abraçou a tradição culinária caipira, enquanto São Paulo tratou essa gastronomia como pré-moderna e atrasada (FAVARETO, 2019).
+
 
 Entre o último quartel do século XIX e a primeira metade do século XX, São Paulo passou pelas imigrações estrangeiras, ao ponto em que, em importantes porções da cidade, pouco se falava português. Levas de imigrantes italianos, árabes, ibéricos e judeus construíram a vida na cidade. Posteriormente, a partir da metade do século, a cidade passa por um reabrasileiramento: mineiros, pernambucanos, baianos, paraibanos, cearenses, potiguares, maranhenses e gente de todo canto do Brasil migrou para a metrópole que recentemente ultrapassara o Rio de Janeiro em população (????? ano ?????) — processo do qual sou filha.
 
+
+Durante o regionalismo ascendnete da Primeira República, Minas Gerais abraçou a tradição culinária caipira, enquanto São Paulo tratou essa gastronomia como pré-moderna e atrasada (FAVARETO, 2019).
+.....................
 O prato do dia é um autêntico atavismo de brasilidade, um encontro de tradições. Algo que não se apagou.
 
-Em Alimentação de rua na cidade de São Paulo (1828 - 1900)
+Em Alimentação de rua na cidade de São Paulo (1828 - 1900), Máximo do Silva (2009) percorre a trajetória de tavernas, armazénse e botequins, num tempo em que São Paulo era mero entroncamento entre os caminhos que ligavam o litoral, o sertão e o Rio de Janeiro. Esses estabelecimentos, es
 
-Tavernas, armazénse e botequins (SILVA, 2009)
+perseguidos mal vistos mas essenciais
 
 Bar e lanches, imperatriz, princesinha, flor..... recanto
 
@@ -27,7 +30,7 @@ Bar e lanches, imperatriz, princesinha, flor..... recanto
 
 
 
-DIEZ GARCIA, Rosa Wanda. Práticas e comportamento alimentar no meio urbano: um estudo no centro da cidade de São Paulo. *Cadernos de Saúde Pública*, v. 13, n. 3, p. 455–467, 1997. 
+DIEZ GARCIA, Rosa Wanda. Práticas e comportamento alimentar no meio urbano: um estudo no centro da cidade de São Paulo. *Cadernos de Saúde Pública*, v. 13, n. 3, p. 455–467, 1997.
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Mídias antissociais"
-date: 2025-08-30 11:46:50
+date: 2025-09-13
 author: Daniely Silva
 categories: ["Crônicas"]
 tags: ["tecnologia"]
@@ -38,7 +38,8 @@ redes #### mídia
 Zuckeberg, no julgamento da Meta, assumiu que o Facebook já não tem mais como propóstio reunir amigos [^3]. Desse modo, esses serviços deixam de ser redes sociais para se tornarem mídias sociais. A partir do momento que não formam mais redes de conexão, o que interessa é criar audiência para consumo de conteúdo.
 .....................................
 
-
+Tim Berners-Lee
+https://tecnoblog.net/noticias/criador-da-web-diz-que-algoritmos-viciantes-deveriam-ser-banidos/
 
 
 

@@ -123,5 +123,4 @@ Derrubando cada muro
   <div class="lightbox" id="imagem16"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/guaicurus/guaicurus22.jpg" alt="Tendal da Lapa." title="Tendal da Lapa." /><p>Tendal da Lapa.</p></div></div>
   <div class="lightbox" id="imagem17"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/guaicurus/guaicurus23.jpg" alt="Antiga Estação Ciência." title="Antiga Estação Ciência." /><p>Antiga Estação Ciência.</p></div></div>
   <div class="lightbox" id="imagem18"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/guaicurus/guaicurus24.jpg" alt="Portão da antiga Estação Ciência." title="Portão da antiga Estação Ciência." /><p>Portão da antiga Estação Ciência.</p></div></div>
-
 </div>

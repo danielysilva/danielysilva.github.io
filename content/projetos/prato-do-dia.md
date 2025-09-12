@@ -5,8 +5,8 @@ draft: 'true'
 author: 'Daniely Silva'
 summary: "Summary of the Prato Do Ddia project"
 featured_image: "/img/projects/prato-do-dia/1lousa-de-cardapio.jpg"
-featured_image_title: "lorem ipsum dolor sit amet"
-featured_image_alt: "Lorem ipsum dolor sit amet, consectur adipiscing elit."
+featured_image_title: "Lousa de cardápio."
+featured_image_alt: "Lousa sob Sol forte com a frase 'Buffet Completo Suco + Sobremesa $28,00.'."
 ---
 
 Entre o último quartel do século XIX e a primeira metade do século XX, São Paulo passou pelas imigrações estrangeiras, ao ponto em que, em importantes porções da cidade, pouco se falava português. Levas de imigrantes italianos, árabes, ibéricos e judeus construíram a vida na cidade. Posteriormente, a partir da metade do século, a cidade passa por um reabrasileiramento: mineiros, pernambucanos, baianos, paraibanos, cearenses, potiguares, maranhenses e gente de todo canto do Brasil migrou para a metrópole que só no Censo de 1960 ultrapassara o Rio de Janeiro em população (ZANLORENSSI & FRONER, 2023) — processo do qual sou filha.
@@ -17,6 +17,11 @@ Havendo rejeitado sua tradição gastronômica, certos elementos persistiram em 
 
 Essa memória sobrevive em lugares com nomes de bar & lanches, imperatriz, princesinha, flor, recanto... e afins, com esse primeiro nome seguido do bairro, da rua ou da avenida onde se situa. Esse tipo de estabelecimento assume várias caras ao longo do dia. Pela manhã, é a padaria que serve pão na chapa e um pingado. À hora do almoço, serve prato do dia e as variações de prato-feito: picadinho, costela, ovo, bife acebolado com fritas. Ao cair do Sol, transforma-se no bar que às vezes emenda com o café-da-manhã; onde se pode tomar um litrão com um porção ao final da tarde.
 Rapeli (......)
+
+
+azuleijo
+máquina de café
+lousa
 
 
 O hábito
@@ -175,13 +180,25 @@ https://www.uol.com.br/nossa/noticias/redacao/2023/07/09/paixao-paulistana-paste
 https://legislacao.prefeitura.sp.gov.br/leis/decreto-8786-de-21-de-maio-de-1970
 
 <section class="galeria">
-  <div class="item"><a href="#imagem1"><img src="/img/projects/autorretratos/daniely-silva08.jpg" alt="Preto e Branco. Personagem encara a câmera com máquina de escrever ao fundo." title="Olhar" /></a></div>
 
+  <div class="item"><a href="#imagem1"><img src="/img/projects/prato-do-dia/esquina3.jpg" alt="." title="." /></a></div>
+  <div class="item"><a href="#imagem2"><img src="/img/projects/prato-do-dia/esquina4.jpg" alt="." title="." /></a></div>
+  <div class="item"><a href="#imagem3"><img src="/img/projects/prato-do-dia/esquina5.jpg" alt="." title="." /></a></div>
+  <div class="item"><a href="#imagem4"><img src="/img/projects/prato-do-dia/esquina6.jpg" alt="." title="." /></a></div>
+<div class="item"><a href="#imagem5"><img src="/img/projects/prato-do-dia/esquina8-feira.jpg" alt="." title="." /></a></div>
 </section>
+
+
 
 <div class="lightboxes">
 
-  <div class="lightbox" id="imagem1"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/autorretratos/daniely-silva02.jpg" alt="Dupla exposição em que a personagem conversa com uma cópia de si." title="Duas de mim" /><p>Dupla exposição em que a personagem conversa com uma cópia de si.</p></div></div>
+<div class="lightbox" id="imagem1"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina3.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem2"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina4.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem3"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina5.jpg" alt="." title="." /><p>.</p></div></div>    
+<div class="lightbox" id="imagem4"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina6.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem5"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina8-feira.jpg" alt="." title="." /><p>.</p></div></div>
+</div>
+
 
 
 
@@ -192,5 +209,5 @@ https://legislacao.prefeitura.sp.gov.br/leis/decreto-8786-de-21-de-maio-de-1970
 * SILVA, João Luiz Maximo Da. **Alimentação de rua na cidade de São Paulo (1828 - 1900)**. Doutorado em História Social—São Paulo: Universidade de São Paulo, 10 mar. 2009.
 
 * FAVARETO, Arilson. *A culinária caipira da Paulistânia – a história e as receitas de um modo antigo de comer, de Carlos Alberto Dória e Marcelo Corrêa Bastos*. v. 27, n. 1, p. 207–214, fev 2019.
-  
+
 * ZANLORENSSI, Gabriel; FRONER, Mariana. Com mais de 12 milhões de habitantes, São Paulo completa 469 anos. São Paulo: Nexo Jornal, 24 jan. 2023. Disponível em: < https://www.nexojornal.com.br/grafico/2023/01/24/com-mais-de-12-milhoes-de-habitantes-sao-paulo-completa-469-anos >. Acesso: 7 jun. 2025.

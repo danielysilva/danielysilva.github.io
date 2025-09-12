@@ -13,16 +13,18 @@ Entre o último quartel do século XIX e a primeira metade do século XX, São P
 
 São Paulo está no seio do que Carlos Alberto Dória chama de Paulistânea (FAVARETO, 2019), território correspondente à antiga capitania de São Paulo, dividida na década de 1720. O território marca o encontro culinário entre as tradições luso e guarani, na qual o tripé do porco, o milho e o feijão representava os mínimos vitais da população (Antônio Cândido *apud* AGUIAR, 2019). Durante o regionalismo ascendente da Primeira República, Minas Gerais abraçou a tradição culinária caipira, enquanto São Paulo tratou essa gastronomia como pré-moderna e atrasada (FAVARETO, 2019).
 
-Havendo rejeitado sua tradição gastronômica, certos elementos persistiram em meio às transformações da metrópole. O prato do dia é um autêntico atavismo de brasilidade, um encontro de tradições. Algo que não se apagou, quando, através da culinária, São Paulo revisita sua origem caipira e as influências que recebeu ao longo das décadas. 
+Havendo rejeitado sua tradição gastronômica, certos elementos persistiram em meio às transformações da metrópole. O prato do dia é um autêntico atavismo de brasilidade, um encontro de tradições. Algo que não se apagou, quando, através da culinária, São Paulo revisita sua origem caipira e as influências que recebeu ao longo das décadas.
 
-Bar e lanches, imperatriz, princesinha, flor..... recanto
+Essa memória sobrevive em lugares com nomes de bar & lanches, imperatriz, princesinha, flor, recanto... e afins, com esse primeiro nome seguido do bairro, da rua ou da avenida onde se situa. Esse tipo de estabelecimento assume várias caras ao longo do dia. Pela manhã, é a padaria que serve pão na chapa e um pingado. À hora do almoço, serve prato do dia e as variações de prato-feito: picadinho, costela, ovo, bife acebolado com fritas. Ao cair do Sol, transforma-se no bar que às vezes emenda com o café-da-manhã; onde se pode tomar um litrão com um porção ao final da tarde.
+Rapeli (......)
+
+
+O hábito
+
 comer fora e o trabalhador
 o hábito de comer fora
 
-
-
-
-Em Alimentação de rua na cidade de São Paulo (1828 - 1900), Máximo do Silva (2009) percorre a trajetória de tavernas, armazénse e botequins, num tempo em que São Paulo era mero entroncamento entre os caminhos que ligavam o litoral, o sertão e o Rio de Janeiro. Esses estabelecimentos, es
+Em Alimentação de rua na cidade de São Paulo (1828 - 1900), Máximo do Silva (2009) percorre a trajetória de tavernas, armazénse e botequins, num tempo em que São Paulo era mero entroncamento entre os caminhos que ligavam o litoral, o sertão e o Rio de Janeiro. Esses estabelecimentos, num tempo em que a alimentação na rua se resumia a eles e às quitandeiras
 
 perseguidos mal vistos mas essenciais
 

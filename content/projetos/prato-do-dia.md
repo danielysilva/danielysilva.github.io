@@ -19,6 +19,8 @@ Essa memória sobrevive em lugares com nomes de bar & lanches, imperatriz, princ
 Rapeli (......)
 
 
+
+A estética
 azuleijo
 máquina de café
 lousa

@@ -53,7 +53,7 @@ DIEZ GARCIA, Rosa Wanda. Práticas e comportamento alimentar no meio urbano: um 
 
 ### Segunda-feira: Virado à Paulista (R$27)
 <div class="break-out">
-<img src="/img/projects/prato-do-dia/2segunda-feira1.jpg" alt="Dupla exposição em que a personagem conversa com uma cópia de si." title="Duas de mim"/>
+<img src="/img/projects/prato-do-dia/2segunda-feira1.jpg" alt="." title="."/>
 </div>
 
 * Virado de feijão;
@@ -64,17 +64,20 @@ DIEZ GARCIA, Rosa Wanda. Práticas e comportamento alimentar no meio urbano: um 
 * Salada (repolho, cenoura e alface americana).
 
 A semana começa com o prato tradicionalmente paulista, para quem diz que São Paulo não tem culinária. O prato tem uma origem mítica, numa narrativa semelhante à do cuscuz paulista, que diz que os ingredientes se misturavam no lombo das mulas dos tropeiros.
-........
 
-origem mítica
+Conta-se por aí a fábula de uma origem mítica para o virado à paulista. Na história, os tropeiros carregavam a comida no lombo das mulas em bolsos de couro e, com as sacudidas das longas viagens, a comida terminava misturada — tudo estava virado. Algo semelhante é contado para o cuscuz paulista, em que o fubá termina misturado com ovo, peixe, embutidos e outros ingredientes.
+
+A culinária é cheia de mitos.
+
 
 
 
 
 ### Terça-feira: Dobradinha (R$34)
 
-![](/img/projects/prato-do-dia/3terca-feira1.jpg)
-
+<div class="break-out">
+<img src="/img/projects/prato-do-dia/3terca-feira1.jpg" alt="." title="."/>
+</div>
 
 > Mas, se eu pedi amor, porque é que me trouxeram\
   Dobrada à moda do Porto fria?\
@@ -94,7 +97,10 @@ Habitualmente, ela tem sido substituída pelo bife a rolê, como meu pai relata 
 A dobradinha vem temperada com um pouco de memória afetiva. Minha tia, Vera Lúcia, morreu com vontade de comê-la. Haviam-lhe comprado o bucho e os embutidos, mas ela já não tinha apetite àquela altura. Tudo ficou congelado por um tempo e acabei pegando para mim, para preparar o prato em casa. Assim que cada dobradinha é dedicada à tia poetiza.
 
 ### Quarta-feira: Feijoada (R$45 - Média p/ três pessoas)
-![](/img/projects/prato-do-dia/4quarta-feira1.jpg)
+<div class="break-out">
+<img src="/img/projects/prato-do-dia/4quarta-feira1.jpg" alt="." title="."/>
+</div>
+
 
 * Feijoada (cozido de feijão com costela e miúdos suínos);
 * Bisteca;
@@ -113,7 +119,9 @@ A lenda do surgimento do prato tem muito a ver com o mito da democracia racial. 
 https://memoria.bn.gov.br/DocReader/docreader.aspx?bib=029033_01&pasta=ano%20182&pesq=feijoada&pagfis=119
 
 ### Quinta-feira: Massa (R$22)
-![](/img/projects/prato-do-dia/5quinta-feira1.jpg)
+<div class="break-out">
+<img src="/img/projects/prato-do-dia/5quinta-feira1.jpg" alt="." title="."/>
+</div>
 
 * Macarrão espaguete ao molho;
 * Frango ao molho;
@@ -124,7 +132,10 @@ A massa percorreu um longo caminho pela China, o Oriente Médio e a Península I
 Ainda havia a opção de ser serviço meio a meio: macarrão com arroz e feijão. Uma mistura popular aos quais uns ainda adicionam a farinha de mandioca. Em 2020, durante a pandemia da Covid-19, Bolsonaro fez como Maria Antonieta: se não têm pão, que comam brioches!, e, se o arroz tá caro, que comam macarrão. No caso da consorte francesa, não há evidência de que ela realmenet tenha dito isso, mas nosso ex-presidente realmente articulou com empresários do setor alimentício a divulgação da substituição do arroz pelo macarrão (BBC https://www.bbc.com/portuguese/brasil-54100601 )
 
 ### Sexta-feira: Peixe (R$37)
-![](/img/projects/prato-do-dia/6sexta-feira1.jpg)
+
+<div class="break-out">
+<img src="/img/projects/prato-do-dia/6sexta-feira1.jpg" alt="." title="."/>
+</div>
 
 * Filé de merluza empanado;
 * Molho de camarão, tomate e cebola;
@@ -137,7 +148,9 @@ No catolicismo, a sexta-feira é um dia de penitência, em tradicionalmente se a
 Esse é um bar que subiu de nível. O prato foi caro, mas a comida é saborosa.
 
 ### Sábado: Feijoada de novo (R$76 - Grande p/ 4 pessoas)
-![](/img/projects/prato-do-dia/7sabado1.jpg)
+<div class="break-out">
+<img src="/img/projects/prato-do-dia/7sabado1.jpg" alt="." title="."/>
+</div>
 
 * Feijoada (cozido de feijão com costela e miúdos suínos);
 * Bisteca;
@@ -156,7 +169,9 @@ Ao redor do Brasil, é comum que os dias da feijoada sejam as sextas e sábados.
 Dessa vez, a caipirinha saiu na foto.
 
 ### Domingo é dia de pastel e garapa! (R$23)
-![](/img/projects/prato-do-dia/8domingo1.jpg)
+<div class="break-out">
+<img src="/img/projects/prato-do-dia/8domingo1.jpg" alt="." title="."/>
+</div>
 
 * Pastel de queijo;
 * Garapa.
@@ -182,23 +197,29 @@ https://www.uol.com.br/nossa/noticias/redacao/2023/07/09/paixao-paulistana-paste
 https://legislacao.prefeitura.sp.gov.br/leis/decreto-8786-de-21-de-maio-de-1970
 
 <section class="galeria">
-
-  <div class="item"><a href="#imagem1"><img src="/img/projects/prato-do-dia/esquina3.jpg" alt="." title="." /></a></div>
-  <div class="item"><a href="#imagem2"><img src="/img/projects/prato-do-dia/esquina4.jpg" alt="." title="." /></a></div>
-  <div class="item"><a href="#imagem3"><img src="/img/projects/prato-do-dia/esquina5.jpg" alt="." title="." /></a></div>
-  <div class="item"><a href="#imagem4"><img src="/img/projects/prato-do-dia/esquina6.jpg" alt="." title="." /></a></div>
+<div class="item"><a href="#imagem1"><img src="/img/projects/prato-do-dia/esquina3.jpg" alt="." title="." /></a></div>
+<div class="item"><a href="#imagem2"><img src="/img/projects/prato-do-dia/esquina4.jpg" alt="." title="." /></a></div>
+<div class="item"><a href="#imagem3"><img src="/img/projects/prato-do-dia/esquina5.jpg" alt="." title="." /></a></div>
+<div class="item"><a href="#imagem4"><img src="/img/projects/prato-do-dia/esquina6.jpg" alt="." title="." /></a></div>
 <div class="item"><a href="#imagem5"><img src="/img/projects/prato-do-dia/esquina8-feira.jpg" alt="." title="." /></a></div>
+<div class="item"><a href="#imagem6"><img src="/img/projects/prato-do-dia/esquina9.jpg" alt="." title="." /></a></div>
+<div class="item"><a href="#imagem7"><img src="/img/projects/prato-do-dia/esquina10.jpg" alt="." title="." /></a></div>
+<div class="item"><a href="#imagem8"><img src="/img/projects/prato-do-dia/esquina11.jpg" alt="." title="." /></a></div>
+<div class="item"><a href="#imagem9"><img src="/img/projects/prato-do-dia/esquina12.jpg" alt="." title="." /></a></div>
+<div class="item"><a href="#imagem10"><img src="/img/projects/prato-do-dia/esquina13.jpg" alt="." title="." /></a></div>
 </section>
 
-
-
 <div class="lightboxes">
-
 <div class="lightbox" id="imagem1"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina3.jpg" alt="." title="." /><p>.</p></div></div>
 <div class="lightbox" id="imagem2"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina4.jpg" alt="." title="." /><p>.</p></div></div>
 <div class="lightbox" id="imagem3"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina5.jpg" alt="." title="." /><p>.</p></div></div>    
 <div class="lightbox" id="imagem4"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina6.jpg" alt="." title="." /><p>.</p></div></div>
-<div class="lightbox" id="imagem5"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina8-feira.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem5"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina8-feira.jpg" alt="Mão segurando pastel ao lado de copo de caldo de cana; feira desfocada ao fundo." title="Pastel e garapa na feira." /><p>.</p></div></div>
+<div class="lightbox" id="imagem6"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina9.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem7"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina10.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem8"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina11.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem9"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina12.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem10"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina13.jpg" alt="." title="." /><p>.</p></div></div>
 </div>
 
 

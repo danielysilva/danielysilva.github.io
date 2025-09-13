@@ -13,13 +13,12 @@ Entre o último quartel do século XIX e a primeira metade do século XX, São P
 
 São Paulo está no seio do que Carlos Alberto Dória chama de Paulistânea (FAVARETO, 2019), território correspondente à antiga capitania de São Paulo, dividida na década de 1720. O território marca o encontro culinário entre as tradições luso e guarani, na qual o tripé do porco, o milho e o feijão representava os mínimos vitais da população (Antônio Cândido *apud* AGUIAR, 2019). Durante o regionalismo ascendente da Primeira República, Minas Gerais abraçou a tradição culinária caipira, enquanto São Paulo tratou essa gastronomia como pré-moderna e atrasada (FAVARETO, 2019).
 
+
+
 Havendo rejeitado sua tradição gastronômica, certos elementos persistiram em meio às transformações da metrópole. O prato do dia é um autêntico atavismo de brasilidade, um encontro de tradições. Algo que não se apagou, quando, através da culinária, São Paulo revisita sua origem caipira e as influências que recebeu ao longo das décadas.
 
 Essa memória sobrevive em lugares com nomes de bar & lanches, imperatriz, princesinha, flor, recanto... e afins, com esse primeiro nome seguido do bairro, da rua ou da avenida onde se situa. Esse tipo de estabelecimento assume várias caras ao longo do dia. Pela manhã, é a padaria que serve pão na chapa e um pingado. À hora do almoço, serve prato do dia e as variações de prato-feito: picadinho, costela, ovo, bife acebolado com fritas. Ao cair do Sol, transforma-se no bar que às vezes emenda com o café-da-manhã; onde se pode tomar um litrão com um porção ao final da tarde.
 Rapeli (......)
-
-
-
 A estética
 azuleijo
 máquina de café
@@ -27,13 +26,16 @@ lousa
 
 
 O hábito
-
 comer fora e o trabalhador
 o hábito de comer fora
+
+
 
 Em Alimentação de rua na cidade de São Paulo (1828 - 1900), Máximo do Silva (2009) percorre a trajetória de tavernas, armazénse e botequins, num tempo em que São Paulo era mero entroncamento entre os caminhos que ligavam o litoral, o sertão e o Rio de Janeiro. Esses estabelecimentos, num tempo em que a alimentação na rua se resumia a eles e às quitandeiras
 
 perseguidos mal vistos mas essenciais
+
+O hábito de comer na rua é associado à modernidade, enquanto que no século XIX, era associado às tavernas e ............
 
 
 
@@ -63,9 +65,7 @@ DIEZ GARCIA, Rosa Wanda. Práticas e comportamento alimentar no meio urbano: um 
 * Arroz;
 * Salada (repolho, cenoura e alface americana).
 
-A semana começa com o prato tradicionalmente paulista, para quem diz que São Paulo não tem culinária. O prato tem uma origem mítica, numa narrativa semelhante à do cuscuz paulista, que diz que os ingredientes se misturavam no lombo das mulas dos tropeiros.
-
-Conta-se por aí a fábula de uma origem mítica para o virado à paulista. Na história, os tropeiros carregavam a comida no lombo das mulas em bolsos de couro e, com as sacudidas das longas viagens, a comida terminava misturada — tudo estava virado. Algo semelhante é contado para o cuscuz paulista, em que o fubá termina misturado com ovo, peixe, embutidos e outros ingredientes.
+A semana começa com o prato tradicionalmente paulista, para quem diz que São Paulo não tem culinária. Conta-se por aí a fábula de uma origem mítica para o virado à paulista. Na história, os tropeiros carregavam a comida no lombo das mulas em bolsos de couro e, com as sacudidas das longas viagens, a comida terminava misturada — tudo estava virado. Algo semelhante é contado para o cuscuz paulista, que não deixa de ser um tipo de virado de farinha de milho com peixe, frango, ovo e, tradicionalmente, o camarão de água doce, outrora já abundante nas águas paulistanas.
 
 A culinária é cheia de mitos.
 

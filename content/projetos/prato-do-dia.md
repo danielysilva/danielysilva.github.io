@@ -6,52 +6,26 @@ author: 'Daniely Silva'
 summary: "Summary of the Prato Do Ddia project"
 featured_image: "/img/projects/prato-do-dia/1lousa-de-cardapio.jpg"
 featured_image_title: "Lousa de cardápio."
-featured_image_alt: "Lousa sob Sol forte com a frase 'Buffet Completo Suco + Sobremesa $28,00.'."
+featured_image_alt: "Lousa sob Sol forte com a frase 'Buffet Completo Suco + Sobremesa $28,00'."
 ---
 
 Entre o último quartel do século XIX e a primeira metade do século XX, São Paulo passou pelas imigrações estrangeiras, ao ponto em que, em importantes porções da cidade, pouco se falava português. Levas de imigrantes italianos, árabes, ibéricos e judeus construíram a vida na cidade. Posteriormente, a partir da metade do século, a cidade passa por um reabrasileiramento: mineiros, pernambucanos, baianos, paraibanos, cearenses, potiguares, maranhenses e gente de todo canto do Brasil migrou para a metrópole que só no Censo de 1960 ultrapassara o Rio de Janeiro em população (ZANLORENSSI & FRONER, 2023) — processo do qual sou filha.
 
-São Paulo está no seio do que Carlos Alberto Dória chama de Paulistânea (FAVARETO, 2019), território correspondente à antiga capitania de São Paulo, dividida na década de 1720. O território marca o encontro culinário entre as tradições luso e guarani, na qual o tripé do porco, o milho e o feijão representava os mínimos vitais da população (Antônio Cândido *apud* AGUIAR, 2019). Durante o regionalismo ascendente da Primeira República, Minas Gerais abraçou a tradição culinária caipira, enquanto São Paulo tratou essa gastronomia como pré-moderna e atrasada (FAVARETO, 2019).
-
-
+São Paulo está no seio do que Carlos Alberto Dória chama de Paulistânea (FAVARETO, 2019), território correspondente à antiga capitania de São Paulo, dividida na década de 1720. O território marca o encontro culinário entre as tradições luso e guarani, na qual o tripé do porco, o milho e o feijão representava os mínimos vitais da população (Antônio Cândido *apud* AGUIAR, 2019), que também se somava ao sabor do ovo e da galinha. Durante o regionalismo ascendente da Primeira República, Minas Gerais abraçou a tradição culinária caipira, enquanto São Paulo tratou essa gastronomia como pré-moderna e atrasada (FAVARETO, 2019).
 
 Havendo rejeitado sua tradição gastronômica, certos elementos persistiram em meio às transformações da metrópole. O prato do dia é um autêntico atavismo de brasilidade, um encontro de tradições. Algo que não se apagou, quando, através da culinária, São Paulo revisita sua origem caipira e as influências que recebeu ao longo das décadas.
 
-Essa memória sobrevive em lugares com nomes de bar & lanches, imperatriz, princesinha, flor, recanto... e afins, com esse primeiro nome seguido do bairro, da rua ou da avenida onde se situa. Esse tipo de estabelecimento assume várias caras ao longo do dia. Pela manhã, é a padaria que serve pão na chapa e um pingado. À hora do almoço, serve prato do dia e as variações de prato-feito: picadinho, costela, ovo, bife acebolado com fritas. Ao cair do Sol, transforma-se no bar que às vezes emenda com o café-da-manhã; onde se pode tomar um litrão com um porção ao final da tarde.
-Rapeli (......)
-A estética
-azuleijo
-máquina de café
-lousa
+Em Alimentação de rua na cidade de São Paulo (1828 - 1900), Máximo do Silva (2009) percorre a trajetória de tavernas, armazéns e botequins, num tempo em que São Paulo era mero entroncamento entre os caminhos que ligavam o litoral, o sertão e o Rio de Janeiro. Esses estabelecimentos, num tempo em que a alimentação na rua se resumia a eles e às quitandeiras com seus tabuleiros, são os predecessores dos atuais botecos. Reuniam diferentes classes e eram alvo de frequentes queixas pelo caráter popular e os conflitos que lá aconteciam. Foram tema dos Códigos de Posturas e alvo de repressão pelas autoridades, mas essa perseguição nunca foi tão longe, dado que, embora fossem ambientes indesejadados, eram essenciais para a circulação de capital. O hábito de comer fora tem duas vertentes: uma pelo lazer e a da necessidade por uma rotina de trabalho. Neste último caso, os estabelecimentos referidos cuidaram, historicamente, dessa demanda.
 
+As tavernas e botequins se situavam às entradas da cidade, como a Ponte Grande sobre o Rio Tietê e a Ponte do Carmo sobre o Tamanduateí, onde forneciam grãos, azeites, vinhos e serviam bebidas e porções de comida aos trabalhadores urbanos e tropeiros de passagem (SILVA, 2009). Seu caráter generalista foi absorvido pelos botecos, estes que, hoje, estão espalhades pela cidade, marcando a paisagem urbana ao se associar às esquinas de bairros movimentados e dotados por importantes eixos de transporte público. São calçadas por onde pisam milhares de trabalhadores desta metrópole de tantas faces.
 
-O hábito
-comer fora e o trabalhador
-o hábito de comer fora
+Essa memória sobrevive em lugares com nomes de bar & lanches, imperatriz, princesinha, flor, recanto... e afins, com esse primeiro nome seguido pelo do bairro, da rua ou da avenida onde se localiza. Esse tipo de estabelecimento assume várias caras ao longo do dia. Pela manhã, é a padaria que serve pão na chapa e um pingado. À hora do almoço, serve o prato do dia e as variações de prato-feito: picadinho, costela, ovo, bife acebolado com fritas. Ao cair do Sol, transforma-se no bar que pode atravessar a madrugada, onde se pode tomar um litrão de cerveja com um porção ao final da tarde.
 
+A estética acompanha as paredes forradas de azuleijos a máquina de aço para coar café, as frutas penderadas em redes, o garrafão de pinga, a estufa com salgados, torresmo e ovos, entre outras idiossincrasias. Logo à entrada, encontramos uma lousa de giz que anuncia os preços, o prato do dia e as opções de pratos comerciais.
 
+Em qualquer lugar da cidade de São Paulo, saberemos que, na segunda, encontraremos virado à paulista, na terça, a dobradinha ou o bife a rolê, na quarta e no sábado, a feijoada, na quinta, a massa, e, na sexta-feira, o peixe.
 
-Em Alimentação de rua na cidade de São Paulo (1828 - 1900), Máximo do Silva (2009) percorre a trajetória de tavernas, armazénse e botequins, num tempo em que São Paulo era mero entroncamento entre os caminhos que ligavam o litoral, o sertão e o Rio de Janeiro. Esses estabelecimentos, num tempo em que a alimentação na rua se resumia a eles e às quitandeiras
-
-perseguidos mal vistos mas essenciais
-
-O hábito de comer na rua é associado à modernidade, enquanto que no século XIX, era associado às tavernas e ............
-
-
-
-
-
-
-
-
-
-
-
-
-DIEZ GARCIA, Rosa Wanda. Práticas e comportamento alimentar no meio urbano: um estudo no centro da cidade de São Paulo. *Cadernos de Saúde Pública*, v. 13, n. 3, p. 455–467, 1997.
-
-
-
+Durante uma semana, entre os dias 1º e 7 de setembro, almocei fora para registrar a experiência de comer o prato do dia de forma constante. Visitei lugares diferentes, repetindo somente o estabelecimento em que se servia a feijoada. Neste projeto documental, comento as impressões de consumo e trago fatos sobre cada prato do dia servido nesta cidade.
 
 ### Segunda-feira: Virado à Paulista (R$27)
 <div class="break-out">
@@ -67,11 +41,7 @@ DIEZ GARCIA, Rosa Wanda. Práticas e comportamento alimentar no meio urbano: um 
 
 A semana começa com o prato tradicionalmente paulista, para quem diz que São Paulo não tem culinária. Conta-se por aí a fábula de uma origem mítica para o virado à paulista. Na história, os tropeiros carregavam a comida no lombo das mulas em bolsos de couro e, com as sacudidas das longas viagens, a comida terminava misturada — tudo estava virado. Algo semelhante é contado para o cuscuz paulista, que não deixa de ser um tipo de virado de farinha de milho com peixe, frango, ovo e, tradicionalmente, o camarão de água doce, outrora já abundante nas águas paulistanas.
 
-A culinária é cheia de mitos.
-
-
-
-
+A culinária é cheia de mitos. Mas, na verdade....
 
 ### Terça-feira: Dobradinha (R$34)
 
@@ -100,7 +70,6 @@ A dobradinha vem temperada com um pouco de memória afetiva. Minha tia, Vera Lú
 <div class="break-out">
 <img src="/img/projects/prato-do-dia/4quarta-feira1.jpg" alt="." title="."/>
 </div>
-
 
 * Feijoada (cozido de feijão com costela e miúdos suínos);
 * Bisteca;
@@ -182,19 +151,13 @@ Também é dia de, depois de fazer a feira, parar para comer pastel e tomar a ga
 
 A barraca na qual parei era a da família Nakamura. Diz ter a tradição desde 1970, estando já na terceira geração. A história do pastel brasileiro, semelhante ao rolinho-primavera e à guioza/jiaozi, é meio nebulosa. Não vou entrar nessa seara da sua origem, que é incerta e cercada de mitos e fabulações, mas o fato é que a receita está intimamente ligada à trajetória da comunidade nipônica em São Paulo. Outrora a cidade com mais japoneses no mundo, com imigração marcante a partir de 1908, parte dessa população se especializou na apicultura, cogumelos e hortifrutigranjeiros; já que vendem na feira, por que não aproveitar e vender o pastel?
 
-O pastel foi, na verdade, o meu café da manhã. Junto à garapa, subproduto da indústria canavieira de sabor doce e intenso. O saboroso caldo-de-cana contém antioxidantes que aliviam um pouco da gordura do pastel. Podem não formar a combinação mais nutritiva, mas não é algo que se come todos os dias e, ao menos, não são produtos ultraprocessados.
+O pastel foi o meu café da manhã. Junto à garapa, subproduto da indústria canavieira de sabor doce e intenso. O saboroso caldo-de-cana contém antioxidantes que aliviam um pouco da gordura do pastel. Podem não formar a combinação mais nutritiva, mas não é algo que se come todos os dias e, ao menos, não são produtos ultraprocessados.
 
 De tão popular, a combinação acabou virando tema das propagandas eleitorais. Como é popular não só na fama, mas também por partir de classes populares, numa medida higienista, o clássico pastel de feira chegou a ser proibido pela Prefeitura de São Paulo, através do Decreto Nº 8786 de 1970, numa cruzada contra a comida de rua. A partir de 1976 e 1978, gradualmente, as autoridades voltaram atrás na medida, mas depois de muita dor de cabeça.
 
+A comida de rua na cidade de São Paulo tem origem nas quitandeiras, mulheres forras ou escravizadas que, na São Paulo do século XIX, cidade ainda marcada pela passagem de tropeiros, com seus tabuleiros de guloseimas, quitutes e hortifrutis, marcavam a cidade e competiam diretamente com os armazéns, tavernas e botequins, os precursores dos nossos botecos (SILVA, 2009).
+
 Depois de um pastel com garapa, o brasileiro aproveita o dia sagrado dos cristãos, o domingo, para ir à missa, ao culto, à reunião do serviço voluntário e almoçar. No meu caso, nesta vida de trabalhar aos finais de semana, perco tudo isso há anos. É uma realidade infeliz.
-
-
-
-
-
-https://www.uol.com.br/nossa/noticias/redacao/2023/07/09/paixao-paulistana-pastel-foi-motivo-de-guerra-entre-feirantes-e-prefeitura.htm
-
-https://legislacao.prefeitura.sp.gov.br/leis/decreto-8786-de-21-de-maio-de-1970
 
 <section class="galeria">
 <div class="item"><a href="#imagem1"><img src="/img/projects/prato-do-dia/esquina3.jpg" alt="." title="." /></a></div>
@@ -214,7 +177,7 @@ https://legislacao.prefeitura.sp.gov.br/leis/decreto-8786-de-21-de-maio-de-1970
 <div class="lightbox" id="imagem2"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina4.jpg" alt="." title="." /><p>.</p></div></div>
 <div class="lightbox" id="imagem3"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina5.jpg" alt="." title="." /><p>.</p></div></div>    
 <div class="lightbox" id="imagem4"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina6.jpg" alt="." title="." /><p>.</p></div></div>
-<div class="lightbox" id="imagem5"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina8-feira.jpg" alt="Mão segurando pastel ao lado de copo de caldo de cana; feira desfocada ao fundo." title="Pastel e garapa na feira." /><p>.</p></div></div>
+<div class="lightbox" id="imagem5"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina8-feira.jpg" alt="Mão segurando pastel ao lado de copo de caldo de cana; feira desfocada ao fundo." title="Pastel e garapa na feira." /><p>Feira livre da Rua Aurélia (Vila Romana, Zona Oeste de São Paulo), entre as ruas Coriolano, Fábia e Tito.</p></div></div>
 <div class="lightbox" id="imagem6"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina9.jpg" alt="." title="." /><p>.</p></div></div>
 <div class="lightbox" id="imagem7"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina10.jpg" alt="." title="." /><p>.</p></div></div>
 <div class="lightbox" id="imagem8"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina11.jpg" alt="." title="." /><p>.</p></div></div>
@@ -222,15 +185,16 @@ https://legislacao.prefeitura.sp.gov.br/leis/decreto-8786-de-21-de-maio-de-1970
 <div class="lightbox" id="imagem10"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina13.jpg" alt="." title="." /><p>.</p></div></div>
 </div>
 
-
-
-
-
-
 * AGUIAR, Viviane Soares. Do feijão com toucinho ao "virado à paulista ”: o percurso simbólico de uma receita na formação de um patrimônio culinário de São Paulo. v. 8, n. 22, p. 116–138, 28 dez. 2019.
 
-* SILVA, João Luiz Maximo Da. **Alimentação de rua na cidade de São Paulo (1828 - 1900)**. Doutorado em História Social—São Paulo: Universidade de São Paulo, 10 mar. 2009.
+* DIÁRIO DE PERNAMBUCO. Recife: Diário de Pernambuco, 1825- . Diária. Fundado por: Antonio José de Miranda Falcão. Disponível em: http://memoria.bn.br/DocReader/DocReader.aspx?bib=029033. Acesso em: 14 set. 2025.
 
 * FAVARETO, Arilson. *A culinária caipira da Paulistânia – a história e as receitas de um modo antigo de comer, de Carlos Alberto Dória e Marcelo Corrêa Bastos*. v. 27, n. 1, p. 207–214, fev 2019.
+
+* PINHO, Flávia. Paixão paulistana, pastel foi motivo de guerra entre feirantes e prefeitura. São Paulo: UOL, 9 jul. 2023. Disponível em: <https://www.uol.com.br/nossa/noticias/redacao/2023/07/09/paixao-paulistana-pastel-foi-motivo-de-guerra-entre-feirantes-e-prefeitura.htm >. Acesso: 14 set. 2025.
+
+* SÃO PAULO. Decreto Nº 8767 de 21 de maio de 1970. Dispõe sobre as feiras livres do município e dá outras providências. São Paulo, SP: Diário Oficial do Município, 1970. Disponível em: < https://legislacao.prefeitura.sp.gov.br/leis/decreto-8786-de-21-de-maio-de-1970 >. Acesso: 14 set. 2025.
+
+* SILVA, João Luiz Maximo Da. **Alimentação de rua na cidade de São Paulo (1828 - 1900)**. Doutorado em História Social—São Paulo: Universidade de São Paulo, 10 mar. 2009.
 
 * ZANLORENSSI, Gabriel; FRONER, Mariana. Com mais de 12 milhões de habitantes, São Paulo completa 469 anos. São Paulo: Nexo Jornal, 24 jan. 2023. Disponível em: < https://www.nexojornal.com.br/grafico/2023/01/24/com-mais-de-12-milhoes-de-habitantes-sao-paulo-completa-469-anos >. Acesso: 7 jun. 2025.

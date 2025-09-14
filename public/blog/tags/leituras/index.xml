@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leituras on Daniely Silva</title>
-    <link>http://localhost:1313/blog/tags/leituras/</link>
+    <link>http://danielysilva.com.br/blog/tags/leituras/</link>
     <description>Recent content in Leituras on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 08 Jul 2025 00:00:00 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/tags/leituras/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://danielysilva.com.br/blog/tags/leituras/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pelos passos de Carolina</title>
-      <link>http://localhost:1313/blog/2025-07-08-pelos-passos-de-carolina/</link>
+      <link>http://danielysilva.com.br/blog/2025-07-08-pelos-passos-de-carolina/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/2025-07-08-pelos-passos-de-carolina/</guid>
+      <guid>http://danielysilva.com.br/blog/2025-07-08-pelos-passos-de-carolina/</guid>
       <description>&lt;div style=&#34;padding:56.25% 0 0 0;position:relative;&#34;&gt;&lt;iframe alt=&#34;Documentário com cenas da cidade de São Paulo e narração de trechos do livro Quarto de Despejo, de Carolina Maria de Jesus&#34; title=&#34;Pelos Passos de Carolina&#34; src=&#34;https://player.vimeo.com/video/1099809207?badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; style=&#34;position:absolute;top:0;left:0;width:100%;height:100%;&#34; title=&#34;Pelos passos de Carolina&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://player.vimeo.com/api/player.js&#34;&gt;&lt;/script&gt;</description>
     </item>
     <item>
       <title>Resenha d&#39;O Mulato (1881), Aluisio Azevedo</title>
-      <link>http://localhost:1313/blog/resenhas/2025-04-27-resenha-d-o-mulato-aluizio-azevedo-1881/</link>
+      <link>http://danielysilva.com.br/blog/resenhas/2025-04-27-resenha-d-o-mulato-aluizio-azevedo-1881/</link>
       <pubDate>Sun, 27 Apr 2025 13:10:26 -0300</pubDate>
-      <guid>http://localhost:1313/blog/resenhas/2025-04-27-resenha-d-o-mulato-aluizio-azevedo-1881/</guid>
+      <guid>http://danielysilva.com.br/blog/resenhas/2025-04-27-resenha-d-o-mulato-aluizio-azevedo-1881/</guid>
       <description>Há tempos quis resenhar o romance O Mulato, publicado em 1881, de Aluisio Azevedo.</description>
     </item>
     <item>
       <title>Resenha de História do Cerco de Lisboa (1989), Saramago</title>
-      <link>http://localhost:1313/blog/resenhas/2024-05-22-resenha-de-historia-do-cerco-de-lisboa-1989/</link>
+      <link>http://danielysilva.com.br/blog/resenhas/2024-05-22-resenha-de-historia-do-cerco-de-lisboa-1989/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/resenhas/2024-05-22-resenha-de-historia-do-cerco-de-lisboa-1989/</guid>
+      <guid>http://danielysilva.com.br/blog/resenhas/2024-05-22-resenha-de-historia-do-cerco-de-lisboa-1989/</guid>
       <description>Ler Saramago é, para mim, uma experiência que remete à de ler a brasileira Clarice Lispector: começo com raiva por não entender nada, perdida em divagações; em seguida, começo a entender a trama e, afinal, mergulho de cabeça e me afogo ao terminar a leitura.</description>
     </item>
     <item>
       <title>Resenha de Pedaços da Fome (1963), Carolina Maria de Jesus</title>
-      <link>http://localhost:1313/blog/resenhas/2022-04-30-resenha-de-pedacos-da-fome/</link>
+      <link>http://danielysilva.com.br/blog/resenhas/2022-04-30-resenha-de-pedacos-da-fome/</link>
       <pubDate>Sat, 30 Apr 2022 00:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/resenhas/2022-04-30-resenha-de-pedacos-da-fome/</guid>
+      <guid>http://danielysilva.com.br/blog/resenhas/2022-04-30-resenha-de-pedacos-da-fome/</guid>
       <description>A Felizarda, publicado em 1963 sob o título de Pedaços da Fome, mostra-se uma obra particularmente representativa da produção literária de Carolina Maria de Jesus, começando pelo fato de se tratar de um romance.</description>
     </item>
   </channel>

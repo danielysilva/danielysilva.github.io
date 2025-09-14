@@ -2,292 +2,293 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-09-13T00:00:00-03:00</lastmod>
+    <loc>http://danielysilva.com.br/blog/</loc>
+    <lastmod>2025-09-14T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-13T00:00:00-03:00</lastmod>
+    <loc>http://danielysilva.com.br/blog/tags/cidade/</loc>
+    <lastmod>2025-09-14T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</loc>
+    <loc>http://danielysilva.com.br/blog/categories/cr%C3%B4nicas/</loc>
+    <lastmod>2025-09-14T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/</loc>
+    <lastmod>2025-09-14T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-09-14-revisitando-os-bicos-de-lacre-de-2021/</loc>
+    <lastmod>2025-09-14T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://danielysilva.com.br/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</loc>
     <lastmod>2025-09-07T06:20:04-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/cr%C3%B4nicas/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-09-07-pedro-de-alcantara-o-homem-com-o-coracao-dividido/</loc>
     <lastmod>2025-09-07T06:20:04-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-09-07-pedro-de-alcantara-o-homem-com-o-coracao-dividido/</loc>
-    <lastmod>2025-09-07T06:20:04-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-08-24-imitacoes-vulgares/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-08-24-imitacoes-vulgares/</loc>
     <lastmod>2025-08-24T08:41:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/reflex%C3%B5es/</loc>
+    <loc>http://danielysilva.com.br/blog/tags/reflex%C3%B5es/</loc>
     <lastmod>2025-08-24T08:41:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-08-04-aplicativos-de-desencontros/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-08-04-aplicativos-de-desencontros/</loc>
     <lastmod>2025-08-04T19:31:26-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/tecnologia/</loc>
+    <loc>http://danielysilva.com.br/blog/tags/tecnologia/</loc>
     <lastmod>2025-08-04T19:31:26-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/coisas-do-brasil/</loc>
+    <loc>http://danielysilva.com.br/blog/tags/coisas-do-brasil/</loc>
     <lastmod>2025-07-28T09:39:45-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-07-28-copo-americano/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-07-28-copo-americano/</loc>
     <lastmod>2025-07-28T09:39:45-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/resenhas/2025-07-22-quebrando-a-cabeca-com-dvorak/</loc>
+    <loc>http://danielysilva.com.br/blog/resenhas/2025-07-22-quebrando-a-cabeca-com-dvorak/</loc>
     <lastmod>2025-07-22T13:33:56-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/resenhas/</loc>
+    <loc>http://danielysilva.com.br/blog/categories/resenhas/</loc>
     <lastmod>2025-07-22T13:33:56-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/contos/</loc>
+    <loc>http://danielysilva.com.br/blog/categories/contos/</loc>
     <lastmod>2025-07-21T09:37:34-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/cordel/</loc>
+    <loc>http://danielysilva.com.br/blog/tags/cordel/</loc>
     <lastmod>2025-07-21T09:37:34-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/contos/2025-07-21-cordel-o-pacto-de-bolsonaro/</loc>
+    <loc>http://danielysilva.com.br/blog/contos/2025-07-21-cordel-o-pacto-de-bolsonaro/</loc>
     <lastmod>2025-07-21T09:37:34-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/leituras/</loc>
+    <loc>http://danielysilva.com.br/blog/tags/leituras/</loc>
     <lastmod>2025-07-08T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2025-07-08-pelos-passos-de-carolina/</loc>
+    <loc>http://danielysilva.com.br/blog/2025-07-08-pelos-passos-de-carolina/</loc>
     <lastmod>2025-07-08T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-06-07-sexta-feira/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-06-07-sexta-feira/</loc>
     <lastmod>2025-06-07T10:52:05-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-05-28-pec-da-reeleicao-de-novo/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-05-28-pec-da-reeleicao-de-novo/</loc>
     <lastmod>2025-05-28T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/pol%C3%ADtica/</loc>
+    <loc>http://danielysilva.com.br/blog/tags/pol%C3%ADtica/</loc>
     <lastmod>2025-05-28T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-05-18-olhando-pra-dentro-do-brasil/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-05-18-olhando-pra-dentro-do-brasil/</loc>
     <lastmod>2025-05-18T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-05-13-os-bastidores-dos-dias-de-maior-ansiedade-na-nossa-historia/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-05-13-os-bastidores-dos-dias-de-maior-ansiedade-na-nossa-historia/</loc>
     <lastmod>2025-05-13T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-05-10-habemus-papam/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-05-10-habemus-papam/</loc>
     <lastmod>2025-05-10T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/religi%C3%A3o/</loc>
+    <loc>http://danielysilva.com.br/blog/tags/religi%C3%A3o/</loc>
     <lastmod>2025-05-10T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2025-05-01-meu-tributo-ao-epub/</loc>
+    <loc>http://danielysilva.com.br/blog/2025-05-01-meu-tributo-ao-epub/</loc>
     <lastmod>2025-05-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/poesia/</loc>
+    <loc>http://danielysilva.com.br/blog/categories/poesia/</loc>
     <lastmod>2025-04-30T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/poesia/2025-04-30-poesia-la-pra-maio/</loc>
+    <loc>http://danielysilva.com.br/blog/poesia/2025-04-30-poesia-la-pra-maio/</loc>
     <lastmod>2025-04-30T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/resenhas/2025-04-29-relato-de-duas-semanas-usando-o-celular-em-preto-e-branco/</loc>
+    <loc>http://danielysilva.com.br/blog/resenhas/2025-04-29-relato-de-duas-semanas-usando-o-celular-em-preto-e-branco/</loc>
     <lastmod>2025-04-29T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/contos/2025-04-28-conto-invasor/</loc>
+    <loc>http://danielysilva.com.br/blog/contos/2025-04-28-conto-invasor/</loc>
     <lastmod>2025-04-28T19:27:03-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/contos/2025-04-28-conto-dilacerada/</loc>
+    <loc>http://danielysilva.com.br/blog/contos/2025-04-28-conto-dilacerada/</loc>
     <lastmod>2025-04-28T19:14:32-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/microcontos/</loc>
+    <loc>http://danielysilva.com.br/blog/tags/microcontos/</loc>
     <lastmod>2025-04-28T19:14:32-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/contos/2025-04-28-microconto-roubo-de-orgaos/</loc>
+    <loc>http://danielysilva.com.br/blog/contos/2025-04-28-microconto-roubo-de-orgaos/</loc>
     <lastmod>2025-04-28T19:01:08-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/contos/2025-04-28-conto-fila-de-espera/</loc>
+    <loc>http://danielysilva.com.br/blog/contos/2025-04-28-conto-fila-de-espera/</loc>
     <lastmod>2025-04-28T17:13:50-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/poesia/2025-04-28-poesia-carroceiro/</loc>
+    <loc>http://danielysilva.com.br/blog/poesia/2025-04-28-poesia-carroceiro/</loc>
     <lastmod>2025-04-28T17:10:52-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/filmes/</loc>
+    <loc>http://danielysilva.com.br/blog/tags/filmes/</loc>
     <lastmod>2025-04-27T13:11:33-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/resenhas/2025-04-27-oeste-outra-vez-2024-um-faroeste-brasileiro-em-goias/</loc>
+    <loc>http://danielysilva.com.br/blog/resenhas/2025-04-27-oeste-outra-vez-2024-um-faroeste-brasileiro-em-goias/</loc>
     <lastmod>2025-04-27T13:11:33-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/resenhas/2025-04-27-resenha-d-o-mulato-aluizio-azevedo-1881/</loc>
+    <loc>http://danielysilva.com.br/blog/resenhas/2025-04-27-resenha-d-o-mulato-aluizio-azevedo-1881/</loc>
     <lastmod>2025-04-27T13:10:26-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/poesia/2025-04-21-poesia-francisco/</loc>
+    <loc>http://danielysilva.com.br/blog/poesia/2025-04-21-poesia-francisco/</loc>
     <lastmod>2025-04-21T10:21:13-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/causos/</loc>
+    <loc>http://danielysilva.com.br/blog/tags/causos/</loc>
     <lastmod>2025-04-14T18:39:43-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-04-14-sombrinhas/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-04-14-sombrinhas/</loc>
     <lastmod>2025-04-14T18:39:43-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2025-04-09-dia-do-css-pelado/</loc>
+    <loc>http://danielysilva.com.br/blog/2025-04-09-dia-do-css-pelado/</loc>
     <lastmod>2025-04-09T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-04-05-flor-de-plastico/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-04-05-flor-de-plastico/</loc>
     <lastmod>2025-04-05T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-03-30-mercadante-e-homens-de-bigode/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-03-30-mercadante-e-homens-de-bigode/</loc>
     <lastmod>2025-03-30T17:47:28-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/poesia/2025-03-20-poesia-bigode/</loc>
+    <loc>http://danielysilva.com.br/blog/poesia/2025-03-20-poesia-bigode/</loc>
     <lastmod>2025-03-30T16:57:27-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-03-26-agua-perdida/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-03-26-agua-perdida/</loc>
     <lastmod>2025-03-26T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-03-26-incompletudes/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-03-26-incompletudes/</loc>
     <lastmod>2025-03-26T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/contos/2025-03-24-traicao-em-cubatao/</loc>
+    <loc>http://danielysilva.com.br/blog/contos/2025-03-24-traicao-em-cubatao/</loc>
     <lastmod>2025-03-24T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/cidade/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-03-18-figuras-do-transporte-publico/</loc>
     <lastmod>2025-03-19T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-03-18-figuras-do-transporte-publico/</loc>
+    <loc>http://danielysilva.com.br/blog/contos/2025-03-19-microconto-cidade-grande/</loc>
     <lastmod>2025-03-19T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/contos/2025-03-19-microconto-cidade-grande/</loc>
+    <loc>http://danielysilva.com.br/blog/contos/2025-03-19-microconto-metro/</loc>
     <lastmod>2025-03-19T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/contos/2025-03-19-microconto-metro/</loc>
-    <lastmod>2025-03-19T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-03-18-bienio-do-site/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-03-18-bienio-do-site/</loc>
     <lastmod>2025-03-18T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/escrita/</loc>
+    <loc>http://danielysilva.com.br/blog/tags/escrita/</loc>
     <lastmod>2025-03-18T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-03-12-sob-a-escrita/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-03-12-sob-a-escrita/</loc>
     <lastmod>2025-03-18T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/contos/2025-03-10-microconto-anestesia/</loc>
+    <loc>http://danielysilva.com.br/blog/contos/2025-03-10-microconto-anestesia/</loc>
     <lastmod>2025-03-10T18:35:46-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-03-10-sobre-a-finitude/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-03-10-sobre-a-finitude/</loc>
     <lastmod>2025-03-10T18:34:39-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/contos/2025-03-06-cordel-migracoes/</loc>
+    <loc>http://danielysilva.com.br/blog/contos/2025-03-06-cordel-migracoes/</loc>
     <lastmod>2025-03-06T21:28:53-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/poesia/2025-02-25-poesia-ares-de-setembro/</loc>
+    <loc>http://danielysilva.com.br/blog/poesia/2025-02-25-poesia-ares-de-setembro/</loc>
     <lastmod>2025-02-25T20:04:11-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-02-25-a-normalidade-do-anormal/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-02-25-a-normalidade-do-anormal/</loc>
     <lastmod>2025-02-25T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/poesia/2025-02-23-poesia-em-santos-sem-santos/</loc>
+    <loc>http://danielysilva.com.br/blog/poesia/2025-02-23-poesia-em-santos-sem-santos/</loc>
     <lastmod>2025-02-23T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/</loc>
+    <loc>http://danielysilva.com.br/blog/categories/</loc>
     <lastmod>2025-02-20T21:24:02-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/</loc>
+    <loc>http://danielysilva.com.br/blog/tags/</loc>
     <lastmod>2025-02-20T21:21:49-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/poesia/2025-02-07-poesia-a-umas-leguas/</loc>
+    <loc>http://danielysilva.com.br/blog/poesia/2025-02-07-poesia-a-umas-leguas/</loc>
     <lastmod>2025-02-07T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-02-07-um-bom-perfume/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-02-07-um-bom-perfume/</loc>
     <lastmod>2025-02-07T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/poesia/2025-02-06-poesia-bolha-de-ar/</loc>
+    <loc>http://danielysilva.com.br/blog/poesia/2025-02-06-poesia-bolha-de-ar/</loc>
     <lastmod>2025-02-06T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-02-04-seu-geni/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-02-04-seu-geni/</loc>
     <lastmod>2025-02-04T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/poesia/2025-02-03-poesia-pinga-no-brasil/</loc>
+    <loc>http://danielysilva.com.br/blog/poesia/2025-02-03-poesia-pinga-no-brasil/</loc>
     <lastmod>2025-02-03T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/poesia/2025-01-29-poesia-cafe-requentado/</loc>
+    <loc>http://danielysilva.com.br/blog/poesia/2025-01-29-poesia-cafe-requentado/</loc>
     <lastmod>2025-01-29T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-01-28-redescobrindo-a-direcao-na-autoescola/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-01-28-redescobrindo-a-direcao-na-autoescola/</loc>
     <lastmod>2025-01-28T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-01-28-nikkei/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-01-28-nikkei/</loc>
     <lastmod>2025-01-28T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-01-23-desce-do-onibus/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-01-23-desce-do-onibus/</loc>
     <lastmod>2025-01-23T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/poesia/2025-01-21-poesia-miopia-etilica/</loc>
+    <loc>http://danielysilva.com.br/blog/poesia/2025-01-21-poesia-miopia-etilica/</loc>
     <lastmod>2025-01-21T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/poesia/2025-01-18-poesia-6x1/</loc>
+    <loc>http://danielysilva.com.br/blog/poesia/2025-01-18-poesia-6x1/</loc>
     <lastmod>2025-01-18T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/poesia/2025-01-18-poesia-vultos-a-espera-de-que/</loc>
+    <loc>http://danielysilva.com.br/blog/poesia/2025-01-18-poesia-vultos-a-espera-de-que/</loc>
     <lastmod>2025-01-18T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/contos/2025-01-15-microconto-exorcismo-neobrasileiro/</loc>
+    <loc>http://danielysilva.com.br/blog/contos/2025-01-15-microconto-exorcismo-neobrasileiro/</loc>
     <lastmod>2025-01-15T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/resenhas/2025-01-07-o-auto-da-compadecida-2-o-filme-que-ningu%C3%A9m-pediu-mas-todo-mundo-viu/</loc>
+    <loc>http://danielysilva.com.br/blog/resenhas/2025-01-07-o-auto-da-compadecida-2-o-filme-que-ningu%C3%A9m-pediu-mas-todo-mundo-viu/</loc>
     <lastmod>2025-01-07T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-01-07-rss-sorrindo-para-uma-possibilidade/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2025-01-07-rss-sorrindo-para-uma-possibilidade/</loc>
     <lastmod>2025-01-07T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2024-10-19-guarapiranga/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2024-10-19-guarapiranga/</loc>
     <lastmod>2024-10-19T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/resenhas/2024-05-22-resenha-de-historia-do-cerco-de-lisboa-1989/</loc>
+    <loc>http://danielysilva.com.br/blog/resenhas/2024-05-22-resenha-de-historia-do-cerco-de-lisboa-1989/</loc>
     <lastmod>2024-05-22T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2023-08-22-pelas-curvas-do-cone-sul/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2023-08-22-pelas-curvas-do-cone-sul/</loc>
     <lastmod>2023-08-22T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/viagem/</loc>
+    <loc>http://danielysilva.com.br/blog/tags/viagem/</loc>
     <lastmod>2023-08-22T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2023-05-29-fotorreflexao-em-aceleracao/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2023-05-29-fotorreflexao-em-aceleracao/</loc>
     <lastmod>2023-05-29T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2023-02-04-ate-ja-candanga/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2023-02-04-ate-ja-candanga/</loc>
     <lastmod>2023-02-04T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2022-10-29-bolsonaro-e-treze/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2022-10-29-bolsonaro-e-treze/</loc>
     <lastmod>2022-10-29T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/resenhas/2022-04-30-resenha-de-pedacos-da-fome/</loc>
+    <loc>http://danielysilva.com.br/blog/resenhas/2022-04-30-resenha-de-pedacos-da-fome/</loc>
     <lastmod>2022-04-30T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2021-08-04-o-verme-roi-a-carne-a-terra-moi-o-osso-e-a-chuva-corroi-o-jazigo/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2021-08-04-o-verme-roi-a-carne-a-terra-moi-o-osso-e-a-chuva-corroi-o-jazigo/</loc>
     <lastmod>2021-08-04T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2021-04-10-datilografando-uma-historia/</loc>
+    <loc>http://danielysilva.com.br/blog/cronicas/2021-04-10-datilografando-uma-historia/</loc>
     <lastmod>2021-04-10T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projetos/autorretratos/</loc>
+    <loc>http://danielysilva.com.br/projetos/autorretratos/</loc>
   </url><url>
-    <loc>http://localhost:1313/bio/</loc>
+    <loc>http://danielysilva.com.br/bio/</loc>
   </url><url>
-    <loc>http://localhost:1313/contato/</loc>
+    <loc>http://danielysilva.com.br/contato/</loc>
   </url><url>
-    <loc>http://localhost:1313/projetos/guaicurus/</loc>
+    <loc>http://danielysilva.com.br/projetos/guaicurus/</loc>
   </url><url>
-    <loc>http://localhost:1313/projetos/logunede/</loc>
+    <loc>http://danielysilva.com.br/projetos/logunede/</loc>
   </url><url>
-    <loc>http://localhost:1313/agora/</loc>
+    <loc>http://danielysilva.com.br/agora/</loc>
   </url><url>
-    <loc>http://localhost:1313/projetos/prato-do-dia/</loc>
+    <loc>http://danielysilva.com.br/projetos/</loc>
   </url><url>
-    <loc>http://localhost:1313/projetos/</loc>
+    <loc>http://danielysilva.com.br/blogroll/</loc>
   </url><url>
-    <loc>http://localhost:1313/blogroll/</loc>
+    <loc>http://danielysilva.com.br/projetos/sibipiruna/</loc>
   </url><url>
-    <loc>http://localhost:1313/projetos/sibipiruna/</loc>
+    <loc>http://danielysilva.com.br/projetos/silencio-dos-rios-que-gritam/</loc>
   </url><url>
-    <loc>http://localhost:1313/projetos/silencio-dos-rios-que-gritam/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projetos/tipografias-temporais/</loc>
+    <loc>http://danielysilva.com.br/projetos/tipografias-temporais/</loc>
   </url>
 </urlset>

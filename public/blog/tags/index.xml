@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Etiquetas on Daniely Silva</title>
-    <link>http://localhost:1313/blog/tags/</link>
+    <link>http://danielysilva.com.br/blog/tags/</link>
     <description>Recent content in Etiquetas on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 07 Sep 2025 06:20:04 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Sep 2025 00:00:00 -0300</lastBuildDate>
+    <atom:link href="http://danielysilva.com.br/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cidade</title>
+      <link>http://danielysilva.com.br/blog/tags/cidade/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 -0300</pubDate>
+      <guid>http://danielysilva.com.br/blog/tags/cidade/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Crônica Histórica</title>
-      <link>http://localhost:1313/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</link>
+      <link>http://danielysilva.com.br/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</link>
       <pubDate>Sun, 07 Sep 2025 06:20:04 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</guid>
+      <guid>http://danielysilva.com.br/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</guid>
       <description></description>
     </item>
     <item>
       <title>Reflexões</title>
-      <link>http://localhost:1313/blog/tags/reflex%C3%B5es/</link>
+      <link>http://danielysilva.com.br/blog/tags/reflex%C3%B5es/</link>
       <pubDate>Sun, 24 Aug 2025 08:41:23 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/reflex%C3%B5es/</guid>
+      <guid>http://danielysilva.com.br/blog/tags/reflex%C3%B5es/</guid>
       <description></description>
     </item>
     <item>
       <title>Tecnologia</title>
-      <link>http://localhost:1313/blog/tags/tecnologia/</link>
+      <link>http://danielysilva.com.br/blog/tags/tecnologia/</link>
       <pubDate>Mon, 04 Aug 2025 19:31:26 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/tecnologia/</guid>
+      <guid>http://danielysilva.com.br/blog/tags/tecnologia/</guid>
       <description></description>
     </item>
     <item>
       <title>Coisas Do Brasil</title>
-      <link>http://localhost:1313/blog/tags/coisas-do-brasil/</link>
+      <link>http://danielysilva.com.br/blog/tags/coisas-do-brasil/</link>
       <pubDate>Mon, 28 Jul 2025 09:39:45 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/coisas-do-brasil/</guid>
+      <guid>http://danielysilva.com.br/blog/tags/coisas-do-brasil/</guid>
       <description></description>
     </item>
     <item>
       <title>Cordel</title>
-      <link>http://localhost:1313/blog/tags/cordel/</link>
+      <link>http://danielysilva.com.br/blog/tags/cordel/</link>
       <pubDate>Mon, 21 Jul 2025 09:37:34 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/cordel/</guid>
+      <guid>http://danielysilva.com.br/blog/tags/cordel/</guid>
       <description></description>
     </item>
     <item>
       <title>Leituras</title>
-      <link>http://localhost:1313/blog/tags/leituras/</link>
+      <link>http://danielysilva.com.br/blog/tags/leituras/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/leituras/</guid>
+      <guid>http://danielysilva.com.br/blog/tags/leituras/</guid>
       <description></description>
     </item>
     <item>
       <title>Política</title>
-      <link>http://localhost:1313/blog/tags/pol%C3%ADtica/</link>
+      <link>http://danielysilva.com.br/blog/tags/pol%C3%ADtica/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/pol%C3%ADtica/</guid>
+      <guid>http://danielysilva.com.br/blog/tags/pol%C3%ADtica/</guid>
       <description></description>
     </item>
     <item>
       <title>Religião</title>
-      <link>http://localhost:1313/blog/tags/religi%C3%A3o/</link>
+      <link>http://danielysilva.com.br/blog/tags/religi%C3%A3o/</link>
       <pubDate>Sat, 10 May 2025 00:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/religi%C3%A3o/</guid>
+      <guid>http://danielysilva.com.br/blog/tags/religi%C3%A3o/</guid>
       <description></description>
     </item>
     <item>
       <title>Microcontos</title>
-      <link>http://localhost:1313/blog/tags/microcontos/</link>
+      <link>http://danielysilva.com.br/blog/tags/microcontos/</link>
       <pubDate>Mon, 28 Apr 2025 19:14:32 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/microcontos/</guid>
+      <guid>http://danielysilva.com.br/blog/tags/microcontos/</guid>
       <description></description>
     </item>
     <item>
       <title>Filmes</title>
-      <link>http://localhost:1313/blog/tags/filmes/</link>
+      <link>http://danielysilva.com.br/blog/tags/filmes/</link>
       <pubDate>Sun, 27 Apr 2025 13:11:33 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/filmes/</guid>
+      <guid>http://danielysilva.com.br/blog/tags/filmes/</guid>
       <description></description>
     </item>
     <item>
       <title>Causos</title>
-      <link>http://localhost:1313/blog/tags/causos/</link>
+      <link>http://danielysilva.com.br/blog/tags/causos/</link>
       <pubDate>Mon, 14 Apr 2025 18:39:43 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/causos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cidade</title>
-      <link>http://localhost:1313/blog/tags/cidade/</link>
-      <pubDate>Wed, 19 Mar 2025 00:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/cidade/</guid>
+      <guid>http://danielysilva.com.br/blog/tags/causos/</guid>
       <description></description>
     </item>
     <item>
       <title>Escrita</title>
-      <link>http://localhost:1313/blog/tags/escrita/</link>
+      <link>http://danielysilva.com.br/blog/tags/escrita/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/escrita/</guid>
+      <guid>http://danielysilva.com.br/blog/tags/escrita/</guid>
       <description></description>
     </item>
     <item>
       <title>Viagem</title>
-      <link>http://localhost:1313/blog/tags/viagem/</link>
+      <link>http://danielysilva.com.br/blog/tags/viagem/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/viagem/</guid>
+      <guid>http://danielysilva.com.br/blog/tags/viagem/</guid>
       <description></description>
     </item>
   </channel>

@@ -152,9 +152,14 @@ ol {
     padding-left: 20px;           /* Adiciona espaçamento à esquerda */
 }
 
+ul {
+  list-style-position: inside;
+  padding: 18px;
+}
+
 li {
     display: list-item;           /* Garante que cada item da lista seja exibido como bloco */
-    margin-bottom: 16px;           /* Adiciona um espaço entre os itens */
+    margin-bottom: 6px;           /* Adiciona um espaço entre os itens */
     font-size: 1.5rem;
 }
 
@@ -376,7 +381,7 @@ nav {
     }
 
   .container {
-    width: 40%;
+    width: 55%;
  }
 
   #content {

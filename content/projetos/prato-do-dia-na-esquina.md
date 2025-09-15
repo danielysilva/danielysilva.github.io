@@ -29,11 +29,6 @@ Durante uma semana, entre os dias 1º e 7 de setembro, almocei fora para registr
 
 ### Segunda-feira: Virado à Paulista (R$27)
 
-<br>
-<div class="break-out">
-<img src="/img/projects/prato-do-dia/2segunda-feira1.jpg" alt="." title="."/>
-</div>
-
 * Virado de feijão;
 * Bisteca com ovo;
 * Banana-da-terra empanada;
@@ -41,13 +36,20 @@ Durante uma semana, entre os dias 1º e 7 de setembro, almocei fora para registr
 * Arroz;
 * Salada (repolho, cenoura e alface).
 
+<div class="break-out">
+<img src="/img/projects/prato-do-dia/2segunda-feira1.jpg" alt="." title="."/>
+</div>
+
 A semana começa com o prato tradicionalmente paulista, para quem diz que São Paulo não tem culinária. Conta-se por aí a fábula de uma origem mítica para o virado à paulista: os tropeiros carregavam a comida no lombo das mulas em bolsos de couro e, com as sacudidas das longas viagens, a comida terminava misturada — tudo estava virado. Algo semelhante é contado para o cuscuz paulista, que não deixa de ser um tipo de virado de farinha de milho com peixe, frango, ovo e, tradicionalmente, o camarão de água doce, outrora já abundante nas águas paulistanas.
 
 A culinária é cheia de mitos. Mas, na verdade, o virado não é um prato "acidental", mas uma receita de farta tradição em que se usa o tripé da culinária caipira: o feijão, o milho e o porco. A partir do quarto centenário da cidade de São Paulo, o virado passa a ser servido como conhecemos hoje, de forma a se assemelhar à feijoada — assim, temos o prato nacional e o regional. É também nesse período em que começa-se a distinguir, intencionalmente, o preparo do tutu de feijão, associado à cozinha mineira, do virado de feijão, associado à paulista (AGUIAR, 2019).
 
 ### Terça-feira: Dobradinha (R$34)
 
-<br>
+* Dobradinha (bucho, feijão-branco, batata e cenoura);
+* Arroz com ovo cozido;
+* Não havia salada.
+
 <div class="break-out">
 <img src="/img/projects/prato-do-dia/3terca-feira1.jpg" alt="." title="."/>
 </div>
@@ -61,10 +63,6 @@ A culinária é cheia de mitos. Mas, na verdade, o virado não é um prato "acid
   Nunca se pode comer frio, mas veio frio.\
  *(Poema "Dobrada à moda do Porto", de Álvaro de Campos, alterego de Fernando Pessoa)*
 
-* Dobradinha (bucho, feijão-branco, batata e cenoura);
-* Arroz com ovo cozido;
-* Não havia salada.
-
 A epopeia já começa em encontrar algum lugar que servisse o prato. Passei por três restaurantes e só encontrei no quarto. Ao perguntar se serviam dobradinha, as respostas foram “Serve o quê?”, “Não…” e “Só semana que vem”.
 
 Habitualmente, ela tem sido substituída pelo bife a rolê como o prato do dia da terça-feira. Segundo relato dos tempos de garçom do meu pai, isso já ocorria na década de 1970. O bucho gera certo estranhamento a certos paladares, mas, afinal, o que é a dobradinha senão uma variação da feijoada? Ela é mais um cozido de feijão da tradição dos países lusófonos.
@@ -72,11 +70,6 @@ Habitualmente, ela tem sido substituída pelo bife a rolê como o prato do dia d
 A dobradinha vem temperada com um pouco de memória afetiva. Minha tia, Vera Lúcia, morreu com vontade de comê-la. Haviam-lhe comprado o bucho e os embutidos, mas ela já não tinha apetite àquela altura. Tudo ficou congelado por um tempo e acabei pegando para mim, para preparar o prato em casa. Assim que cada dobradinha é dedicada à tia poetiza.
 
 ### Quarta-feira: Feijoada (R$45 - Média p/ três pessoas)
-
-<br>
-<div class="break-out">
-<img src="/img/projects/prato-do-dia/4quarta-feira1.jpg" alt="." title="."/>
-</div>
 
 * Feijoada (cozido de feijão com costela e miúdos suínos);
 * Bisteca;
@@ -88,20 +81,23 @@ A dobradinha vem temperada com um pouco de memória afetiva. Minha tia, Vera Lú
 * Salada à vontade.
 * Caipirinha.
 
+<div class="break-out">
+<img src="/img/projects/prato-do-dia/4quarta-feira1.jpg" alt="." title="."/>
+</div>
+
 É tanta comida que mal cabe na mesa! — e nem no enquadramento. Em São Paulo, a quarta-feira é o dia do prato que é a cara do Brasil. O registro mais antigo da feijoada remete a 1827, em que um anúncio no Diário de Pernambuco (1825-) fala sobre a feijoada à brasileira a preço cômodo, servida às quintas-feiras na então Rua das Cruzes.
 
 A principal lenda do surgimento do prato tem muito a ver com o mito da democracia racial. Conta-se que, ao se matar um porco, as partes indesejadas eram entregues aos escravizados, que, assim, desenvolveram o prato. Acontece que, num contexto do alto custo da carne e sem refrigeração, os miúdos eram valorizados e tudo era aproveitado. Além disso, há larga tradição dos cozidos de feijão nos países de língua portuguesa: feijoada à transmontana em Portugal, a *catxupa* em Cabo Verde, o mufete em Angola e a própria dobradinha no Brasil.
 
 ### Quinta-feira: Massa (R$22)
 
-<br>
-<div class="break-out">
-<img src="/img/projects/prato-do-dia/5quinta-feira1.jpg" alt="." title="."/>
-</div>
-
 * Macarrão espaguete ao molho;
 * Frango ao molho;
 * Salada (alface, tomate e cebola).
+
+<div class="break-out">
+<img src="/img/projects/prato-do-dia/5quinta-feira1.jpg" alt="." title="."/>
+</div>
 
 A massa percorreu um longo caminho pela China, o Oriente Médio e a Península Itálica, de onde veio a penetrar com força ao Brasil por meio da comida globalizada e da imigração italiana. São Paulo já chegou a ter mais italianos que qualquer cidade da própria Itália.
 
@@ -113,16 +109,15 @@ Em 2020, durante a pandemia da Covid-19, Bolsonaro fez como Maria Antonieta: se 
 
 ### Sexta-feira: Peixe (R$37)
 
-<br>
-<div class="break-out">
-<img src="/img/projects/prato-do-dia/6sexta-feira1.jpg" alt="." title="."/>
-</div>
-
 * Filé de merluza empanado;
 * Molho de camarão, tomate e cebola;
 * Purê de batata;
 * Arroz;
 * Salada (alface, repolho, tomate e beterraba).
+
+<div class="break-out">
+<img src="/img/projects/prato-do-dia/6sexta-feira1.jpg" alt="." title="."/>
+</div>
 
 No catolicismo, a sexta-feira é um dia de penitência, em que tradicionalmente se abstém da carne vermelha. É o que diz o Código de Direito Canônico nos cânones 1250 e 1251. Sendo São Paulo uma cidade de forte tradição católica, é esperado que o prato do dia fosse o peixe.
 
@@ -131,11 +126,6 @@ Mas vou além e volto ao século XIX e até mesmo às primeiras décadas do séc
 O prato foi caro, mas a comida é saborosa. Foi o único em que a comida veio realmente servida num prato, fazendo jus ao nome do *prato-feito*. O boteco onde comi o peixe é um estabelecimento que subiu de nível ao longo dos anos. Começou como um risca-faca e se tornou referência da boemia e do sabor na Vila Romana, na Zona Oeste de São Paulo. Passou por severas mudanças, mas sem nunca perder o carinho no atendimento.
 
 ### Sábado: Feijoada de novo (R$76 - Grande p/ 4 pessoas)
-
-<br>
-<div class="break-out">
-<img src="/img/projects/prato-do-dia/7sabado1.jpg" alt="." title="."/>
-</div>
 
 * Feijoada (cozido de feijão com costela e miúdos suínos);
 * Bisteca;
@@ -147,6 +137,10 @@ O prato foi caro, mas a comida é saborosa. Foi o único em que a comida veio re
 * Não havia salada;
 * Caipirinha.
 
+<div class="break-out">
+<img src="/img/projects/prato-do-dia/7sabado1.jpg" alt="." title="."/>
+</div>
+
 Feijoada de novo, mas agora pra celebrar. Muita gente faz meio-período aos sábados, então pode comer mais, com mais calma e ainda beber mais, porque não vai voltar ao trabalho. Não é o meu caso, então voltei ao trabalho com o sono pós-almoço.
 
 Ao redor do Brasil, é comum que os dias da feijoada sejam as sextas e sábados. Não à toa, o governador Tarcísio de Freitas, ao assumir o governo do estado de São Paulo, em 2023, mudou o cardápio do Palácio dos Bandeirantes para abandonar a feijoada às quartas e passou a servi-la na sexta-feira.
@@ -155,13 +149,12 @@ Dessa vez, a caipirinha saiu na foto.
 
 ### Domingo é dia de pastel e garapa! (R$23)
 
-<br>
+* Pastel de queijo;
+* Garapa.
+
 <div class="break-out">
 <img src="/img/projects/prato-do-dia/8domingo.jpg" alt="." title="."/>
 </div>
-
-* Pastel de queijo;
-* Garapa.
 
 Não há um prato do dia para esse dia. Normalmente, o domingo não é um dia de trabalho, portanto, os restaurantes focados em trabalhadores não precisam abrir. É o dia do almoço de família e amigos: baião de dois, macarronada, risoto, arroz de forno, lasanha, maionese… E, quem sabe, um churrasco junto a tudo isso.
 

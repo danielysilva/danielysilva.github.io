@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Escrita on Daniely Silva</title>
-    <link>http://danielysilva.com.br/blog/tags/escrita/</link>
+    <link>http://localhost:1313/blog/tags/escrita/</link>
     <description>Recent content in Escrita on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 18 Mar 2025 00:00:00 -0300</lastBuildDate>
-    <atom:link href="http://danielysilva.com.br/blog/tags/escrita/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/escrita/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sob a Escrita</title>
-      <link>http://danielysilva.com.br/blog/cronicas/2025-03-12-sob-a-escrita/</link>
+      <link>http://localhost:1313/blog/cronicas/2025-03-12-sob-a-escrita/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 -0300</pubDate>
-      <guid>http://danielysilva.com.br/blog/cronicas/2025-03-12-sob-a-escrita/</guid>
-      <description>&lt;video width=&#34;100%&#34; controls poster=&#34;/img/blog/olivetti3.png&#34;&gt;&#xA; &lt;source src=&#34;http://danielysilva.com.br/img/blog/Olivetti.mp4&#34; type=&#34;video/mp4&#34; alt=&#34;Sequência de escrita na máquina de escrever&#34; title=&#34;Um minuto de escrita.&#34;&gt;  &#xA;Este vídeo não é suportado pelo seu navegador.&#xA;&lt;/video&gt;</description>
+      <guid>http://localhost:1313/blog/cronicas/2025-03-12-sob-a-escrita/</guid>
+      <description>&lt;video width=&#34;100%&#34; controls poster=&#34;/img/blog/olivetti3.png&#34;&gt;&#xA; &lt;source src=&#34;http://localhost:1313/img/blog/Olivetti.mp4&#34; type=&#34;video/mp4&#34; alt=&#34;Sequência de escrita na máquina de escrever&#34; title=&#34;Um minuto de escrita.&#34;&gt;  &#xA;Este vídeo não é suportado pelo seu navegador.&#xA;&lt;/video&gt;</description>
     </item>
     <item>
       <title>Datilografando uma história: a sobrevida das máquinas de escrever</title>
-      <link>http://danielysilva.com.br/blog/cronicas/2021-04-10-datilografando-uma-historia/</link>
+      <link>http://localhost:1313/blog/cronicas/2021-04-10-datilografando-uma-historia/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:00 -0300</pubDate>
-      <guid>http://danielysilva.com.br/blog/cronicas/2021-04-10-datilografando-uma-historia/</guid>
+      <guid>http://localhost:1313/blog/cronicas/2021-04-10-datilografando-uma-historia/</guid>
       <description>A companhia Godrej &amp;amp; Boyce, a última fábrica de máquinas de escrever do mundo, teve o fechar de suas portas em 2011, em Mumbai, na Índia.</description>
     </item>
   </channel>

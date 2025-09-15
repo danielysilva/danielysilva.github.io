@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Viagem on Daniely Silva</title>
-    <link>http://danielysilva.com.br/blog/tags/viagem/</link>
+    <link>http://localhost:1313/blog/tags/viagem/</link>
     <description>Recent content in Viagem on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 22 Aug 2023 00:00:00 -0300</lastBuildDate>
-    <atom:link href="http://danielysilva.com.br/blog/tags/viagem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/viagem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pelas curvas do Cone Sul</title>
-      <link>http://danielysilva.com.br/blog/cronicas/2023-08-22-pelas-curvas-do-cone-sul/</link>
+      <link>http://localhost:1313/blog/cronicas/2023-08-22-pelas-curvas-do-cone-sul/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 -0300</pubDate>
-      <guid>http://danielysilva.com.br/blog/cronicas/2023-08-22-pelas-curvas-do-cone-sul/</guid>
+      <guid>http://localhost:1313/blog/cronicas/2023-08-22-pelas-curvas-do-cone-sul/</guid>
       <description>Numa rápida e corrida viagem pelo Cone Sul, quase me perdi conhecendo quase todas as suas capitais.</description>
     </item>
     <item>
       <title>Até já, candanga</title>
-      <link>http://danielysilva.com.br/blog/cronicas/2023-02-04-ate-ja-candanga/</link>
+      <link>http://localhost:1313/blog/cronicas/2023-02-04-ate-ja-candanga/</link>
       <pubDate>Sat, 04 Feb 2023 00:00:00 -0300</pubDate>
-      <guid>http://danielysilva.com.br/blog/cronicas/2023-02-04-ate-ja-candanga/</guid>
+      <guid>http://localhost:1313/blog/cronicas/2023-02-04-ate-ja-candanga/</guid>
       <description>Inté já, Candanga&#xA;À cidade que é maquete</description>
     </item>
   </channel>

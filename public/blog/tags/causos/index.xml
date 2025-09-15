@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Causos on Daniely Silva</title>
-    <link>http://danielysilva.com.br/blog/tags/causos/</link>
+    <link>http://localhost:1313/blog/tags/causos/</link>
     <description>Recent content in Causos on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 14 Apr 2025 18:39:43 -0300</lastBuildDate>
-    <atom:link href="http://danielysilva.com.br/blog/tags/causos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/causos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sombrinhas</title>
-      <link>http://danielysilva.com.br/blog/cronicas/2025-04-14-sombrinhas/</link>
+      <link>http://localhost:1313/blog/cronicas/2025-04-14-sombrinhas/</link>
       <pubDate>Mon, 14 Apr 2025 18:39:43 -0300</pubDate>
-      <guid>http://danielysilva.com.br/blog/cronicas/2025-04-14-sombrinhas/</guid>
+      <guid>http://localhost:1313/blog/cronicas/2025-04-14-sombrinhas/</guid>
       <description>A seca era braba, até incomum para aquele setor da Chapada.</description>
     </item>
     <item>
       <title>Água perdida</title>
-      <link>http://danielysilva.com.br/blog/cronicas/2025-03-26-agua-perdida/</link>
+      <link>http://localhost:1313/blog/cronicas/2025-03-26-agua-perdida/</link>
       <pubDate>Wed, 26 Mar 2025 00:00:00 -0300</pubDate>
-      <guid>http://danielysilva.com.br/blog/cronicas/2025-03-26-agua-perdida/</guid>
+      <guid>http://localhost:1313/blog/cronicas/2025-03-26-agua-perdida/</guid>
       <description>Meu tio não viveu para ver a explosão das inteligências artificiais generativas, mas sempre gritava ao Google para que lhe mostrasse o cemitério de Bezerros.</description>
     </item>
     <item>
       <title>Traição em Cubatão</title>
-      <link>http://danielysilva.com.br/blog/contos/2025-03-24-traicao-em-cubatao/</link>
+      <link>http://localhost:1313/blog/contos/2025-03-24-traicao-em-cubatao/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 -0300</pubDate>
-      <guid>http://danielysilva.com.br/blog/contos/2025-03-24-traicao-em-cubatao/</guid>
+      <guid>http://localhost:1313/blog/contos/2025-03-24-traicao-em-cubatao/</guid>
       <description>Poderia ser uma canção de Naiara Azevedo, mas aconteceu na velocidade em que vai o carro de uma mulher traída.</description>
     </item>
     <item>
       <title>Seu Geni</title>
-      <link>http://danielysilva.com.br/blog/cronicas/2025-02-04-seu-geni/</link>
+      <link>http://localhost:1313/blog/cronicas/2025-02-04-seu-geni/</link>
       <pubDate>Tue, 04 Feb 2025 00:00:00 -0300</pubDate>
-      <guid>http://danielysilva.com.br/blog/cronicas/2025-02-04-seu-geni/</guid>
+      <guid>http://localhost:1313/blog/cronicas/2025-02-04-seu-geni/</guid>
       <description>Crônica inspirada nos relatos de meu tio. Gosto de escutar suas histórias, tenho compilados seus principais causos.</description>
     </item>
     <item>
       <title>Desce do ônibus</title>
-      <link>http://danielysilva.com.br/blog/cronicas/2025-01-23-desce-do-onibus/</link>
+      <link>http://localhost:1313/blog/cronicas/2025-01-23-desce-do-onibus/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 -0300</pubDate>
-      <guid>http://danielysilva.com.br/blog/cronicas/2025-01-23-desce-do-onibus/</guid>
+      <guid>http://localhost:1313/blog/cronicas/2025-01-23-desce-do-onibus/</guid>
       <description>Discussão de ônibus pode durar uma viagem inteira. Aliás, se ninguém a interromper, pode durar até uma vida inteira.</description>
     </item>
     <item>
       <title>Guarapiranga</title>
-      <link>http://danielysilva.com.br/blog/cronicas/2024-10-19-guarapiranga/</link>
+      <link>http://localhost:1313/blog/cronicas/2024-10-19-guarapiranga/</link>
       <pubDate>Sat, 19 Oct 2024 00:00:00 -0300</pubDate>
-      <guid>http://danielysilva.com.br/blog/cronicas/2024-10-19-guarapiranga/</guid>
+      <guid>http://localhost:1313/blog/cronicas/2024-10-19-guarapiranga/</guid>
       <description>Seu Deco e Seu Fernando. Não se trata de ribeirinhos porque cresceram às margens da represa, não de uma clássica ribeira brava do Amazonas.</description>
     </item>
   </channel>

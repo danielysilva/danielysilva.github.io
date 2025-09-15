@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categorias on Daniely Silva</title>
-    <link>http://danielysilva.com.br/blog/categories/</link>
+    <link>http://localhost:1313/blog/categories/</link>
     <description>Recent content in Categorias on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 14 Sep 2025 00:00:00 -0300</lastBuildDate>
-    <atom:link href="http://danielysilva.com.br/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crônicas</title>
-      <link>http://danielysilva.com.br/blog/categories/cr%C3%B4nicas/</link>
+      <link>http://localhost:1313/blog/categories/cr%C3%B4nicas/</link>
       <pubDate>Sun, 14 Sep 2025 00:00:00 -0300</pubDate>
-      <guid>http://danielysilva.com.br/blog/categories/cr%C3%B4nicas/</guid>
+      <guid>http://localhost:1313/blog/categories/cr%C3%B4nicas/</guid>
       <description></description>
     </item>
     <item>
       <title>Resenhas</title>
-      <link>http://danielysilva.com.br/blog/categories/resenhas/</link>
+      <link>http://localhost:1313/blog/categories/resenhas/</link>
       <pubDate>Tue, 22 Jul 2025 13:33:56 -0300</pubDate>
-      <guid>http://danielysilva.com.br/blog/categories/resenhas/</guid>
+      <guid>http://localhost:1313/blog/categories/resenhas/</guid>
       <description></description>
     </item>
     <item>
       <title>Contos</title>
-      <link>http://danielysilva.com.br/blog/categories/contos/</link>
+      <link>http://localhost:1313/blog/categories/contos/</link>
       <pubDate>Mon, 21 Jul 2025 09:37:34 -0300</pubDate>
-      <guid>http://danielysilva.com.br/blog/categories/contos/</guid>
+      <guid>http://localhost:1313/blog/categories/contos/</guid>
       <description></description>
     </item>
     <item>
       <title>Poesia</title>
-      <link>http://danielysilva.com.br/blog/categories/poesia/</link>
+      <link>http://localhost:1313/blog/categories/poesia/</link>
       <pubDate>Wed, 30 Apr 2025 00:00:00 -0300</pubDate>
-      <guid>http://danielysilva.com.br/blog/categories/poesia/</guid>
+      <guid>http://localhost:1313/blog/categories/poesia/</guid>
       <description></description>
     </item>
   </channel>

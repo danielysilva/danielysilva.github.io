@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Filmes on Daniely Silva</title>
-    <link>http://danielysilva.com.br/blog/tags/filmes/</link>
+    <link>http://localhost:1313/blog/tags/filmes/</link>
     <description>Recent content in Filmes on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 27 Apr 2025 13:11:33 -0300</lastBuildDate>
-    <atom:link href="http://danielysilva.com.br/blog/tags/filmes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/filmes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oeste Outra Vez (2024): um faroeste brasileiro em Goiás</title>
-      <link>http://danielysilva.com.br/blog/resenhas/2025-04-27-oeste-outra-vez-2024-um-faroeste-brasileiro-em-goias/</link>
+      <link>http://localhost:1313/blog/resenhas/2025-04-27-oeste-outra-vez-2024-um-faroeste-brasileiro-em-goias/</link>
       <pubDate>Sun, 27 Apr 2025 13:11:33 -0300</pubDate>
-      <guid>http://danielysilva.com.br/blog/resenhas/2025-04-27-oeste-outra-vez-2024-um-faroeste-brasileiro-em-goias/</guid>
+      <guid>http://localhost:1313/blog/resenhas/2025-04-27-oeste-outra-vez-2024-um-faroeste-brasileiro-em-goias/</guid>
       <description>Direção: Érico Rassi; Produção: Cristiane Miotto e Lidiane Reis; Elenco: Ângelo Antônio é Totó; Babu Santana é Durval; Rodger Rogério é o capanga; Antônio Pitanga é o primo ermitão; Estreia: 2024 no Festival de Gramado; Lançamento nacional: 27 março de 2025.</description>
     </item>
     <item>
       <title>O Auto da Compadecida 2 (2024): o filme que ninguém pediu mas todo mundo viu</title>
-      <link>http://danielysilva.com.br/blog/resenhas/2025-01-07-o-auto-da-compadecida-2-o-filme-que-ningu%C3%A9m-pediu-mas-todo-mundo-viu/</link>
+      <link>http://localhost:1313/blog/resenhas/2025-01-07-o-auto-da-compadecida-2-o-filme-que-ningu%C3%A9m-pediu-mas-todo-mundo-viu/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 -0300</pubDate>
-      <guid>http://danielysilva.com.br/blog/resenhas/2025-01-07-o-auto-da-compadecida-2-o-filme-que-ningu%C3%A9m-pediu-mas-todo-mundo-viu/</guid>
+      <guid>http://localhost:1313/blog/resenhas/2025-01-07-o-auto-da-compadecida-2-o-filme-que-ningu%C3%A9m-pediu-mas-todo-mundo-viu/</guid>
       <description>O Auto da Compadecida 2 é o filme que ninguém pediu, mas todo mundo viu.</description>
     </item>
   </channel>

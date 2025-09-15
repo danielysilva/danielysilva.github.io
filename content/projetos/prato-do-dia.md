@@ -1,12 +1,12 @@
 ---
 layout: projetos
-title: "Prato do dia"
-draft: 'true'
+title: "Prato do dia na esquina"
+draft: 'false'
 author: 'Daniely Silva'
-summary: "Summary of the Prato Do Ddia project"
+summary: "O prato do dia em botecos da Vila Romana, Zona Oeste de São Paulo."
 featured_image: "/img/projects/prato-do-dia/1lousa-de-cardapio.jpg"
 featured_image_title: "Lousa de cardápio."
-featured_image_alt: "Lousa sob Sol forte com a frase 'Buffet Completo Suco + Sobremesa $28,00'."
+featured_image_alt: "Lousa sob Sol duro com a frase 'Buffet Completo Suco + Sobremesa $28,00'."
 ---
 
 Entre o último quartel do século XIX e a primeira metade do século XX, São Paulo passou pelas imigrações estrangeiras. O impacto demográfico foi tamanho, que em partes da cidade pouco se falava português. Levas de imigrantes italianos, árabes, ibéricos e judeus construíram a vida na cidade. Posteriormente, a partir da metade do século, a cidade passa por um reabrasileiramento: mineiros, pernambucanos, baianos, paraibanos, cearenses, potiguares, maranhenses e gente de todo canto do Brasil migrou para a metrópole — processo do qual sou filha. É só no Censo de 1960 que a popualação da cidade ultrapassa a do Rio de Janeiro (ZANLORENSSI & FRONER, 2023).
@@ -105,9 +105,11 @@ A principal lenda do surgimento do prato tem muito a ver com o mito da democraci
 
 A massa percorreu um longo caminho pela China, o Oriente Médio e a Península Itálica, de onde veio a penetrar com força ao Brasil por meio da comida globalizada e da imigração italiana. São Paulo já chegou a ter mais italianos que qualquer cidade da própria Itália.
 
-Em 1967, Câmara Cascudo (1983 *apud* GARCIA, 1997) já observava como os sabores de origem italiana, como a pizza e o macarrão, já competiam diretamente com os sabores tradicionais do nosso país. Contudo, ali, no prato que comi, ainda resiste a galinha, tradicional elemento da cozinha caipira, junto ao porco, ao milho e ao feijão. Não sou tão assim fã de macarrão, e ainda prefiro ao alho e óleo, mas esse estava delicioso!
+Em 1967, Câmara Cascudo (1983 *apud* GARCIA, 1997) já observava como os sabores de origem italiana, como a pizza e o macarrão, já competiam diretamente com os sabores tradicionais do nosso país. Contudo, ali, no prato que comi, ainda resiste a galinha, tradicional elemento da cozinha caipira, junto ao porco, ao milho e ao feijão.
 
-Havia a opção de ser servido meio a meio: macarrão com arroz e feijão. Uma mistura popular à qual uns ainda adicionam a farinha de mandioca. Em 2020, durante a pandemia da Covid-19, Bolsonaro fez como Maria Antonieta: se não têm pão, que comam brioches!, e, se o arroz tá caro, que comam macarrão. No caso da consorte francesa, não há evidência de que ela realmente tenha dito isso, mas nosso ex-presidente realmente articulou com empresários do setor alimentício a divulgação da substituição do arroz pelo macarrão (ALEGRETTI, 2020).
+Não sou tão assim fã de macarrão, e ainda prefiro ao alho e óleo, mas esse estava delicioso! Havia a opção de ser servido meio a meio: macarrão com arroz e feijão. Uma mistura popular à qual uns ainda adicionam a farinha de mandioca.
+
+Em 2020, durante a pandemia da Covid-19, Bolsonaro fez como Maria Antonieta: se não têm pão, que comam brioches!, e, se o arroz tá caro, que comam macarrão. Não há evidência de que a consorte francesa realmente tenha dito isso, mas nosso ex-presidente realmente articulou com empresários do setor alimentício a divulgação da substituição do arroz pelo macarrão (ALEGRETTI, 2020).
 
 ### Sexta-feira: Peixe (R$37)
 

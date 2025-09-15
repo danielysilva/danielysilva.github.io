@@ -26,7 +26,7 @@ Versáteis como a mata, eu também sou filha dessa diáspora. Mas e o que aconte
 
 Ao menos, em seu lugar, foi plantado um ypê-amarelo que já revelou suas cores na segunda Primavera em que estava nesse solo. O chão continuará forrado por flores que têm as mesmas cores de antes. A gente seca, a gente enfrente a seca. Volta a meia, a gente floresce com a chuva. E se os cupins nos corroem por dentro? Que tenhamos, ao menos, deixado nossas sementes. Afinal, não se pode viver a vida inteira de uma vez: ela é cíclica como as estações.
 
-AB'SABER, Aziz. **Os Domínios da Natureza no Brasil**: Potencialidades Paisagísticas. 8ed. São Paulo: Ateliê Editorial, 2021.
+* AB'SABER, Aziz. **Os Domínios da Natureza no Brasil**: Potencialidades Paisagísticas. 8ed. São Paulo: Ateliê Editorial, 2021.
 
 <div hidden>
 ![Sibipiruna em 22 de setembro de 2020, Equinócio de Primavera](/img/projects/sibipiruna/sibipiruna01.jpg "Sibipiruna em 22 de setembro de 2020, Equinócio de Primavera")

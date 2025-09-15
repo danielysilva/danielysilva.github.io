@@ -1,7 +1,7 @@
 ---
 layout: projetos
 title: "Prato do dia na esquina"
-draft: 'true'
+draft: 'false'
 author: 'Daniely Silva'
 summary: "O prato do dia em botecos da Vila Romana, Zona Oeste de São Paulo."
 featured_image: "/img/projects/prato-do-dia/1lousa-de-cardapio.jpg"
@@ -11,7 +11,7 @@ featured_image_alt: "Lousa sob Sol duro com a frase 'Buffet Completo Suco + Sobr
 
 Entre o último quartel do século XIX e a primeira metade do século XX, São Paulo passou pelas imigrações estrangeiras. O impacto demográfico foi tamanho, que em partes da cidade pouco se falava português. Levas de imigrantes italianos, árabes, ibéricos e judeus construíram a vida na cidade. Posteriormente, a partir da metade do século, a cidade passa por um reabrasileiramento: mineiros, pernambucanos, baianos, paraibanos, cearenses, potiguares, maranhenses e gente de todo canto do Brasil migrou para a metrópole — processo do qual sou filha. É só no Censo de 1960 que a população da cidade ultrapassa a do Rio de Janeiro (ZANLORENSSI & FRONER, 2023).
 
-São Paulo está no coração da Paulistânia , território da cultura caipira, originário da antiga capitania de São Paulo, dividida na década de 1720 (FAVARETO, 2019). Esse território, espalhado por São Paulo, Paraná, Minas Geraio e os estados do Centro-Oeste, marca o encontro culinário entre as tradições luso e guarani, no qual o tripé do porco, do milho e do feijão representou, historicamente os mínimos vitais da população (Antônio Cândido *apud* AGUIAR, 2019), que também se somava ao sabor do ovo e da galinha. Durante o regionalismo ascendente da Primeira República, Minas Gerais abraçou a tradição culinária caipira, enquanto São Paulo tratou essa gastronomia como pré-moderna e atrasada (FAVARETO, 2019).
+São Paulo está no coração da Paulistânia , território da cultura caipira, originário da antiga capitania de São Paulo, dividida na década de 1720 (FAVARETO, 2019). Esse território, espalhado por São Paulo, Paraná, Minas Gerais e os estados do Centro-Oeste, marca o encontro culinário entre as tradições luso e guarani, no qual o tripé do porco, do milho e do feijão representou, historicamente os mínimos vitais da população (Antônio Cândido *apud* AGUIAR, 2019), que também se somava ao sabor do ovo e da galinha. Durante o regionalismo ascendente da Primeira República, Minas Gerais abraçou a tradição culinária caipira, enquanto São Paulo tratou essa gastronomia como pré-moderna e atrasada (FAVARETO, 2019).
 
 Havendo rejeitado sua tradição gastronômica, certos elementos persistiram em meio às transformações da metrópole. O prato do dia é um autêntico atavismo de brasilidade, um encontro de tradições. Algo que não se apagou, quando, através da culinária, São Paulo revisita sua origem caipira e as influências que recebeu ao longo das décadas.
 
@@ -32,12 +32,12 @@ Durante uma semana, entre os dias 1º e 7 de setembro, almocei fora para registr
 * Virado de feijão;
 * Bisteca com ovo;
 * Banana-da-terra empanada;
-* Torresmo;
+* Torresmos;
 * Arroz;
 * Salada (repolho, cenoura e alface).
 
 <div class="break-out">
-<img src="/img/projects/prato-do-dia/2segunda-feira1.jpg" alt="." title="."/>
+<img src="/img/projects/prato-do-dia/2segunda-feira1.jpg" alt="Prato com talheres, cuia de arroz, tijela de salada e panela com virado de feijão, bisteca com ovo, couve, banana empanada e torresmos." title="Virado à paulista."/>
 </div>
 
 A semana começa com o prato tradicionalmente paulista, para quem diz que São Paulo não tem culinária. Conta-se por aí a fábula de uma origem mítica para o virado à paulista: os tropeiros carregavam a comida no lombo das mulas em bolsos de couro e, com as sacudidas das longas viagens, a comida terminava misturada — tudo estava virado. Algo semelhante é contado para o cuscuz paulista, que não deixa de ser um tipo de virado de farinha de milho com peixe, frango, ovo e, tradicionalmente, o camarão de água doce, outrora já abundante nas águas paulistanas.
@@ -51,7 +51,7 @@ A culinária é cheia de mitos. Mas, na verdade, o virado não é um prato "acid
 * Não havia salada.
 
 <div class="break-out">
-<img src="/img/projects/prato-do-dia/3terca-feira1.jpg" alt="." title="."/>
+<img src="/img/projects/prato-do-dia/3terca-feira1.jpg" alt="Prato com talheres, cuia de barro com dobradinha e prato de arroz com ovo cozido." title="Dobradinha."/>
 </div>
 
 > [...]\
@@ -74,7 +74,7 @@ A dobradinha vem temperada com um pouco de memória afetiva. Minha tia, Vera Lú
 * Feijoada (cozido de feijão com costela e miúdos suínos);
 * Bisteca;
 * Couve;
-* Torresmo;
+* Torresmos;
 * Farofa;
 * Molho picante;
 * Arroz;
@@ -82,7 +82,7 @@ A dobradinha vem temperada com um pouco de memória afetiva. Minha tia, Vera Lú
 * Caipirinha.
 
 <div class="break-out">
-<img src="/img/projects/prato-do-dia/4quarta-feira1.jpg" alt="." title="."/>
+<img src="/img/projects/prato-do-dia/4quarta-feira1.jpg" alt="Mesa apertada com pratos, salada, cuia de barro com feijoada, prato de arrz com bisteca, couve e torresmo, potinhos de farofa e molho." title="Feijoada."/>
 </div>
 
 É tanta comida que mal cabe na mesa! — e nem no enquadramento. Em São Paulo, a quarta-feira é o dia do prato que é a cara do Brasil. O registro mais antigo da feijoada remete a 1827, em que um anúncio no Diário de Pernambuco (1825-) fala sobre a feijoada à brasileira a preço cômodo, servida às quintas-feiras na então Rua das Cruzes.
@@ -96,7 +96,7 @@ A principal lenda do surgimento do prato tem muito a ver com o mito da democraci
 * Salada (alface, tomate e cebola).
 
 <div class="break-out">
-<img src="/img/projects/prato-do-dia/5quinta-feira1.jpg" alt="." title="."/>
+<img src="/img/projects/prato-do-dia/5quinta-feira1.jpg" alt="Prato com salada, prato de inox com salada e prato com macarrão e frango ao molho." title="Macarronada com frango."/>
 </div>
 
 A massa percorreu um longo caminho pela China, o Oriente Médio e a Península Itálica, de onde veio a penetrar com força ao Brasil por meio da comida globalizada e da imigração italiana. São Paulo já chegou a ter mais italianos que qualquer cidade da própria Itália.
@@ -116,7 +116,7 @@ Em 2020, durante a pandemia da Covid-19, Bolsonaro fez como Maria Antonieta: se 
 * Salada (alface, repolho, tomate e beterraba).
 
 <div class="break-out">
-<img src="/img/projects/prato-do-dia/6sexta-feira1.jpg" alt="." title="."/>
+<img src="/img/projects/prato-do-dia/6sexta-feira1.jpg" alt="Pato com peixe empanado, purê, arroz com cheiro verde e salada; guia de feijão e copinho com molho." title="Filé de merluza."/>
 </div>
 
 No catolicismo, a sexta-feira é um dia de penitência, em que tradicionalmente se abstém da carne vermelha. É o que diz o Código de Direito Canônico nos cânones 1250 e 1251. Sendo São Paulo uma cidade de forte tradição católica, é esperado que o prato do dia fosse o peixe.
@@ -130,7 +130,7 @@ O prato foi caro, mas a comida é saborosa. Foi o único em que a comida veio re
 * Feijoada (cozido de feijão com costela e miúdos suínos);
 * Bisteca;
 * Couve;
-* Torresmo;
+* Torresmos;
 * Farofa;
 * Molho picante;
 * Arroz;
@@ -138,7 +138,7 @@ O prato foi caro, mas a comida é saborosa. Foi o único em que a comida veio re
 * Caipirinha.
 
 <div class="break-out">
-<img src="/img/projects/prato-do-dia/7sabado1.jpg" alt="." title="."/>
+<img src="/img/projects/prato-do-dia/7sabado1.jpg" alt="Mesas unidas com pratos, porção de torresmos, cuia de barro com feijoada, prato de arrz com bisteca, couve e torresmo, potinhos de farofa e molho; caipirinha e refrigerante americano; braços de duas pessoas sentadas." title="Feijoada de novo."/>
 </div>
 
 Feijoada de novo, mas agora pra celebrar. Muita gente faz meio-período aos sábados, então pode comer mais, com mais calma e ainda beber mais, porque não vai voltar ao trabalho. Não é o meu caso, então voltei ao trabalho com o sono pós-almoço.
@@ -153,7 +153,7 @@ Dessa vez, a caipirinha saiu na foto.
 * Garapa.
 
 <div class="break-out">
-<img src="/img/projects/prato-do-dia/8domingo.jpg" alt="." title="."/>
+<img src="/img/projects/prato-do-dia/8domingo.jpg" alt="Mesa com pastel em primeiro plano, copo de caldo-de-cana em segundo e feira ao fundo." title="Pastel e garapa."/>
 </div>
 
 Não há um prato do dia para esse dia. Normalmente, o domingo não é um dia de trabalho, portanto, os restaurantes focados em trabalhadores não precisam abrir. É o dia do almoço de família e amigos: baião de dois, macarronada, risoto, arroz de forno, lasanha, maionese… E, quem sabe, um churrasco junto a tudo isso.
@@ -173,40 +173,43 @@ Depois de um pastel com garapa, o brasileiro aproveita o dia sagrado dos cristã
 <br>
 
 <section class="galeria">
-<div class="item"><a href="#imagem1"><img src="/img/projects/prato-do-dia/esquina3.jpg" alt="." title="." /></a></div>
-<div class="item"><a href="#imagem2"><img src="/img/projects/prato-do-dia/esquina4.jpg" alt="." title="." /></a></div>
-<div class="item"><a href="#imagem3"><img src="/img/projects/prato-do-dia/esquina5.jpg" alt="." title="." /></a></div>
-<div class="item"><a href="#imagem4"><img src="/img/projects/prato-do-dia/esquina6.jpg" alt="." title="." /></a></div>
-<div class="item"><a href="#imagem5"><img src="/img/projects/prato-do-dia/esquina8-feira.jpg" alt="." title="." /></a></div>
-<div class="item"><a href="#imagem6"><img src="/img/projects/prato-do-dia/esquina9.jpg" alt="." title="." /></a></div>
-<div class="item"><a href="#imagem7"><img src="/img/projects/prato-do-dia/esquina10.jpg" alt="." title="." /></a></div>
-<div class="item"><a href="#imagem8"><img src="/img/projects/prato-do-dia/esquina11.jpg" alt="." title="." /></a></div>
-<div class="item"><a href="#imagem9"><img src="/img/projects/prato-do-dia/esquina12.jpg" alt="." title="." /></a></div>
-<div class="item"><a href="#imagem10"><img src="/img/projects/prato-do-dia/esquina13.jpg" alt="." title="." /></a></div>
-<div class="item"><a href="#imagem11"><img src="/img/projects/prato-do-dia/esquina14.jpg" alt="." title="." /></a></div>
-<div class="item"><a href="#imagem12"><img src="/img/projects/prato-do-dia/esquina15.jpg" alt="." title="." /></a></div>
-<div class="item"><a href="#imagem13"><img src="/img/projects/prato-do-dia/esquina16.jpg" alt="." title="." /></a></div>
-<div class="item"><a href="#imagem14"><img src="/img/projects/prato-do-dia/esquina17.jpg" alt="." title="." /></a></div>
+<div class="item"><a href="#imagem1"><img src="/img/projects/prato-do-dia/esquina3.jpg" alt="Boteco de esquina sob Sol duro do meio-dia; pessoa caminha ao Sol e outra consome sentada à porta." title="Esquina Mênfis-Guaicurus." /></a></div>
+<div class="item"><a href="#imagem2"><img src="/img/projects/prato-do-dia/esquina4.jpg" alt="Boteco de esquina sob Sol duro do meio-dia; térreo em azulejos de cor pastel e primeiro andar degradado em cor amarela." title="Esquina Clélia-Venâncio Aires." /></a></div>
+<div class="item"><a href="#imagem3"><img src="/img/projects/prato-do-dia/esquina5.jpg" alt="Boteco de esquina sob Sol duro do meio-dia; térreo amarelo, primeiro andar pastel; homens consomem na calçada." title="Esquina Clélia-Dr. Miranda." /></a></div>
+<div class="item"><a href="#imagem4"><img src="/img/projects/prato-do-dia/esquina6.jpg" alt="Boteco de esquina sob Sol duro do meio-dia; fachada cor-de-rosa e de tijolinhos; moto desco a rua à direita." title="Esquina Clélia-Três Pontes." /></a></div>
+<div class="item"><a href="#imagem5"><img src="/img/projects/prato-do-dia/esquina8-feira.jpg" alt="Barracas de hortifrútis em feira livre. Pessoas circulam." title="Feira da Rua Aurélia na altura da Rua Fábia." /></a></div>
+<div class="item"><a href="#imagem6"><img src="/img/projects/prato-do-dia/esquina9.jpg" alt="Boteco de esquina com mesas na calçada e moto estacionada." title="Esquina Clélia-Catão." /></a></div>
+<div class="item"><a href="#imagem7"><img src="/img/projects/prato-do-dia/esquina10.jpg" alt="Boteco de esquina sob a luz fraca do amanhecer." title="Esquina Barão de Jundiaí-Domingos Rodrigues." /></a></div>
+<div class="item"><a href="#imagem8"><img src="/img/projects/prato-do-dia/esquina11.jpg" alt="Boteco de esquina; homens consomem no balcão." title="Esquina Clélia-Dr.Miranda." /></a></div>
+<div class="item"><a href="#imagem9"><img src="/img/projects/prato-do-dia/esquina12.jpg" alt="Boteco de esquina de fachada amarela. Pessoas aguardam para atravessar a rua." title="Esquina Clélia-Crasso." /></a></div>
+<div class="item"><a href="#imagem10"><img src="/img/projects/prato-do-dia/esquina13.jpg" alt="Boteco de esquina ao amanhecer." title="Esquina Cipião-Guaicurus." /></a></div>
+<div class="item"><a href="#imagem11"><img src="/img/projects/prato-do-dia/esquina14.jpg" alt="Boteco de esquina no escuro da madrugada; homem consome ao balcão." title="Esquina Barão de Jundiaí-Domingos Rodriges pela madrugada." /></a></div>
+<div class="item"><a href="#imagem12"><img src="/img/projects/prato-do-dia/esquina15.jpg" alt="Boteco de esquina sob o escuro da madrugada." title="Esquina Clélia-Catão." /></a></div>
+<div class="item"><a href="#imagem13"><img src="/img/projects/prato-do-dia/esquina16.jpg" alt="Boteco de esquina sob a luz da madrugada; mulher ao balcão." title="Esquina Clélia-Monteiro de Melo." /></a></div>
+<div class="item"><a href="#imagem14"><img src="/img/projects/prato-do-dia/esquina17.jpg" alt="Homem atravessa a rua diante de boteco de esquina iluminado sob o escuro da madrugada." title="Esquina Clélia-Aurélia." /></a></div>
+
 </section>
 
 <div class="lightboxes">
-<div class="lightbox" id="imagem1"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina3.jpg" alt="." title="." /><p>.</p></div></div>
-<div class="lightbox" id="imagem2"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina4.jpg" alt="." title="." /><p>.</p></div></div>
-<div class="lightbox" id="imagem3"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina5.jpg" alt="." title="." /><p>.</p></div></div>    
-<div class="lightbox" id="imagem4"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina6.jpg" alt="." title="." /><p>.</p></div></div>
-<div class="lightbox" id="imagem5"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina8-feira.jpg" alt="Mão segurando pastel ao lado de copo de caldo de cana; feira desfocada ao fundo." title="Pastel e garapa na feira." /><p>Feira livre da Rua Aurélia (Vila Romana, Zona Oeste de São Paulo), entre as ruas Coriolano, Fábia e Tito.</p></div></div>
-<div class="lightbox" id="imagem6"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina9.jpg" alt="." title="." /><p>.</p></div></div>
-<div class="lightbox" id="imagem7"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina10.jpg" alt="." title="." /><p>.</p></div></div>
-<div class="lightbox" id="imagem8"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina11.jpg" alt="." title="." /><p>.</p></div></div>
-<div class="lightbox" id="imagem9"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina12.jpg" alt="." title="." /><p>.</p></div></div>
-<div class="lightbox" id="imagem10"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina13.jpg" alt="." title="." /><p>.</p></div></div>
-<div class="lightbox" id="imagem11"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina14.jpg" alt="." title="." /><p>.</p></div></div>
-<div class="lightbox" id="imagem12"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina15.jpg" alt="." title="." /><p>.</p></div></div>
-<div class="lightbox" id="imagem13"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina16.jpg" alt="." title="." /><p>.</p></div></div>
-<div class="lightbox" id="imagem14"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina17.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem1"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina3.jpg" alt="Boteco de esquina sob Sol duro do meio-dia; pessoa caminha ao Sol e outra consome sentada à porta." title="Esquina Mênfis-Guaicurus."/><p>Esquina Mênfis-Guaicurus.</p></div></div>
+<div class="lightbox" id="imagem2"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina4.jpg" alt="Boteco de esquina sob Sol duro do meio-dia; térreo em azulejos de cor pastel e primeiro andar degradado em cor amarela." title="Esquina Clélia-Venâncio Aires." /><p>Esquina Clélia-Venâncio Aires.</p></div></div>
+<div class="lightbox" id="imagem3"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina5.jpg" alt="Boteco de esquina sob Sol duro do meio-dia; térreo amarelo, primeiro andar pastel; homens consomem na calçada." title="Esquina Clélia-Dr. Miranda." /><p>Esquina Clélia-Dr. Miranda.</p></div></div>
+<div class="lightbox" id="imagem4"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina6.jpg" alt="Boteco de esquina sob Sol duro do meio-dia; fachada cor-de-rosa e de tijolinhos; moto desco a rua à direita." title="Esquina Clélia-Três Pontes." /><p>Esquina Clélia-Três Pontes.</p></div></div>
+<div class="lightbox" id="imagem5"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina8-feira.jpg" alt="Barracas de hortifrútis em feira livre. Pessoas circulam." title="Feira da Rua Aurélia na altura da Rua Fábia."  /><p>Feira livre da Rua Aurélia (Vila Romana, Zona Oeste de São Paulo), entre as ruas Coriolano, Fábia e Tito.</p></div></div>
+<div class="lightbox" id="imagem6"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina9.jpg" alt="Boteco de esquina com mesas na calçada e moto estacionada." title="Esquina Clélia-Catão." /><p>Esquina Clélia-Catão.</p></div></div>
+<div class="lightbox" id="imagem7"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina10.jpg" alt="Boteco de esquina sob a luz fraca do amanhecer." title="Esquina Barão de Jundiaí-Domingos Rodrigues." /><p>Esquina Barão de Jundiaí-Domingos Rodrigues.</p></div></div>
+<div class="lightbox" id="imagem8"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina11.jpg" alt="Boteco de esquina; homens consomem no balcão." title="Esquina Clélia-Dr.Miranda." /><p>Esquina Clélia-Dr.Miranda.</p></div></div>
+<div class="lightbox" id="imagem9"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina12.jpg" alt="Boteco de esquina de fachada amarela. Pessoas aguardam para atravessar a rua." title="Esquina Clélia-Crasso." /><p>Esquina Clélia-Crasso.</p></div></div>
+<div class="lightbox" id="imagem10"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina13.jpg" alt="Boteco de esquina ao amanhecer." title="Esquina Cipião-Guaicurus." /><p>Esquina Cipião-Guaicurus.</p></div></div>
+<div class="lightbox" id="imagem11"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina14.jpg"  alt="Boteco de esquina no escuro da madrugada; homem consome ao balcão." title="Esquina Barão de Jundiaí-Domingos Rodriges pela madrugada."/><p>Esquina Barão de Jundiaí-Domingos Rodriges pela madrugada.</p></div></div>
+<div class="lightbox" id="imagem12"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina15.jpg" alt="Boteco de esquina sob o escuro da madrugada." title="Esquina Clélia-Catão." /><p>Esquina Clélia-Catão.</p></div></div>
+<div class="lightbox" id="imagem13"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina16.jpg" alt="Boteco de esquina sob a luz da madrugada; mulher ao balcão." title="Esquina Clélia-Monteiro de Melo." /><p>Esquina Clélia-Monteiro de Melo.</p></div></div>
+<div class="lightbox" id="imagem14"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina17.jpg" alt="Homem atravessa a rua diante de boteco de esquina iluminado sob o escuro da madrugada." title="Esquina Clélia-Aurélia."/><p>Esquina Clélia-Aurélia.</p></div></div>
 </div>
 
 <br>
+
+<section>
 
 * AGUIAR, Viviane Soares. **Do feijão com toucinho ao "virado à paulista ”: o percurso simbólico de uma receita na formação de um patrimônio culinário de São Paulo**. São Leopoldo: Revista Latino-Americana de História, v. 8, n. 22, p. 116–138, 28 dez. 2019.
 
@@ -218,10 +221,12 @@ Depois de um pastel com garapa, o brasileiro aproveita o dia sagrado dos cristã
 
 * DIEZ GARCIA, Rosa Wanda. Práticas e comportamento alimentar no meio urbano: um estudo no centro da cidade de São Paulo. **Cadernos de Saúde Pública**, v. 13, n. 3, p. 455–467, 1997.
 
-* PINHO, Flávia. **Paixão paulistana, pastel foi motivo de guerra entre feirantes e prefeitura**. São Paulo: UOL, 9 jul. 2023. Disponível em: <https://www.uol.com.br/nossa/noticias/redacao/2023/07/09/paixao-paulistana-pastel-foi-motivo-de-guerra-entre-feirantes-e-prefeitura.htm >. Acesso: 14 set. 2025.
+* PINHO, Flávia. **Paixão paulistana, pastel foi motivo de guerra entre feirantes e prefeitura**. São Paulo: UOL, 9 jul. 2023. Disponível em: < https://www.uol.com.br/nossa/noticias/redacao/2023/07/09/paixao-paulistana-pastel-foi-motivo-de-guerra-entre-feirantes-e-prefeitura.htm >. Acesso: 14 set. 2025.
 
 * SÃO PAULO. Decreto Nº 8767 de 21 de maio de 1970. Dispõe sobre as feiras livres do município e dá outras providências. São Paulo, SP: Diário Oficial do Município, 1970. Disponível em: < https://legislacao.prefeitura.sp.gov.br/leis/decreto-8786-de-21-de-maio-de-1970 >. Acesso: 14 set. 2025.
 
 * SILVA, João Luiz Maximo Da. **Alimentação de rua na cidade de São Paulo (1828 - 1900)**. Doutorado em História Social—São Paulo: Universidade de São Paulo, 10 mar. 2009.
 
 * ZANLORENSSI, Gabriel; FRONER, Mariana. **Com mais de 12 milhões de habitantes, São Paulo completa 469 anos**. São Paulo: Nexo Jornal, 24 jan. 2023. Disponível em: < https://www.nexojornal.com.br/grafico/2023/01/24/com-mais-de-12-milhoes-de-habitantes-sao-paulo-completa-469-anos >. Acesso: 7 jun. 2025.
+
+</section>

@@ -1,7 +1,7 @@
 ---
 layout: projetos
 title: "Prato do dia na esquina"
-draft: 'false'
+draft: 'true'
 author: 'Daniely Silva'
 summary: "O prato do dia em botecos da Vila Romana, Zona Oeste de São Paulo."
 featured_image: "/img/projects/prato-do-dia/1lousa-de-cardapio.jpg"

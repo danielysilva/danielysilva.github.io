@@ -55,7 +55,6 @@ A culinária é cheia de mitos. Só que, na verdade, o virado não é um prato "
 <img src="/img/projects/prato-do-dia/3terca-feira1.jpg" alt="Prato com talheres, cuia de barro com dobradinha e prato de arroz com ovo cozido." title="Dobradinha."/>
 </div>
 
-<section class="poesia">
 > [...]\
   Mas, se eu pedi amor, porque é que me trouxeram\
   Dobrada à moda do Porto fria?\
@@ -64,7 +63,6 @@ A culinária é cheia de mitos. Só que, na verdade, o virado não é um prato "
   Não me queixei, mas estava frio,\
   Nunca se pode comer frio, mas veio frio.\
  *(Poema "Dobrada à moda do Porto", de Álvaro de Campos, alterego de Fernando Pessoa)*
-</section>
 
 A epopeia já começa ao procurar um lugar que servisse o prato. Passei por três restaurantes e só encontrei na quarta tentativa. Ao perguntar se serviam dobradinha, as respostas foram: “Serve o quê?”, “Não…” e “Só semana que vem”.
 
@@ -90,7 +88,7 @@ A dobradinha vem temperada com um pouco de memória afetiva. Minha tia, Vera Lú
 
 É tanta comida que mal cabe na mesa! — e nem no enquadramento. Em São Paulo, a quarta-feira é o dia do prato que é a cara do Brasil. O registro mais antigo da feijoada remete a 1827, em que um anúncio no Diário de Pernambuco (1825-) fala sobre a feijoada à brasileira a preço cômodo, servida às quintas-feiras na então Rua das Cruzes.
 
-A principal lenda do surgimento do prato tem muito a ver com o mito da democracia racial. Conta-se que, ao se matar um porco, as partes indesejadas eram entregues aos escravizados, que, assim, desenvolveram o prato. Acontece que, num contexto do alto custo da carne e sem refrigeração, os miúdos eram valorizados e tudo era aproveitado pelas elites. 
+A principal lenda do surgimento do prato tem muito a ver com o mito da democracia racial. Conta-se que, ao se matar um porco, as partes indesejadas eram entregues aos escravizados, que, assim, desenvolveram o prato. Acontece que, num contexto do alto custo da carne e sem refrigeração, os miúdos eram valorizados e tudo era aproveitado pelas elites.
 
 Em todo caso, há larga tradição dos cozidos de feijão nos países de língua portuguesa: feijoada à transmontana em Portugal, a *catxupa* em Cabo Verde, o mufete em Angola e a própria dobradinha no Brasil.
 
@@ -106,7 +104,7 @@ Em todo caso, há larga tradição dos cozidos de feijão nos países de língua
 
 A massa percorreu um longo caminho pela China, o Oriente Médio e a Península Itálica, de onde veio a penetrar com força ao Brasil por meio da comida globalizada e da imigração italiana. São Paulo já chegou a ter mais italianos que qualquer cidade da própria Itália.
 
-Em 1967, Câmara Cascudo (1983 *apud* GARCIA, 1997) já observava como os pratos de origem italiana, como a pizza e o macarrão, já competiam diretamente com os sabores tradicionais do nosso país. Contudo, ali, no prato que comi, ainda resiste a galinha, tradicional elemento da cozinha caipira. 
+Em 1967, Câmara Cascudo (1983 *apud* GARCIA, 1997) já observava como os pratos de origem italiana, como a pizza e o macarrão, já competiam diretamente com os sabores tradicionais do nosso país. Contudo, ali, no prato que comi, ainda resiste a galinha, tradicional elemento da cozinha caipira.
 
 Não sou assim tão fã de macarrão, e ainda prefiro ao alho e óleo, mas esse estava delicioso! Havia a opção de ser servido meio a meio: macarrão com arroz e feijão. Uma mistura popular à qual uns ainda adicionam a farinha de mandioca.
 

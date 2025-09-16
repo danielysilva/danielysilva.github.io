@@ -41,9 +41,9 @@ Durante uma semana, entre os dias 1º e 7 de setembro, almocei fora para registr
 <img src="/img/projects/prato-do-dia/2segunda-feira1.jpg" alt="Prato com talheres, cuia de arroz, tijela de salada e panela com virado de feijão, bisteca com ovo, couve, banana empanada e torresmos." title="Virado à paulista."/>
 </div>
 
-A semana começa com o prato tradicionalmente paulista, para quem diz que São Paulo não tem culinária. Conta-se por aí a fábula de uma origem mítica para o virado à paulista: os tropeiros carregavam a comida no lombo das mulas em bolsos de couro e, com as sacudidas das longas viagens, a comida terminava misturada — tudo estava virado. Algo semelhante é contado para o cuscuz paulista, que não deixa de ser um tipo de virado de farinha de milho com peixe, frango, ovo e, tradicionalmente, o camarão de água doce, outrora já abundante nas águas paulistanas.
+A semana começa com o prato tradicionalmente paulista, para quem diz que São Paulo não tem culinária. Conta-se por aí a fábula de uma origem mítica para o virado à paulista: os tropeiros carregavam a comida no lombo das mulas em bolsas de couro e, com as sacudidas das longas viagens, a comida terminava misturada — tudo estava virado. Algo semelhante é contado para o cuscuz paulista, que não deixa de ser um tipo de virado de farinha de milho com peixe, frango, ovo e, tradicionalmente, o camarão de água doce, outrora já abundante nas águas paulistanas.
 
-A culinária é cheia de mitos. Mas, na verdade, o virado não é um prato "acidental", mas uma receita de farta tradição em que se usa o tripé da culinária caipira: o feijão, o milho e o porco. A partir do quarto centenário da cidade de São Paulo, o virado passa a ser servido como conhecemos hoje, de forma a se assemelhar à feijoada — assim, temos o prato nacional e o regional. É também nesse período em que começa-se a distinguir, intencionalmente, o preparo do tutu de feijão, associado à cozinha mineira, do virado de feijão, associado à paulista (AGUIAR, 2019).
+A culinária é cheia de mitos. Só que, na verdade, o virado não é um prato "acidental", mas uma receita de farta tradição em que se usa o tripé da culinária caipira: o feijão, o milho e o porco. A partir do quarto centenário da cidade de São Paulo, o virado passa a ser servido como conhecemos hoje, de forma a se assemelhar à feijoada — assim, temos o prato nacional e o regional. É também nesse período em que começa-se a distinguir, intencionalmente, o preparo do tutu de feijão, associado à cozinha mineira, do virado de feijão, associado à paulista (AGUIAR, 2019).
 
 ### Terça-feira: Dobradinha (R$34)
 
@@ -55,6 +55,7 @@ A culinária é cheia de mitos. Mas, na verdade, o virado não é um prato "acid
 <img src="/img/projects/prato-do-dia/3terca-feira1.jpg" alt="Prato com talheres, cuia de barro com dobradinha e prato de arroz com ovo cozido." title="Dobradinha."/>
 </div>
 
+<section class="poesia">
 > [...]\
   Mas, se eu pedi amor, porque é que me trouxeram\
   Dobrada à moda do Porto fria?\
@@ -63,12 +64,13 @@ A culinária é cheia de mitos. Mas, na verdade, o virado não é um prato "acid
   Não me queixei, mas estava frio,\
   Nunca se pode comer frio, mas veio frio.\
  *(Poema "Dobrada à moda do Porto", de Álvaro de Campos, alterego de Fernando Pessoa)*
+</section>
 
-A epopeia já começa em encontrar algum lugar que servisse o prato. Passei por três restaurantes e só encontrei no quarto. Ao perguntar se serviam dobradinha, as respostas foram “Serve o quê?”, “Não…” e “Só semana que vem”.
+A epopeia já começa ao procurar um lugar que servisse o prato. Passei por três restaurantes e só encontrei na quarta tentativa. Ao perguntar se serviam dobradinha, as respostas foram: “Serve o quê?”, “Não…” e “Só semana que vem”.
 
-Habitualmente, ela tem sido substituída pelo bife a rolê como o prato do dia da terça-feira. Segundo relato dos tempos de garçom do meu pai, isso já ocorria na década de 1970. O bucho gera certo estranhamento a certos paladares, mas, afinal, o que é a dobradinha senão uma variação da feijoada? Ela é mais um cozido de feijão da tradição dos países lusófonos.
+Habitualmente, ela tem sido substituída pelo bife a rolê como o prato do dia da terça-feira. Segundo relato dos tempos de garçom do meu pai, isso já ocorria na década de 1970. O bucho gera estranhamento a certos paladares, mas, afinal, o que é a dobradinha senão uma variação da feijoada? Ela é mais um cozido de feijão da tradição dos países lusófonos.
 
-A dobradinha vem temperada com um pouco de memória afetiva. Minha tia, Vera Lúcia, morreu com vontade de comê-la. Haviam-lhe comprado o bucho e os embutidos, mas ela já não tinha apetite àquela altura. Tudo ficou congelado por um tempo e acabei pegando para mim, para preparar o prato em casa. Assim que cada dobradinha é dedicada à tia poetiza.
+A dobradinha vem temperada com um pouco de memória afetiva. Minha tia, Vera Lúcia, morreu com vontade de comê-la. Haviam-lhe comprado o bucho e os embutidos, mas ela já não tinha apetite àquela altura. Tudo ficou congelado por um tempo e acabei pegando para mim, para preparar o prato em casa. Assim, cada dobradinha é dedicada à tia poetiza.
 
 ### Quarta-feira: Feijoada (R$45 - Média p/ três pessoas)
 
@@ -88,7 +90,9 @@ A dobradinha vem temperada com um pouco de memória afetiva. Minha tia, Vera Lú
 
 É tanta comida que mal cabe na mesa! — e nem no enquadramento. Em São Paulo, a quarta-feira é o dia do prato que é a cara do Brasil. O registro mais antigo da feijoada remete a 1827, em que um anúncio no Diário de Pernambuco (1825-) fala sobre a feijoada à brasileira a preço cômodo, servida às quintas-feiras na então Rua das Cruzes.
 
-A principal lenda do surgimento do prato tem muito a ver com o mito da democracia racial. Conta-se que, ao se matar um porco, as partes indesejadas eram entregues aos escravizados, que, assim, desenvolveram o prato. Acontece que, num contexto do alto custo da carne e sem refrigeração, os miúdos eram valorizados e tudo era aproveitado. Além disso, há larga tradição dos cozidos de feijão nos países de língua portuguesa: feijoada à transmontana em Portugal, a *catxupa* em Cabo Verde, o mufete em Angola e a própria dobradinha no Brasil.
+A principal lenda do surgimento do prato tem muito a ver com o mito da democracia racial. Conta-se que, ao se matar um porco, as partes indesejadas eram entregues aos escravizados, que, assim, desenvolveram o prato. Acontece que, num contexto do alto custo da carne e sem refrigeração, os miúdos eram valorizados e tudo era aproveitado pelas elites. 
+
+Em todo caso, há larga tradição dos cozidos de feijão nos países de língua portuguesa: feijoada à transmontana em Portugal, a *catxupa* em Cabo Verde, o mufete em Angola e a própria dobradinha no Brasil.
 
 ### Quinta-feira: Massa (R$22)
 
@@ -102,9 +106,9 @@ A principal lenda do surgimento do prato tem muito a ver com o mito da democraci
 
 A massa percorreu um longo caminho pela China, o Oriente Médio e a Península Itálica, de onde veio a penetrar com força ao Brasil por meio da comida globalizada e da imigração italiana. São Paulo já chegou a ter mais italianos que qualquer cidade da própria Itália.
 
-Em 1967, Câmara Cascudo (1983 *apud* GARCIA, 1997) já observava como os sabores de origem italiana, como a pizza e o macarrão, já competiam diretamente com os sabores tradicionais do nosso país. Contudo, ali, no prato que comi, ainda resiste a galinha, tradicional elemento da cozinha caipira, junto ao porco, ao milho e ao feijão.
+Em 1967, Câmara Cascudo (1983 *apud* GARCIA, 1997) já observava como os pratos de origem italiana, como a pizza e o macarrão, já competiam diretamente com os sabores tradicionais do nosso país. Contudo, ali, no prato que comi, ainda resiste a galinha, tradicional elemento da cozinha caipira. 
 
-Não sou tão assim fã de macarrão, e ainda prefiro ao alho e óleo, mas esse estava delicioso! Havia a opção de ser servido meio a meio: macarrão com arroz e feijão. Uma mistura popular à qual uns ainda adicionam a farinha de mandioca.
+Não sou assim tão fã de macarrão, e ainda prefiro ao alho e óleo, mas esse estava delicioso! Havia a opção de ser servido meio a meio: macarrão com arroz e feijão. Uma mistura popular à qual uns ainda adicionam a farinha de mandioca.
 
 Em 2020, durante a pandemia da Covid-19, Bolsonaro fez como Maria Antonieta: se não têm pão, que comam brioches!, e, se o arroz tá caro, que comam macarrão. Não há evidência de que a consorte francesa realmente tenha dito isso, mas nosso ex-presidente realmente articulou com empresários do setor alimentício a divulgação da substituição do arroz pelo macarrão (ALEGRETTI, 2020).
 
@@ -124,7 +128,7 @@ No catolicismo, a sexta-feira é um dia de penitência, em que tradicionalmente 
 
 Mas vou além e volto ao século XIX e até mesmo às primeiras décadas do século XX. São Paulo é uma cidade anfíbia, uma Mesopotâmia tropical. A cidade se fez entre e sobre rios. Antes de negar a sua origem fluvial e asfaltar suas águas, os rios da cidade eram abundantes em peixes, camarões de água doce e outros crustáceos. Essa mistura aquática era vendida por quitandeiras que tomavam as ruas da cidade com seus tabuleiros e competiam diretamente com os armazéns (SILVA, 2019). Por isso, não basta uma tradição católica para definir o dia do peixe, porque a fartura desse gênero foi determinante.
 
-O prato foi caro, mas a comida é saborosa. Foi o único em que a comida veio realmente servida num prato, fazendo jus ao nome do *prato-feito*. O boteco onde comi o peixe é um estabelecimento que subiu de nível ao longo dos anos. Começou como um risca-faca e se tornou referência da boemia e do sabor na Vila Romana, na Zona Oeste de São Paulo. Passou por severas mudanças, mas sem nunca perder o carinho no atendimento.
+A refeição foi cara, mas a comida é saborosa. Foi o único em que a comida veio realmente servida num prato, fazendo jus ao nome do *prato-feito*. O boteco onde comi o peixe é um estabelecimento que subiu de nível ao longo dos anos. Começou como um risca-faca e se tornou referência da boemia e do sabor na Vila Romana, na Zona Oeste de São Paulo. Passou por severas mudanças, mas sem nunca perder o carinho no atendimento.
 
 ### Sábado: Feijoada de novo (R$76 - Grande p/ 4 pessoas)
 
@@ -144,7 +148,7 @@ O prato foi caro, mas a comida é saborosa. Foi o único em que a comida veio re
 
 Feijoada de novo, mas agora pra celebrar. Muita gente faz meio-período aos sábados, então pode comer mais, com mais calma e ainda beber mais, porque não vai voltar ao trabalho. Não é o meu caso, então voltei ao trabalho com o sono pós-almoço.
 
-Ao redor do Brasil, é comum que os dias da feijoada sejam as sextas e sábados. Não à toa, o governador Tarcísio de Freitas, ao assumir o governo do estado de São Paulo, em 2023, mudou o cardápio do Palácio dos Bandeirantes para abandonar a feijoada às quartas e passou a servi-la na sexta-feira.
+Ao redor do Brasil, é comum que os dias da feijoada sejam as sextas e sábados. Não à toa, o governador Tarcísio de Freitas, ao assumir o governo do estado de São Paulo, em 2023, mudou o cardápio do Palácio dos Bandeirantes para abandonar a feijoada às quartas e passou a servi-la na sexta-feira, como no Rio de Janeiro, sua terra natal.
 
 Dessa vez, a caipirinha saiu na foto.
 
@@ -163,11 +167,11 @@ Também é dia de, depois de fazer a feira, parar para comer pastel e tomar a ga
 
 O pastel foi o meu café da manhã. Junto à garapa, subproduto da indústria canavieira de sabor doce e intenso. O saboroso caldo-de-cana contém antioxidantes que aliviam um pouco da gordura do pastel. Podem não formar a combinação mais nutritiva, mas não é algo que se come todos os dias e, ao menos, não são produtos ultraprocessados.
 
-A barraca na qual parei era a da família Nakamura. Diz ter a tradição desde 1970, estando já na terceira geração. A história do pastel brasileiro é nebulosa, não vou entrar nessa seara da sua origem, que é incerta e cercada de mitos e fabulações. Mas o fato é que a receita está intimamente ligada à trajetória da comunidade nipônica em São Paulo, conhecedores da massa do rolinho-primavera e da guioza/jiaozi. Outrora a cidade com mais japoneses no mundo, com imigração marcante a partir de 1908, parte dessa população se especializou na apicultura, cogumelos e hortifrutigranjeiros; já que vendem na feira, por que não aproveitar e vender o pastel?
+A barraca na qual parei era a da família Nakamura. Diz ter a tradição desde 1970, estando já na terceira geração. A história do pastel brasileiro é nebulosa, não vou entrar na seara da sua origem, que é incerta e cercada de mitos e fabulações. Mas o fato é que a receita está intimamente ligada à trajetória da comunidade nipônica em São Paulo, conhecedores da massa do rolinho-primavera e da guioza/jiaozi. Outrora a cidade com mais japoneses no mundo, com imigração marcante a partir de 1908, parte dessa população se especializou na apicultura, cogumelos e hortifrutigranjeiros; já que vendem na feira, por que não aproveitar e vender o pastel?
 
 De tão popular, a combinação acabou virando tema das propagandas eleitorais. Como é popular não só na fama, mas também por partir de classes populares, numa medida higienista, o clássico pastel de feira chegou a ser proibido pela Prefeitura de São Paulo, através do Decreto Nº 8786 de 1970, numa cruzada contra a comida de rua. A partir de 1976 e 1978, gradualmente, as autoridades voltaram atrás na medida, mas depois de muita dor de cabeça.
 
-A comida de rua na cidade de São Paulo tem origem nas quitandeiras, mulheres forras ou escravizadas que, na São Paulo do século XIX, cidade ainda marcada pela passagem de tropeiros, com seus tabuleiros de guloseimas, quitutes e hortifrútis, marcavam a cidade e competiam diretamente com os armazéns, tavernas e botequins, os precursores dos nossos botecos (SILVA, 2009).
+Antes das feiras livres e da comunidade japonesa, a comida de rua na cidade de São Paulo tem origem nas quitandeiras, mulheres forras ou escravizadas que atuavam na São Paulo do século XIX, cidade ainda marcada pela passagem de tropeiros. Elas, com seus tabuleiros de guloseimas, quitutes e hortifrútis, competiam diretamente com os armazéns, tavernas e botequins, os precursores dos nossos botecos (SILVA, 2009).
 
 Depois de um pastel com garapa, o brasileiro aproveita o dia sagrado dos cristãos, o domingo, para ir à missa, ao culto, à reunião do serviço voluntário e almoçar com a família. No meu caso, nesta vida de trabalhar aos finais de semana, perco tudo isso há anos.
 

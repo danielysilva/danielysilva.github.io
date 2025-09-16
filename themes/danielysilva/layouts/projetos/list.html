@@ -5,7 +5,7 @@
 
 
     <div class="projects">
-    {{ range .Pages }}
+    {{ range sort .Pages "Title" }}
     <div class="project-item">
 
 <h3>

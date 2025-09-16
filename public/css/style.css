@@ -160,13 +160,13 @@ ul {
 
 li {
     display: list-item;           /* Garante que cada item da lista seja exibido como bloco */
-    margin-bottom: 6px;           /* Adiciona um espaço entre os itens */
+    margin-bottom: 3px;           /* Adiciona um espaço entre os itens */
     font-size: 1.5rem;
 }
 
 ul li p, ol li p {
    display: inline;
-} 
+}
 
 time {
     font-size: 1.8rem;

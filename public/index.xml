@@ -6,8 +6,15 @@
     <description>Recent content in Início on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 14 Sep 2025 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 00:00:00 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prato do dia na esquina</title>
+      <link>http://localhost:1313/projetos/prato-do-dia-na-esquina/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/projetos/prato-do-dia-na-esquina/</guid>
+      <description>O prato do dia em botecos da Vila Romana, Zona Oeste de São Paulo.</description>
+    </item>
     <item>
       <title>Revisitando os bicos-de-lacre de 2021</title>
       <link>http://localhost:1313/blog/cronicas/2025-09-14-revisitando-os-bicos-de-lacre-de-2021/</link>
@@ -436,11 +443,32 @@
       <description>Numa rápida e corrida viagem pelo Cone Sul, quase me perdi conhecendo quase todas as suas capitais.</description>
     </item>
     <item>
+      <title>Silêncio dos Rios que Gritam</title>
+      <link>http://localhost:1313/projetos/silencio-dos-rios-que-gritam/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/projetos/silencio-dos-rios-que-gritam/</guid>
+      <description>Registro dos rios urbanos de São Paulo</description>
+    </item>
+    <item>
       <title>Fotorreflexão em aceleração</title>
       <link>http://localhost:1313/blog/cronicas/2023-05-29-fotorreflexao-em-aceleracao/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 -0300</pubDate>
       <guid>http://localhost:1313/blog/cronicas/2023-05-29-fotorreflexao-em-aceleracao/</guid>
       <description>Às vezes, é preciso desacelerar e simplesmente tomar um ar.</description>
+    </item>
+    <item>
+      <title>Autorretratos</title>
+      <link>http://localhost:1313/projetos/autorretratos/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/projetos/autorretratos/</guid>
+      <description>Sessões de autorretratos</description>
+    </item>
+    <item>
+      <title>Sibipiruna</title>
+      <link>http://localhost:1313/projetos/sibipiruna/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/projetos/sibipiruna/</guid>
+      <description>Registro de ramo de sibipiruna ao longo das estações</description>
     </item>
     <item>
       <title>Até já, candanga</title>
@@ -450,11 +478,32 @@
       <description>Inté já, Candanga&#xA;À cidade que é maquete</description>
     </item>
     <item>
+      <title>Logunedé</title>
+      <link>http://localhost:1313/projetos/logunede/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/projetos/logunede/</guid>
+      <description>Registro de nascimento para o orixá Logunedé</description>
+    </item>
+    <item>
       <title>Bolsonaro é Treze</title>
       <link>http://localhost:1313/blog/cronicas/2022-10-29-bolsonaro-e-treze/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 -0300</pubDate>
       <guid>http://localhost:1313/blog/cronicas/2022-10-29-bolsonaro-e-treze/</guid>
       <description>Numa dessas anedotas que põem em dúvida a sabedoria humana, às portas de uma Zona Eleitoral, gritos enfurecidos rompiam a monotonia:</description>
+    </item>
+    <item>
+      <title>Guaicurus</title>
+      <link>http://localhost:1313/projetos/guaicurus/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/projetos/guaicurus/</guid>
+      <description>Registro de antigos galpões na Rua Guaicurus, Lapa</description>
+    </item>
+    <item>
+      <title>Tipografias Temporais</title>
+      <link>http://localhost:1313/projetos/tipografias-temporais/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/projetos/tipografias-temporais/</guid>
+      <description>Projeto autoral sobre o vício no cigarro e no celular</description>
     </item>
     <item>
       <title>Resenha de Pedaços da Fome (1963), Carolina Maria de Jesus</title>
@@ -478,13 +527,6 @@
       <description>A companhia Godrej &amp;amp; Boyce, a última fábrica de máquinas de escrever do mundo, teve o fechar de suas portas em 2011, em Mumbai, na Índia.</description>
     </item>
     <item>
-      <title>Autorretratos</title>
-      <link>http://localhost:1313/projetos/autorretratos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projetos/autorretratos/</guid>
-      <description>Sessões de autorretratos</description>
-    </item>
-    <item>
       <title>Bio</title>
       <link>http://localhost:1313/bio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -499,20 +541,6 @@
       <description>Encontre-me nos quartos onde moro de favor com meu trabalho.</description>
     </item>
     <item>
-      <title>Guaicurus</title>
-      <link>http://localhost:1313/projetos/guaicurus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projetos/guaicurus/</guid>
-      <description>Registro de antigos galpões na Rua Guaicurus, Lapa</description>
-    </item>
-    <item>
-      <title>Logunedé</title>
-      <link>http://localhost:1313/projetos/logunede/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projetos/logunede/</guid>
-      <description>Registro de nascimento para o orixá Logunedé</description>
-    </item>
-    <item>
       <title>O que estou fazendo agora?</title>
       <link>http://localhost:1313/agora/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -520,39 +548,11 @@
       <description>O movimento de criar uma página Now/Agora adiciona uma pitada de humanidade à web.</description>
     </item>
     <item>
-      <title>Prato do dia na esquina</title>
-      <link>http://localhost:1313/projetos/prato-do-dia-na-esquina/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projetos/prato-do-dia-na-esquina/</guid>
-      <description>O prato do dia em botecos da Vila Romana, Zona Oeste de São Paulo.</description>
-    </item>
-    <item>
       <title>Rolo de blogues</title>
       <link>http://localhost:1313/blogroll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blogroll/</guid>
       <description>Resgatando uma ideia popular no auge da blogosfera, o rolo de blogues permite cultivar um repertório de conteúdos sem a dependência dos algoritmos.</description>
-    </item>
-    <item>
-      <title>Sibipiruna</title>
-      <link>http://localhost:1313/projetos/sibipiruna/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projetos/sibipiruna/</guid>
-      <description>Registro de ramo de sibipiruna ao longo das estações</description>
-    </item>
-    <item>
-      <title>Silêncio dos Rios que Gritam</title>
-      <link>http://localhost:1313/projetos/silencio-dos-rios-que-gritam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projetos/silencio-dos-rios-que-gritam/</guid>
-      <description>Registro dos rios urbanos de São Paulo</description>
-    </item>
-    <item>
-      <title>Tipografias Temporais</title>
-      <link>http://localhost:1313/projetos/tipografias-temporais/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projetos/tipografias-temporais/</guid>
-      <description>Projeto autoral sobre o vício no cigarro e no celular</description>
     </item>
   </channel>
 </rss>

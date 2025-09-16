@@ -1,13 +1,13 @@
 ---
 layout: projetos
 title: "Prato do dia na esquina"
-draft: 'false'
-author: 'Daniely Silva'
 date: 2025-09-15
+author: 'Daniely Silva'
 summary: "O prato do dia em botecos da Vila Romana, Zona Oeste de São Paulo."
 featured_image: "/img/projects/prato-do-dia/1lousa-de-cardapio.jpg"
 featured_image_title: "Lousa de cardápio."
 featured_image_alt: "Lousa sob Sol duro com a frase 'Buffet Completo Suco + Sobremesa $28,00'."
+draft: 'false'
 ---
 
 Entre o último quartel do século XIX e a primeira metade do século XX, São Paulo passou pelas imigrações estrangeiras. O impacto demográfico foi tamanho, que em partes da cidade pouco se falava português. Levas de imigrantes italianos, árabes, ibéricos e judeus construíram a vida na cidade. Posteriormente, a partir da metade do século, a cidade passa por um reabrasileiramento: mineiros, pernambucanos, baianos, paraibanos, cearenses, potiguares, maranhenses e gente de todo canto do Brasil migrou para a metrópole — processo do qual sou filha. É só no Censo de 1960 que a população da cidade ultrapassa a do Rio de Janeiro (ZANLORENSSI & FRONER, 2023).

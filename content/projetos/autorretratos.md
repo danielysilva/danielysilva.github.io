@@ -1,6 +1,7 @@
 ---
 layout: projetos
 title: 'Autorretratos'
+date: 2023-03-18
 author: 'Daniely Silva'
 summary: "Sessões de autorretratos"
 featured_image: "/img/projects/autorretratos/daniely-silva05.jpg"

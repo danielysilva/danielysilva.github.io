@@ -2,6 +2,7 @@
 layout: projetos
 title: 'Silêncio dos Rios que Gritam'
 author: 'Daniely Silva'
+date: 2023-06-01
 summary: "Registro dos rios urbanos de São Paulo"
 featured_image: "/img/rios/ponte-remedios.jpg"
 featured_image_alt: "Encontro entre os rios Pinheiros e Tietê"

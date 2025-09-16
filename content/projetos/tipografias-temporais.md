@@ -1,6 +1,7 @@
 ---
 layout: projetos
 title: 'Tipografias Temporais'
+date: 2022-05-28
 author: 'Daniely Silva'
 summary: "Projeto autoral sobre o vício no cigarro e no celular"
 featured_image: "/img/projects/tipografias-temporais/tipografia00.jpg"

@@ -1,12 +1,13 @@
 ---
 layout: projetos
 title: "{{replace .Name "-" " " | title }}"
-draft: 'true'
+date: {{ now.Format "2006-01-02 15:04:05" }}
 author: 'Daniely Silva'
 summary: "Summary of the {{ replace .Name "-" " " | title }} project"
 featured_image: "/img/projects/autorretratos/daniely-silva05.jpg"
 featured_image_title: "lorem ipsum dolor sit amet"
 featured_image_alt: "Lorem ipsum dolor sit amet, consectur adipiscing elit."
+draft: 'true'
 ---
 {{ replace .Name "-" " " | title }} project...
 

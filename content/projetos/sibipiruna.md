@@ -1,6 +1,7 @@
 ---
 layout: projetos
 title: 'Sibipiruna'
+date: 2023-03-18
 author: 'Daniely Silva'
 summary: "Registro de ramo de sibipiruna ao longo das estações"
 featured_image: "/img/projects/sibipiruna/sibipiruna10.jpg"

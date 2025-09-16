@@ -1,6 +1,7 @@
 ---
 layout: projetos
 title: 'Logunedé'
+date: 2022-11-12
 author: 'Daniely Silva'
 summary: "Registro de nascimento para o orixá Logunedé"
 featured_image: "/img/projects/logunede/logunede05.jpg"

@@ -6,53 +6,54 @@
     <description>Recent content in Projetos on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
+    <lastBuildDate>Mon, 15 Sep 2025 00:00:00 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/projetos/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Autorretratos</title>
-      <link>http://localhost:1313/projetos/autorretratos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projetos/autorretratos/</guid>
-      <description>Sessões de autorretratos</description>
-    </item>
-    <item>
-      <title>Guaicurus</title>
-      <link>http://localhost:1313/projetos/guaicurus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projetos/guaicurus/</guid>
-      <description>Registro de antigos galpões na Rua Guaicurus, Lapa</description>
-    </item>
-    <item>
-      <title>Logunedé</title>
-      <link>http://localhost:1313/projetos/logunede/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projetos/logunede/</guid>
-      <description>Registro de nascimento para o orixá Logunedé</description>
-    </item>
     <item>
       <title>Prato do dia na esquina</title>
       <link>http://localhost:1313/projetos/prato-do-dia-na-esquina/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 -0300</pubDate>
       <guid>http://localhost:1313/projetos/prato-do-dia-na-esquina/</guid>
       <description>O prato do dia em botecos da Vila Romana, Zona Oeste de São Paulo.</description>
     </item>
     <item>
-      <title>Sibipiruna</title>
-      <link>http://localhost:1313/projetos/sibipiruna/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projetos/sibipiruna/</guid>
-      <description>Registro de ramo de sibipiruna ao longo das estações</description>
-    </item>
-    <item>
       <title>Silêncio dos Rios que Gritam</title>
       <link>http://localhost:1313/projetos/silencio-dos-rios-que-gritam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 -0300</pubDate>
       <guid>http://localhost:1313/projetos/silencio-dos-rios-que-gritam/</guid>
       <description>Registro dos rios urbanos de São Paulo</description>
     </item>
     <item>
+      <title>Autorretratos</title>
+      <link>http://localhost:1313/projetos/autorretratos/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/projetos/autorretratos/</guid>
+      <description>Sessões de autorretratos</description>
+    </item>
+    <item>
+      <title>Sibipiruna</title>
+      <link>http://localhost:1313/projetos/sibipiruna/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/projetos/sibipiruna/</guid>
+      <description>Registro de ramo de sibipiruna ao longo das estações</description>
+    </item>
+    <item>
+      <title>Logunedé</title>
+      <link>http://localhost:1313/projetos/logunede/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/projetos/logunede/</guid>
+      <description>Registro de nascimento para o orixá Logunedé</description>
+    </item>
+    <item>
+      <title>Guaicurus</title>
+      <link>http://localhost:1313/projetos/guaicurus/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/projetos/guaicurus/</guid>
+      <description>Registro de antigos galpões na Rua Guaicurus, Lapa</description>
+    </item>
+    <item>
       <title>Tipografias Temporais</title>
       <link>http://localhost:1313/projetos/tipografias-temporais/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 May 2022 00:00:00 -0300</pubDate>
       <guid>http://localhost:1313/projetos/tipografias-temporais/</guid>
       <description>Projeto autoral sobre o vício no cigarro e no celular</description>
     </item>

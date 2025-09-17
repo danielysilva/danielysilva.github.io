@@ -32,6 +32,7 @@ Durante uma semana, entre os dias 1º e 7 de setembro, almocei fora para registr
 
 * Virado de feijão;
 * Bisteca com ovo;
+* Couve;
 * Banana-da-terra empanada;
 * Torresmos;
 * Arroz;

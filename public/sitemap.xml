@@ -257,14 +257,29 @@
     <loc>http://localhost:1313/blog/tags/viagem/</loc>
     <lastmod>2023-08-22T00:00:00-03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projetos/silencio-dos-rios-que-gritam/</loc>
+    <lastmod>2023-06-01T00:00:00-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/cronicas/2023-05-29-fotorreflexao-em-aceleracao/</loc>
     <lastmod>2023-05-29T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projetos/autorretratos/</loc>
+    <lastmod>2023-03-18T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projetos/sibipiruna/</loc>
+    <lastmod>2023-03-18T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/cronicas/2023-02-04-ate-ja-candanga/</loc>
     <lastmod>2023-02-04T00:00:00-03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projetos/logunede/</loc>
+    <lastmod>2022-11-12T00:00:00-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/cronicas/2022-10-29-bolsonaro-e-treze/</loc>
     <lastmod>2022-10-29T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projetos/tipografias-temporais/</loc>
+    <lastmod>2022-05-28T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/resenhas/2022-04-30-resenha-de-pedacos-da-fome/</loc>
     <lastmod>2022-04-30T00:00:00-03:00</lastmod>
@@ -275,24 +290,12 @@
     <loc>http://localhost:1313/blog/cronicas/2021-04-10-datilografando-uma-historia/</loc>
     <lastmod>2021-04-10T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projetos/autorretratos/</loc>
-  </url><url>
     <loc>http://localhost:1313/bio/</loc>
   </url><url>
     <loc>http://localhost:1313/contato/</loc>
   </url><url>
-    <loc>http://localhost:1313/projetos/guaicurus/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projetos/logunede/</loc>
-  </url><url>
     <loc>http://localhost:1313/agora/</loc>
   </url><url>
     <loc>http://localhost:1313/blogroll/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projetos/sibipiruna/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projetos/silencio-dos-rios-que-gritam/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projetos/tipografias-temporais/</loc>
   </url>
 </urlset>

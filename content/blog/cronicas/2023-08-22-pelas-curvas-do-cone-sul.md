@@ -14,6 +14,14 @@ aliases:
   - /blog/viagem/2023-08-22-pelas-curvas-do-cone-sul/
 ---
 
+<div style="margin:32px 5vw 32px 0; text-align: right;" hidden>
+<p>
+  <a href="epub/2023-08-22-pelas-curvas-do-cone-sul.epub" download="2023-08-22-pelas-curvas-do-cone-sul.epub" style="background-color:gray; color:white; border:solid black; padding:6px 15px;">
+<b>⬇</b> Leia este texto em ePUB
+</a>
+</p>
+</div>
+
 Numa rápida e corrida viagem pelo Cone Sul, quase me perdi conhecendo quase todas as suas capitais. Se ainda me faltam a Pacífica Santiago do Chile e la Asunción de Paraguay, não me faltam lembranças de Floripa, Buenos Aires, Montevideo, Porto Alegre e Curitiba, com direito às capitais departamental e provincial Colonia del Sacramento e Córdoba.
 
 Deixei o Terminal Rodoviário Tietê numa noite de 2 de maio, com mochila tão pesada quanto a carga de trabalho de um ano de espera pelas férias.

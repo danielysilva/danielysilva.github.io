@@ -35,6 +35,6 @@ A desigualdade e os interesses estão **impressos na paisagem**: basta olhar par
 
 ![Folha seca em primeira plano, Cratera de Colônia desfocada ao fundo.](/img/blog/colonia6.jpg "Folha e cratera.")
 
-*Reedição de publicação em rede social as 12 e 25 de julho de 2022. **Visita de campo feita aos 2 de julho de 2022**.*
+*Reedição de publicação em rede social aos 12 e 25 de julho de 2022. **Visita de campo feita aos 2 de julho de 2022**.*
 
 * VILARDAGA, Vicente. **Cemitério em Parelheiros é o mais antigo de São Paulo**. São Paulo: Folha de S. Paulo, 5 fev. 2024. Disponível em: < https://www1.folha.uol.com.br/blogs/andancas-na-metropole/2024/02/cemiterio-em-parelheiros-e-o-mais-antigo-de-sao-paulo.shtml >. Acesso: 20 set. 2025.

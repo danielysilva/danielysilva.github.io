@@ -26,11 +26,15 @@ A Geografia aparece para dizer que o espaço não é algo dado: ele é produzido
 A desigualdade e os interesses estão **impressos na paisagem**: basta olhar para ver, basta respirar para sentir, basta escutar para concluir.
 
 ![Vista de bairro periférico com borda de cratera ao fundo.](/img/blog/colonia2.jpg "Bairro de Vargem Grande no interior da Cratera de Colônia.")
+
 ![Vista de bairro periférico com borda de cratera ao fundo.](/img/blog/colonia3.jpg "Bairro de Vargem Grande no interior da Cratera de Colônia.")
+
 ![Rua periférica com serra florestada ao fundo.](/img/blog/colonia4.jpg "A partir uma das bordas, paisagem dos Mares de Morros externa à cratera difere da área plana e circular no seu interior.")
+
 ![Região pantanosa com moradia precário.](/img/blog/colonia5.jpg "Crise na moradia.")
+
 ![Folha seca em primeira plano, Cratera de Colônia desfocada ao fundo.](/img/blog/colonia6.jpg "Folha e cratera.")
 
 *Reedição de publicação em rede social as 12 e 25 de julho de 2022. **Visita de campo feita aos 2 de julho de 2022**.*
 
-VILARDAGA, Vicente. **Cemitério em Parelheiros é o mais antigo de São Paulo**. São Paulo: Folha de S. Paulo, 5 fev. 2024. Disponível em: < https://www1.folha.uol.com.br/blogs/andancas-na-metropole/2024/02/cemiterio-em-parelheiros-e-o-mais-antigo-de-sao-paulo.shtml >. Acesso: 20 set. 2025.
+* VILARDAGA, Vicente. **Cemitério em Parelheiros é o mais antigo de São Paulo**. São Paulo: Folha de S. Paulo, 5 fev. 2024. Disponível em: < https://www1.folha.uol.com.br/blogs/andancas-na-metropole/2024/02/cemiterio-em-parelheiros-e-o-mais-antigo-de-sao-paulo.shtml >. Acesso: 20 set. 2025.

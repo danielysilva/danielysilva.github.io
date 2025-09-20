@@ -4,7 +4,7 @@ title: "Revisitando os bicos-de-lacre de 2021"
 date: 2025-09-14
 author: Daniely Silva
 categories: ["Crônicas"]
-tags: ["cidade"]
+tags: ["fotografia"]
 summary:
 featured_image: "/img/blog/bico-de-lacre-1.jpg"
 featured_image_title: "Encontro de irmãos."

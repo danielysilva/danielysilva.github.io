@@ -9,7 +9,7 @@ summary:
 featured_image: "/img/blog/colonia1.jpg"
 featured_image_title: "Bairro de Vargem Grande no interior da Cratera de Colônia."
 featured_image_alt: "Vista de bairro periférico com borda de cratera ao fundo."
-draft: true
+draft: false
 ---
 
 A Cratera de Colônia anseia por ser reconhecida plenamente como uma cratera de impacto. Falta financiamento para a perfuração que responderia uma série de perguntas sobre esse precioso relevo que encontramos no extremo Sul da cidade de São Paulo.
@@ -24,7 +24,7 @@ Apesar do nome, o bairro de Colônia fica fora da cratera. O relevo levou o nome
 A Geografia aparece para dizer que o espaço não é algo dado: ele é produzido. Humanos se utilizam do espaço para seus próprios nteresses, moldando-o de acordo com sua necessidade. E o "espaço" que sobra? Fica pra quem não tem. Tem gente morando cada vez mais longe, em locais cada vez mais extremos, e falta verba para a Ciência, enquanto falta moradia e falta educação. A crise de água e a crise ambientol são, antes de tudo, uma crise da habitação. Mais que negligência: é projeto.
 
 A desigualdade e os interesses estão **impressos na paisagem**: basta olhar para ver, basta respirar para sentir, basta escutar para concluir.
- 
+
 ![Vista de bairro periférico com borda de cratera ao fundo.](/img/blog/colonia2.jpg "Bairro de Vargem Grande no interior da Cratera de Colônia.")
 ![Vista de bairro periférico com borda de cratera ao fundo.](/img/blog/colonia3.jpg "Bairro de Vargem Grande no interior da Cratera de Colônia.")
 ![Rua periférica com serra florestada ao fundo.](/img/blog/colonia4.jpg "A partir uma das bordas, paisagem dos Mares de Morros externa à cratera difere da área plana e circular no seu interior.")

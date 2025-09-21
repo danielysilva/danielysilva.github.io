@@ -31,7 +31,7 @@ A desigualdade e os interesses estão **impressos na paisagem**: basta olhar par
 
 ![Rua periférica com serra florestada ao fundo.](/img/blog/colonia4.jpg "A partir uma das bordas, paisagem dos Mares de Morros externa à cratera difere da área plana e circular no seu interior.")
 
-![Região pantanosa com moradia precário.](/img/blog/colonia5.jpg "Crise na moradia.")
+![Região pantanosa com moradia precária.](/img/blog/colonia5.jpg "Crise na moradia.")
 
 ![Folha seca em primeira plano, Cratera de Colônia desfocada ao fundo.](/img/blog/colonia6.jpg "Folha e cratera.")
 

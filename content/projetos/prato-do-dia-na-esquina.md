@@ -213,8 +213,6 @@ Depois de um pastel com garapa, o brasileiro aproveita o dia sagrado dos cristã
 
 <br>
 
-<section>
-
 * AGUIAR, Viviane Soares. **Do feijão com toucinho ao "virado à paulista ”: o percurso simbólico de uma receita na formação de um patrimônio culinário de São Paulo**. São Leopoldo: Revista Latino-Americana de História, v. 8, n. 22, p. 116–138, 28 dez. 2019.
 
 * ALEGRETTI, Laís. **Se não tem arroz, que comam macarrão? 4 fatos sobre a substituição proposta por supermercados**. Londres: BBC News Brasil, 10 set. 2020. Disponível em: < https://www.bbc.com/portuguese/brasil-54100601 >. Acesso: 14 set. 2025.
@@ -232,5 +230,3 @@ Depois de um pastel com garapa, o brasileiro aproveita o dia sagrado dos cristã
 * SILVA, João Luiz Maximo Da. **Alimentação de rua na cidade de São Paulo (1828 - 1900)**. Doutorado em História Social—São Paulo: Universidade de São Paulo, 10 mar. 2009.
 
 * ZANLORENSSI, Gabriel; FRONER, Mariana. **Com mais de 12 milhões de habitantes, São Paulo completa 469 anos**. São Paulo: Nexo Jornal, 24 jan. 2023. Disponível em: < https://www.nexojornal.com.br/grafico/2023/01/24/com-mais-de-12-milhoes-de-habitantes-sao-paulo-completa-469-anos >. Acesso: 7 jun. 2025.
-
-</section>

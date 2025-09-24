@@ -43,7 +43,7 @@ A trilha sonora é modesta em quantidade de faixas, mas soberba em profundidade.
 > Voltarei a querer algum dia\
 > Hoje eu sei que não vou mais chorar\
 > Se em mim já não há alegria\
-> A esperança me ensina a gritas
+> A esperança me ensina a gritar
 >
 > Que tudo passa, tudo passará\
 > Que nada fica, nada ficará\

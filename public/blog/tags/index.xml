@@ -6,13 +6,20 @@
     <description>Recent content in Etiquetas on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 14 Sep 2025 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 20:26:52 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cidade</title>
-      <link>http://localhost:1313/blog/tags/cidade/</link>
-      <pubDate>Sun, 14 Sep 2025 00:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/cidade/</guid>
+      <title>Tecnologia</title>
+      <link>http://localhost:1313/blog/tags/tecnologia/</link>
+      <pubDate>Wed, 24 Sep 2025 20:26:52 -0300</pubDate>
+      <guid>http://localhost:1313/blog/tags/tecnologia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fotografia</title>
+      <link>http://localhost:1313/blog/tags/fotografia/</link>
+      <pubDate>Wed, 24 Sep 2025 20:08:11 -0300</pubDate>
+      <guid>http://localhost:1313/blog/tags/fotografia/</guid>
       <description></description>
     </item>
     <item>
@@ -27,13 +34,6 @@
       <link>http://localhost:1313/blog/tags/reflex%C3%B5es/</link>
       <pubDate>Sun, 24 Aug 2025 08:41:23 -0300</pubDate>
       <guid>http://localhost:1313/blog/tags/reflex%C3%B5es/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tecnologia</title>
-      <link>http://localhost:1313/blog/tags/tecnologia/</link>
-      <pubDate>Mon, 04 Aug 2025 19:31:26 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/tecnologia/</guid>
       <description></description>
     </item>
     <item>
@@ -90,6 +90,13 @@
       <link>http://localhost:1313/blog/tags/causos/</link>
       <pubDate>Mon, 14 Apr 2025 18:39:43 -0300</pubDate>
       <guid>http://localhost:1313/blog/tags/causos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cidade</title>
+      <link>http://localhost:1313/blog/tags/cidade/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/tags/cidade/</guid>
       <description></description>
     </item>
     <item>

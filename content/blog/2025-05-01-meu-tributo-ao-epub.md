@@ -3,9 +3,11 @@ layout: blog
 title: "Meu tributo ao ePUB"
 date: 2025-05-01
 author: Daniely Silva
-categories: [""]
+categories: ["Resenhas"]
 tags: ["tecnologia"]
 summary:
+aliases:
+  - /blog/2025-05-01-meu-tributo-ao-epub
 draft: false
 ---
 O formato que já tem quase duas décadas, desde 2007, e é padrão mais moderno para livros digitais. É um formato aberto, substituindo outros com o mesmo propósito. ePUB é um acrônimo em inglês para *publicação eletrônica*; é auto-explicativo: um formato de arquivos voltado para a leitura em telas. O texto então se ajusta ao tamanho da tela e é totalmente personalizável, podendo-se alterar o estilo da fonte e seu tamanho, assim como espaçamento entre linhas e a margem.

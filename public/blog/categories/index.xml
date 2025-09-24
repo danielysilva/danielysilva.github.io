@@ -6,20 +6,20 @@
     <description>Recent content in Categorias on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 14 Sep 2025 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 20:26:52 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Crônicas</title>
-      <link>http://localhost:1313/blog/categories/cr%C3%B4nicas/</link>
-      <pubDate>Sun, 14 Sep 2025 00:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/categories/cr%C3%B4nicas/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Resenhas</title>
       <link>http://localhost:1313/blog/categories/resenhas/</link>
-      <pubDate>Tue, 22 Jul 2025 13:33:56 -0300</pubDate>
+      <pubDate>Wed, 24 Sep 2025 20:26:52 -0300</pubDate>
       <guid>http://localhost:1313/blog/categories/resenhas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crônicas</title>
+      <link>http://localhost:1313/blog/categories/cr%C3%B4nicas/</link>
+      <pubDate>Sat, 20 Sep 2025 09:08:03 -0300</pubDate>
+      <guid>http://localhost:1313/blog/categories/cr%C3%B4nicas/</guid>
       <description></description>
     </item>
     <item>

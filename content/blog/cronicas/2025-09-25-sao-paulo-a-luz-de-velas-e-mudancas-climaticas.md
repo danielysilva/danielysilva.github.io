@@ -24,7 +24,17 @@ Com relação ao primeiro problema, com as chuvas cada vez mais irregulares, a m
 
 A realidade se aproxima mais a uma crise de gestão hídrica que a uma crítica hídrica propriamente dita. Que sobrevoa São Paulo em tempos de falta d'água deve ficar confuso ao ver a abundância dos reservatórios da Zona Sul da cidade.
 
-O estado e os municípios negli
+O estado e os municípios agiram tarde em proteger esses rservatórios, o que aconteceu somente em 1989, quando a Constituição Paulista declarou a Billings como manancial, ao que se seguiram leis específicas nos anos de .......
+
+A Billings, sozinha, tem uma capacidade de armanezar até 1,2 trilhão de litros de água, o que é superior ao Sistema integrado Cantareira, com 979,9 bilhões de litros — só que distribuídos em seis represas.
+
+No entanto, o destino primordial de geração de energia negligenciou o despejo de esgoto doméstico e industrial e permitiu, por décadas, a reversão de curso das águas contaminadas do Rio Pinheiros para o reservatório. Esse bombeamento de água passou a ser proibido com a Constituição, mas ainda ocorre em momentos de cheia.
+
+Se potável, a Billings oferecia água garantida: próxima à Serra do Mar, a chuva orográfica não tem padrão irregular como no Centro-Sul. Não é a realidade do Cantareira, do qual a última represa é Jaguari, na divisa com o Sul de Minas, onde estão suas cabeceiras. A região é afetado pelo regime de chuvas cada vez mais caótico do Centro-Sul do Brasil.
+
+De tempos em tempos, a metrópole
+
+BRAÇO RIO GRANDE
 
 https://mananciais.sabesp.com.br/Situacao
 

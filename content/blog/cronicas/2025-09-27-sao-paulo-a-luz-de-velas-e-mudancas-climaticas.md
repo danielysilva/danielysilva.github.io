@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "São Paulo à luz de velas e mudanças climáticas"
-date: 2025-09-24 21:28:59
+date: 2025-09-27
 author: Daniely Silva
 categories: ["Crônicas"]
 tags: ["cidade"]
@@ -20,7 +20,7 @@ Ao mesmo tempo em que os temporais deixam um cenário de guerra nas ruas, a ANA 
 
 São Paulo tem dois grandes problemas a enfrentar em relação à crise climática: a falta d'água e os apagãoes decorrentes dos vendavais. Não boto as enchentes na conta, porque, embora agravadas, já são um problema crônico e antigo, dado que a cidade foi construída sobre rios e não dá pra mudá-la de lugar.
 
-Com relação ao primeiro problema, com as chuvas cada vez mais irregulares, a metrópole convive, a cada ano, com o fantasma da falta d'água. Hoje, o nível geral dos reservatórios é de 32,3% (Sabesp, 2025). É alarmante, o menos nível desde a crise 2014-2015.
+Com relação ao primeiro problema, com as chuvas cada vez mais irregulares, a metrópole convive, a cada ano, com o fantasma da falta d'água. Hoje, o nível geral dos reservatórios é de xxxxxxxx% (Sabesp, 2025). É alarmante, o menos nível desde a crise 2014-2015.
 
 A realidade se aproxima mais a uma crise de gestão hídrica que a uma crítica hídrica propriamente dita. Que sobrevoa São Paulo em tempos de falta d'água deve ficar confuso ao ver a abundância dos reservatórios da Zona Sul da cidade.
 
@@ -32,7 +32,9 @@ No entanto, o destino primordial de geração de energia negligenciou o despejo 
 
 Se potável, a Billings oferecia água garantida: próxima à Serra do Mar, a chuva orográfica não tem padrão irregular como no Centro-Sul. Não é a realidade do Cantareira, do qual a última represa é Jaguari, na divisa com o Sul de Minas, onde estão suas cabeceiras. A região é afetado pelo regime de chuvas cada vez mais caótico do Centro-Sul do Brasil.
 
-De tempos em tempos, a metrópole
+De tempos em tempos, a metrópole convive com a ansiedade do risco de um apocalipse da água. Sobram soluções paliativas como a transposição do Paraíba do Sul para o Cantareira e do braço ..... da Billings para a Guarapiranga.
+
+A solução, na verdade, está á mão: saneamento básico,
 
 BRAÇO RIO GRANDE
 

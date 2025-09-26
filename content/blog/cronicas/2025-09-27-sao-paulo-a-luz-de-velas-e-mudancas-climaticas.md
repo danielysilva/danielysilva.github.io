@@ -32,9 +32,27 @@ No entanto, o destino primordial de geração de energia negligenciou o despejo 
 
 Se potável, a Billings oferecia água garantida: próxima à Serra do Mar, a chuva orográfica não tem padrão irregular como no Centro-Sul. Não é a realidade do Cantareira, do qual a última represa é Jaguari, na divisa com o Sul de Minas, onde estão suas cabeceiras. A região é afetado pelo regime de chuvas cada vez mais caótico do Centro-Sul do Brasil.
 
-De tempos em tempos, a metrópole convive com a ansiedade do risco de um apocalipse da água. Sobram soluções paliativas como a transposição do Paraíba do Sul para o Cantareira e do braço ..... da Billings para a Guarapiranga.
+De tempos em tempos, a metrópole convive com a ansiedade do risco de um apocalipse da água. Sobram soluções paliativas como a transposição do Paraíba do Sul para o Cantareira e do braço Taquacetuba  da Billings para a Guarapiranga.
 
-A solução, na verdade, está á mão: saneamento básico,
+A solução, na verdade, está à mão: saneamento básico. Claro não é da noite para o dia que se limpa uma represa ao redor de um dos distritos mais populosos do mundo. Com quase 400 mil pessoas, ( https://g1.globo.com/sp/sao-paulo/noticia/2024/03/21/grajau-distrito-de-sp-tem-mais-gente-que-98percent-das-cidades-brasileiras-veja-mapa-e-consulte-mais-dados-da-populacao-da-capital-paulista.ghtml) o Grajaú é mais populoso que 98% dos municípios brasileiros.
+
+Sanear leva tempo, mas vale a pena. Promessaç milagrosas não faltam: em 1992, quando do lançamento do Projeto Tietê, o governador Fleury Filho (PMDB) prometeu que beberia um copo d'água do rio. 
+
+Outro assunto cheio de certezas é quando vêm os apagões decorrentes de danos às estruturas da rede elétrica por quedas de árvores ou diretamente pelos fortes ventos. Era o 22 de setembro, aniversário do Projeto Tietê, quando saí pelo bairro para procurar um lampião para iluminar minha casa em meio ao blecaute. Percorri o bairro inteiro, mas nada encontrei; num depósito, ainda houve cinco, mas uma mesma pessoa levou todos poucos antes que eu chegasse.
+
+Os vendavais têm se tornado um fenômeno cada vez mais avassalador e frequente nos meses de Primavera. Geralmente, ocorre quando da chegada de uma frente fria após dias de onda de calor. No litoral, houve casos de ventos comparáveis a um furacão
+
+Nessas horas, sempre surge um culpado: a prefeitura, a concessionária e até as árvores. Na caminhada à procura do lampião, enquanto via o cenário de guerra no meu bairro, ouvi um senhor dizer que onde há fiação aérea não deve haver árvores. Se ..... % da cidade tem fiação aérea, daí temos duas proposições lógicas: a cidade não pode ter árvores e todas devem ser assassinadas; senão, toda a fiação deve ser subterrânea.
+
+É aí que as responsabilidades se embaralham e são jogadas de um lado para o outro. A Prefeitura, por meio da Secretaria do Verde e do Meio Ambiente, deve monitorar a saúde das árvores e garantir a poda ou remoção, se for o caso. Há milhões de árvores na cidade, portanto, mesmo se a gestão municipal fizesse um bom trabalho, é humanamente impossível de impedir que ocorram quedas. Elas vão acontecer e vão causar estragos; mas a manutenção da flora urbana é responsável por minimizá-los;
+
+Cortar todas as árvores em ruas da cidade é uma possibilidade que nem cogito, sobretudo com a ilha de calor urbana e a questão da drenagem (fatores que nem os negacionistas do aquecimento global ignoram). Condenar, sim, as árvores doentes que ofereçam riscos, mas com o seguido plantio de espécime adequado àquele ambiente.
+
+Nestas épocas de quedas de árvores e vendevais, ressurge a preposição de enterrar toda a fiação da cidade em tempo recorde. Um serviço do tiop não é trivial e não se faz em um ano. Mesmo entre os países ricos, não é qualquer cidade que tem rede totalmente subterrânea.
+
+Sim, o ritmo de enterramento da fiação em São Paulo é constrangedor, mesmo antes da atual concessionária.
+
+
 
 BRAÇO RIO GRANDE
 

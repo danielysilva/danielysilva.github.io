@@ -50,7 +50,13 @@ Cortar todas as árvores em ruas da cidade é uma possibilidade que nem cogito, 
 
 Nestas épocas de quedas de árvores e vendevais, ressurge a preposição de enterrar toda a fiação da cidade em tempo recorde. Um serviço do tiop não é trivial e não se faz em um ano. Mesmo entre os países ricos, não é qualquer cidade que tem rede totalmente subterrânea.
 
-Sim, o ritmo de enterramento da fiação em São Paulo é constrangedor, mesmo antes da atual concessionária.
+Sim, o ritmo de enterramento da fiação em São Paulo é constrangedor, mesmo antes da atual concessionária. No ritmo atual, a cidade só terá uma rede 100% subterránea no ano de ...................... (CITAÇÃO).
+
+Além da questão funcional, há a estética. É constrangedor ver o emaranhado de fios da Alameda SAntos, rua nobre paralela à Avenida Paulista — um dos logradouros mais famosos do país.
+
+Para acelerar o ritmo, resta a questão principal: a conta. Num gasto estimado de ..............., quem vai se dispor a pagá-la? Pontualmente, comerciantes arcam com os custos, como foi o caso da luxuosa Rua Oscar Freire, junto à requalificação do pavimento. Noutros, a Prefeitura o faz, como o foi no caso das ruas ao redor do Largo da Batata. Só que se tratando da cidade inteira, a concessionárias repassará o valor ao consuumidor. Quem vai querer um aumento de .........% na conta de luz.
+
+São Paulo se situa numa região relativamente protegida dos grandes extremos climáticos agravados pelas mudanças climáticas. Pelo clima de altitude e o relevo, ondas de calor serão menos catastróficas que em cidades como Buenos Aires e Goiânia;
 
 
 

@@ -26,7 +26,7 @@ A realidade se aproxima mais a uma crise de gestão hídrica que a uma crítica 
 
 O estado e os municípios agiram tarde em proteger esses rservatórios, o que aconteceu somente em 1989, quando a Constituição Paulista declarou a Billings como manancial, ao que se seguiram leis específicas nos anos de .......
 
-A Billings, sozinha, tem uma capacidade de armanezar até 1,2 trilhão de litros de água, o que é superior ao Sistema integrado Cantareira, com 979,9 bilhões de litros — só que distribuídos em seis represas.
+A Billings, sozinha, tem uma capacidade de armanezar até 1,2 trilhão de litros de água, o que é superior ao Sistema integrado Cantareira, com 979,9 bilhões de litros — só que distribuídos em seis represas. Na Billings, a barragem Anchieta separa o Braço Rio Grande, importante sistema de abastecimento, do resto do reservatório, para que não receba as águas contaminadas.
 
 No entanto, o destino primordial de geração de energia negligenciou o despejo de esgoto doméstico e industrial e permitiu, por décadas, a reversão de curso das águas contaminadas do Rio Pinheiros para o reservatório. Esse bombeamento de água passou a ser proibido com a Constituição, mas ainda ocorre em momentos de cheia.
 
@@ -56,7 +56,7 @@ Além da questão funcional, há a estética. É constrangedor ver o emaranhado 
 
 Para acelerar o ritmo, resta a questão principal: a conta. Num gasto estimado de ..............., quem vai se dispor a pagá-la? Pontualmente, comerciantes arcam com os custos, como foi o caso da luxuosa Rua Oscar Freire, junto à requalificação do pavimento. Noutros, a Prefeitura o faz, como o foi no caso das ruas ao redor do Largo da Batata. Só que se tratando da cidade inteira, a concessionárias repassará o valor ao consuumidor. Quem vai querer um aumento de .........% na conta de luz.
 
-São Paulo se situa numa região relativamente protegida dos grandes extremos climáticos agravados pelas mudanças climáticas. Pelo clima de altitude e o relevo, ondas de calor serão menos catastróficas que em cidades como Buenos Aires e Goiânia;
+São Paulo se situa numa região relativamente protegida dos grandes extremos climáticos agravados pelas mudanças climáticas. Pelo clima de altitude e o relevo, ondas de calor serão menos catastróficas que em cidades próximas ao litoral como Buenos Aires e regiões centrais do continente, mais afetadas pelas brutais massas de ar seco. Graças à sua posição, também não é uma cidade afetada por grandes inundações, apesar das enchentes pontuais decorrentes de um planejamento urbano equivocado. Seus dois grandes fantasmas meteorológicos são os vendavais, ocasionados pelos choques de massas, e as crises hídricas; ambos têm soluções certeiras — mas caras e demoradas.
 
 
 

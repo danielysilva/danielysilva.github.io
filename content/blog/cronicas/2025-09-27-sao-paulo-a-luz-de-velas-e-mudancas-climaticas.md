@@ -56,11 +56,13 @@ Além da questão funcional, há a estética. É constrangedor ver o emaranhado 
 
 Para acelerar o ritmo, resta a questão principal: a conta. Num gasto estimado de ..............., quem vai se dispor a pagá-la? Pontualmente, comerciantes arcam com os custos, como foi o caso da luxuosa Rua Oscar Freire, junto à requalificação do pavimento. Noutros, a Prefeitura o faz, como o foi no caso das ruas ao redor do Largo da Batata. Só que se tratando da cidade inteira, a concessionárias repassará o valor ao consuumidor. Quem vai querer um aumento de .........% na conta de luz.
 
-São Paulo se situa numa região relativamente protegida dos grandes extremos climáticos agravados pelas mudanças climáticas. Pelo clima de altitude e o relevo, ondas de calor serão menos catastróficas que em cidades próximas ao litoral como Buenos Aires e regiões centrais do continente, mais afetadas pelas brutais massas de ar seco. Graças à sua posição, também não é uma cidade afetada por grandes inundações, apesar das enchentes pontuais decorrentes de um planejamento urbano equivocado. Seus dois grandes fantasmas meteorológicos são os vendavais, ocasionados pelos choques de massas, e as crises hídricas; ambos têm soluções certeiras — mas caras e demoradas.
+São Paulo se situa numa região relativamente protegida dos grandes extremos climáticos agravados pelas mudanças climáticas. Pelo clima de altitude e o relevo, ondas de calor serão menos catastróficas que em cidades próximas ao litoral como Buenos Aires e regiões centrais do continente, mais afetadas pelas brutais massas de ar seco. Graças à sua posição, também não é uma cidade afetada por furacões e grandes inundações, apesar das enchentes pontuais decorrentes de um planejamento urbano equivocado. Seus dois grandes fantasmas meteorológicos são os vendavais, ocasionados pelos choques de massas, e as crises hídricas; ambos têm soluções certeiras — mas caras e demoradas.
 
 
 
 BRAÇO RIO GRANDE
 
-https://mananciais.sabesp.com.br/Situacao
+SABESP. Disponível em: < https://mananciais.sabesp.com.br/Situacao >
 
+https://www.institutodeengenharia.org.br/site/2023/11/10/enterramento-de-fios-entenda-por-que-o-problema-nunca-e-resolvido/
+read://https_www.cnnbrasil.com.br/?url=https%3A%2F%2Fwww.cnnbrasil.com.br%2Feconomia%2Fmacroeconomia%2Fenterrar-fios-em-sp-reduziria-apagoes-mas-custaria-r-20-bi-somente-no-centro%2F%23goog_rewarded

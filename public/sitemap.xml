@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-09-24T20:26:52-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/resenhas/2025-09-24-comentando-a-materia-no-futuro-atendimento-digital-deve-se-restringir-a-processos-repetitivos/</loc>
-    <lastmod>2025-09-24T20:26:52-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-09-29T11:52:56-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projetos/paisagem-antenada/</loc>
+    <lastmod>2025-09-29T11:52:56-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projetos/</loc>
+    <lastmod>2025-09-29T11:52:56-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-09-29T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/cidade/</loc>
+    <lastmod>2025-09-29T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/categories/cr%C3%B4nicas/</loc>
+    <lastmod>2025-09-29T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/cronicas/2025-09-29-sao-paulo-a-luz-de-velas-e-mudancas-climaticas/</loc>
+    <lastmod>2025-09-29T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/resenhas/2025-09-24-comentando-a-materia-no-futuro-atendimento-digital-deve-se-restringir-a-processos-repetitivos-jornal-da-usp/</loc>
     <lastmod>2025-09-24T20:26:52-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/categories/resenhas/</loc>
@@ -17,7 +32,7 @@
     <loc>http://localhost:1313/blog/tags/tecnologia/</loc>
     <lastmod>2025-09-24T20:26:52-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2025-09-24-floracao-do-ype/</loc>
+    <loc>http://localhost:1313/blog/2025-09-24-floracao-de-setembro/</loc>
     <lastmod>2025-09-24T20:08:11-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/fotografia/</loc>
@@ -26,13 +41,7 @@
     <loc>http://localhost:1313/blog/cronicas/2025-09-20-cratera-de-colonia-e-por-que-a-geografia-e-importante/</loc>
     <lastmod>2025-09-20T09:08:03-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/cr%C3%B4nicas/</loc>
-    <lastmod>2025-09-20T09:08:03-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projetos/prato-do-dia-na-esquina/</loc>
-    <lastmod>2025-09-15T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projetos/</loc>
     <lastmod>2025-09-15T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/cronicas/2025-09-14-revisitando-os-bicos-de-lacre-de-2021/</loc>
@@ -98,7 +107,7 @@
     <loc>http://localhost:1313/blog/tags/religi%C3%A3o/</loc>
     <lastmod>2025-05-10T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2025-05-01-meu-tributo-ao-epub/</loc>
+    <loc>http://localhost:1313/blog/resenhas/2025-05-01-meu-tributo-ao-epub/</loc>
     <lastmod>2025-05-01T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/categories/poesia/</loc>
@@ -166,9 +175,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/contos/2025-03-24-traicao-em-cubatao/</loc>
     <lastmod>2025-03-24T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/cidade/</loc>
-    <lastmod>2025-03-19T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/cronicas/2025-03-18-figuras-do-transporte-publico/</loc>
     <lastmod>2025-03-19T00:00:00-03:00</lastmod>

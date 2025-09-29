@@ -1,10 +1,10 @@
 ---
 layout: projetos
-title: "Paisagem antenada"
-date: {{ now.Format "2006-01-02 15:04:05" }}
+title: "Paisagem Antenada"
+date: 2025-09-29 11:52:56
 author: 'Daniely Silva'
-summary: "Summary of the {{ replace .Name "-" " " | title }} project"
-featured_image: "/img/projects/paisagem-antenada/antena-01.jpg"
+summary: "Summary of the Paisagem Antenada project"
+featured_image: "/img/blog/sao-paulo-a-luz-de-velas-2.jpg"
 featured_image_title: "lorem ipsum dolor sit amet"
 featured_image_alt: "Lorem ipsum dolor sit amet, consectur adipiscing elit."
 draft: 'true'
@@ -27,7 +27,7 @@ No panorama urbano da cidade de São Paulo, três elementos se destacam na sua s
 
 <div class="lightbox" id="imagem1"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina3.jpg" alt="." title="." /><p>.</p></div></div>
 <div class="lightbox" id="imagem2"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina4.jpg" alt="." title="." /><p>.</p></div></div>
-<div class="lightbox" id="imagem3"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina5.jpg" alt="." title="." /><p>.</p></div>/div> 
+<div class="lightbox" id="imagem3"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina5.jpg" alt="." title="." /><p>.</p></div></div>    
 <div class="lightbox" id="imagem4"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina6.jpg" alt="." title="." /><p>.</p></div></div>
 <div class="lightbox" id="imagem5"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina-feira8.jpg" alt="." title="." /><p>.</p></div></div>
 </div>

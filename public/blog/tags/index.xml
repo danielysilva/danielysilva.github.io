@@ -6,8 +6,15 @@
     <description>Recent content in Etiquetas on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 24 Sep 2025 20:26:52 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 00:00:00 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cidade</title>
+      <link>http://localhost:1313/blog/tags/cidade/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/tags/cidade/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Tecnologia</title>
       <link>http://localhost:1313/blog/tags/tecnologia/</link>
@@ -90,13 +97,6 @@
       <link>http://localhost:1313/blog/tags/causos/</link>
       <pubDate>Mon, 14 Apr 2025 18:39:43 -0300</pubDate>
       <guid>http://localhost:1313/blog/tags/causos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cidade</title>
-      <link>http://localhost:1313/blog/tags/cidade/</link>
-      <pubDate>Wed, 19 Mar 2025 00:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/cidade/</guid>
       <description></description>
     </item>
     <item>

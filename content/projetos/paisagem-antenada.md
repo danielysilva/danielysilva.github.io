@@ -10,7 +10,9 @@ featured_image_alt: "Lorem ipsum dolor sit amet, consectur adipiscing elit."
 draft: 'true'
 ---
 
-No panorama urbano da cidade de São Paulo, três elementos se destacam na sua silhueta: o Pico do Jaraguá — a antiga Porta para o Sertão —, a distante Serra da Cantareira e as torres de telecomunicação. Numa paisagem que não é marcada por grandes arranha-céus,
+No panorama urbano da cidade de São Paulo, três elementos se destacam na sua silhueta: o Pico do Jaraguá — a antiga Porta para o Sertão —, a distante Serra da Cantareira e as torres de telecomunicação. Numa paisagem que não é marcada por grandes arranha-céus, as torres tomam o lugar no horizonte.
+
+rota de helicópteros
 
 
 <section class="galeria">

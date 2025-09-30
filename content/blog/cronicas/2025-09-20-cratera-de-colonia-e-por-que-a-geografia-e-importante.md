@@ -12,12 +12,11 @@ featured_image_alt: "Vista de bairro periférico com borda de cratera ao fundo."
 draft: false
 ---
 
-A Cratera de Colônia anseia por ser reconhecida plenamente como uma cratera de impacto. Falta financiamento para a perfuração que responderia uma série de perguntas sobre esse precioso relevo que encontramos no extremo Sul da cidade de São Paulo.
-Abrigando o bairro de Vargem Grande em seu interior, a cratera nos mostra que nem um impacto de dezenas de milhões de anos pôde interromper o caos habitacional que empurra o trabalhador para extremos cada vez mais distantes: encostas, morros, várzeas, pântanos e até crateras.
+A Cratera de Colônia anseia por ser reconhecida plenamente como uma cratera de impacto. Falta financiamento para a perfuração que responderia uma série de perguntas sobre esse precioso relevo que encontramos no extremo Sul da cidade de São Paulo. Abrigando o bairro de Vargem Grande em seu interior, a cratera nos mostra que nem um impacto de dezenas de milhões de anos pôde interromper o caos habitacional que empurra o trabalhador para extremos cada vez mais distantes: encostas, morros, várzeas, pântanos e até crateras.
 
 A gente olha e vê uma serra, mas é a borda de uma cratera. A Cratera de Colônia, originada por um provável impacto há um período impreciso entre cerca de 10 a 30 milhões de anos, é uma das feições de relevo mais interessantes na cidade de São Paulo. Pois é, a Zona Sul da cidade tem de tudo. Tem cachoeira, tem represas, tem balsa e barco, trilha pro litoral e até uma cratera de impacto.
 
-O nome Colônia remete a uma das mais antigas colônias alemãs do Brasil, composta também por suíços e austríacos. Embora o estabelecimento da colônia seja de data incerta, o seu cemitério data de 1829, final do Primeira Império. O nome Colônia Alemã foi mudado para, simplesmente, Colônia, devido às medidas do Estado Novo contra referências aos países do Eixo. Foi pouco antes que, em 1935, o município de Santo Amaro, do qual a região fazia parte, foi absorvido por São Paulo, em  1935.
+O nome Colônia remete a uma das mais antigas colônias alemãs do Brasil, composta também por suíços e austríacos. Embora o estabelecimento da colônia seja de data incerta, o seu cemitério data de 1827, final do Primeiro Império. O nome Colônia Alemã foi mudado para, simplesmente, Colônia, devido às medidas do Estado Novo contra referências aos países do Eixo. Foi pouco antes que, em 1935, o município de Santo Amaro, do qual a região fazia parte, foi absorvido por São Paulo.
 
 Apesar do nome, o bairro de Colônia fica fora da cratera. O relevo levou o nome por ser esse bairro o único núclea habitado da região quando de sua identificação, em 1961. O bairro de Vargem Grande começou a se formar a partir de 1989.
 

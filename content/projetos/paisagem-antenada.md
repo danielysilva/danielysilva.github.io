@@ -40,12 +40,12 @@ Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
 Lorem ipsum dolor sit amet.
 ![]()
 
-###
+### (Avenida Paulista, 320)
 Lorem ipsum dolor sit amet.
 ![]()
 
-###
-Lorem ipsum dolor sit amet.
+###  (Avenida Brigadeiro Luís Antônio, 1794)
+Torre de tranmsissão da antiga Telefônica.
 ![]()
 
 ### Condomínio Edifício Central Park (Avenida Paulista, 2200)

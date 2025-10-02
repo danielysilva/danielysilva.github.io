@@ -16,6 +16,8 @@ São Paulo é uma cidade global e uma metrópole de mais de 21 milhões de habit
 
 Numa paisagem que não é marcada por grandes arranha-céus, as torres roubam a cena no horizonte. 
 
+> Quem, de avião, deixa o aeroporto de Congonhas, situado ao sul da cidade, em demanda do norte, tem oportunidade de observar um dos mais característicos elementos do sítio urbano de São Paulo: trata-se do que denominamos de *Espigão Central*, alongado e estreito divisor de águas entre as bacias do Tietê e do Pinheiros. Nada mais é do que uma plataforma interfluvial, disposta em forma de uma irregular abóbada ravinada, cujos flancos descaem para NE e SW, em patamares escalonados, até atnigir as vastas calhas aluviais, de fundo achatado, por onde correm as águas do Tietê e do Pinheiros. A avenida Paulista superpôs-se exatamente ao eixo principal dêsse espigão, enquanto o interminável casario dos bairros recobre seus dois flancos. [...] (AB'SABER, 2007, p. 100-101)
+
 O Espigão Central se estende ao longo de 13 quilômetros a partir das Perdizes, passando pela Avenida Paulista e seguindo pela Vila Mariana e Saúde em direção ao distrito do Jabaquara. Sua largura varia de 100 a 500 e a altitude de 790 a 890 metros sobre o nível do mar. O relevo é um divisor de água entre os afluentes do rio Pinheiros e Tietê. (GOUVEIA, 2020). 
 
 
@@ -31,9 +33,16 @@ https://www.teses.usp.br/teses/disponiveis/16/16131/tde-27052022-114359/publico/
 olha página 29
 
 É nesse eixo que se situam as principais torres de telecomunicações. A altitude é favorável à transmissão, mas também a um marco na paisagem. As principais se situam na Avenida Paulista e arredores, mas há, também, importantes torres no distrito das Perdizes.
-As principais se situam no Espigão da Paulista e no distrito das Perdizes, as áreas mais altas do Centro Expandido, com altitudes médias de xxx e xxx metros. Em lugar de destaque, têm projeto arquitetônico arrojado.
+
+As principais se situam na Avenida Paulista, porção central e estreita do Espigão, de 805 a 830 metros de altitude, e nas Colinas da Sumaré, no distrito das Perdizes, entre 780 e 830 metros de altitude (AB'SABER, 2007, p. 105). São as áreas mais altas do Centro Expandido. Há torres importantes no Alto da Lapa, extremidade oeste do Espigão Central, entre 780 e 820 metros de altitude (AB'SABER, 2007, p. 18), como a da Rádio Transamérica.
+
+Em lugar de destaque, têm projeto arquitetônico arrojado.
+
+Para quem quer simbolizar o poder, é importante estar no alto. 
 
 Entretanto, não é desprezível a presença de torres relevantes em regiões de planície fluvial, como a da sede da Record, a da rádio Antena 1 e a do Edifício Birmann 21. Estas torres listadas que se situam em região de planície localizam-se, com a exceção da sede Record (Barra Funda), todas no Vetor Sudoeste, região de grande pujança econômica no município a partir da década de 1990.
+
+* AB'SABER. **Geomorfologia do Sítio Urbano de São Paulo, Edição Fac–Similar**. São Paulo: Ateliê Editorial, 2007.
 
 * ABDALLAH, Collin. **Which Cities Have the Most High-Rises?**. ArchDaily: 19 jun. 2018. Disponível em: < https://www.archdaily.com/896442/which-cities-have-the-most-high-rises >. Acesso: 01 out. 2025.
 

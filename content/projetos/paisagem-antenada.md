@@ -23,7 +23,7 @@ O Espigão Central se estende ao longo de 13 quilômetros a partir das Perdizes,
 
 É nesse eixo que se situam as principais torres de telecomunicações. Numa paisagem que não é marcada por grandes arranha-céus, as torres roubam a cena no horizonte.  A altitude é favorável à transmissão, mas também a um marco na paisagem. As principais se situam na Avenida Paulista e arredores, mas há, também, importantes torres no distrito das Perdizes.
 
-As principais se situam na Avenida Paulista, porção central e estreita do Espigão, de 805 a 830 metros de altitude, e nas Colinas da Sumaré, no distrito das Perdizes, entre 780 e 830 metros de altitude (AB'SABER, 2007, p. 105). São as áreas mais altas do Centro Expandido. Há torres importantes no Alto da Lapa, extremidade oeste do Espigão Central, entre 780 e 820 metros de altitude (AB'SABER, 2007, p. 18), como a da Rádio Transamérica.
+As principais se situam na Avenida Paulista, porção central e estreita do Espigão, de 805 a 830 metros de altitude, e nas Colinas da Sumaré, no distrito das Perdizes, entre 780 e 830 metros de altitude (AB'SABER, 2007, p. 105). São as áreas mais altas do Centro Expandido. Há torres importantes no Alto da Lapa, extremidade oeste do Espigão Central, entre 780 e 820 metros de altitude (AB'SABER, 2007, p. 18), como a da Rede Transamérica e a da Claro.
 
 Um dos símbolos do poder é estar no alto e visualizar a cidade abaixo. O Espigão Central foi escolhido para a Avenida Paulista, quando inaugurada em 1891. Residência dos ascendentes "barões" do café, o logradouro já era dotado de telefone, luz e bonde elétrico quando esse serviços eram ainda novidade.
 
@@ -147,6 +147,10 @@ Lorem ipsum dolor sit amet.
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![]()
+
+### Torre da Claro (Rua Butirapoã, 45)
+*Inauguração: xxxx.*
+Numa travessa da Rua Cerro Corá, continuidade da Heitor Penteado, transmite sinal da operadora mexicana Claro, uma das três presentes no país.
 
 ### Torre da Rede Transamérica (Rua Pio XI, 1587)
 *Inauguração: xxxx.*

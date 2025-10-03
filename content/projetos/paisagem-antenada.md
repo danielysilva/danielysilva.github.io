@@ -31,29 +31,29 @@ Em lugar de destaque, têm projeto arquitetônico arrojado. Se os donos do café
 
 Também é desprezível a presença de torres relevantes em regiões de planície fluvial, como a da sede da Record (a qual também tem a torre no Edifício Grande Avenida, na Paulista), a da rádio Antena 1 e a do Edifício Birmann 21. Estas torres listadas que se situam em região de planície localizam-se, com a exceção da sede Record (Barra Funda), todas no Vetor Sudoeste, região de grande pujança econômica no município a partir da década de 1990.
 
-A ordem será do começo a Avenida Paulista (a Sudeste) para o final.
+A ordem será do começo a Avenida Paulista para o final, ou seja, numeração em ordem crescente e no sentido Sudeste-Noroeste.
 
-### Torre do prédio da Unip, câmpus Paraíso
+### Torre do prédio da Unip, câmpus Paraíso (Rua Vergueiro, 1211)
 *Inauguração: xxxx.*
 Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
 ![]()
 
-### Torre do Itaú Cultural
+### Torre do Itaú Cultural (Av. Paulista, 149)
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![]()
 
-### (Avenida Paulista, 320)
+### (Av. Paulista, 320)
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![]()
 
-### Torre do Edifício Patrimônio (Avenida Paulista, 509)
+### Torre do Edifício Patrimônio (Av. Paulista, 509)
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![]()
 
-###  (Avenida Brigadeiro Luís Antônio, 1794)
+###  (Av. Brigadeiro Luís Antônio, 1794)
 *Inauguração: xxxx.*
 Torre de tranmsissão da antiga Telefônica.
 ![]()
@@ -63,60 +63,50 @@ Torre de tranmsissão da antiga Telefônica.
 Transmite o sinal da CBN
 ![]()
 
-### Torre da Rádio Jovem Pan (Avenida Paulista, 807)
+### Torre da Rádio Jovem Pan (Av. Paulista, 807)
 *Inauguração: xxxx.*
 Torre pouco relevante, assim como a rádio homônima.
 ![]()
 
-### Torre Cásper Líbero (Avenida Paulista, 900)
+### Torre Cásper Líbero (Av. Paulista, 900)
 *Inauguração: xxxx.*
 A de iluminação mais icônica. É a torre do TV Gazeta e, até 2019, foi usada também pelo Grupo Globo, no que se destacava a trasmissão da CBN.
 
 https://tudoradio.com/noticias/ver/22700-curiosidade-cbn-investe-em-nova-estrutura-de-transmissao-para-sua-fm-em-sao-paulo
 ![]()
 
-### Torre
+### Torre do Edíficio Asahi (Av. Paulista, 1274)
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![]()
 
-### Torre
-*Inauguração: xxxx.*
-Lorem ipsum dolor sit amet.
-![]()
-
-### Torre
-*Inauguração: xxxx.*
-Lorem ipsum dolor sit amet.
-![]()
-
-### Edifício Paulista I (Avenida Paulista, 1337)
+### Edifício Paulista I (Av. Paulista, 1337)
 *Inauguração: xxxx.*
 Anteriormente, transmitiu o sinal da BandNews FM (96.9), antes da transferência para a Torre da Band.
 ![]()
 
-### Torre
+### Torre (Av. Paulista, 1439)
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![]()
 
-### Torre da Record no Edifício Grande Avenida (Avenida Paulista, 1754)
+### Torre da Record no Edifício Grande Avenida (Av. Paulista, 1754)
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![]()
 
-### Torre ... (Avenida Paulista, 2028)
+### Torre ... (Av. Paulista, 2028)
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![]()
 
 
-### Condomínio Edifício Central Park (Avenida Paulista, 2200)
+### Condomínio Edifício Central Park (Av. Paulista, 2200)
 *Inauguração: xxxx.*
 Transmite o sinal das rádios Kiss FM (92.5MHz), ´[Vibe]´ Mundial (95.7MHz), Metropolitana (98.5MHz), Alpha FM (101.7MHz) e  Top FM (104.1MHz).
 ![]()
 
-### Torre no Edifício São Luís Gonzaga (Avenida Paulista, 2300)
+### Torre no Edifício São Luís Gonzaga (Av. Paulista, 2300)
 *Inauguração: xxxx.*
 Torre discreta que quase some ao estar sobre um edifício tão massudo.
 ![]()
@@ -138,17 +128,30 @@ Tem iluminação????
 É a mais alta da cidade, com 212 metros de altura. Sua inauguração substituiu as transmissões do grupo a partir do Pico do Jaraguá. Em 2019, passou a transmitir o sinal da BandNews FM (96.9)
 ![]()
 
-###
+### Torre da TV Cultura (Av. Dr. Arnaldo, 1761)
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![]()
 
-###
+### Torre do Edifício Victor Civita (Av. Prof. Afonso Bovero, 52)
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![]()
 
+### Torre do SBT (Av. Professor Afonso Bovero, 72)
+*Inauguração: xxxx.*
+Lorem ipsum dolor sit amet.
+![]()
 
+### Torre da RedeTV (Rua Bruxelas, 199)
+*Inauguração: xxxx.*
+Lorem ipsum dolor sit amet.
+![]()
+
+### Torre da Rede Transamérica (Rua Pio XI, 1587)
+*Inauguração: xxxx.*
+Transmite o sinal da rádio Transamérica (100.1 MHz).
+![]()
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1tBl_arBJ8UgDu7MlBAD7FkeExT1vBhQ&ehbc=2E312F" width="640" height="480"></iframe>
 

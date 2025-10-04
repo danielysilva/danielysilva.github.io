@@ -10,28 +10,29 @@ featured_image_alt: "Lorem ipsum dolor sit amet, consectur adipiscing elit."
 draft: 'true'
 ---
 
-No panorama urbano da cidade de São Paulo, três elementos se destacam na sua silhueta: o Pico do Jaraguá — a antiga Porta para o Sertão —, a distante Serra da Cantareira e as torres de telecomunicação.
-
-São Paulo é uma cidade global e uma metrópole de mais de 21 milhões de habitante. São poucas cidades nessa condição que não são dotadas de grandes arranha-céus. Até a conclusão do complexo Alto das Nações, com 219 metros de altura, no Vetor Sudoeste da cidade, não havia edifício que ultrapassasse a segunda centena de metros. Seja pelos planos diretores, pelos aeroportos, pela rota de helicópteros ou mera escolha de mercado, o horizonte da cidade foi forrado por um tapete uniforme de edifícios de altura parecida. Em quantidade, a cidade não deixa a desejar; segundo o fórum Emporis, são mais de 6 mil e 300 edifícios com mais de 35 metros (115 pés) ou 12 andares (ABDALLAH, 2018), o que a coloca entre as dez cidades do mundo nesse critério.
+São Paulo é uma cidade global e uma metrópole de mais de 21 milhões de habitante. São poucas cidades nessa condição que não são dotadas de grandes arranha-céus. Até a conclusão do complexo Alto das Nações, com 219 metros de altura, no Vetor Sudoeste da cidade, não havia edifício que ultrapassasse a segunda centena de metros. Seja pelos planos diretores, pelos aeroportos, pela rota de helicópteros ou mera escolha de mercado, o horizonte da cidade foi forrado por um tapete uniforme de edifícios de altura parecida. Em quantidade, a cidade não deixa a desejar, pois, segundo o fórum Emporis, são mais de 6 mil e 300 edifícios com mais de 35 metros (115 pés) ou 12 andares (ABDALLAH, 2018), o que a coloca entre as dez cidades do mundo nesse critério. Numa paisagem que não é marcada por grandes arranha-céus, as torres e antenas roubam a cena no horizonte. São mais de ......., as principais distribuídas no Espigão Central, também chamado de Espigão da Paulista, em referência à sua porção central e mais marcante.
 
 > Quem, de avião, deixa o aeroporto de Congonhas, situado ao sul da cidade, em demanda do norte, tem oportunidade de observar um dos mais característicos elementos do sítio urbano de São Paulo: trata-se do que denominamos de *Espigão Central*, alongado e estreito divisor de águas entre as bacias do Tietê e do Pinheiros. Nada mais é do que uma plataforma interfluvial, disposta em forma de uma irregular abóbada ravinada, cujos flancos descaem para NE e SW, em patamares escalonados, até atingir as vastas calhas aluviais, de fundo achatado, por onde correm as águas do Tietê e do Pinheiros. A avenida Paulista superpôs-se exatamente ao eixo principal dêsse espigão, enquanto o interminável casario dos bairros recobre seus dois flancos. [...] (AB'SABER, 2007, p. 100-101)
 
 ![Perfil topográfico do Espigão Central, São Paulo.](/img/projects/paisagem-antenada/paisagem-antenada-perfil-espigao.jpg "Perfil topográfico do Espigão Central.")
 (VIEGAS, 2020)
 
-O Espigão Central se estende ao longo de 13 quilômetros a partir das Perdizes, passando pela Avenida Paulista e seguindo pela Vila Mariana e Saúde em direção ao distrito do Jabaquara. Sua largura varia de 100 a 500 e a altitude de 790 a 890 metros sobre o nível do mar. O relevo é um divisor de água entre os afluentes do rio Pinheiros e Tietê. (GOUVEIA, 2020).
-
-É nesse eixo que se situam as principais torres de telecomunicações. Numa paisagem que não é marcada por grandes arranha-céus, as torres roubam a cena no horizonte.  A altitude é favorável à transmissão, mas também a um marco na paisagem. As principais se situam na Avenida Paulista e arredores, mas há, também, importantes torres no distrito das Perdizes.
+É nesse eixo que se situam as principais torres de telecomunicações. O Espigão Central se estende ao longo de 13 quilômetros a partir das Perdizes, passando pela Avenida Paulista e seguindo pela Vila Mariana e Saúde em direção ao distrito do Jabaquara. Sua largura varia de 100 a 500 e a altitude de 790 a 890 metros sobre o nível do mar. O relevo é um divisor de água entre os afluentes do rio Pinheiros e Tietê. (GOUVEIA, 2020).
 
 As principais se situam na Avenida Paulista, porção central e estreita do Espigão, de 805 a 830 metros de altitude, e nas Colinas da Sumaré, no distrito das Perdizes, entre 780 e 830 metros de altitude (AB'SABER, 2007, p. 105). São as áreas mais altas do Centro Expandido. Há torres importantes no Alto da Lapa, extremidade oeste do Espigão Central, entre 780 e 820 metros de altitude (AB'SABER, 2007, p. 18), como a da Rede Transamérica e a da Claro.
 
-Um dos símbolos do poder é estar no alto e visualizar a cidade abaixo. O Espigão Central foi escolhido para a Avenida Paulista, quando inaugurada em 1891. Residência dos ascendentes "barões" do café, o logradouro já era dotado de telefone, luz e bonde elétrico quando esse serviços eram ainda novidade.
+A altitude é favorável à transmissão, mas também a um marco na paisagem. Um dos símbolos do poder é estar no alto e visualizar a cidade abaixo. O Espigão Central foi escolhido para a Avenida Paulista, quando inaugurada em 1891. Residência dos ascendentes "barões" do café, o logradouro já era dotado de telefone, luz e bonde elétrico quando esse serviços eram ainda novidade.
 
 Em lugar de destaque, têm projeto arquitetônico arrojado. Se os donos do café marcaram a cidade no século XIX, foram os donos dos grandes veículos de comunicação que quiseram imprimir sua marca na paisagem. A Rede Globo, a Rede Record, a Gazeta, o Grupo Bandeirantes, a Rádio Transamérica e até a Igreja Renascer têm torres de destaque.
 
-Também é desprezível a presença de torres relevantes em regiões de planície fluvial, como a da sede da Record (a qual também tem a torre no Edifício Grande Avenida, na Paulista), a da rádio Antena 1 e a do Edifício Birmann 21. Estas torres listadas que se situam em região de planície localizam-se, com a exceção da sede Record (Barra Funda), todas no Vetor Sudoeste, região de grande pujança econômica no município a partir da década de 1990.
+Não é desprezível a presença de torres relevantes em regiões baixas da cidade, como a da sede da Record, na Barra Funda, a da rádio Antena 1, no Butantã (????), e a do Edifício Birmann 21, em Pinheiros. Estas torres listadas que se situam em região de planície localizam-se, com a exceção da sede Record (Barra Funda), todas no Vetor Sudoeste, região de grande pujança econômica no município a partir da década de 1990.
 
 A ordem será do começo a Avenida Paulista para o final, ou seja, numeração em ordem crescente e no sentido Sudeste-Noroeste.
+
+
+PROBLEMA DE RÁDIOS COM SEDE NO INTERIOR QUE TRANSMITEM DE SÃO PAULO (OU É O CONTRÁRIO?)
+https://www.skyscrapercity.com/threads/sp-antenas-e-torres-de-s%C3%A3o-paulo-com-informa%C3%A7%C3%B5es-e-mais-de-150-fotos.529673/
+
 
 ### Torre do prédio da Unip, câmpus Paraíso (Rua Vergueiro, 1211)
 *Inauguração: xxxx.*
@@ -85,7 +86,7 @@ Lorem ipsum dolor sit amet.
 Anteriormente, transmitiu o sinal da BandNews FM (96.9), antes da transferência para a Torre da Band.
 ![]()
 
-### Torre (Av. Paulista, 1439)
+### Torre da Energia FM (97 MHz) (Av. Paulista, 1439)
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![]()

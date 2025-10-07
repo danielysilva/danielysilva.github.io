@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-29T11:52:56-03:00</lastmod>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-10-07T19:49:16-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projetos/paisagem-antenada/</loc>
-    <lastmod>2025-09-29T11:52:56-03:00</lastmod>
+    <loc>http://localhost:1313/blog/tags/filmes/</loc>
+    <lastmod>2025-10-07T19:49:16-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-07T19:49:16-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/resenhas/2025-10-07-resenha-de-sinfonia-da-necropole-2014/</loc>
+    <lastmod>2025-10-07T19:49:16-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/categories/resenhas/</loc>
+    <lastmod>2025-10-07T19:49:16-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projetos/</loc>
     <lastmod>2025-09-29T11:52:56-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-09-29T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/cidade/</loc>
     <lastmod>2025-09-29T00:00:00-03:00</lastmod>
@@ -24,9 +30,6 @@
     <lastmod>2025-09-29T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/resenhas/2025-09-24-comentando-a-materia-no-futuro-atendimento-digital-deve-se-restringir-a-processos-repetitivos-jornal-da-usp/</loc>
-    <lastmod>2025-09-24T20:26:52-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/categories/resenhas/</loc>
     <lastmod>2025-09-24T20:26:52-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/tecnologia/</loc>
@@ -136,9 +139,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/poesia/2025-04-28-poesia-carroceiro/</loc>
     <lastmod>2025-04-28T17:10:52-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/filmes/</loc>
-    <lastmod>2025-04-27T13:11:33-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/resenhas/2025-04-27-oeste-outra-vez-2024-um-faroeste-brasileiro-em-goias/</loc>
     <lastmod>2025-04-27T13:11:33-03:00</lastmod>
@@ -295,9 +295,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/cronicas/2022-10-29-bolsonaro-e-treze/</loc>
     <lastmod>2022-10-29T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projetos/guaicurus/</loc>
-    <lastmod>2022-07-28T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projetos/tipografias-temporais/</loc>
     <lastmod>2022-05-28T00:00:00-03:00</lastmod>

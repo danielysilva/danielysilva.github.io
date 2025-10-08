@@ -9,11 +9,11 @@ summary:
 draft: false
 ---
 
-* Direção e roteiro: Juliana Rojas;
-* Produção: Max Eluard;
-* Elenco: Eduardo Gomes como Deodato; Luciana Paes como Jaqueline;
-* Estreia: julho de 2014, no Festival de Paulínia;
-* Lançamento nacional: abril de 2016.
+* **Direção e roteiro**: Juliana Rojas;
+* **Produção**: Max Eluard;
+* **Elenco**: Eduardo Gomes como Deodato; Luciana Paes como Jaqueline;
+* **Estreia**: julho de 2014, no Festival de Paulínia;
+* **Lançamento nacional**: abril de 2016.
 
 Este é um raro caso de um musical que me cativou de primeira, cheguei a vê-lo três vezes — eu que não sou de repetir filmes. Percorre as camadas do medo da morte, da insensibilidade com a memória, uma alegoria da especulação imobiliária e o amor romântico na sua face inalcançável.
 

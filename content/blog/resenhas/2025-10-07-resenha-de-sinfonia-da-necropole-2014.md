@@ -28,10 +28,10 @@ A voz e o rosto delicados, que o capacete revela não se tratar de um motoqueiro
 
 O município precisa fazer uma varredura nos jazigos antigos numa porção do cemitério e contatar as famílias. O plano é removê-los e construir um conjunto de gavetas verticais. O problema é que muitas famílias não são localizadas e o destino dos restos mortais correspondentes se torna uma questão.
 
-> Não toque no nosso túmulo\
+> *Não toque no nosso túmulo\
 Ousar mexer no repouso\
 De quem já foi sepultado\
-É errado
+É errado*\
 (trecho da canção lúgubre cantada pelos mortos no melhor estilo de *Thriller*)
 
 Assustado, Deodato é tomado por uma revolta em defesa dos ossos esquecidos. Sua mente é assolada por visões no limiar entre o delírio e o sobrenatural, enquanto que seu corpo é atingido por estranhos desmaios.

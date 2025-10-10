@@ -17,4 +17,4 @@ Já é difícil cultivá-la. Ao colhê-la para dar de presente, ela vai durar po
 
 Esse é o ciclo esperado. Tanto trabalho para tão pouco tempo de encanto faz com que se valorize cada momento que a rosa nos oferece. Por isso é que há muita ousadia na flor de plástico, uma mera imitação vulgar.
 
-Tão vulgar porque é feita em série numa fábrica com mão-de-obra parada em algum país explorado. Ela supõe durar pra sempre porque é falsa como o sentimento de quem a presenteou. Quando se desmanchar, ainda vai deixar microplásticos contaminando os oceanos e organismos da Terra por séculos. A rosa orgânica, por outro lado, ajuda a capturar o carbono gerado na produção vulgar da rosa de plástico.
+Tão vulgar porque é feita em série numa fábrica com mão-de-obra precária em algum país explorado. Ela supõe durar pra sempre porque é falsa como o sentimento de quem a presenteou. Quando se desmanchar, ainda vai deixar microplásticos contaminando os oceanos e organismos da Terra por séculos. A rosa orgânica, por outro lado, ajuda a capturar o carbono gerado na produção vulgar da rosa de plástico.

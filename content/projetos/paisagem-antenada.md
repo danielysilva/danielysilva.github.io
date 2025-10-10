@@ -27,13 +27,11 @@ Se os donos do café marcaram a cidade no século XIX, foram os donos dos grande
 
 Não é desprezível a presença de torres relevantes em regiões baixas da cidade, como a da sede da Record, na Barra Funda, a da rádio Antena 1, no Morumbi, e a do Edifício Birmann 21, em Pinheiros. Com a exceção da sede Record (Barra Funda), essas torres em planície estão todas no Vetor Sudoeste, região de grande pujança econômica no município a partir da década de 1990.
 
-Parto de um projeto antigo, o qual iniciei em 2022. 
-.............
-A ordem será do começo a Avenida Paulista para o final, ou seja, numeração em ordem crescente e no sentido Sudeste-Noroeste.
+Parto de um projeto antigo, o qual iniciei em 2022. A ideia era mapear as principais torres de telecomunicações e, eventualmente, fotografá-las; só fiz a primeira parte, agora parti para a segunda. Já vi dois projetos parecidos, um publicado no fórum [Skyscrapercity](https://www.skyscrapercity.com/threads/sp-antenas-e-torres-de-s%C3%A3o-paulo-com-informa%C3%A7%C3%B5es-e-mais-de-150-fotos.529673/) e o outro, [O Inferno das Torres](http://netleland.net/hsampa/infernoTorres/index.html), no Netland, blogue dos primórdios da internete. A ordem será do começo a Avenida Paulista para o final, ou seja, numeração em ordem crescente e no sentido Sudeste-Noroeste.
 
 
 PROBLEMA DE RÁDIOS COM SEDE NO INTERIOR QUE TRANSMITEM DE SÃO PAULO (OU É O CONTRÁRIO?)
-https://www.skyscrapercity.com/threads/sp-antenas-e-torres-de-s%C3%A3o-paulo-com-informa%C3%A7%C3%B5es-e-mais-de-150-fotos.529673/
+
 
 
 ### Torre do prédio da Unip, câmpus Paraíso (Rua Vergueiro, 1211)

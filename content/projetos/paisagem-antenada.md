@@ -10,7 +10,7 @@ featured_image_alt: "Lorem ipsum dolor sit amet, consectur adipiscing elit."
 draft: 'true'
 ---
 
-São Paulo é uma cidade global e uma metrópole de mais de 21 milhões de habitante. São poucas cidades nessa condição que têm grandes arranha-céus. Até a conclusão do complexo Alto das Nações, com 219 metros de altura, no Vetor Sudoeste da cidade, não havia edifício que ultrapassasse a segunda centena de metros. Seja pelos planos diretores, pelos aeroportos, pela rota de helicópteros ou mera escolha de mercado, o horizonte da cidade foi forrado por um tapete uniforme de edifícios de altura parecida. Em quantidade, a cidade não deixa a desejar, pois, segundo o fórum Emporis, são mais de 6 mil e 300 edifícios com mais de 35 metros ou 12 andares (ABDALLAH, 2018), o que a coloca entre as dez cidades do mundo nesse critério. Numa paisagem que não é marcada por grandes arranha-céus, as torres e antenas roubam a cena na silhueta urbana. São dezenas de torres, as principais distribuídas no Espigão Central, também chamado de Espigão da Paulista, em referência à sua porção central e mais emblemática.
+São Paulo é uma cidade global e uma metrópole de mais de 21 milhões de habitante. São poucas cidades nessa condição que têm grandes arranha-céus. Até a conclusão do complexo Alto das Nações, com 219 metros de altura, no Vetor Sudoeste da cidade, não havia edifício que ultrapassasse a segunda centena de metros. Seja pelos planos diretores, pelos aeroportos, pela rota de helicópteros ou mera escolha de mercado, o horizonte da cidade foi forrado por um tapete uniforme de edifícios de altura parecida. Em quantidade, a cidade não deixa a desejar, pois, segundo o fórum *Emporis*, são mais de 6 mil e 300 edifícios com mais de 35 metros ou 12 andares (ABDALLAH, 2018), o que a coloca entre as dez cidades do mundo nesse critério. Numa paisagem que não é marcada por grandes arranha-céus, as torres e antenas roubam a cena na silhueta urbana. São dezenas de torres, as principais distribuídas no Espigão Central, também chamado de Espigão da Paulista, em referência à sua porção central e mais emblemática.
 
 > Quem, de avião, deixa o aeroporto de Congonhas, situado ao sul da cidade, em demanda do norte, tem oportunidade de observar um dos mais característicos elementos do sítio urbano de São Paulo: trata-se do que denominamos de *Espigão Central*, alongado e estreito divisor de águas entre as bacias do Tietê e do Pinheiros. Nada mais é do que uma plataforma interfluvial, disposta em forma de uma irregular abóbada ravinada, cujos flancos descaem para NE e SW, em patamares escalonados, até atingir as vastas calhas aluviais, de fundo achatado, por onde correm as águas do Tietê e do Pinheiros. A avenida Paulista superpôs-se exatamente ao eixo principal dêsse espigão, enquanto o interminável casario dos bairros recobre seus dois flancos. [...] (AB'SABER, 2007, p. 100-101)
 
@@ -23,7 +23,7 @@ As principais se situam na Avenida Paulista, porção central e estreita do Espi
 
 A altitude é favorável à transmissão, mas também a um marco na paisagem. Um dos símbolos do poder é estar no alto e visualizar a cidade abaixo. O Espigão Central foi escolhido para a Avenida Paulista, quando inaugurada em 1891. Residência dos latifundiários do café, o logradouro já era dotado de telefone, luz e bonde elétrico quando esses serviços eram ainda novidade no país.
 
-Se os donos do café marcaram a cidade no século XIX, foram os donos dos grandes veículos de comunicação que quiseram imprimir sua marca na paisagem. A Rede Globo, a Rede Record, a Gazeta, o Grupo Bandeirantes, a Rede TV, a Rádio Transamérica e até a Igreja Renascer têm altas e suntuosas torres na região. Em lugar de destaque, têm projeto arquitetônico arrojado. 
+Se os donos do café marcaram a cidade no século XIX, foram os donos dos grandes veículos de comunicação que quiseram imprimir sua marca na paisagem. A Rede Globo, a Rede Record, a Gazeta, o Grupo Bandeirantes, a Rede TV, a Rádio Transamérica e até a Igreja Renascer têm altas e suntuosas torres na região. Em lugar de destaque, têm projeto arquitetônico arrojado.
 
 Não é desprezível a presença de torres relevantes em regiões baixas da cidade, como a da sede da Record, na Barra Funda, a da rádio Antena 1, no Morumbi, e a do Edifício Birmann 21, em Pinheiros. Com a exceção da sede Record (Barra Funda), essas torres em planície estão todas no Vetor Sudoeste, região de grande pujança econômica no município a partir da década de 1990.
 
@@ -118,7 +118,6 @@ Em 2007, foi bloqueada pela justiça, embora a transmissão tenha sido mantida. 
 https://extra.globo.com/noticias/brasil/justica-bloqueia-torre-de-tv-da-igreja-renascer-678462.html
 https://folhagospel.com/torre-de-tv-da-igreja-renascer-e-bloqueada-pela-justica/
 
-Tem iluminação????
 ![]()
 
 ### Torre da Band (Rua Minas Gerais 454)

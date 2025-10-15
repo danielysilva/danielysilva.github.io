@@ -106,7 +106,7 @@ Lorem ipsum dolor sit amet.
 
 ### Condomínio Edifício Central Park (Av. Paulista, 2200)
 *Inauguração: xxxx.*
-Transmite o sinal das rádios Kiss FM (92.5MHz), ´[Vibe]´ Mundial (95.7MHz), Metropolitana (98.5MHz), Alpha FM (101.7MHz) e  Top FM (104.1MHz).
+Transmite o sinal das rádios Kiss FM (92.5MHz), `[Vibe]` Mundial (95.7MHz), Metropolitana (98.5MHz), Alpha FM (101.7MHz) e  Top FM (104.1MHz).
 ![]()
 
 ### Torre no Edifício São Luís Gonzaga (Av. Paulista, 2300)

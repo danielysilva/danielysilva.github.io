@@ -19,7 +19,7 @@ São Paulo é uma cidade global e uma metrópole de mais de 21 milhões de habit
 
 É nesse eixo que se situam as principais torres de telecomunicação. O Espigão Central se estende ao longo de 13 quilômetros a partir das Perdizes, passando pela Avenida Paulista e seguindo pela Vila Mariana e Saúde até o distrito do Jabaquara. Sua largura varia de 100 a 500 metros e a altitude de 790 a 890 metros sobre o nível do mar. O relevo é um divisor de águas entre os afluentes do rio Pinheiros e Tietê. (GOUVEIA, 2020).
 
-As principais se situam na Avenida Paulista, porção central e estreita do Espigão, de 805 a 830 metros de altitude, e nas Colinas da Sumaré, no distrito das Perdizes, entre 780 e 830 metros de altitude (AB'SABER, 2007, p. 105). São as áreas mais altas do Centro Expandido. Há torres importantes no Alto da Lapa, extremidade oeste do Espigão Central, entre 780 e 820 metros de altitude (AB'SABER, 2007, p. 18), como a da Rede Transamérica e a da Claro.
+As principais se situam na Avenida Paulista, porção central e estreita do Espigão, de 805 a 830 metros de altitude, e nas Colinas da Sumaré, no distrito das Perdizes, entre 780 e 830 metros de altitude (AB'SABER, 2007, p. 105). São as áreas mais altas do Centro Expandido. Há torres importantes no Alto da Lapa, extremidade oeste do Espigão Central, entre 780 e 820 metros de altitude (AB'SABER, 2007, p. 18), como a da Rede Transamérica e a da Claro. A vantagem de transmissão é tamanha que, irregularmente, rádios sediadas no interior mantinham torres de transmissão no Espigão Central de São Paulo.
 
 A altitude é favorável à transmissão, mas também a um marco na paisagem. Um dos símbolos do poder é estar no alto e visualizar a cidade abaixo. O Espigão Central foi escolhido para a Avenida Paulista, quando inaugurada em 1891. Residência dos latifundiários do café, o logradouro já era dotado de telefone, luz e bonde elétrico quando esses serviços eram ainda novidade no país.
 
@@ -27,14 +27,9 @@ Se os donos do café marcaram a cidade no século XIX, foram os donos dos grande
 
 Não é desprezível a presença de torres relevantes em regiões baixas da cidade, como a da sede da Record, na Barra Funda, a da rádio Antena 1, no Morumbi, e a do Edifício Birmann 21, em Pinheiros. Com a exceção da sede Record (Barra Funda), essas torres em planície estão todas no Vetor Sudoeste, região de grande pujança econômica no município a partir da década de 1990.
 
-Parto de um projeto antigo, o qual iniciei em 2022. A ideia era mapear as principais torres de telecomunicações e, eventualmente, fotografá-las; só fiz a primeira parte, agora parti para a segunda. Já vi dois projetos parecidos, um publicado no fórum [Skyscrapercity](https://www.skyscrapercity.com/threads/sp-antenas-e-torres-de-s%C3%A3o-paulo-com-informa%C3%A7%C3%B5es-e-mais-de-150-fotos.529673/) e o outro, [O Inferno das Torres](http://netleland.net/hsampa/infernoTorres/index.html), no Netland, blogue dos primórdios da internete. Não é um problema que mais de um projeto trate de um mesmo assunto, porque, além de um poder auxiliar o outro na busca por informações, cada autor traz um olhar novo. Há a questão temporal também, mas, mesmo com um intervalo de ................... anos, pouco mudou nesse sentido.
+Parto de um projeto antigo, o qual iniciei em 2022. A ideia era mapear as principais torres de telecomunicações e, eventualmente, fotografá-las; só fiz a primeira parte, agora parti para a segunda. Já vi dois projetos parecidos, um publicado no fórum [Skyscrapercity](https://www.skyscrapercity.com/threads/sp-antenas-e-torres-de-s%C3%A3o-paulo-com-informa%C3%A7%C3%B5es-e-mais-de-150-fotos.529673/), de 2007, e o outro, publicado no no Netland, blogue dos primórdios da internete, [O Inferno das Torres](http://netleland.net/hsampa/infernoTorres/index.html), do final da mesma década. Não é um problema que mais de um projeto trate de um mesmo assunto, porque, além de um poder auxiliar o outro na busca por informações, cada autor traz um olhar novo. Ainda com a questão temporal, pouco mudou nesse intervalo de quase vinte anos anos nesse sentido.
 
-A ordem será do começo a Avenida Paulista para o final, ou seja, numeração em ordem crescente e no sentido Sudeste-Noroeste.
-
-
-PROBLEMA DE RÁDIOS COM SEDE NO INTERIOR QUE TRANSMITEM DE SÃO PAULO (OU É O CONTRÁRIO?)
-
-
+Apresento as torres partindo da numeração, em ordem crescente, do começo para o final da Avenida Paulista, ou seja, no sentido Sudeste-Noroeste.
 
 ### Torre do prédio da Unip, câmpus Paraíso (Rua Vergueiro, 1211)
 *Inauguração: xxxx.*

@@ -154,7 +154,7 @@ Numa travessa da Rua Cerro Corá, continuidade da Heitor Penteado, transmite sin
 Transmite o sinal da rádio Transamérica (100.1 MHz).
 ![]()
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1tBl_arBJ8UgDu7MlBAD7FkeExT1vBhQ&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/pt-br/map/paisagem-antenada_1294107?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/pt-br/map/paisagem-antenada_1294107?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Ver em ecrã total</a></p>
 
 * AB'SABER. **Geomorfologia do Sítio Urbano de São Paulo, Edição Fac–Similar**. São Paulo: Ateliê Editorial, 2007.
 

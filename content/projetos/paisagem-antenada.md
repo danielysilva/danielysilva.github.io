@@ -27,7 +27,7 @@ Se os donos do café marcaram a cidade no século XIX, foram os donos dos grande
 
 Não é desprezível a presença de torres relevantes em regiões baixas da cidade, como a da sede da Record, na Barra Funda, a da rádio Antena 1, no Morumbi, e a do Edifício Birmann 21, em Pinheiros. Com a exceção da sede da Record, essas torres em planície estão todas no Vetor Sudoeste, região de grande pujança econômica no município a partir da década de 1990.
 
-Para elaboração deste projeto, parto de um esboço antigo, iniciado em 2022. A ideia era mapear as principais torres de telecomunicações e, eventualmente, fotografá-las; só fiz a primeira parte e, agora, parti para a segunda. Já vi dois projetos parecidos, um publicado no fórum [Skyscrapercity](https://www.skyscrapercity.com/threads/sp-antenas-e-torres-de-s%C3%A3o-paulo-com-informa%C3%A7%C3%B5es-e-mais-de-150-fotos.529673/), de autoria do usuário *bs.eduardo, de 2007, e o outro, publicado no no Netland, blogue dos primórdios da internete, [O Inferno das Torres](http://netleland.net/hsampa/infernoTorres/index.html), de autoria de Luiz Amaral, de algum momento final dos anos 2000. Não é um problema que mais de um projeto trate de um mesmo assunto, porque, além de um poder auxiliar o outro na busca por informações, cada autor traz um olhar novo. Ainda com a questão temporal, pouco mudou nesse intervalo de quase vinte anos anos nesse sentido.
+Para elaboração deste projeto, parto de um esboço antigo, iniciado em 2022. A ideia era mapear as principais torres de telecomunicações e, eventualmente, fotografá-las; só fiz a primeira parte e, agora, parti para a segunda. Já vi dois projetos parecidos, um publicado no fórum [Skyscrapercity](https://www.skyscrapercity.com/threads/sp-antenas-e-torres-de-s%C3%A3o-paulo-com-informa%C3%A7%C3%B5es-e-mais-de-150-fotos.529673/), de autoria do usuário *bs.eduardo*, de 2007, e o outro, publicado no no Netland, blogue dos primórdios da internete, [O Inferno das Torres](http://netleland.net/hsampa/infernoTorres/index.html), de Luiz Amaral, de algum momento final dos anos 2000. Não é um problema que mais de um projeto trate de um mesmo assunto, porque, além de um poder auxiliar o outro na busca por informações, cada autor traz um olhar novo. Além disso, mesmo depois de todo esse tempo, pouco mudou nesse intervalo de quase vinte anos anos nesse sentido.
 
 Apresento as torres partindo da numeração, em ordem crescente, do começo para o final da Avenida Paulista, ou seja, no sentido Sudeste-Noroeste.
 
@@ -173,10 +173,7 @@ Transmite o sinal da rádio Transamérica (100.1 MHz).
 <div class="item"><a href="#imagem5"><img src="/img/projects/prato-do-dia/esquina-feira8.jpg" alt="." title="." /></a></div>
 </section>
 
-
-
 <div class="lightboxes">
-
 <div class="lightbox" id="imagem1"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina3.jpg" alt="." title="." /><p>.</p></div></div>
 <div class="lightbox" id="imagem2"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina4.jpg" alt="." title="." /><p>.</p></div></div>
 <div class="lightbox" id="imagem3"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina5.jpg" alt="." title="." /><p>.</p></div></div>

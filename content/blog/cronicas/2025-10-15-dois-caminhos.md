@@ -29,4 +29,4 @@ Continuei meu caminho. Numa esquina de ruas com nomes de figuras romanas, vi um 
 
 — Estarei aqui.
 
-Não havia modo do recusar uma intimação dessas. E, realmente, tem dois caminhos.
+Não havia modo de recusar uma intimação dessas. E, realmente, tem dois caminhos.

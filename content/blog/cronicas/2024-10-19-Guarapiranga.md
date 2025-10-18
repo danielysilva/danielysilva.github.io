@@ -3,7 +3,7 @@ layout: blog
 title:  "Guarapiranga"
 date:   2024-10-19
 categories: ["Crônicas"]
-tags: ["causos"]
+tags: ["causos", "fotografia"]
 permalink: /blog/:categories/:title
 author: "Daniely Silva"
 featured_image: "/img/blog/guarapiranga.jpg"

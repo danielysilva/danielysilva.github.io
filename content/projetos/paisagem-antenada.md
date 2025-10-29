@@ -31,6 +31,9 @@ Para elaboração deste projeto, parto de um esboço antigo, iniciado em 2022. A
 
 Apresento as torres partindo da numeração, em ordem crescente, do começo para o final da Avenida Paulista, ou seja, no sentido Sudeste-Noroeste.
 
+
+## Antenas do Espigão da Paulista
+
 ### Torre do prédio da Unip, câmpus Paraíso (Rua Vergueiro, 1211)
 *Inauguração: xxxx.*
 Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
@@ -125,6 +128,10 @@ https://folhagospel.com/torre-de-tv-da-igreja-renascer-e-bloqueada-pela-justica/
 É a mais alta da cidade, com 212 metros de altura. Sua inauguração substituiu as transmissões do grupo a partir do Pico do Jaraguá. Em 2019, passou a transmitir o sinal da BandNews FM (96.9)
 ![]()
 
+
+## Torres das Colinas da Sumaré
+
+
 ### Torre da TV Cultura (Av. Dr. Arnaldo, 1761)
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
@@ -144,6 +151,9 @@ Lorem ipsum dolor sit amet.
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![]()
+
+
+## Torres do Alto da Lapa
 
 ### Torre da Claro (Rua Butirapoã, 45)
 *Inauguração: xxxx.*

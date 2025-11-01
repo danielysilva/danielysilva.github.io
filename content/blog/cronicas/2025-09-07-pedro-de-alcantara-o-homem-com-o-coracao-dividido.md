@@ -9,7 +9,7 @@ summary:
 featured_image:
 featured_image_title:
 featured_image_alt: 
-draft: false
+draft: true
 ---
 
 Até relógio parado acerta mais que Bolsonaro — duas vezes ao dia. Nos 100 anos da independência, tivemos a Semana de Arte Moderna; grandes celebrações marcaram o sesquicentenário e o traslado dos restos mortais de D. Pedro para o Brasil — os milicos eram tiranos e corruptos, mas tinham estilo. 

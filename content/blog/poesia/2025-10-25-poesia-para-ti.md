@@ -12,6 +12,7 @@ featured_image_alt: "Barco cruza rio em primeiro plano. Ao fundo, igreja branca 
 draft: false
 ---
 
+<section class="poesia">
 Algo faltou para mim\
 Não era nada para ti\
 Eu nunca falei que sim\
@@ -37,5 +38,6 @@ Logo arrumo minha mala\
 Que saudade, Paraty\
 Linda, vou revisitá-la\
 Não por mim, só para ti
+</section>
 
 *Escrito aos 29 de setembro de 2023.*

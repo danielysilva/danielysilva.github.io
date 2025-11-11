@@ -30,6 +30,13 @@
       <description></description>
     </item>
     <item>
+      <title>Ensaios</title>
+      <link>http://localhost:1313/blog/categories/ensaios/</link>
+      <pubDate>Sun, 24 Aug 2025 08:41:23 -0300</pubDate>
+      <guid>http://localhost:1313/blog/categories/ensaios/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Contos</title>
       <link>http://localhost:1313/blog/categories/contos/</link>
       <pubDate>Mon, 21 Jul 2025 09:37:34 -0300</pubDate>

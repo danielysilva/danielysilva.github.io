@@ -2,13 +2,15 @@
 layout: blog
 title:  "Datilografando uma história: a sobrevida das máquinas de escrever"
 date:   2021-04-10
-categories: ["Crônicas"]
+categories: ["Ensaios"]
 tags: ["escrita", "tecnologia"]
 author: "Daniely Silva"
 featured_image: "/img/blog/datilografando_uma_historia1.png"
 featured_image_title: "Olivetti Dora, o verde predomina"
 featured_image_alt: "Recorte de máquina de escrever verde vista de cima"
 summary:
+aliases:
+    - /blog/cronicas/2021-04-10-datilografando-uma-historia/
 ---
 
 A companhia Godrej & Boyce, a última fábrica de máquinas de escrever do mundo, teve o fechar de suas portas em 2011, em Mumbai, na Índia. O fim de uma era?  Apesar de esse fechamento ser um marco, eras não acabam da noite para o dia. Além de entusiastas, é possível que em muitos lugares do mundo as máquinas de escrever ainda tenham algum uso profissional. Como comparação, basta pensar no transtorno causado pelo fim do suporte aos pagers no Japão, tecnologia já defasada que ainda encontrava no país do Sol nascente um número expressivo de usuários.

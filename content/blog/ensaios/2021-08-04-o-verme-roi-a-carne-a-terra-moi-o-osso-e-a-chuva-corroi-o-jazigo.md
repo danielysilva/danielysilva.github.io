@@ -2,13 +2,15 @@
 layout: blog
 title:  "O verme rói a carne, a terra mói o osso e a chuva corrói o jazigo"
 date:   2021-08-04
-categories: ["Crônicas"]
+categories: ["Ensaios"]
 tags: ["cidade"]
 author: "Daniely Silva"
 featured_image: "/img/blog/necropole1.jpg"
 featured_image_title: "A oração do arcanjo."
 featured_image_alt: "rte tumular em necrópole paulistana: estátua de anjo em oração."
 draft: false
+aliases:
+  - /blog/cronicas/2021-08-04-o-verme-roi-a-carne-a-terra-moi-o-osso-e-a-chuva-corroi-o-jazigo/
 ---
 
 A relação de cada um com os cemitérios é sempre um caixa de surpresas: uns sentem medo, outros os veneram e outros buscam ali a paz. Essa impressão é construída não só social e culturalmente, mas depende também da história de vida e o que cada um passou nos cemitérios.

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ensaios on Daniely Silva</title>
+    <link>http://localhost:1313/blog/categories/ensaios/</link>
+    <description>Recent content in Ensaios on Daniely Silva</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 24 Aug 2025 08:41:23 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/categories/ensaios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imitações vulgares</title>
+      <link>http://localhost:1313/blog/ensaios/2025-08-24-imitacoes-vulgares/</link>
+      <pubDate>Sun, 24 Aug 2025 08:41:23 -0300</pubDate>
+      <guid>http://localhost:1313/blog/ensaios/2025-08-24-imitacoes-vulgares/</guid>
+      <description>Tudo é feito de plástico. Estamos rodeados de imitações vulgares.</description>
+    </item>
+    <item>
+      <title>Olhando pra dentro do Brasil</title>
+      <link>http://localhost:1313/blog/ensaios/2025-05-18-olhando-pra-dentro-do-brasil/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/ensaios/2025-05-18-olhando-pra-dentro-do-brasil/</guid>
+      <description>E por mim confesso que tinha o maior acanhamento em mostrar o sertão na quadra seca ao pessoal da Bahia para baixo.</description>
+    </item>
+    <item>
+      <title>13 de maio: os bastidores dos dias de maior ansiedade na nossa história</title>
+      <link>http://localhost:1313/blog/ensaios/2025-05-13-13-de-maio-os-bastidores-dos-dias-de-maior-ansiedade-na-nossa-historia/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/ensaios/2025-05-13-13-de-maio-os-bastidores-dos-dias-de-maior-ansiedade-na-nossa-historia/</guid>
+      <description>A extinção do elemento servil, pelo influxo do sentimento nacional e das liberalidades particulares, em honra do Brasil, adiantou-se pacificamente de tal modo que é hoje aspiração aclamada por todas as classes, com admiráveis exemplos de abnegação da parte dos proprietários.</description>
+    </item>
+    <item>
+      <title>O verme rói a carne, a terra mói o osso e a chuva corrói o jazigo</title>
+      <link>http://localhost:1313/blog/ensaios/2021-08-04-o-verme-roi-a-carne-a-terra-moi-o-osso-e-a-chuva-corroi-o-jazigo/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/ensaios/2021-08-04-o-verme-roi-a-carne-a-terra-moi-o-osso-e-a-chuva-corroi-o-jazigo/</guid>
+      <description>A relação de cada um com os cemitérios é sempre um caixa de surpresas: uns sentem medo, outros os veneram e outros buscam ali a paz.</description>
+    </item>
+    <item>
+      <title>Datilografando uma história: a sobrevida das máquinas de escrever</title>
+      <link>http://localhost:1313/blog/ensaios/2021-04-10-datilografando-uma-historia/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/ensaios/2021-04-10-datilografando-uma-historia/</guid>
+      <description>A companhia Godrej &amp;amp; Boyce, a última fábrica de máquinas de escrever do mundo, teve o fechar de suas portas em 2011, em Mumbai, na Índia.</description>
+    </item>
+  </channel>
+</rss>

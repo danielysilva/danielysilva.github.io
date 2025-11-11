@@ -2,10 +2,12 @@
 layout: blog
 title:  "RSS: sorrindo para uma possibilidade"
 date:   2025-01-07
-categories: ["Crônicas"]
+categories: ["Resenhas"]
 tags: ["tecnologia"]
 author: "Daniely Silva"
 draft: false
+aliases:
+  - /blog/cronicas/2025-01-07-RSS-sorrindo-para-uma-possibilidade/
 ---
 
 O RSS sempre foi algo de nicho, sobretudo num tempo em que a própria internete era um nicho. Foi uma tremenda inovação em tempos de sites estáticos "artesanais" e de conexões lentas. Imagine reunir num só lugar todos os sites e blogues, eventualmente podendo descarregar o s conteúdos para ler diretamente no agregador sem se preocupar com a conexão.

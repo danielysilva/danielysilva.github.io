@@ -3,10 +3,12 @@ layout: blog
 title: "Olhando pra dentro do Brasil"
 date: 2025-05-18
 author: Daniely Silva
-categories: ["Crônicas"]
+categories: ["Ensaios"]
 tags: ["crônica histórica"]
 summary:
 draft: false
+aliases:
+  - /blog/cronicas/2025-05-18-olhando-pra-dentro-do-brasil/
 ---
 
 > E por mim confesso que tinha o maior acanhamento em mostrar o sertão na quadra seca ao pessoal da Bahia para baixo. Só depois que conheci a nudez do outono e inverno em outros latitudes foi que perdi a cerimônia. Esse negócio de mata tropical, permanentemente verde úmida, é coisa de subdesenvolvido, que não conhece as alternativas das estações; para eles é sempre uma coisa só. Mas nas terras civilizadas da Europa e Norte-América, o ritmo é no tempo certo, e ninguém na Alemanha ou na Escócia se lembraria de ter vergonha de mostrar aos de fora a nudez das árvores ou a grama queimada e morta. Aliás, foi só isso que vi nos famosos campos da Inglaterra — os relvados secos, o arvoredo nu. (Trecho da crônica "Verão", Rachel de Queiroz, 7/jul./1971)

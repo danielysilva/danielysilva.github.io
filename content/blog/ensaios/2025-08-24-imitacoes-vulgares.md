@@ -3,13 +3,15 @@ layout: blog
 title: "Imitações vulgares"
 date: 2025-08-24 08:41:23
 author: Daniely Silva
-categories: ["Crônicas"]
+categories: ["Ensaios"]
 tags: ["reflexões"]
 summary:
 featured_image:
 featured_image_title:
 featured_image_alt:
 draft: false
+aliases:
+  - /blog/cronicas/2025-08-24-imitacoes-vulgares/
 ---
 
 Tudo é feito de plástico. Estamos rodeados de imitações vulgares. Vulgares e plásticas. O plástico já está na placenta e até no cérebro.

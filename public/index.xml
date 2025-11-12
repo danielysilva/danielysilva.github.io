@@ -6,8 +6,15 @@
     <description>Recent content in Início on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sat, 25 Oct 2025 19:34:05 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 18:00:50 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entre Estantes</title>
+      <link>http://localhost:1313/blog/ensaios/2025-11-11-entre-estantes/</link>
+      <pubDate>Tue, 11 Nov 2025 18:00:50 -0300</pubDate>
+      <guid>http://localhost:1313/blog/ensaios/2025-11-11-entre-estantes/</guid>
+      <description>Recentemente, por boa influência de minha amiga Beatriz Silva, ganhei o hábito de frequentar as bibliotecas públicas.</description>
+    </item>
     <item>
       <title>Poesia: Para Ti</title>
       <link>http://localhost:1313/blog/poesia/2025-10-25-poesia-para-ti/</link>
@@ -28,6 +35,13 @@
       <pubDate>Tue, 07 Oct 2025 19:49:16 -0300</pubDate>
       <guid>http://localhost:1313/blog/resenhas/2025-10-07-resenha-de-sinfonia-da-necropole-2014/</guid>
       <description>Direção e roteiro: Juliana Rojas; Produção: Max Eluard; Elenco: Eduardo Gomes como Deodato; Luciana Paes como Jaqueline; Estreia: julho de 2014, no Festival de Paulínia; Lançamento nacional: abril de 2016.</description>
+    </item>
+    <item>
+      <title>Paisagem Antenada</title>
+      <link>http://localhost:1313/projetos/paisagem-antenada/</link>
+      <pubDate>Mon, 29 Sep 2025 11:52:56 -0300</pubDate>
+      <guid>http://localhost:1313/projetos/paisagem-antenada/</guid>
+      <description>Summary of the Paisagem Antenada project.</description>
     </item>
     <item>
       <title>São Paulo à luz de velas e mudanças climáticas</title>
@@ -70,6 +84,13 @@
       <pubDate>Sun, 14 Sep 2025 00:00:00 -0300</pubDate>
       <guid>http://localhost:1313/blog/cronicas/2025-09-14-revisitando-os-bicos-de-lacre-de-2021/</guid>
       <description>Fazia uma faxina digital quando me deparei com as fotos da ninhada de pássaros bico-de-lacre que vi crescer.</description>
+    </item>
+    <item>
+      <title>Pedro de Alcântara: o homem do coração dividido</title>
+      <link>http://localhost:1313/blog/ensaios/2025-09-07-pedro-de-alcantara-o-homem-com-o-coracao-dividido/</link>
+      <pubDate>Sun, 07 Sep 2025 06:20:04 -0300</pubDate>
+      <guid>http://localhost:1313/blog/ensaios/2025-09-07-pedro-de-alcantara-o-homem-com-o-coracao-dividido/</guid>
+      <description>Até relógio parado acerta mais que Bolsonaro — duas vezes ao dia.</description>
     </item>
     <item>
       <title>Imitações vulgares</title>
@@ -534,6 +555,13 @@
       <description>Numa dessas anedotas que põem em dúvida a sabedoria humana, às portas de uma Zona Eleitoral, gritos enfurecidos rompiam a monotonia:</description>
     </item>
     <item>
+      <title>Guaicurus</title>
+      <link>http://localhost:1313/projetos/guaicurus/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/projetos/guaicurus/</guid>
+      <description>Registro de antigos galpões na Rua Guaicurus, Lapa</description>
+    </item>
+    <item>
       <title>Tipografias Temporais</title>
       <link>http://localhost:1313/projetos/tipografias-temporais/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 -0300</pubDate>
@@ -574,6 +602,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contato/</guid>
       <description>Encontre-me nos quartos onde moro de favor com meu trabalho.</description>
+    </item>
+    <item>
+      <title>Feed</title>
+      <link>http://localhost:1313/feed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/feed/</guid>
+      <description>Aqui você pode acompanhar minhas publicações por feed RSS. Basta copiar o endereço e adicionar ao seu agregador de feeds RSS.</description>
     </item>
     <item>
       <title>O que estou fazendo agora?</title>

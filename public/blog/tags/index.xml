@@ -6,8 +6,15 @@
     <description>Recent content in Etiquetas on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sat, 25 Oct 2025 19:34:05 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 18:00:50 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leitura</title>
+      <link>http://localhost:1313/blog/tags/leitura/</link>
+      <pubDate>Tue, 11 Nov 2025 18:00:50 -0300</pubDate>
+      <guid>http://localhost:1313/blog/tags/leitura/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Viagem</title>
       <link>http://localhost:1313/blog/tags/viagem/</link>
@@ -51,6 +58,13 @@
       <description></description>
     </item>
     <item>
+      <title>Crônica Histórica</title>
+      <link>http://localhost:1313/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</link>
+      <pubDate>Sun, 07 Sep 2025 06:20:04 -0300</pubDate>
+      <guid>http://localhost:1313/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Reflexões</title>
       <link>http://localhost:1313/blog/tags/reflex%C3%B5es/</link>
       <pubDate>Sun, 24 Aug 2025 08:41:23 -0300</pubDate>
@@ -83,13 +97,6 @@
       <link>http://localhost:1313/blog/tags/pol%C3%ADtica/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 -0300</pubDate>
       <guid>http://localhost:1313/blog/tags/pol%C3%ADtica/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Crônica Histórica</title>
-      <link>http://localhost:1313/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</guid>
       <description></description>
     </item>
     <item>

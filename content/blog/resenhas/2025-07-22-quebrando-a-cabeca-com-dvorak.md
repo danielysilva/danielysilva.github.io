@@ -10,6 +10,8 @@ featured_image: "/img/blog/dvorak.jpg"
 featured_image_title: "Convívio entre leiautes."
 featured_image_alt: "Parede amarela com fotografia vertical emoldurada com máquina de escrever vista de cima, impressão de leiaute de teclado Dvorak e termômetro."
 draft: false
+- aliases:
+  /blog/cronicas/2025-07-22-quebrando-a-cabeca-com-dvorak/
 ---
 
 Já conhecia o leiaute de teclado Dvorak, mas ainda não tinha procurado saber mais sobre. Resumindo um pouco, se trata de um teclado voltado para a eficiência e menor necessidade de movimentar os dedos. Se voltarmos no tempo, as primeiras máquinas de escrever seguiam a ordem alfabética, o que resultava que os tipos se enroscavam o tempo todo. Em 1868, Christopher Sholes vendeu a patente de máquina de escrever à Remington com o padrão Qwerty, no qual afastou as letras mais usadas da língua inglesa para evitar os enroscos. Ou seja, diferente do que muitos acreditam, o leiaute dominante não foi desenvolvido para que teclassem devagar; mas, em todo caso, o padrão foi pensado quase que de forma aleatória.

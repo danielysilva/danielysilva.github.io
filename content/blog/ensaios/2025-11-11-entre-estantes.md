@@ -45,11 +45,11 @@ Posteriormente, o Califado Ortodoxo toma a cidade de Alexandria, em 641. Também
 
 Em todo caso, não faltam exemplos na história de destruição estratégica de acervos. Na ascensão nazista, mais de 40 mil volumes do Instituto de Arte de Frankfurt foram destruídos em nome da ideologia supremacista. As inquisições, as ditaduras militares e fascistas do século XX e os Estados teocráticos agiram todos em prol da destruição de material dissidente.
 
-Os ataques indiretos, através do corte de verba e da interferência em projetos pode ser tão prejudicial quanto. A Biblioteca Màrio de Andrade sofreu interferência num dos momentos mais conturbados da nossa história. O projeto foi desenvolvido entre 1935 e 1938, quando o acervo do município estava instalado, provisoriamente, na Rua Sete de Abri. Contudo, o golpe de Estado de 1937 fez com que o prefeito Fábio Prado fosse substituído pelo interventor-federal Prestes Maia. Ele paralisou o Departamento de Cultura e interveio no projeto de Jacques Pilón, eliminando a segunda torre e adicionando elementos neoclássicos à fachada, visto que o interventor era avesso ao modernismo, como é habitual entre fascistas.
+Os ataques indiretos, através do corte de verba e da interferência em projetos pode ser tão prejudicial quanto. A Biblioteca Màrio de Andrade sofreu interferência num dos momentos mais conturbados da nossa história. O projeto foi desenvolvido entre 1935 e 1938, quando o acervo do município estava instalado, provisoriamente, na Rua Sete de Abri. Contudo, o golpe de Estado de 1937 fez com que o prefeito Fábio Prado fosse substituído pelo interventor-federal Prestes Maia [^1]. Ele paralisou o Departamento de Cultura e interveio no projeto de Jacques Pilón, eliminando a segunda torre e adicionando elementos neoclássicos à fachada, visto que o interventor era avesso ao modernismo, como é habitual entre fascistas.
 
-A biblioteca até hoje amarga a falta do segunda torre. Recentemente, a acervo da hermeroteca foi transferido a um anexo na Rua Dr. Bráulio Gomes. Mas essa solução demorou. Por décadas, a biblioteca enfrentou uma superlotação de obras que não eram emprestadas há mais de dez anos. Por determinação de 1993 da Secretaria de Cultura, elas eram inutilizadas ao ter rasgada a folha de rosto e a página 100, mas não podiam ser descartadas devido à legislação  referente a patrimônio, o que só mudou em 2003.
+A biblioteca até hoje amarga a falta do segunda torre. Recentemente, a acervo da hermeroteca foi transferido a um anexo na Rua Dr. Bráulio Gomes. Mas essa solução demorou. Por décadas, a biblioteca enfrentou uma superlotação de obras que não eram emprestadas há mais de dez anos. Por determinação de 1993 da Secretaria de Cultura, elas eram inutilizadas ao ter rasgada a folha de rosto e a página 100, mas não podiam ser descartadas devido à legislação  referente a patrimônio, o que só mudou em 2003 [^1].
 
-Enquanto não se resolvia o impasse de onde botar um acervo tão numeroso, surgiu, em 1979, o anexo que se tornou, na verdade, O Centro Cultural São Paulo (CCSP), encaixado num elegante talude entre a Rua Vergueiro e o vale da Avenida 23 de Maio. A mudança do projeto de um anexo de biblioteca para um centro cultural multiuso foi inspirada no Centro Pompidou de Paris. Mais uma vez, a troca de gestão mudou tudo: com a saída de Olavo Setúbal (Arena, 1974-78) e a entrada de Reynaldo de Barros (Arena/PDS, 1979-82), o novo Secretário de Cultura, Mário Chamie, encantou-se pelo Centro Pompidou e alterou o projeto já contratado,
+Enquanto não se resolvia o impasse de onde botar um acervo tão numeroso, surgiu, em 1979, o anexo que se tornou, na verdade, O Centro Cultural São Paulo (CCSP), encaixado num elegante talude entre a Rua Vergueiro e o vale da Avenida 23 de Maio. A mudança do projeto de um anexo de biblioteca para um centro cultural multiuso foi inspirada no Centro Pompidou de Paris. Mais uma vez, a troca de gestão mudou tudo: com a saída de Olavo Setúbal (Arena, 1974-78) e a entrada de Reynaldo de Barros (Arena/PDS, 1979-82), o novo Secretário de Cultura, Mário Chamie, encantou-se pelo Centro Pompidou e alterou o projeto já contratado [^1].
 
 O CCSP é o melhor exemplo de que uma biblioteca e um centro cultural são coisas distintas. No projeto, não foi previsto isolamento acústico, dado as características permeáveis do espaço; é inevitável que o som de peças de teatro, performances e apresentações musicais cheguem à biblioteca, quando o silêncio é a principal singularidade desse tipo de lugar.
 
@@ -61,7 +61,7 @@ Habitamos um mundo barulhento, poluído visualmente e com superestímulos. A bib
 
 Descaracterizar bibliotecas pode parecer justificável por atrair mais público, contudo, boa parte desse público será passageiro e não vai se converter em leitor. Bibliotecas não são equipamentos baratos, por isso há o constante pânico de baixa frequência, o que costuma ser prerrogativa para gestões ultraliberais cortarem seus recursos e seu quadro.
 
-Construir bibliotecas do zero parece não se justificar aos olhos da eficiência de recursos de gestores que não olham para bairros afastados. Nesse caso, surgem alternativas. Em São Paulo, algumas delas são os chamados serviços de extensão. São eles os bosques de leitura, integrados às áreas verdes municipais, os pontos de leitura, inseridos dentro de outros espaços culturais e os ônibus-bibliotecas. Os dois últimos surgiram em 2006, na gestão de José Serra (PSDB), e em 1990, com Luíza Erundina (PT). Ambos têm o princípio de levar a leitura a um baixa custo a regiões periféricas que não sejam servidas pelas bibliotecas convencionais. As acerves são modestos, de até 3000 volumes, mas a eficácia é comprovada. No caso dos ônibus-biblioteca, entre 2009 e 2012, o número de empréstimos chegou a superar os 3 milhões das bibliotecas municipais. Mesmo com a eficiência e o baixo custo, o projeto tem sido gradualmente abandonado, ao ponto que, atualmente, somente uma Kombi atende ao serviço.
+Construir bibliotecas do zero parece não se justificar aos olhos da eficiência de recursos de gestores que não olham para bairros afastados. Nesse caso, surgem alternativas. Em São Paulo, algumas delas são os chamados serviços de extensão. São eles os bosques de leitura, integrados às áreas verdes municipais, os pontos de leitura, inseridos dentro de outros espaços culturais e os ônibus-bibliotecas [^2] [^3]. Os dois últimos surgiram em 2006, na gestão de José Serra (PSDB), e em 1990, com Luíza Erundina (PT). Ambos têm o princípio de levar a leitura a um baixa custo a regiões periféricas que não sejam servidas pelas bibliotecas convencionais. As acerves são modestos, de até 3000 volumes, mas a eficácia é comprovada. No caso dos ônibus-biblioteca, entre 2009 e 2012, o número de empréstimos chegou a superar os 3 milhões das bibliotecas municipais [^4]. Mesmo com a eficiência e o baixo custo, o projeto tem sido gradualmente abandonado, ao ponto que somente uma Kombi ficou à disposição do serviço. *(atualização: aos 14 de novembro deste ano, o portal da prefeitura informa que o serviço está suspenso por tempo indeterminado.)*
 
 A troca de livros também é uma iniciativa dá frutos a um custo próximo a zero: basta uma estante, um espaço movimentado e a disposição coletiva para que cada um deixe livros e os pegue conforme mande o coração. Os terminais urbanos da SPtrans têm o programa Livro na Faixa, enquanto o Metrô e a CPTM costumam aderir à campanha Circule um Livro. Nem sempre vamos encontrar um livro bom nessas torcas, mas às vezes a sorte aparece. Foi numa dessas estantes, no Terminal Pirituba, que tive a oportunidade de conhecer o romance *Leite Derramado*, de Chico Buarque — quando nem sabia que ele escrevia!
 
@@ -79,16 +79,23 @@ Para se tornar referência, elas precisam estar bem cuidadas, bem localizadas e 
 
 Podemos constatar muitas informação sobre as bibliotecas numa simples visita, mas os bastidores são vastos. Este período em que comecei a frequentá-las tem sido muito enriquecedor, não só pelas leituras que me proporciona, mas também pelas pesquisas e curiosidades que estimula. São muitas experiências posséveis nesses espaços que não estão esquecidos.
 
-https://prefeitura.sp.gov.br/web/cultura/w/bibliotecas/smb/1197
+*Escrito aos 29 de outubro de 2025.*
 
-https://prefeitura.sp.gov.br/web/cultura/bibliotecas/onibus_biblioteca/
+[^1]: A implantação do sistema municipal de bibliotecas de.... Disponível em: < https://revistas.usp.br/revistabbm/article/view/175128?gathStatIcon=true >. Acesso: 29 out. 2025.
 
-https://www1.folha.uol.com.br/fsp/cotidian/ff2208200224.htm
+[^2]: Sistema Municipal de Bibliotecas. Prefeitura de São Paulo. Disponível em: < https://prefeitura.sp.gov.br/web/cultura/w/bibliotecas/smb/1197 >. Acesso: 14 out. 2025.
+
+[^3]: Ônibus-bibliotecas. Prefeitura de São Paulo. < https://prefeitura.sp.gov.br/web/cultura/bibliotecas/onibus_biblioteca/ >
+
+[^4]: FÉRIA, Larissa; CAMACHO, Rita. Ônibus-biblioteca se reduz a Kombi em SP. **Folha de São Paulo**, São Paulo: 22 ago. 2002. Disponível em < https://www1.folha.uol.com.br/fsp/cotidian/ff2208200224.htm >. Acesso: 14 nov. 2025.
 
 ***
 
-https://jornal.usp.br/artigos/o-apagamento-de-um-sistema-de-bibliotecas-publicas/
+### Sugestões de leituras complementares:
 
-https://jornal.usp.br/cultura/as-bibliotecas-preservam-o-conhecimento-como-extensao-dos-cerebros-humanos/$0
+* ASSIS, Leonardo. O apagamento de um Sistema de Bibliotecas Públicas. **Jornal da USP**, São Paulo, 22 maio 2025. Disponível em: < https://jornal.usp.br/artigos/o-apagamento-de-um-sistema-de-bibliotecas-publicas/ >. Acesso: 14 nov. 2025.
 
-*Escrito aos 29 de outubro de 2025.*
+* PINHEIRO, Ricardo Queiroz. A porta entreaberta: bibliotecas públicas e a crise do leitor no Brasil. **Jornal da USP**, São Paulo, 13 nov. 2025. Disponível em: < https://jornal.usp.br/artigos/a-porta-entreaberta-bibliotecas-publicas-e-a-crise-do-leitor-no-brasil/ >. Acesso: 14 nov. 2025.
+
+* ROLLEMBERG, Marcello. “As bibliotecas preservam o conhecimento como extensão dos cérebros humanos”. **Jornal da USP**, São Paulo, 17 nov. 2023. Disponível em: < https://jornal.usp.br/cultura/as-bibliotecas-preservam-o-conhecimento-como-extensao-dos-cerebros-humanos/$0 >. Acesso: 14 nov. 2025.
+

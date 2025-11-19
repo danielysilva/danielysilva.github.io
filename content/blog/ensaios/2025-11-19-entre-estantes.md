@@ -71,24 +71,13 @@ Além das bibliotecas, os CEUs são equipados com salas de cinema, teatros, pisc
 
 São 53 bibliotecas no município, mas muitos dos distritos não têm nenhuma. É o caso do meu, Anhangüera, na Subprefeitura de Perus, onde a única biblioteca é a do CEU Parque Anhangüera. Ao visitá-la pela primeira vez, pude ver de perto o sucateamento. Alguns livros constantes como disponíveis não estavam lá, embora nunca tenham sido emprestados. A equipe de sete funcionários estava reduzida a dois, resultando numa sobrecarga. Soube que o prefeito não deve abrir mais concursos públicos para bibliotecários, tendo em vista o processo de entrega dos CEUs às Organizações da Sociedade Civil (OSC) e Organizações Sociais (OS), o que já aconteceu a quase todos os postos de saúde do município.
 
+A geografia da leitura na cidade é mais um retrato das desigualdades socioespaciais. Sob a justificativa de que não há demanda por equipamentos culturais nas perifeirias, poucos estão instalados nelas. Contudo, a baixa demanda se explica pela falta de acessos e incentivos desde a base e, portanto, manter essa lógica perpetua a má distribuição desses espaços. Não tiro o papel das bibliotecas instaladas no Centro Expandido, porque é lá onde circulam diariamente os moradores das periferias. Mas certos equipamentos também precisam estar presentes perto de casa, não só pela comodidade, mas pela referência que um espaço desses se torna. Para se tornar referência, elas precisam estar bem cuidadas, bem localizadas e ter um ambiente não só silencioso, mas também acolhedor. Por volta de 2011, bibliotecas de referência como a Mário Schenberg, na Lapa, e a própria Mário de Andrade passaram por reestruturação nos seus espaços, o que valorizou a luz natural e tornou ao fachadas permeáveis aos olhos da rua. Assim, também perderam a aparência antiquada.
 
-
-
-
-
-
-
-A geografia da leitura na cidade é mais um retrato das desigualdades socioespaciais. Sob a justificativa de que não há demando por equipamentos culturais nas perifeirias, poucos estão instalados nelas. Contudo, a baixa demando se explica pela falta de acessos e incentivos desde a base e, portanto, manter essa lógica perpetua a distribuição desses espaços.
-
-Não tiro o papel das bibliotecas instaladas no Centro Expandido, porque é lá onde circulam diariamente os moradores das periferias. Mas certos equipamentos também precisam estar presentes perto de casa, não só pela comodidade, mas pela referência que um espaço desses se torna.
-
-Para se tornar referência, elas precisam estar bem cuidadas, bem localizadas e ter um ambiente não só silencioso, mas também acolhedor. Por volta de 2011, bibliotecas de referência como a Mário Schenberg, na Lapa, e a própria Mário de Andrade passaram por reestruturação nos seus espaços, o que valorizou a luz natural e tornou ao fachadas permeáveis aos olhos da rua. Assim, também perderam a aparência antiquada.
-
-Podemos constatar muitas informação sobre as bibliotecas numa simples visita, mas os bastidores são vastos. Este período em que comecei a frequentá-las tem sido muito enriquecedor, não só pelas leituras que me proporciona, mas também pelas pesquisas e curiosidades que estimula. São muitas experiências posséveis nesses espaços que não estão esquecidos.
+Podemos perceber muitas informação sobre as bibliotecas numa simples visita, mas os bastidores são vastos. Este período em que voltei a frequentá-las tem sido muito enriquecedor, não só pelas leituras que me proporciona, mas também pelas pesquisas e curiosidades que estimula. São muitas experiências posséveis nesses espaços que não estão esquecidos.
 
 *Escrito aos 29 de outubro de 2025.*
 
-[^1]: A implantação do sistema municipal de bibliotecas de.... Disponível em: < https://revistas.usp.br/revistabbm/article/view/175128?gathStatIcon=true >. Acesso: 29 out. 2025.
+[^1]: CACIL, Carlos Augusto. A implantação do sistema municipal de bibliotecas de São Paulo e a renovação da Biblioteca Mário de Andrade. **Revista BBM**,, São Paulo, n. 2, pp. 166-183, jan./jun. 2020. Disponível em: < https://revistas.usp.br/revistabbm/article/view/175128?gathStatIcon=true >. Acesso: 29 out. 2025.
 
 [^2]: Sistema Municipal de Bibliotecas. Prefeitura de São Paulo. Disponível em: < https://prefeitura.sp.gov.br/web/cultura/w/bibliotecas/smb/1197 >. Acesso: 14 out. 2025.
 

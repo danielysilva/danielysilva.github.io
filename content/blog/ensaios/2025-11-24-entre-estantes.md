@@ -1,15 +1,15 @@
 ---
 layout: blog
 title: "Entre Estantes"
-date: 2025-11-19
+date: 2025-11-24
 author: Daniely Silva
 categories: ["Ensaios"]
 tags: ["leitura"]
 summary:
-featured_image: "/img/blog/entre-estantes1.jpg"
+featured_image: "/img/blog/entre-estantes-1.jpg"
 featured_image_title: "Fachada da Biblioteca Mário de Andrade, entrada da R. da Consolação."
 featured_image_alt: "Pórtico cinzento de concreto. Ao fundo, retrato de Mário de Andrade em edifício. Num plano adiante, poste de luz da antiga Light Co."
-draft: true
+draft: false
 ---
 Recentemente, por boa influência de minha amiga Beatriz Silva, ganhei o hábito de frequentar as bibliotecas públicas. Exceto as bibliotecas escolares e na graduação, o hábito nunca havia se enraizado em mim.
 
@@ -49,7 +49,7 @@ A biblioteca até hoje amarga a falta da segunda torre. Recentemente, a hermerot
 
 Enquanto não se resolvia o impasse de onde botar um acervo tão numeroso, surgiu, em 1979, o anexo que se tornou, na verdade, O Centro Cultural São Paulo (CCSP), encaixado num elegante talude entre a Rua Vergueiro e o vale da Avenida 23 de Maio. A mudança do projeto de um anexo de biblioteca para um centro cultural multiuso foi inspirada no Centro Pompidou de Paris. Mais uma vez, a troca de gestão mudou tudo: com a saída de Olavo Setúbal (Arena, 1974-78) e a entrada de Reynaldo de Barros (Arena/PDS, 1979-82), o novo Secretário de Cultura, Mário Chamie, encantou-se pelo equipamento francês e alterou o projeto já contratado [^1].
 
-![](/img/blog/entre-estantes2.jpg)
+![Vista para edifício horizontal entre avenida movimentada, em primeiro plano, e edifícios verticais, ao fundo.](/img/blog/entre-estantes-2.jpg "CCSP e a 23 de Maio.")
 
 O CCSP é o melhor exemplo de que uma biblioteca e um centro cultural são coisas distintas. No projeto, não foi previsto isolamento acústico e, dado as características permeáveis do espaço, é inevitável que o som de peças de teatro, performances e apresentações musicais chegue à biblioteca, quando o silêncio é a principal singularidade desse tipo de lugar.
 
@@ -94,4 +94,3 @@ Podemos perceber muitas informação sobre as bibliotecas numa simples visita, m
 * PINHEIRO, Ricardo Queiroz. A porta entreaberta: bibliotecas públicas e a crise do leitor no Brasil. **Jornal da USP**, São Paulo, 13 nov. 2025. Disponível em: < https://jornal.usp.br/artigos/a-porta-entreaberta-bibliotecas-publicas-e-a-crise-do-leitor-no-brasil/ >. Acesso: 14 nov. 2025.
 
 * ROLLEMBERG, Marcello. “As bibliotecas preservam o conhecimento como extensão dos cérebros humanos”. **Jornal da USP**, São Paulo, 17 nov. 2023. Disponível em: < https://jornal.usp.br/cultura/as-bibliotecas-preservam-o-conhecimento-como-extensao-dos-cerebros-humanos/$0 >. Acesso: 14 nov. 2025.
-

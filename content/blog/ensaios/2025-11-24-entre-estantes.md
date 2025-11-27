@@ -4,7 +4,7 @@ title: "Entre Estantes"
 date: 2025-11-24
 author: Daniely Silva
 categories: ["Ensaios"]
-tags: ["leitura"]
+tags: ["leituras"]
 summary:
 featured_image: "/img/blog/entre-estantes-1.jpg"
 featured_image_title: "Fachada da Biblioteca Mário de Andrade, entrada da R. da Consolação."

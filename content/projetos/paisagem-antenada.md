@@ -34,12 +34,12 @@ Apresento as torres partindo da numeração, em ordem crescente, do começo para
 
 ## Antenas do Espigão da Paulista
 
-* Torre do prédio da Unip, câmpus Paraíso (Rua Vergueiro, 1211)
+### Torre do prédio da Unip, câmpus Paraíso (Rua Vergueiro, 1211)
 *Inauguração: xxxx.*
 Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
 ![]()
 
-* Torre do Itaú Cultural (Av. Paulista, 149)
+### Torre do Itaú Cultural (Av. Paulista, 149)
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![]()

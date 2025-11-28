@@ -3,8 +3,8 @@ layout: projetos
 title: "Paisagem Antenada"
 date: 2025-09-29 11:52:56
 author: 'Daniely Silva'
-summary: "Summary of the Paisagem Antenada project."
-featured_image: "/img/blog/sao-paulo-a-luz-de-velas-2.jpg"
+summary:
+featured_image: "/img/projects/paisagem-antenada/paisagem-antenada-01.jpg"
 featured_image_title: "lorem ipsum dolor sit amet"
 featured_image_alt: "Lorem ipsum dolor sit amet, consectur adipiscing elit."
 draft: 'true'
@@ -34,12 +34,12 @@ Apresento as torres partindo da numeração, em ordem crescente, do começo para
 
 ## Antenas do Espigão da Paulista
 
-### Torre do prédio da Unip, câmpus Paraíso (Rua Vergueiro, 1211)
+* Torre do prédio da Unip, câmpus Paraíso (Rua Vergueiro, 1211)
 *Inauguração: xxxx.*
 Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
 ![]()
 
-### Torre do Itaú Cultural (Av. Paulista, 149)
+* Torre do Itaú Cultural (Av. Paulista, 149)
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![]()

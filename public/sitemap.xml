@@ -3,18 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-11-24T00:00:00-03:00</lastmod>
+    <lastmod>2025-11-27T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-11-27T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/leituras/</loc>
+    <lastmod>2025-11-27T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/resenhas/2025-11-27-resenha-de-disgrace-1999-coetzee/</loc>
+    <lastmod>2025-11-27T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/categories/resenhas/</loc>
+    <lastmod>2025-11-27T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/categories/ensaios/</loc>
     <lastmod>2025-11-24T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/ensaios/2025-11-24-entre-estantes/</loc>
-    <lastmod>2025-11-24T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-24T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/leitura/</loc>
     <lastmod>2025-11-24T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/categories/poesia/</loc>
@@ -39,9 +45,6 @@
     <lastmod>2025-10-07T19:49:16-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/resenhas/2025-10-07-resenha-de-sinfonia-da-necropole-2014/</loc>
-    <lastmod>2025-10-07T19:49:16-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/categories/resenhas/</loc>
     <lastmod>2025-10-07T19:49:16-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projetos/paisagem-antenada/</loc>
@@ -109,9 +112,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/contos/2025-07-21-cordel-o-pacto-de-bolsonaro/</loc>
     <lastmod>2025-07-21T09:37:34-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/leituras/</loc>
-    <lastmod>2025-07-08T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/2025-07-08-pelos-passos-de-carolina/</loc>
     <lastmod>2025-07-08T00:00:00-03:00</lastmod>

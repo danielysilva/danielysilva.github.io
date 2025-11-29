@@ -9,9 +9,9 @@ summary:
 draft: false
 ---
 
-Tomei ciência da exstência desse livro a partir da resenha da [Estante do Justo](https://estantedojusto.com/2025/08/03/desonra/). O romance começa com um professor recém-divorciado que se habituou a sair com prostitutas. David Lurie leciona poesia na Universidade do Cabo, numa África do Sul pós-Apartheid dos anso 1990.
+Tomei ciência da existência desse livro a partir da resenha da [Estante do Justo](https://estantedojusto.com/2025/08/03/desonra/). O romance começa com um professor recém-divorciado que se habituou a sair com prostitutas. David Lurie leciona poesia na Universidade do Cabo, numa África do Sul pós-Apartheid dos anos 1990.
 
-A prostituta da qual era cliente habitual deixou de atender de repente. Ele tenta procurá-la, mas ela rapidamente o põe em seu lugar: que nunca mais volte a entrar em contato no seu número de telefonte pessoal. Frustrado, esse homem de 52 anos pensa ser uma boa ideia se aventurar ao sair com uma aluna de 20 anos. O fato de ela ser maior de idade o faz pensar que está tudo bem. Mas não estava.
+A prostituta da qual era cliente habitual deixou de atender de repente. Ele tenta procurá-la, mas ela rapidamente o põe em seu lugar: que nunca mais volte a entrar em contato no seu número de telefone pessoal. Frustrado, esse homem de 52 anos pensa ser uma boa ideia se aventurar ao sair com uma aluna de 20 anos. O fato de ela ser maior de idade o faz pensar que está tudo bem. Mas não estava.
 
 Um professor universitário saindo com calouras não é uma novidade hoje, como não era na década de 90 e acredito que nem no século XIX. A atitude moralmente questionável dificilmente resulta em punição, mas não foi essa a realidade de David. A soma de um namorado ciumento (ou ex, pouco sabemos), uma moça vulnerável vai desistir do curso e pais preocupados resulta num escândalo que roda a universidade e chega à imprensa da província. Ele é chamado a depor num inquérito interno e tem o automóvel vandalizado; David assume os seus erros, mas se recusa a fazer uma nota de desculpas nos moldes exigidos. Demitido, tem que lacrar sua casa na Cidade do Cabo e vai morar com a filha em Eastern Cape, numa fazenda nos arredores de Grahamstown.
 

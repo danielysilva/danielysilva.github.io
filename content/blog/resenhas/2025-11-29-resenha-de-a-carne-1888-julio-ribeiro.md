@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Resenha de "A Carne" (1888), Júlio Ribeiro"
+title: "Resenha de 'A Carne' (1888), Júlio Ribeiro"
 date: 2025-11-27
 author: Daniely Silva
 categories: ["Resenhas"]

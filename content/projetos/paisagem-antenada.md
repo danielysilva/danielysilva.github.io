@@ -39,80 +39,87 @@ Apresento as torres partindo da numeração, em ordem crescente, do começo para
 Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
 ![](/img/projects/paisagem-antenada/paisagem-antenada-01.jpg)
 
-### Torre do Itaú Cultural (Av. Paulista, 149)
+### Rua Treze de Maio, 124 (torre de Edifício Ragi Buainain)
 *Inauguração: xxxx.*
-Lorem ipsum dolor sit amet.
+Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
 ![](/img/projects/paisagem-antenada/paisagem-antenada-02.jpg)
 
-### (Av. Paulista, 320)
+### Torre do Itaú Cultural (Av. Paulista, 149)
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![](/img/projects/paisagem-antenada/paisagem-antenada-03.jpg)
 
-### Torre do Edifício Patrimônio (Av. Paulista, 509)
+### (Av. Paulista, 326)
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![](/img/projects/paisagem-antenada/paisagem-antenada-04.jpg)
 
-###  (Av. Brigadeiro Luís Antônio, 1794)
+### Torre do Edifício Patrimônio (Av. Paulista, 509)
+*Inauguração: xxxx.*
+Lorem ipsum dolor sit amet.
+![](/img/projects/paisagem-antenada/paisagem-antenada-05.jpg)
+
+### Av. Brigadeiro Luís Antônio, 1794
 *Inauguração: xxxx.*
 Torre de tranmsissão da antiga Telefônica.
-![](/img/projects/paisagem-antenada/paisagem-antenada-05.jpg)
+![](/img/projects/paisagem-antenada/paisagem-antenada-06.jpg)
 
 ### Torre da Globo (Alameda Santos, 700)
 *Inauguração: xxxx.*
 Transmite o sinal da CBN
-![](/img/projects/paisagem-antenada/paisagem-antenada-06.jpg)
+![](/img/projects/paisagem-antenada/paisagem-antenada-07.jpg)
 
 ### Torre da Rádio Jovem Pan (Av. Paulista, 807)
 *Inauguração: xxxx.*
 Torre pouco relevante, assim como a rádio homônima.
-![](/img/projects/paisagem-antenada/paisagem-antenada-07.jpg)
+![](/img/projects/paisagem-antenada/paisagem-antenada-08.jpg)
 
 ### Torre Cásper Líbero (Av. Paulista, 900)
 *Inauguração: xxxx.*
 A de iluminação mais icônica. É a torre do TV Gazeta e, até 2019, foi usada também pelo Grupo Globo, no que se destacava a trasmissão da CBN.
 
 https://tudoradio.com/noticias/ver/22700-curiosidade-cbn-investe-em-nova-estrutura-de-transmissao-para-sua-fm-em-sao-paulo
-![](/img/projects/paisagem-antenada/paisagem-antenada-08.jpg)
+![](/img/projects/paisagem-antenada/paisagem-antenada-09.jpg)
 
 ### Torre do Edíficio Asahi (Av. Paulista, 1274)
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
-![](/img/projects/paisagem-antenada/paisagem-antenada-09.jpg)
+![](/img/projects/paisagem-antenada/paisagem-antenada-10.jpg)
 
+<div hidden>
 ### Edifício Paulista I (Av. Paulista, 1337)
 *Inauguração: xxxx.*
 Anteriormente, transmitiu o sinal da BandNews FM (96.9), antes da transferência para a Torre da Band.
-![](/img/projects/paisagem-antenada/paisagem-antenada-10.jpg)
+![](/img/projects/paisagem-antenada/paisagem-antenada-11.jpg)
+</div>
 
-### Torre da Energia FM (97 MHz) (Av. Paulista, 1439)
+### Av. Paulista, 1439: Edifício Mário Wallace, Torre da Energia FM (97 MHz)
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![](/img/projects/paisagem-antenada/paisagem-antenada-11.jpg)
 
-### Torre da Record no Edifício Grande Avenida (Av. Paulista, 1754)
+### Av. Paulista, 1748/1754: Edifício Grande Avenida, Torre da Record
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![](/img/projects/paisagem-antenada/paisagem-antenada-12.jpg)
 
-### Torre ... (Av. Paulista, 2028)
+### Av. Paulista, 2001: Edifício Barão de Itatiaya
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![](/img/projects/paisagem-antenada/paisagem-antenada-13.jpg)
 
 
-### Condomínio Edifício Central Park (Av. Paulista, 2200)
+### Av. Paulista, 2200: Condomínio Edifício Central Park
 *Inauguração: xxxx.*
 Transmite o sinal das rádios Kiss FM (92.5MHz), `[Vibe]` Mundial (95.7MHz), Metropolitana (98.5MHz), Alpha FM (101.7MHz) e  Top FM (104.1MHz).
 ![](/img/projects/paisagem-antenada/paisagem-antenada-14.jpg)
 
-### Torre no Edifício São Luís Gonzaga (Av. Paulista, 2300)
+### Av. Paulista, 2300: Edifício São Luís Gonzaga ()
 *Inauguração: xxxx.*
 Torre discreta que quase some ao estar sobre um edifício tão massudo.
 ![](/img/projects/paisagem-antenada/paisagem-antenada-15.jpg)
 
-### Torre Deus é Fiel (Rua da Consolação, 2516)
+### Rua da Consolação, 2532: Edifício Light Tower, Torre Deus é Fiel
 *Inauguração: 2005.*
 Torre da Igreja Apostólica Renascer em Cristo. Transmite o sinal da Golpel FM, Rede Gospel de Televisão e da TV Pai Eterno. Foi construída com a compra de carnês por fiéis na campanha "Desafio da Torre". Até a Lei Cidade Limpa, sua iluminação em LED transmitia mensagens de pregação.
 
@@ -123,7 +130,7 @@ https://folhagospel.com/torre-de-tv-da-igreja-renascer-e-bloqueada-pela-justica/
 
 ![](/img/projects/paisagem-antenada/paisagem-antenada-16.jpg)
 
-### Torre da Band (Rua Minas Gerais 454)
+### Rua Minas Gerais 454: Torre da Band
 *Inauguração: Reveião de 1996.*
 É a mais alta da cidade, com 212 metros de altura. Sua inauguração substituiu as transmissões do grupo a partir do Pico do Jaraguá. Em 2019, passou a transmitir o sinal da BandNews FM (96.9)
 ![](/img/projects/paisagem-antenada/paisagem-antenada-17.jpg)
@@ -132,7 +139,7 @@ https://folhagospel.com/torre-de-tv-da-igreja-renascer-e-bloqueada-pela-justica/
 ## Torres das Colinas da Sumaré
 
 
-### Torre da TV Cultura (Av. Dr. Arnaldo, 1761)
+### Av. Dr. Arnaldo, 1761: Torre da TV Cultura
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
 ![](/img/projects/paisagem-antenada/paisagem-antenada-18.jpg)
@@ -158,12 +165,12 @@ Lorem ipsum dolor sit amet.
 ### Torre da Claro (Rua Butirapoã, 45)
 *Inauguração: xxxx.*
 Numa travessa da Rua Cerro Corá, continuidade da Heitor Penteado, transmite sinal da operadora mexicana Claro, uma das três presentes no país.
-![](/img/projects/paisagem-antenada/paisagem-antenada-23.jpg)
+![](/img/projects/paisagem-antenada/paisagem-antenada-22.jpg)
 
 ### Torre da Rede Transamérica (Rua Pio XI, 1587)
 *Inauguração: xxxx.*
 Transmite o sinal da rádio Transamérica (100.1 MHz).
-![](/img/projects/paisagem-antenada/paisagem-antenada-22.jpg)
+![](/img/projects/paisagem-antenada/paisagem-antenada-23.jpg)
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/pt-br/map/paisagem-antenada_1294107?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/pt-br/map/paisagem-antenada_1294107?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Ver em ecrã total</a></p>
 

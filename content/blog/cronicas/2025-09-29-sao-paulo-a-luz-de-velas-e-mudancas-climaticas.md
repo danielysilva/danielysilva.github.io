@@ -6,7 +6,7 @@ author: Daniely Silva
 categories: ["Crônicas"]
 tags: ["cidade"]
 summary:
-featured_image: "/img/blog/sao-paulo-a-luz-de-velas-6.jpg"
+featured_image: "/img/blog/sao-paulo-a-luz-de-velas-1.jpg"
 featured_image_title: "Represa Billings vista da Rodovia dos Imigrantes."
 featured_image_alt: "Vista ampla de reservatório de água."
 draft: false

@@ -55,3 +55,5 @@ Em 2 de janeiro de 2022, vi quatro dos irmãos se banhando na água acumulada na
 ![Cinco pássaros se amontoam sobre galho.](/img/blog/bico-de-lacre-8.jpg "Preguiça matinal.")
 
 ![Cinco pássaros se amontoam sobre galho.](/img/blog/bico-de-lacre-9.jpg "Amor fraternal passariforme.")
+
+![Dois pássaros se reúnem sobre galho; ao fundo, desfocado, mais um par.](/img/blog/bico-de-lacre-10.jpg "Amor fraternal passariforme.")

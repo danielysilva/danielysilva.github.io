@@ -39,7 +39,7 @@ Apresento as torres partindo da numeração, em ordem crescente, do começo para
 Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
 ![](/img/projects/paisagem-antenada/paisagem-antenada-01.jpg)
 
-### Rua Treze de Maio, 124 (torre de Edifício Ragi Buainain)
+### Rua Treze de Maio, 124 (torre do Edifício Ragi Buainain)
 *Inauguração: xxxx.*
 Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
 ![](/img/projects/paisagem-antenada/paisagem-antenada-02.jpg)

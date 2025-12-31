@@ -1,12 +1,14 @@
 ---
 layout: blog
 title: "Resenha de A Carne (1888), Júlio Ribeiro"
-date: 2025-11-27
+date: 2025-11-29
 author: Daniely Silva
 categories: ["Resenhas"]
 tags: ["leituras"]
 summary:
 draft: false
+aliases:
+  - /blog/resenhas/2025-11-27-resenha-de-a-carne-1888-julio-ribeiro
 ---
 
 *A Carne*, romance naturalista de 1888 de Júlio Ribeiro, passa por incontáveis camadas, indo da natureza do desejo à das paisagens. À época, seu lançamento foi um escândalo. Dona Belisária, a esposa do autor, ficou meses sem sair à rua, envergonhada. As qualidades narrativas são questionáveis, ao abusar de explicações científicas e abrir várias subtramas dispensáveis à história final. Para quem não está habituado às descrições exaustivas da época, a leitura pode ficar meio enfadonha. Mas vale a pena ler, sobretudo pelo final impactante, desesperador, com a pitada de pessimismo típico à escola literária naturalista e um contraditório otimismo que surge nesse emaranhado de expectativas.

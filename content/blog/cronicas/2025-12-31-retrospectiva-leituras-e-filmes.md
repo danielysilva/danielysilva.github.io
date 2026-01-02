@@ -32,7 +32,7 @@ Da segunda metade do ano pra cá, comecei a registrar os livros lidos e as séri
 * **12 de outubro**: *Estação Carandiru* (1999), do Dr. Áuzio Varella;
 * **22 de outubro**: *[Disgrace](/blog/resenhas/2025-11-27-resenha-de-disgrace-1999-coetzee/)* (1999), de Jonh M. Coetzee (África do Sul);
 * **27 de outubro**: *Rota 66* (1987), de Caco Barcellos;
-* **27 de outubro**: *Brasil: o futuro que queremos* (), de ... ;
+* **27 de outubro**: *Brasil: o futuro que queremos* (2018), organizado por Jaime Pinsky;
 * **3 de novembro**: *O Sentido das Águas* (2025), do Dr. Áuzio Varella;
 * **7 de novembro**: *Brás: Sotaques e Desmemórias* (2002), de Lourenço Diaféria;
 * **14 de novembro**: *[A Carne](/blog/resenhas/2025-11-29-resenha-de-a-carne-1888-julio-ribeiro/)* (1888), de Júlio Ribeiro;
@@ -43,9 +43,9 @@ Da segunda metade do ano pra cá, comecei a registrar os livros lidos e as séri
 
 * **5 de junho**: *El Jardinero* (2025), dirigida por Miguel Saéz Carral (Espanha);
 * **8 de junho**: *Unorthodox* (2020), dirigida por Maria Schrader (Alemanha);
-* **19 de agosto**: *Narcos* (S01) (), dirigida por Padilha et al. (Colômbia/EUA);
-* **28 de agosto**: *Narcos* (S02) (), dirigida por Gerardo Naranjo et al. (Colômbia/EUA);
-* **26 de setembro**: *Narcos* (S03) (), dirigida por Andi Baiz et al. (Colômbia/EUA).
+* **19 de agosto**: *Narcos* (S01) (2015), dirigida por Padilha et al. (Colômbia/EUA);
+* **28 de agosto**: *Narcos* (S02) (2016), dirigida por Gerardo Naranjo et al. (Colômbia/EUA);
+* **26 de setembro**: *Narcos* (S03) (2017), dirigida por Andi Baiz et al. (Colômbia/EUA).
 
 ### Filmes aos quais assisti
 

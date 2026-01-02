@@ -20,4 +20,4 @@ O movimento de criar uma página [*Now*/Agora](https://nownownow.com/about) adic
 
 6. Sigo com as redes sociais da Meta desativadas.
 
-**Atualizado ao 1 janeiro de 2026.**
+**Atualizado ao 1⁰ de janeiro de 2026.**

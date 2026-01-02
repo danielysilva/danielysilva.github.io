@@ -9,7 +9,7 @@ summary:
 draft: false
 ---
 
-Findo mais um ano, vem a pergunta: o que fizemos? Não foi um ano fácil. Foi morno em acontecimentos, com sabores azedos e toques amargos. Levei algumas facadas no bucho — e ainda dói! Foram três decepções: uma na família, uma amorosa e uma amizade. Tem Agente faz o favor de nos trair, porque mostra quem é e sempre foi.
+Findo mais um ano, vem a pergunta: o que fizemos? Não foi um ano fácil. Foi morno em acontecimentos, com sabores azedos e toques amargos. Levei algumas facadas no bucho — e ainda dói! Foram três decepções: uma na família, uma amorosa e uma amizade. Tem gente que faz o favor de nos trair, porque mostra quem é e sempre foi.
 
 Profissionalmente, passei por maus bocados e já me planejava para pedir as contas em breve, quando a grata surpresa de uma mudança veio para me dar um respiro e me permitir planejar os próximos passos com uma visão menos turva.
 

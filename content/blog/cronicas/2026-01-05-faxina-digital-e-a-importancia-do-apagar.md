@@ -1,14 +1,14 @@
 ---
 layout: blog
-title: "2026 01 05 Faxina digital e a importância do apagar"
-date: 2026-01-01 23:26:22
+title: "Faxina digital e a importância do apagar"
+date: 2026-01-05
 author: Daniely Silva
 categories: ["Crônicas"]
 tags: ["tecnologia"]
 summary:
-featured_image: "/img/blog/faxina-digital.jpg"
+featured_image: "/img/blog/faxina-digital.png"
 featured_image_title: "Propriedades da lixeira e faxina digital"
-featured_image_alt: "Tela de propriedades em interface Gnome mostra os ....... GB contidos na lixeira."
+featured_image_alt: "Tela de propriedades em interface Gnome mostra 69.462 itens em 287.4 GB contidos na lixeira."
 draft: true
 ---
 

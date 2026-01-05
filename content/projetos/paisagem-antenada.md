@@ -5,8 +5,8 @@ date: 2025-09-29 11:52:56
 author: 'Daniely Silva'
 summary:
 featured_image: "/img/projects/paisagem-antenada/paisagem-antenada-00.jpg"
-featured_image_title: "lorem ipsum dolor sit amet"
-featured_image_alt: "Lorem ipsum dolor sit amet, consectur adipiscing elit."
+featured_image_title: "Paisagem antenada do Espigão Central."
+featured_image_alt: "Panorama urbano da cidade de São Paulo no qual antenas se destacam na paisagem."
 draft: 'true'
 ---
 
@@ -31,148 +31,171 @@ Para elaboração deste projeto, parto de um esboço antigo, iniciado em 2022. A
 
 Apresento as torres partindo da numeração, em ordem crescente, do começo para o final da Avenida Paulista, ou seja, no sentido Sudeste-Noroeste.
 
+<section class="galeria">
+  <small>01</small><div class="item"><a href="#imagem1"><img src="/img/projects/paisagem-antenada/paisagem-antenada-01.jpg" alt="." title="." /></a></div>
+  <small>02</small><div class="item"><a href="#imagem2"><img src="/img/projects/paisagem-antenada/paisagem-antenada-02.jpg" alt="." title="." /></a></div>
+  <small>03</small><div class="item"><a href="#imagem3"><img src="/img/projects/paisagem-antenada/paisagem-antenada-03.jpg" alt="." title="." /></a></div>
+  <small>04</small><div class="item"><a href="#imagem4"><img src="/img/projects/paisagem-antenada/paisagem-antenada-04.jpg" alt="." title="." /></a></div>
+  <small>05</small><div class="item"><a href="#imagem5"><img src="/img/projects/paisagem-antenada/paisagem-antenada-05.jpg" alt="." title="." /></a></div>
+  <small>06</small><div class="item"><a href="#imagem6"><img src="/img/projects/paisagem-antenada/paisagem-antenada-06.jpg" alt="." title="." /></a></div>
+  <small>07</small><div class="item"><a href="#imagem7"><img src="/img/projects/paisagem-antenada/paisagem-antenada-07.jpg" alt="." title="." /></a></div>
+  <small>08</small><div class="item"><a href="#imagem8"><img src="/img/projects/paisagem-antenada/paisagem-antenada-08.jpg" alt="." title="." /></a></div>
+  <small>09</small><div class="item"><a href="#imagem9"><img src="/img/projects/paisagem-antenada/paisagem-antenada-09.jpg" alt="." title="." /></a></div>
+  <small>10</small><div class="item"><a href="#imagem10"><img src="/img/projects/paisagem-antenada/paisagem-antenada-10.jpg" alt="." title="." /></a></div>
+  <small>11</small><div class="item"><a href="#imagem11"><img src="/img/projects/paisagem-antenada/paisagem-antenada-11.jpg" alt="." title="." /></a></div>
+  <small>12</small><div class="item"><a href="#imagem12"><img src="/img/projects/paisagem-antenada/paisagem-antenada-12.jpg" alt="." title="." /></a></div>
+  <small>13</small><div class="item"><a href="#imagem13"><img src="/img/projects/paisagem-antenada/paisagem-antenada-13.jpg" alt="." title="." /></a></div>
+  <small>14</small><div class="item"><a href="#imagem14"><img src="/img/projects/paisagem-antenada/paisagem-antenada-14.jpg" alt="." title="." /></a></div>
+  <small>15</small><div class="item"><a href="#imagem15"><img src="/img/projects/paisagem-antenada/paisagem-antenada-15.jpg" alt="." title="." /></a></div>
+  <small>16</small><div class="item"><a href="#imagem16"><img src="/img/projects/paisagem-antenada/paisagem-antenada-16.jpg" alt="." title="." /></a></div>
+  <small>17</small><div class="item"><a href="#imagem17"><img src="/img/projects/paisagem-antenada/paisagem-antenada-17.jpg" alt="." title="." /></a></div>
+  <small>18</small><div class="item"><a href="#imagem18"><img src="/img/projects/paisagem-antenada/paisagem-antenada-18.jpg" alt="." title="." /></a></div>
+  <small>19</small><div class="item"><a href="#imagem19"><img src="/img/projects/paisagem-antenada/paisagem-antenada-19.jpg" alt="." title="." /></a></div>
+  <small>20</small><div class="item"><a href="#imagem20"><img src="/img/projects/paisagem-antenada/paisagem-antenada-20.jpg" alt="." title="." /></a></div>
+  <small>21</small><div class="item"><a href="#imagem21"><img src="/img/projects/paisagem-antenada/paisagem-antenada-21.jpg" alt="." title="." /></a></div>
+  <small>22</small><div class="item"><a href="#imagem22"><img src="/img/projects/paisagem-antenada/paisagem-antenada-22.jpg" alt="." title="." /></a></div>
+  <small>23</small><div class="item"><a href="#imagem23"><img src="/img/projects/paisagem-antenada/paisagem-antenada-23.jpg" alt="." title="." /></a></div>
+</section>
 
-## Antenas do Espigão da Paulista
+<div class="lightboxes">
+<div class="lightbox" id="imagem1"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-01.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem2"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-02.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem3"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-03.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem4"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-04.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem5"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-05.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem6"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-06.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem7"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-07.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem8"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-08.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem9"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-09.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem10"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-10.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem11"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-11.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem12"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-12.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem13"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-13.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem14"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-14.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem15"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-15.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem16"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-16.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem17"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-17.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem18"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-18.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem19"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-19.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem20"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-20.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem21"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-21.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem22"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-22.jpg" alt="." title="." /><p>.</p></div></div>
+<div class="lightbox" id="imagem23"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/paisagem-antenada/paisagem-antenada-23.jpg" alt="." title="." /><p>.</p></div></div>
 
-### Torre do prédio da Unip, câmpus Paraíso (Rua Vergueiro, 1211)
-*Inauguração: xxxx.*
-Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
-![](/img/projects/paisagem-antenada/paisagem-antenada-01.jpg)
-
-### Rua Treze de Maio, 124 (torre do Edifício Ragi Buainain)
-*Inauguração: xxxx.*
-Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
-![](/img/projects/paisagem-antenada/paisagem-antenada-02.jpg)
-
-### Torre do Itaú Cultural (Av. Paulista, 149)
-*Inauguração: xxxx.*
-Lorem ipsum dolor sit amet.
-![](/img/projects/paisagem-antenada/paisagem-antenada-03.jpg)
-
-### (Av. Paulista, 326)
-*Inauguração: xxxx.*
-Lorem ipsum dolor sit amet.
-![](/img/projects/paisagem-antenada/paisagem-antenada-04.jpg)
-
-### Torre do Edifício Patrimônio (Av. Paulista, 509)
-*Inauguração: xxxx.*
-Lorem ipsum dolor sit amet.
-![](/img/projects/paisagem-antenada/paisagem-antenada-05.jpg)
-
-### Av. Brigadeiro Luís Antônio, 1794
-*Inauguração: xxxx.*
-Torre de tranmsissão da antiga Telefônica.
-![](/img/projects/paisagem-antenada/paisagem-antenada-06.jpg)
-
-### Torre da Globo (Alameda Santos, 700)
-*Inauguração: xxxx.*
-Transmite o sinal da CBN
-![](/img/projects/paisagem-antenada/paisagem-antenada-07.jpg)
-
-### Torre da Rádio Jovem Pan (Av. Paulista, 807)
-*Inauguração: xxxx.*
-Torre pouco relevante, assim como a rádio homônima.
-![](/img/projects/paisagem-antenada/paisagem-antenada-08.jpg)
-
-### Torre Cásper Líbero (Av. Paulista, 900)
-*Inauguração: xxxx.*
-A de iluminação mais icônica. É a torre do TV Gazeta e, até 2019, foi usada também pelo Grupo Globo, no que se destacava a trasmissão da CBN.
-
-https://tudoradio.com/noticias/ver/22700-curiosidade-cbn-investe-em-nova-estrutura-de-transmissao-para-sua-fm-em-sao-paulo
-![](/img/projects/paisagem-antenada/paisagem-antenada-09.jpg)
-
-### Torre do Edíficio Asahi (Av. Paulista, 1274)
-*Inauguração: xxxx.*
-Lorem ipsum dolor sit amet.
-![](/img/projects/paisagem-antenada/paisagem-antenada-10.jpg)
-
-<div hidden>
-### Edifício Paulista I (Av. Paulista, 1337)
-*Inauguração: xxxx.*
-Anteriormente, transmitiu o sinal da BandNews FM (96.9), antes da transferência para a Torre da Band.
-![](/img/projects/paisagem-antenada/paisagem-antenada-11.jpg)
 </div>
 
-### Av. Paulista, 1439: Edifício Mário Wallace, Torre da Energia FM (97 MHz)
+<div >
+
+### Torres do Espigão da Paulista
+
+* **01 - Rua Vergueiro, 1211**: Torre do prédio da Unip, câmpus Paraíso\
+*Inauguração: xxxx.*
+Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
+
+* **02 - Rua Treze de Maio, 124: Torre do Edifício Ragi Buainain\
+*Inauguração: xxxx.*
+Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
+
+* **03 - Av. Paulista, 149**: Torre do Itaú Cultural\
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
-![](/img/projects/paisagem-antenada/paisagem-antenada-11.jpg)
 
-### Av. Paulista, 1748/1754: Edifício Grande Avenida, Torre da Record
+* **04 - Av. Paulista, 326**\
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
-![](/img/projects/paisagem-antenada/paisagem-antenada-12.jpg)
 
-### Av. Paulista, 2001: Edifício Barão de Itatiaya
+* **05 - Av. Paulista, 509**: Torre do Edifício Patrimônio\
 *Inauguração: xxxx.*
 Lorem ipsum dolor sit amet.
-![](/img/projects/paisagem-antenada/paisagem-antenada-13.jpg)
 
+* **06 -  Av. Brigadeiro Luís Antônio, 1794**: Torre da Vivo\
+*Inauguração: xxxx.*
+Torre de tranmsissão da antiga Telefônica.
 
-### Av. Paulista, 2200: Condomínio Edifício Central Park
+* **07 - Alameda Santos, 700**: Torre da Globo\
+Inagurada em 2006, tem 115 metros de altura, ou 185, se contar a edificação sobre a qual se instala. Transmite o sinal da CBN (90.5 MHz), TV Globo e filiais de rádio e televisão.
+
+* **08 - Av. Paulista, 807**: Torre da Rádio Jovem Pan\
+*Inauguração: xxxx.*
+Torre pouco relevante, assim como a rádio. Transmitiu o sinal do extinto canal de TV homônimo.
+
+* **09 - Av. Paulista, 900**: Torre Cásper Líbero\
+Inagurada em XXXX, tem 110 metros de altura. A de iluminação mais icônica. É a torre do TV Gazeta e, até 2019, foi usada também pelo Grupo Globo, no que se destacava a trasmissão da CBN.
+https://tudoradio.com/noticias/ver/22700-curiosidade-cbn-investe-em-nova-estrutura-de-transmissao-para-sua-fm-em-sao-paulo
+
+* **10 - Av. Paulista, 1274**: Torre do Edíficio Asahi\
+*Inauguração: xxxx.*
+Lorem ipsum dolor sit amet.
+
+* **11 - Av. Paulista, 1439**: Edifício Mário Wallace, Torre da Energia FM (97 MHz)\
+*Inauguração: xxxx.*
+Lorem ipsum dolor sit amet.
+
+* **12 - Av. Paulista, 1748/1754**: Edifício Grande Avenida, Torre da Record\
+*Inauguração: xxxx.* Sobreviveu ao incêndio no prédio em 1981, o qual matou 17 pessoas e feriu outras 100.
+
+* **13 - Av. Paulista, 2001**: Edifício Barão de Itatiaya\
+*Inauguração: xxxx.*
+Lorem ipsum dolor sit amet.
+
+* **14 - Av. Paulista, 2200**: Condomínio Edifício Central Park\
 *Inauguração: xxxx.*
 Transmite o sinal das rádios Kiss FM (92.5MHz), `[Vibe]` Mundial (95.7MHz), Metropolitana (98.5MHz), Alpha FM (101.7MHz) e  Top FM (104.1MHz).
-![](/img/projects/paisagem-antenada/paisagem-antenada-14.jpg)
 
-### Av. Paulista, 2300: Edifício São Luís Gonzaga ()
-*Inauguração: xxxx.*
+* **15 - Av. Paulista, 2300**: Edifício São Luís Gonzaga\
 Torre discreta que quase some ao estar sobre um edifício tão massudo.
-![](/img/projects/paisagem-antenada/paisagem-antenada-15.jpg)
 
-### Rua da Consolação, 2532: Edifício Light Tower, Torre Deus é Fiel
-*Inauguração: 2005.*
-Torre da Igreja Apostólica Renascer em Cristo. Transmite o sinal da Golpel FM, Rede Gospel de Televisão e da TV Pai Eterno. Foi construída com a compra de carnês por fiéis na campanha "Desafio da Torre". Até a Lei Cidade Limpa, sua iluminação em LED transmitia mensagens de pregação.
-
-Em 2007, foi bloqueada pela justiça, embora a transmissão tenha sido mantida. A torre é um marco da ascensão do neopentecostalismo midiático no nosso país.
+* **16 - Rua da Consolação, 2532**: Edifício Light Tower, Torre Deus é Fiel\
+Inaugurada em 2005, atendia às redes da Igreja Apostólica Renascer em Cristo: Golpel FM, Rede Gospel de Televisão e TV Pai Eterno. Foi construída com a compra de carnês por fiéis na campanha "Desafio da Torre". Até a Lei Cidade Limpa, sua iluminação em LED transmitia mensagens de pregação. Em 2007, a posse da torre pela igreja é bloqueada pela justiça, embora a transmissão tenha sido mantida. A torre é um marco da ascensão do neopentecostalismo midiático no nosso país.
 
 https://extra.globo.com/noticias/brasil/justica-bloqueia-torre-de-tv-da-igreja-renascer-678462.html
 https://folhagospel.com/torre-de-tv-da-igreja-renascer-e-bloqueada-pela-justica/
 
-![](/img/projects/paisagem-antenada/paisagem-antenada-16.jpg)
+* **17 - Rua Minas Gerais 454**: Torre da Band\
+Inaugurada no Reveião de 1996, é a mais alta da cidade, com 212 metros de altura. Sua inauguração substituiu as transmissões do grupo a partir do Pico do Jaraguá. Foi reinaugurada em 2011 com nova iluminação. Em 2018, ficou às escuras, sob justificativa de manutenção, durante grave crise financeira do Grupo Bandeirantes. Em 2019, passou a transmitir o sinal da BandNews FM (96.9), substituindo a torre do Edifício Paulista I (Av. Paulista, 1337).
 
-### Rua Minas Gerais 454: Torre da Band
-*Inauguração: Reveião de 1996.*
-É a mais alta da cidade, com 212 metros de altura. Sua inauguração substituiu as transmissões do grupo a partir do Pico do Jaraguá. Em 2019, passou a transmitir o sinal da BandNews FM (96.9)
-![](/img/projects/paisagem-antenada/paisagem-antenada-17.jpg)
+https://entretenimento.r7.com/prisma/keila-jimenez/em-contencao-de-despesas-band-apaga-torre-da-paulista-29082019/
 
+### Torres das Colinas da Sumaré
 
-## Torres das Colinas da Sumaré
+* **18 - Av. Dr. Arnaldo, 1761**: Torre da TV Cultura\
+Inaugurada em 1992, foi uma obra pública tocada pelo governo Orestes Quércia (PMDB). Transmite o sinal da TV Cultura e da Rádio Cultura FM (103.3 MHz).
 
+* **19 - Av. Prof. Afonso Bovero, 52**: Torre do Edifício Victor Civita\
+*Inauguração: anterior a 1980.*  Transmitiu o sinal das extintas TV Tupi e MTV.
 
-### Av. Dr. Arnaldo, 1761: Torre da TV Cultura
-*Inauguração: xxxx.*
+* **20 - Av. Professor Afonso Bovero, 72**: Torre do SBT\
+*Inauguração: 1981.*
 Lorem ipsum dolor sit amet.
-![](/img/projects/paisagem-antenada/paisagem-antenada-18.jpg)
 
-### Torre do Edifício Victor Civita (Av. Prof. Afonso Bovero, 52)
-*Inauguração: xxxx.*
+* **21 - Rua Bruxelas, 199**: Torre da RedeTV\
+*Inauguração: 1983.*
 Lorem ipsum dolor sit amet.
-![](/img/projects/paisagem-antenada/paisagem-antenada-19.jpg)
-
-### Torre do SBT (Av. Professor Afonso Bovero, 72)
-*Inauguração: xxxx.*
-Lorem ipsum dolor sit amet.
-![](/img/projects/paisagem-antenada/paisagem-antenada-20.jpg)
-
-### Torre da RedeTV (Rua Bruxelas, 199)
-*Inauguração: xxxx.*
-Lorem ipsum dolor sit amet.
-![](/img/projects/paisagem-antenada/paisagem-antenada-21.jpg)
 
 
-## Torres do Alto da Lapa
+### Torres do Alto da Lapa
 
-### Torre da Claro (Rua Butirapoã, 45)
+* **22 - Rua Butirapoã, 45**: Torre da Claro\
 *Inauguração: xxxx.*
 Numa travessa da Rua Cerro Corá, continuidade da Heitor Penteado, transmite sinal da operadora mexicana Claro, uma das três presentes no país.
-![](/img/projects/paisagem-antenada/paisagem-antenada-22.jpg)
 
-### Torre da Rede Transamérica (Rua Pio XI, 1587)
+* **23 - Rua Pio XI, 1587**: Torre da Rede Transamérica (100.1 MHz)\
 *Inauguração: xxxx.*
 Transmite o sinal da rádio Transamérica (100.1 MHz).
-![](/img/projects/paisagem-antenada/paisagem-antenada-23.jpg)
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/pt-br/map/paisagem-antenada_1294107?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/pt-br/map/paisagem-antenada_1294107?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Ver em ecrã total</a></p>
+
+<div hidden>
+* 10.1 Edifício Paulista I (Av. Paulista, 1337)\
+*Inauguração: xxxx.*
+Anteriormente, transmitiu o sinal da BandNews FM (96.9), antes da transferência para a Torre da Band.
+</div>
+
+</div>
+
+<br>
+<p>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/pt-br/map/paisagem-antenada_1294107?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><small><a href="//umap.openstreetmap.fr/pt-br/map/paisagem-antenada_1294107?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Ver em ecrã total</a></small>
+</p>
 
 * AB'SABER. **Geomorfologia do Sítio Urbano de São Paulo, Edição Fac–Similar**. São Paulo: Ateliê Editorial, 2007.
 
@@ -181,20 +204,3 @@ Transmite o sinal da rádio Transamérica (100.1 MHz).
 * GOUVEIA, Isabel Cristina Moroz Caccia. **Da originalidade do sítio urbano de São Paulo às formas antrópicas: aplicação da abordagem da geomorfologia antropogênica na bacia hidrográfica do Rio Tamanduateí, na região metropolitana de São Paulo**. Doutorado em Geografia Física—São Paulo: Universidade de São Paulo, 18 nov. 2010.
 
 * VIEGAS, Mariana Felippe. **Linha Paulista do Metrô de São Paulo: reflexos da inserção urbana na arquitetura e no método construtivo das estações**. 2020. Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2020. Disponível em: https://www.teses.usp.br/teses/disponiveis/16/16138/tde-19042021-101842/. Acesso em: 02 out. 2025.
-
-
-<section class="galeria">
-  <div class="item"><a href="#imagem1"><img src="/img/projects/prato-do-dia/esquina3.jpg" alt="." title="." /></a></div>
-  <div class="item"><a href="#imagem2"><img src="/img/projects/prato-do-dia/esquina4.jpg" alt="." title="." /></a></div>
-  <div class="item"><a href="#imagem3"><img src="/img/projects/prato-do-dia/esquina5.jpg" alt="." title="." /></a></div>
-  <div class="item"><a href="#imagem4"><img src="/img/projects/prato-do-dia/esquina6.jpg" alt="." title="." /></a></div>
-<div class="item"><a href="#imagem5"><img src="/img/projects/prato-do-dia/esquina-feira8.jpg" alt="." title="." /></a></div>
-</section>
-
-<div class="lightboxes">
-<div class="lightbox" id="imagem1"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina3.jpg" alt="." title="." /><p>.</p></div></div>
-<div class="lightbox" id="imagem2"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina4.jpg" alt="." title="." /><p>.</p></div></div>
-<div class="lightbox" id="imagem3"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina5.jpg" alt="." title="." /><p>.</p></div></div>
-<div class="lightbox" id="imagem4"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina6.jpg" alt="." title="." /><p>.</p></div></div>
-<div class="lightbox" id="imagem5"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/prato-do-dia/esquina-feira8.jpg" alt="." title="." /><p>.</p></div></div>
-</div>

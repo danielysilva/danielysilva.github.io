@@ -1,7 +1,7 @@
 ---
 layout: projetos
 title: "Paisagem Antenada"
-date: 2025-09-29 11:52:56
+date: 2025-01-25
 author: 'Daniely Silva'
 summary:
 featured_image: "/img/projects/paisagem-antenada/paisagem-antenada-00.jpg"
@@ -92,62 +92,49 @@ Apresento as torres partindo da numeração, em ordem crescente, do começo para
 *Inauguração: xxxx.*
 Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
 
-* **02 - Rua Treze de Maio, 124: Torre do Edifício Ragi Buainain\
-*Inauguração: xxxx.*
+* **02 - Rua Treze de Maio, 124**: Torre do Edifício Ragi Buainain\
 Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
 
 * **03 - Av. Paulista, 149**: Torre do Itaú Cultural\
-*Inauguração: xxxx.*
-Lorem ipsum dolor sit amet.
 
 * **04 - Av. Paulista, 326**\
-*Inauguração: xxxx.*
-Lorem ipsum dolor sit amet.
 
 * **05 - Av. Paulista, 509**: Torre do Edifício Patrimônio\
-*Inauguração: xxxx.*
-Lorem ipsum dolor sit amet.
 
 * **06 -  Av. Brigadeiro Luís Antônio, 1794**: Torre da Vivo\
-*Inauguração: xxxx.*
 Torre de tranmsissão da antiga Telefônica.
 
 * **07 - Alameda Santos, 700**: Torre da Globo\
 Inagurada em 2006, tem 115 metros de altura, ou 185, se contar a edificação sobre a qual se instala. Transmite o sinal da CBN (90.5 MHz), TV Globo e filiais de rádio e televisão.
 
 * **08 - Av. Paulista, 807**: Torre da Rádio Jovem Pan\
-*Inauguração: xxxx.*
-Torre pouco relevante, assim como a rádio. Transmitiu o sinal do extinto canal de TV homônimo.
+Torre pouco relevante visualmente. Transmitiu o sinal do extinto canal de TV homônimo e agora emite a Rádio Jovem Pan (100.9 MHz).
 
 * **09 - Av. Paulista, 900**: Torre Cásper Líbero\
 Inagurada em XXXX, tem 110 metros de altura. A de iluminação mais icônica. É a torre do TV Gazeta e, até 2019, foi usada também pelo Grupo Globo, no que se destacava a trasmissão da CBN.
 https://tudoradio.com/noticias/ver/22700-curiosidade-cbn-investe-em-nova-estrutura-de-transmissao-para-sua-fm-em-sao-paulo
 
 * **10 - Av. Paulista, 1274**: Torre do Edíficio Asahi\
-*Inauguração: xxxx.*
-Lorem ipsum dolor sit amet.
 
-* **11 - Av. Paulista, 1439**: Edifício Mário Wallace, Torre da Energia FM (97 MHz)\
-*Inauguração: xxxx.*
-Lorem ipsum dolor sit amet.
+* **11 - Av. Paulista, 1439**: Edifício Mário Wallace\
+Transmite o sinal da rádio Energia FM (97 MHz).
 
-* **12 - Av. Paulista, 1748/1754**: Edifício Grande Avenida, Torre da Record\
-*Inauguração: xxxx.* Sobreviveu ao incêndio no prédio em 1981, o qual matou 17 pessoas e feriu outras 100.
+* **12 - Av. Paulista, 1748/1754**: Edifício Grande Avenida
+Inaugurada em 1968, transmite o sinal do grupo Record. Sobreviveu ao incêndio no prédio em 1981, o qual matou 17 e feriu outras 100 pessoas.
+
+https://web.archive.org/web/20090810111643/http://blog.francfort.com.br/2009/03/24/sao-paulo-das-torres
+https://web.archive.org/web/20150115160509/http://www.skyscraperlife.com/cidades-e-paisagens/9236-antenas-e-torres-de-s%E3o-paulo
 
 * **13 - Av. Paulista, 2001**: Edifício Barão de Itatiaya\
-*Inauguração: xxxx.*
-Lorem ipsum dolor sit amet.
 
 * **14 - Av. Paulista, 2200**: Condomínio Edifício Central Park\
-*Inauguração: xxxx.*
 Transmite o sinal das rádios Kiss FM (92.5MHz), `[Vibe]` Mundial (95.7MHz), Metropolitana (98.5MHz), Alpha FM (101.7MHz) e  Top FM (104.1MHz).
 
 * **15 - Av. Paulista, 2300**: Edifício São Luís Gonzaga\
 Torre discreta que quase some ao estar sobre um edifício tão massudo.
 
 * **16 - Rua da Consolação, 2532**: Edifício Light Tower, Torre Deus é Fiel\
-Inaugurada em 2005, atendia às redes da Igreja Apostólica Renascer em Cristo: Golpel FM, Rede Gospel de Televisão e TV Pai Eterno. Foi construída com a compra de carnês por fiéis na campanha "Desafio da Torre". Até a Lei Cidade Limpa, sua iluminação em LED transmitia mensagens de pregação. Em 2007, a posse da torre pela igreja é bloqueada pela justiça, embora a transmissão tenha sido mantida. A torre é um marco da ascensão do neopentecostalismo midiático no nosso país.
-
+Inaugurada em 2005, atendia às redes da Igreja Apostólica Renascer em Cristo: Golpel FM, Rede Gospel de Televisão e TV Pai Eterno. Foi construída com a venda de carnês a fiéis na campanha "Desafio da Torre". Até a Lei Cidade Limpa, sua iluminação em LED transmitia mensagens de pregação. Em 2007, a posse da torre pela igreja é bloqueada pela justiça, embora a transmissão tenha sido mantida. A torre é um marco da ascensão do neopentecostalismo midiático no nosso país.
 https://extra.globo.com/noticias/brasil/justica-bloqueia-torre-de-tv-da-igreja-renascer-678462.html
 https://folhagospel.com/torre-de-tv-da-igreja-renascer-e-bloqueada-pela-justica/
 
@@ -162,35 +149,21 @@ https://entretenimento.r7.com/prisma/keila-jimenez/em-contencao-de-despesas-band
 Inaugurada em 1992, foi uma obra pública tocada pelo governo Orestes Quércia (PMDB). Transmite o sinal da TV Cultura e da Rádio Cultura FM (103.3 MHz).
 
 * **19 - Av. Prof. Afonso Bovero, 52**: Torre do Edifício Victor Civita\
-*Inauguração: anterior a 1980.*  Transmitiu o sinal das extintas TV Tupi e MTV.
+Inauguração anterior a 1980.  Transmitiu o sinal das extintas TV Tupi e MTV.
 
 * **20 - Av. Professor Afonso Bovero, 72**: Torre do SBT\
-*Inauguração: 1981.*
-Lorem ipsum dolor sit amet.
+Inauguração em 1981.
 
 * **21 - Rua Bruxelas, 199**: Torre da RedeTV\
-*Inauguração: 1983.*
-Lorem ipsum dolor sit amet.
-
+Inaugurada em 1983.
 
 ### Torres do Alto da Lapa
 
 * **22 - Rua Butirapoã, 45**: Torre da Claro\
-*Inauguração: xxxx.*
-Numa travessa da Rua Cerro Corá, continuidade da Heitor Penteado, transmite sinal da operadora mexicana Claro, uma das três presentes no país.
+Inaugurada em XXXX.... Numa travessa da Rua Cerro Corá, continuidade da Heitor Penteado, transmite sinal da operadora mexicana Claro, uma das três presentes no país atualmente.
 
 * **23 - Rua Pio XI, 1587**: Torre da Rede Transamérica (100.1 MHz)\
-*Inauguração: xxxx.*
-Transmite o sinal da rádio Transamérica (100.1 MHz).
-
-
-<div hidden>
-* 10.1 Edifício Paulista I (Av. Paulista, 1337)\
-*Inauguração: xxxx.*
-Anteriormente, transmitiu o sinal da BandNews FM (96.9), antes da transferência para a Torre da Band.
-</div>
-
-</div>
+Inaugurada em XXXX ....... Transmite o sinal da rádio Transamérica (100.1 MHz).
 
 <br>
 <p>

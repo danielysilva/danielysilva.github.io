@@ -111,8 +111,7 @@ Inagurada em 2006, tem 115 metros de altura, ou 185, se contar a edificação so
 Torre pouco relevante visualmente. Transmitiu o sinal do extinto canal de TV homônimo e agora emite a Rádio Jovem Pan (100.9 MHz).
 
 * **09 - Av. Paulista, 900**: Torre Cásper Líbero\
-Inagurada em XXXX, tem 110 metros de altura. A de iluminação mais icônica. É a torre do TV Gazeta e, até 2019, foi usada também pelo Grupo Globo, no que se destacava a trasmissão da CBN.
-https://tudoradio.com/noticias/ver/22700-curiosidade-cbn-investe-em-nova-estrutura-de-transmissao-para-sua-fm-em-sao-paulo
+Inagurada em XXXX, tem 110 metros de altura. A de iluminação mais icônica. É a torre do TV Gazeta e, até 2019, foi usada também pelo Grupo Globo, no que se destacava a trasmissão da CBN. [^1] [^2]
 
 * **10 - Av. Paulista, 1274**: Torre do Edíficio Asahi\
 
@@ -120,7 +119,7 @@ https://tudoradio.com/noticias/ver/22700-curiosidade-cbn-investe-em-nova-estrutu
 Transmite o sinal da rádio Energia FM (97 MHz).
 
 * **12 - Av. Paulista, 1748/1754**: Edifício Grande Avenida
-Inaugurada em 1968, transmite o sinal do grupo Record. Sobreviveu ao incêndio no prédio em 1981, o qual matou 17 e feriu outras 100 pessoas.
+Inaugurada em 1968, transmite o sinal do grupo Record. Sobreviveu ao incêndio no prédio em 1981, o qual matou 17 e feriu outras 100 pessoas. [^2] [^3]
 
 https://web.archive.org/web/20090810111643/http://blog.francfort.com.br/2009/03/24/sao-paulo-das-torres
 https://web.archive.org/web/20150115160509/http://www.skyscraperlife.com/cidades-e-paisagens/9236-antenas-e-torres-de-s%E3o-paulo
@@ -135,13 +134,13 @@ Torre discreta que quase some ao estar sobre um edifício tão massudo.
 
 * **16 - Rua da Consolação, 2532**: Edifício Light Tower, Torre Deus é Fiel\
 Inaugurada em 2005, atendia às redes da Igreja Apostólica Renascer em Cristo: Golpel FM, Rede Gospel de Televisão e TV Pai Eterno. Foi construída com a venda de carnês a fiéis na campanha "Desafio da Torre". Até a Lei Cidade Limpa, sua iluminação em LED transmitia mensagens de pregação. Em 2007, a posse da torre pela igreja é bloqueada pela justiça, embora a transmissão tenha sido mantida. A torre é um marco da ascensão do neopentecostalismo midiático no nosso país.
-https://extra.globo.com/noticias/brasil/justica-bloqueia-torre-de-tv-da-igreja-renascer-678462.html
+
 https://folhagospel.com/torre-de-tv-da-igreja-renascer-e-bloqueada-pela-justica/
 
 * **17 - Rua Minas Gerais 454**: Torre da Band\
 Inaugurada no Reveião de 1996, é a mais alta da cidade, com 212 metros de altura. Sua inauguração substituiu as transmissões do grupo a partir do Pico do Jaraguá. Foi reinaugurada em 2011 com nova iluminação. Em 2018, ficou às escuras, sob justificativa de manutenção, durante grave crise financeira do Grupo Bandeirantes. Em 2019, passou a transmitir o sinal da BandNews FM (96.9), substituindo a torre do Edifício Paulista I (Av. Paulista, 1337).
 
-https://entretenimento.r7.com/prisma/keila-jimenez/em-contencao-de-despesas-band-apaga-torre-da-paulista-29082019/
+JIMENEZ, Keila. Em contenção de despesas, Band "apaga" torre da Paulista. São Paulo: R7, 31 jan. 2018. Disponível em: < https://entretenimento.r7.com/prisma/keila-jimenez/em-contencao-de-despesas-band-apaga-torre-da-paulista-29082019/ >. Acesso: 10 jan. 2026.
 
 ### Torres das Colinas da Sumaré
 
@@ -177,3 +176,9 @@ Inaugurada em XXXX ....... Transmite o sinal da rádio Transamérica (100.1 MHz)
 * GOUVEIA, Isabel Cristina Moroz Caccia. **Da originalidade do sítio urbano de São Paulo às formas antrópicas: aplicação da abordagem da geomorfologia antropogênica na bacia hidrográfica do Rio Tamanduateí, na região metropolitana de São Paulo**. Doutorado em Geografia Física—São Paulo: Universidade de São Paulo, 18 nov. 2010.
 
 * VIEGAS, Mariana Felippe. **Linha Paulista do Metrô de São Paulo: reflexos da inserção urbana na arquitetura e no método construtivo das estações**. 2020. Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2020. Disponível em: https://www.teses.usp.br/teses/disponiveis/16/16138/tde-19042021-101842/. Acesso em: 02 out. 2025.
+
+
+[^1] O GLOBO. Justiça bloqueia torre de TV da Igreja Renascer. São Paulo: Extra, 03 maio 2007. Disponível em: < https://extra.globo.com/noticias/brasil/justica-bloqueia-torre-de-tv-da-igreja-renascer-678462.html >. Acesso: 10 jan. 2026.
+
+[^2] Curiosidade: CBN investe em nova estrutura de transmissão para sua FM em São Paulo. Curitiba: Tudo Rádio, 12 dez. 2019. Disponível em: < https://tudoradio.com/noticias/ver/22700-curiosidade-cbn-investe-em-nova-estrutura-de-transmissao-para-sua-fm-em-sao-paulo >. Acesso: 10 jan. 2026.
+

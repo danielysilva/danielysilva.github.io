@@ -31,6 +31,11 @@ Para elaboração deste projeto, parto de um esboço antigo, iniciado em 2022. A
 
 Apresento as torres partindo da numeração, em ordem crescente, do começo para o final da Avenida Paulista, ou seja, no sentido Sudeste-Noroeste.
 
+
+AS QUE TÊM NOME AS QUE NÃO TÊM OS NOMES POPULARES
+
+
+
 <section class="galeria">
   <small>01</small><div class="item"><a href="#imagem1"><img src="/img/projects/paisagem-antenada/paisagem-antenada-01.jpg" alt="." title="." /></a></div>
   <small>02</small><div class="item"><a href="#imagem2"><img src="/img/projects/paisagem-antenada/paisagem-antenada-02.jpg" alt="." title="." /></a></div>
@@ -86,11 +91,15 @@ Apresento as torres partindo da numeração, em ordem crescente, do começo para
 
 <div >
 
+fontes gerais sobre as torres
+https://web.archive.org/web/20090810111643/http://blog.francfort.com.br/2009/03/24/sao-paulo-das-torres
+https://web.archive.org/web/20150115160509/http://www.skyscraperlife.com/cidades-e-paisagens/9236-antenas-e-torres-de-s%E3o-paulo (acho que é o mesmo do skyscrapercity)
+
+
 ### Torres do Espigão da Paulista
 
-* **01 - Rua Vergueiro, 1211**: Torre do prédio da Unip, câmpus Paraíso\
-*Inauguração: xxxx.*
-Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
+* **01 - Rua Vergueiro, 1211**: Torre Vergueiro
+Inaugurada nos anos 2000, está sobre o campi Paraíso da Unip. Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz), além das comunicações da universidade entre os câmpus em todo o estado..
 
 * **02 - Rua Treze de Maio, 124**: Torre do Edifício Ragi Buainain\
 Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
@@ -99,16 +108,17 @@ Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
 
 * **04 - Av. Paulista, 326**\
 
-* **05 - Av. Paulista, 509**: Torre do Edifício Patrimônio\
+* **05 - Av. Paulista, 509**: Torre Eldorado
+Instalada sobre o Edifício Patrimônio, na esquina com a Brigadeiro Luís Antônio, transmite o sinal das emissoras do Grupo Estado, Eldorado FM (107.3 MHz) e TV Aparecida.
 
 * **06 -  Av. Brigadeiro Luís Antônio, 1794**: Torre da Vivo\
 Torre de tranmsissão da antiga Telefônica.
 
-* **07 - Alameda Santos, 700**: Torre da Globo\
-Inagurada em 2006, tem 115 metros de altura, ou 185, se contar a edificação sobre a qual se instala. Transmite o sinal da CBN (90.5 MHz), TV Globo e filiais de rádio e televisão.
+* **07 - Alameda Santos, 700**: Torre Alameda Santos, a "Torre da Globo"
+Inagurada em 2006, tem 115 metros de altura, ou 185, se contar a edificação sobre a qual se instala. Transmite o sinal da CBN (90.5 MHz), TV Globo e filiais de rádio e televisão. Foi a primeira torre da cidade concebida para a era da TV digital.
 
-* **08 - Av. Paulista, 807**: Torre da Rádio Jovem Pan\
-Torre pouco relevante visualmente. Transmitiu o sinal do extinto canal de TV homônimo e agora emite a Rádio Jovem Pan (100.9 MHz).
+* **08 - Av. Paulista, 807**: Torre Senai\
+Torre pouco relevante visualmente. Transmitiu o sinal do extinto canal de TV homônimo e dos sucessores CBI, Mix TV, a Mix FM e RBI. Agora emite a Rádio Jovem Pan (100.9 MHz).
 
 * **09 - Av. Paulista, 900**: Torre Cásper Líbero\
 Inagurada em XXXX, tem 110 metros de altura. A de iluminação mais icônica. É a torre do TV Gazeta e, até 2019, foi usada também pelo Grupo Globo, no que se destacava a trasmissão da CBN. [^1] [^2]
@@ -119,10 +129,7 @@ Inagurada em XXXX, tem 110 metros de altura. A de iluminação mais icônica. É
 Transmite o sinal da rádio Energia FM (97 MHz).
 
 * **12 - Av. Paulista, 1748/1754**: Edifício Grande Avenida
-Inaugurada em 1968, transmite o sinal do grupo Record. Sobreviveu ao incêndio no prédio em 1981, o qual matou 17 e feriu outras 100 pessoas. [^2] [^3]
-
-https://web.archive.org/web/20090810111643/http://blog.francfort.com.br/2009/03/24/sao-paulo-das-torres
-https://web.archive.org/web/20150115160509/http://www.skyscraperlife.com/cidades-e-paisagens/9236-antenas-e-torres-de-s%E3o-paulo
+Inaugurada em 1968, transmite o sinal do grupo Record. Sobreviveu ao incêndio no prédio em 1981, o qual matou 17 e feriu outras 100 pessoas.
 
 * **13 - Av. Paulista, 2001**: Edifício Barão de Itatiaya\
 
@@ -133,14 +140,10 @@ Transmite o sinal das rádios Kiss FM (92.5MHz), `[Vibe]` Mundial (95.7MHz), Met
 Torre discreta que quase some ao estar sobre um edifício tão massudo.
 
 * **16 - Rua da Consolação, 2532**: Edifício Light Tower, Torre Deus é Fiel\
-Inaugurada em 2005, atendia às redes da Igreja Apostólica Renascer em Cristo: Golpel FM, Rede Gospel de Televisão e TV Pai Eterno. Foi construída com a venda de carnês a fiéis na campanha "Desafio da Torre". Até a Lei Cidade Limpa, sua iluminação em LED transmitia mensagens de pregação. Em 2007, a posse da torre pela igreja é bloqueada pela justiça, embora a transmissão tenha sido mantida. A torre é um marco da ascensão do neopentecostalismo midiático no nosso país.
+Inaugurada em 2005, atendia às redes da Igreja Apostólica Renascer em Cristo: Golpel FM, Rede Gospel de Televisão e TV Pai Eterno. Foi construída com a venda de carnês a fiéis na campanha "Desafio da Torre". Até a Lei Cidade Limpa, sua iluminação em LED transmitia mensagens de pregação. Em 2007, a posse da torre pela igreja é bloqueada pela justiça, embora a transmissão tenha sido mantida. À época, bispa Sônia e o marido, Estévan Hernandez, eram investigados por lavagem de dinheiro. A torre é um marco da ascensão do neopentecostalismo midiático no nosso país. [^3]
 
-https://folhagospel.com/torre-de-tv-da-igreja-renascer-e-bloqueada-pela-justica/
-
-* **17 - Rua Minas Gerais 454**: Torre da Band\
-Inaugurada no Reveião de 1996, é a mais alta da cidade, com 212 metros de altura. Sua inauguração substituiu as transmissões do grupo a partir do Pico do Jaraguá. Foi reinaugurada em 2011 com nova iluminação. Em 2018, ficou às escuras, sob justificativa de manutenção, durante grave crise financeira do Grupo Bandeirantes. Em 2019, passou a transmitir o sinal da BandNews FM (96.9), substituindo a torre do Edifício Paulista I (Av. Paulista, 1337).
-
-JIMENEZ, Keila. Em contenção de despesas, Band "apaga" torre da Paulista. São Paulo: R7, 31 jan. 2018. Disponível em: < https://entretenimento.r7.com/prisma/keila-jimenez/em-contencao-de-despesas-band-apaga-torre-da-paulista-29082019/ >. Acesso: 10 jan. 2026.
+* **17 - Rua Minas Gerais 454**: Torre Maria Helena de Barros Saad, a "Torre da Band"\
+Inaugurada no Reveião de 1996, é a mais alta da cidade, com 212 metros de altura. Sua inauguração substituiu as transmissões do grupo a partir do Pico do Jaraguá. Foi reinaugurada em 2011 com nova iluminação. Em 2018, ficou às escuras, sob justificativa de manutenção, durante grave crise financeira do Grupo Bandeirantes. Em 2019, passou a transmitir o sinal da BandNews FM (96.9), substituindo a torre do Edifício Paulista I (Av. Paulista, 1337). [^4]
 
 ### Torres das Colinas da Sumaré
 
@@ -148,13 +151,13 @@ JIMENEZ, Keila. Em contenção de despesas, Band "apaga" torre da Paulista. São
 Inaugurada em 1992, foi uma obra pública tocada pelo governo Orestes Quércia (PMDB). Transmite o sinal da TV Cultura e da Rádio Cultura FM (103.3 MHz).
 
 * **19 - Av. Prof. Afonso Bovero, 52**: Torre do Edifício Victor Civita\
-Inauguração anterior a 1980.  Transmitiu o sinal das extintas TV Tupi e MTV.
+Inauguração anterior a 1980.  Transmitiu o sinal das extintas TV Tupi e MTV Brasil, esta junto a outras do grupo Abril Radiodifusão. Transmite hoje o sinal da Ideal, Xsports e Canal Um Europa. A torre e o prédio foram passados do Grupo Abril para o Grupo Spring e deste para o Grupo Kalunga, em 2017.
 
-* **20 - Av. Professor Afonso Bovero, 72**: Torre do SBT\
-Inauguração em 1981.
+* **20 - Av. Professor Afonso Bovero, 72**: Torre Assis Chateaubriand\
+Inaugurada em 1979, transmitiu o sinal da TV Tupi até 1980 e, desde 1981, o do SBT.
 
-* **21 - Rua Bruxelas, 199**: Torre da RedeTV\
-Inaugurada em 1983.
+* **21 - Rua Bruxelas, 199**: Torre Bruxelas\
+Inaugurada em 1983, era a torre original da Rede Manchete e hoje serve à *RedeTV!*.
 
 ### Torres do Alto da Lapa
 
@@ -178,7 +181,10 @@ Inaugurada em XXXX ....... Transmite o sinal da rádio Transamérica (100.1 MHz)
 * VIEGAS, Mariana Felippe. **Linha Paulista do Metrô de São Paulo: reflexos da inserção urbana na arquitetura e no método construtivo das estações**. 2020. Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2020. Disponível em: https://www.teses.usp.br/teses/disponiveis/16/16138/tde-19042021-101842/. Acesso em: 02 out. 2025.
 
 
-[^1] O GLOBO. Justiça bloqueia torre de TV da Igreja Renascer. São Paulo: Extra, 03 maio 2007. Disponível em: < https://extra.globo.com/noticias/brasil/justica-bloqueia-torre-de-tv-da-igreja-renascer-678462.html >. Acesso: 10 jan. 2026.
+[^1] O GLOBO. Justiça bloqueia torre de TV da Igreja Renascer. Rio de Janeiro: **Extra**, 03 maio 2007. Disponível em: < https://extra.globo.com/noticias/brasil/justica-bloqueia-torre-de-tv-da-igreja-renascer-678462.html >. Acesso: 10 jan. 2026.
 
-[^2] Curiosidade: CBN investe em nova estrutura de transmissão para sua FM em São Paulo. Curitiba: Tudo Rádio, 12 dez. 2019. Disponível em: < https://tudoradio.com/noticias/ver/22700-curiosidade-cbn-investe-em-nova-estrutura-de-transmissao-para-sua-fm-em-sao-paulo >. Acesso: 10 jan. 2026.
+[^2] Curiosidade: CBN investe em nova estrutura de transmissão para sua FM em São Paulo. Curitiba: **Tudo Rádio**, 12 dez. 2019. Disponível em: < https://tudoradio.com/noticias/ver/22700-curiosidade-cbn-investe-em-nova-estrutura-de-transmissao-para-sua-fm-em-sao-paulo >. Acesso: 10 jan. 2026.
 
+[^3] O GLOBO ONLINE. Justiça bloqueia torre de TV da Igreja Renascer. Rio de Janeiro: **Extra**, 03 maio 2007. Disponível em: < https://extra.globo.com/noticias/brasil/justica-bloqueia-torre-de-tv-da-igreja-renascer-678403.html >. Acesso: 10 jan. 2026.
+
+[^4] JIMENEZ, Keila. Em contenção de despesas, Band "apaga" torre da Paulista. São Paulo: **R7**, 31 jan. 2018. Disponível em: < https://entretenimento.r7.com/prisma/keila-jimenez/em-contencao-de-despesas-band-apaga-torre-da-paulista-29082019/ >. Acesso: 10 jan. 2026.

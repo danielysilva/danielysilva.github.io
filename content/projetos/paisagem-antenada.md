@@ -32,6 +32,8 @@ Para elaboração deste projeto, parto de um esboço antigo, iniciado em 2022. A
 Apresento as torres partindo da numeração, em ordem crescente, do começo para o final da Avenida Paulista, ou seja, no sentido Sudeste-Noroeste.
 
 
+
+ NA ÚLTIMA FASEEE ..... ENCONTREI ....
 AS QUE TÊM NOME AS QUE NÃO TÊM OS NOMES POPULARES
 
 TRES CATEGORIAS
@@ -103,7 +105,7 @@ https://web.archive.org/web/20150115160509/http://www.skyscraperlife.com/cidades
 ### Torres do Espigão da Paulista
 
 * **01 - Rua Vergueiro, 1211**: Torre Vergueiro
-Inaugurada nos anos 2000, está sobre o campi Paraíso da Unip. Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz), além das comunicações da universidade entre os câmpus em todo o estado..
+Inaugurada nos anos 2000, está sobre o campi Paraíso da Unip. Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz), além das comunicações da universidade entre os câmpus em todo o estado.
 
 * **02 - Rua Treze de Maio, 124**: Torre do Edifício Ragi Buainain\
 Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
@@ -169,9 +171,7 @@ Inaugurada em 1983, era a torre original da Rede Manchete e hoje serve à *RedeT
 Inaugurada em XXXX.... Numa travessa da Rua Cerro Corá, continuidade da Heitor Penteado, transmite sinal da operadora mexicana Claro, uma das três presentes no país atualmente.
 
 * **23 - Rua Pio XI, 1587**: Torre da Rede Transamérica (100.1 MHz)\
-Inaugurada em 1989, tem 180 metros de altura. Transmitiu o sinal da rádio Transamérica (100.1 MHz). Em 2025, a rádio fundada no Recife, em 1976, passou para o controle da TMC, a mesma que cuida da frequência da Nativa FM (95.3 MHz). A nova empresa se mudará em breve para a Paulista; qual será o destino da torre?
-
-https://www.saopaulobroadcast.com.br/2025/10/tmc-assume-o-lugar-da-transamerica.html
+Inaugurada em 1989, tem 180 metros de altura. Transmitiu o sinal da rádio Transamérica (100.1 MHz). Em 2025, a rádio fundada no Recife, em 1976, passou a se chamar TMC, ao ser absorvida pelo Grupo Camargo de Comunicação (GC2), sob quem também estão a Nativa (95.3 MHz), Rádio Rock e Alpha. [^5]. A nova empresa se mudará em breve para a Paulista; qual será o destino da torre icônica?
 
 <br>
 <p>
@@ -194,3 +194,5 @@ https://www.saopaulobroadcast.com.br/2025/10/tmc-assume-o-lugar-da-transamerica.
 [^3] O GLOBO ONLINE. Justiça bloqueia torre de TV da Igreja Renascer. Rio de Janeiro: **Extra**, 03 maio 2007. Disponível em: < https://extra.globo.com/noticias/brasil/justica-bloqueia-torre-de-tv-da-igreja-renascer-678403.html >. Acesso: 10 jan. 2026.
 
 [^4] JIMENEZ, Keila. Em contenção de despesas, Band "apaga" torre da Paulista. São Paulo: **R7**, 31 jan. 2018. Disponível em: < https://entretenimento.r7.com/prisma/keila-jimenez/em-contencao-de-despesas-band-apaga-torre-da-paulista-29082019/ >. Acesso: 10 jan. 2026.
+
+[^5] VIEL, Maurício. TMC assume o lugar da Transamérica nesta segunda. São Paulo: **São Paulo Broadcast**, 12 out. 2025. Disponível em: < https://www.saopaulobroadcast.com.br/2025/10/tmc-assume-o-lugar-da-transamerica.html >. Acesso: 11 jan. 2026.

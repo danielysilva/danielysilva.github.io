@@ -104,9 +104,9 @@ Inaugurada nos anos 2000, está sobre o campi Paraíso da Unip. Transmite sinal 
 * **02 - Rua Treze de Maio, 124**: Torre do Edifício Ragi Buainain\
 Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz).
 
-* **03 - Av. Paulista, 149**: Torre do Itaú Cultural\
+* **03 - Av. Paulista, 149**: Torre do Itaú Cultural
 
-* **04 - Av. Paulista, 326**\
+* **04 - Av. Paulista, 326**
 
 * **05 - Av. Paulista, 509**: Torre Eldorado
 Instalada sobre o Edifício Patrimônio, na esquina com a Brigadeiro Luís Antônio, transmite o sinal das emissoras do Grupo Estado, Eldorado FM (107.3 MHz) e TV Aparecida.
@@ -123,7 +123,7 @@ Torre pouco relevante visualmente. Transmitiu o sinal do extinto canal de TV hom
 * **09 - Av. Paulista, 900**: Torre Cásper Líbero\
 Inagurada em XXXX, tem 110 metros de altura. A de iluminação mais icônica. É a torre do TV Gazeta e, até 2019, foi usada também pelo Grupo Globo, no que se destacava a trasmissão da CBN. [^1] [^2]
 
-* **10 - Av. Paulista, 1274**: Torre do Edíficio Asahi\
+* **10 - Av. Paulista, 1274**: Torre do Edíficio Asahi
 
 * **11 - Av. Paulista, 1439**: Edifício Mário Wallace\
 Transmite o sinal da rádio Energia FM (97 MHz).
@@ -131,7 +131,7 @@ Transmite o sinal da rádio Energia FM (97 MHz).
 * **12 - Av. Paulista, 1748/1754**: Edifício Grande Avenida
 Inaugurada em 1968, transmite o sinal do grupo Record. Sobreviveu ao incêndio no prédio em 1981, o qual matou 17 e feriu outras 100 pessoas.
 
-* **13 - Av. Paulista, 2001**: Edifício Barão de Itatiaya\
+* **13 - Av. Paulista, 2001**: Edifício Barão de Itatiaya
 
 * **14 - Av. Paulista, 2200**: Condomínio Edifício Central Park\
 Transmite o sinal das rádios Kiss FM (92.5MHz), `[Vibe]` Mundial (95.7MHz), Metropolitana (98.5MHz), Alpha FM (101.7MHz) e  Top FM (104.1MHz).
@@ -165,7 +165,9 @@ Inaugurada em 1983, era a torre original da Rede Manchete e hoje serve à *RedeT
 Inaugurada em XXXX.... Numa travessa da Rua Cerro Corá, continuidade da Heitor Penteado, transmite sinal da operadora mexicana Claro, uma das três presentes no país atualmente.
 
 * **23 - Rua Pio XI, 1587**: Torre da Rede Transamérica (100.1 MHz)\
-Inaugurada em XXXX ....... Transmite o sinal da rádio Transamérica (100.1 MHz).
+Inaugurada em 1989, tem 180 metros de altura. Transmitiu o sinal da rádio Transamérica (100.1 MHz), que se tornou a TMC em 2025.
+
+https://www.saopaulobroadcast.com.br/2025/10/tmc-assume-o-lugar-da-transamerica.html
 
 <br>
 <p>

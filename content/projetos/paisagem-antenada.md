@@ -34,6 +34,10 @@ Apresento as torres partindo da numeração, em ordem crescente, do começo para
 
 AS QUE TÊM NOME AS QUE NÃO TÊM OS NOMES POPULARES
 
+TRES CATEGORIAS
+
+POUCO VERTICALIZADAS
+
 
 
 <section class="galeria">
@@ -165,7 +169,7 @@ Inaugurada em 1983, era a torre original da Rede Manchete e hoje serve à *RedeT
 Inaugurada em XXXX.... Numa travessa da Rua Cerro Corá, continuidade da Heitor Penteado, transmite sinal da operadora mexicana Claro, uma das três presentes no país atualmente.
 
 * **23 - Rua Pio XI, 1587**: Torre da Rede Transamérica (100.1 MHz)\
-Inaugurada em 1989, tem 180 metros de altura. Transmitiu o sinal da rádio Transamérica (100.1 MHz), que se tornou a TMC em 2025.
+Inaugurada em 1989, tem 180 metros de altura. Transmitiu o sinal da rádio Transamérica (100.1 MHz). Em 2025, a rádio fundada no Recife, em 1976, passou para o controle da TMC, a mesma que cuida da frequência da Nativa FM (95.3 MHz). A nova empresa se mudará em breve para a Paulista; qual será o destino da torre?
 
 https://www.saopaulobroadcast.com.br/2025/10/tmc-assume-o-lugar-da-transamerica.html
 

@@ -16,9 +16,10 @@ O movimento de criar uma página [*Now*/Agora](https://nownownow.com/about) adic
 
 4. O projeto *Paisagem Antenada* está em etapa final de revisão. Logo estará aqui no saite.
 
-5. Ando fazendo uma longa faxina digital nos meus arquivos fotográficos desde 2010. Isso renderá a postagem *[Faxina digital e a importância do apagar](2026-01-13-faxina-digital-e-a-importancia-do-apagar)*. Já fiz o grosso do trabalho, o que me permitiu liberar 128GB, mas aindo faltam as fotografias feitas com a DSLR (2020-2025).
+5. Ando fazendo uma longa faxina digital nos meus arquivos fotográficos desde 2010. Isso renderá a postagem *[Faxina digital e a importância do apagar](/blog/cronicas/2026-01-13-faxina-digital-e-a-importancia-do-apagar)*. Já fiz o grosso do trabalho, o que me permitiu liberar 128GB, mas aindo faltam as fotografias feitas com a DSLR (2020-2025).
 
 6. Sigo com as redes sociais da Meta desativadas.
 
 **Atualizado ao 1⁰ de janeiro de 2026.**
+
 

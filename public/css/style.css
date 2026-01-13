@@ -177,8 +177,13 @@ time {
   }
 
 small {
-  font-size: 1.3rem;
+  font-size: 1.4rem;
+  line-height: 1.0;
+}
 
+p > small {
+  font-size: 1.4rem;
+  line-height: 1.0;
 }
 
 img {

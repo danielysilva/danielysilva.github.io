@@ -181,7 +181,7 @@ small {
   line-height: 1.0;
 }
 
-p > small {
+li p small {
   font-size: 1.4rem;
   line-height: 1.0;
 }

@@ -99,7 +99,7 @@ Algumas torres têm nome conhecido. Em alguns casos, o nome popular oculta o ofi
 * **01 - Rua Vergueiro, 1211**: Torre Vergueiro\
 <small>Inaugurada nos anos 2000, está sobre o campi Paraíso da Unip. Transmite sinal da RBI TV, Mega TV e da Mix FM (106.3MHz), além das comunicações da universidade entre os câmpus de todo o estado.</small>
 
-* **02 - Rua Treze de Maio, 124**: Torre do Edifício Ragi Buainain\
+* **02 - Rua Treze de Maio, 124**: Torre do Edifício Ragi Buainain
 
 * **03 - Av. Paulista, 149**: Torre do Itaú Cultural
 

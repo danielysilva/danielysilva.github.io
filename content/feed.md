@@ -2,24 +2,21 @@
 layout: default
 title: Feed
 author: "Daniely Silva"
-draft: true
+draft: false
 ---
 
 Aqui você pode acompanhar minhas publicações por feed RSS. Basta copiar o endereço e adicionar ao seu agregador de feeds RSS. Eu recomendo o Feeder, gratuito e software livre.
 
 * https://danielysilva.com.br/index.xml;
-* 
 
-Se quiser acompanhar as categorias:
+Garanto que dá pra seguir o saite inteiro sem sobrecarregar a sua lista de leitura, porque a frequência das minhas publicações não é assim tão alta. Mas, se quiser acompanhar as seções separadamente:
 
-* Projetos
+* **Projetos**: https://danielysilva.com.br/projetos/index.xml;
 
-* Ensaios
+* **Ensaios**: https://danielysilva.com.br/blog/categories/ensaios/index.xml;
 
-* Resenhas
+* **Resenhas**: https://danielysilva.com.br/blog/categories/resenhas/index.xml;
 
-* Crônicas
+* **Crônicas**: https://danielysilva.com.br/blog/categories/cronicas/index.xml;
 
-* Conto
-
-Garanto que dá pra seguir o saite inteiro sem sobrecarregar a sua lista de leitura, porque a frequência das minhas publicações não é assim tão alta.
+* **Contos**: https://danielysilva.com.br/blog/categories/contos/index.xml.

@@ -165,15 +165,15 @@ Algumas torres têm nome conhecido. Em alguns casos, o nome popular oculta o ofi
 <small>Inaugurada em 1989, tem 180 metros de altura. Transmitiu o sinal da rádio Transamérica (100.1 MHz). Em 2025, a rádio fundada no Recife em 1976, passou a se chamar TMC ao ser absorvida pelo Grupo Camargo de Comunicação (GC2), sob quem também estão a Nativa (95.3 MHz), Rádio Rock (89.1 MHz) e Alpha (101.7 MHz). [^5]. A nova empresa se mudará em breve para a Paulista; qual será o destino da torre icônica?</small>
 
 <br>
-<p>
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/pt-br/map/paisagem-antenada_1294107?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><small><a href="//umap.openstreetmap.fr/pt-br/map/paisagem-antenada_1294107?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Ver em ecrã total</a></small>
-</p>
+<div>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/pt-br/map/paisagem-antenada_1294107?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><small><a href="//umap.openstreetmap.fr/pt-br/map/paisagem-antenada_1294107?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Ver numa tela à parte</a></small>
+</div>
 
 * AB'SABER. **Geomorfologia do Sítio Urbano de São Paulo, Edição Fac–Similar**. São Paulo: Ateliê Editorial, 2007.
 
 * ABDALLAH, Collin. **Which Cities Have the Most High-Rises?**. ArchDaily: 19 jun. 2018. Disponível em: < https://www.archdaily.com/896442/which-cities-have-the-most-high-rises >. Acesso: 01 out. 2025.
 
-* FELDMAN, Sarah. Os bairros-jardim em São Paulo: tombamento, zoneamento e valores urbanos. **Revista CPC**, São Paulo, Brasil, v. 13, n. 26esp, p. 94–115, 2019. DOI: 10.11606/issn.1980-4466.v13i26espp94-115. Disponível em: https://revistas.usp.br/cpc/article/view/152790.. Acesso em: 12 jan. 2026.
+* FELDMAN, Sarah. Os bairros-jardim em São Paulo: tombamento, zoneamento e valores urbanos. **Revista CPC**, São Paulo, Brasil, v. 13, n. 26esp, p. 94–115, 2019. DOI: 10.11606/issn.1980-4466.v13i26espp94-115. Disponível em: https://revistas.usp.br/cpc/article/view/152790. Acesso em: 12 jan. 2026.
 
 * GOUVEIA, Isabel Cristina Moroz Caccia. **Da originalidade do sítio urbano de São Paulo às formas antrópicas: aplicação da abordagem da geomorfologia antropogênica na bacia hidrográfica do Rio Tamanduateí, na região metropolitana de São Paulo**. Doutorado em Geografia Física—São Paulo: Universidade de São Paulo, 18 nov. 2010.
 

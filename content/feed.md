@@ -11,12 +11,12 @@ Com o endereço a seguir, você pode acompanhar minhas publicações por feed RS
 
 Garanto que dá pra seguir o saite inteiro sem sobrecarregar a sua lista de leitura, porque a frequência das minhas publicações não é assim tão alta. Mas, se quiser acompanhar as seções separadamente:
 
-* **Projetos**: https://danielysilva.com.br/projetos/index.xml ;
+* Projetos: https://danielysilva.com.br/projetos/index.xml ;
 
-* **Ensaios**: https://danielysilva.com.br/blog/categories/ensaios/index.xml ;
+* Ensaios: https://danielysilva.com.br/blog/categories/ensaios/index.xml ;
 
-* **Resenhas**: https://danielysilva.com.br/blog/categories/resenhas/index.xml ;
+* Resenhas: https://danielysilva.com.br/blog/categories/resenhas/index.xml ;
 
-* **Crônicas**: https://danielysilva.com.br/blog/categories/cronicas/index.xml ;
+* Crônicas: https://danielysilva.com.br/blog/categories/cronicas/index.xml ;
 
-* **Contos**: https://danielysilva.com.br/blog/categories/contos/index.xml.
+* Contos: https://danielysilva.com.br/blog/categories/contos/index.xml.

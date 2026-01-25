@@ -1,7 +1,7 @@
 ---
 layout: projetos
 title: "Paisagem Antenada"
-date: 2025-01-25
+date: 2025-01-26
 author: 'Daniely Silva'
 summary:
 featured_image: "/img/projects/paisagem-antenada/paisagem-antenada-00.jpg"

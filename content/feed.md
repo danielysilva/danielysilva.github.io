@@ -17,6 +17,6 @@ Garanto que dá pra seguir o saite inteiro sem sobrecarregar a sua lista de leit
 
 * Resenhas: https://danielysilva.com.br/blog/categories/resenhas/index.xml ;
 
-* Crônicas: https://danielysilva.com.br/blog/categories/cronicas/index.xml ;
+* Crônicas: https://danielysilva.com.br/blog/categories/cr%C3%B4nicas/index.xml ;
 
 * Contos: https://danielysilva.com.br/blog/categories/contos/index.xml.

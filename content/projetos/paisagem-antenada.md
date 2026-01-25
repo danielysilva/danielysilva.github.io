@@ -7,7 +7,7 @@ summary:
 featured_image: "/img/projects/paisagem-antenada/paisagem-antenada-00.jpg"
 featured_image_title: "Paisagem antenada do Espigão Central."
 featured_image_alt: "Panorama urbano da cidade de São Paulo no qual antenas se destacam na paisagem."
-draft: 'true'
+draft: 'false'
 ---
 
 São Paulo é uma cidade global com quase 21 milhões de habitantes em sua região metropolitana. Boa parte das cidades nessa condição são marcadas por grandes arranha-céus. Não é o caso de São Paulo, onde, até a conclusão do complexo Alto das Nações, com 219 metros de altura, no Vetor Sudoeste da cidade, não havia edifício que ultrapassasse a segunda centena de metros. Seja pelos planos diretores, pelos aeroportos, pela rota de helicópteros ou mera escolha de mercado, o horizonte da cidade foi forrado por um tapete uniforme de edifícios de altura muito próxima. Em quantidade, segundo o fórum *Emporis*, são mais de 6 mil e 300 edifícios com mais de 35 metros ou 12 andares (ABDALLAH, 2018), o que a coloca entre as cinco cidades do mundo nesse critério. Numa paisagem que não é marcada por grandes arranha-céus, as torres e antenas roubam a cena na silhueta urbana. São dezenas de torres, as principais distribuídas pelo Espigão Central. Essa região topográfica também é chamada Espigão da Paulista, em referência à sua porção central e mais emblemática.

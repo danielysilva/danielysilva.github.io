@@ -86,12 +86,6 @@
     <loc>http://localhost:1313/blog/cronicas/2025-09-14-revisitando-os-bicos-de-lacre-de-2021/</loc>
     <lastmod>2025-09-14T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</loc>
-    <lastmod>2025-09-07T06:20:04-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/ensaios/2025-09-07-pedro-de-alcantara-o-homem-com-o-coracao-dividido/</loc>
-    <lastmod>2025-09-07T06:20:04-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/ensaios/2025-08-24-imitacoes-vulgares/</loc>
     <lastmod>2025-08-24T08:41:23-03:00</lastmod>
   </url><url>
@@ -130,6 +124,9 @@
   </url><url>
     <loc>http://localhost:1313/blog/tags/pol%C3%ADtica/</loc>
     <lastmod>2025-05-28T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</loc>
+    <lastmod>2025-05-18T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/ensaios/2025-05-18-olhando-pra-dentro-do-brasil/</loc>
     <lastmod>2025-05-18T00:00:00-03:00</lastmod>
@@ -270,7 +267,7 @@
     <lastmod>2025-01-28T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projetos/paisagem-antenada/</loc>
-    <lastmod>2025-01-25T00:00:00-03:00</lastmod>
+    <lastmod>2025-01-26T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/cronicas/2025-01-23-desce-do-onibus/</loc>
     <lastmod>2025-01-23T00:00:00-03:00</lastmod>
@@ -322,9 +319,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/cronicas/2022-10-29-bolsonaro-e-treze/</loc>
     <lastmod>2022-10-29T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projetos/guaicurus/</loc>
-    <lastmod>2022-07-28T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projetos/tipografias-temporais/</loc>
     <lastmod>2022-05-28T00:00:00-03:00</lastmod>

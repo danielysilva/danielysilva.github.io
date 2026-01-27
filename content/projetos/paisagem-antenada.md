@@ -165,7 +165,7 @@ Algumas torres têm nome conhecido. Em alguns casos, o nome popular oculta o ofi
 <small>Inaugurada em 1989, tem 180 metros de altura. Transmitiu o sinal da rádio Transamérica (100.1 MHz). Em 2025, a rádio fundada no Recife em 1976, passou a se chamar TMC ao ser absorvida pelo Grupo Camargo de Comunicação (GC2), sob quem também estão a Nativa (95.3 MHz), Rádio Rock (89.1 MHz) e Alpha (101.7 MHz). [^5]. A nova empresa se mudará em breve para a Paulista; qual será o destino da torre icônica?</small>
 
 <br>
-<div class="center" align="center">
+<div class="center" text-align="center">
 <iframe width="90%" height="300px" align="middle" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/pt-br/map/paisagem-antenada_1294107?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><small><a href="//umap.openstreetmap.fr/pt-br/map/paisagem-antenada_1294107?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Ver em tela cheia</a></small>
 </div>
 

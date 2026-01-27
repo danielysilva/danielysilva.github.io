@@ -166,7 +166,7 @@ Algumas torres têm nome conhecido. Em alguns casos, o nome popular oculta o ofi
 
 <br>
 <div>
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/pt-br/map/paisagem-antenada_1294107?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><small><a href="//umap.openstreetmap.fr/pt-br/map/paisagem-antenada_1294107?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Ver numa tela à parte</a></small>
+<iframe width="75%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/pt-br/map/paisagem-antenada_1294107?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><small><a href="//umap.openstreetmap.fr/pt-br/map/paisagem-antenada_1294107?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Ver numa tela à parte</a></small>
 </div>
 
 * AB'SABER. **Geomorfologia do Sítio Urbano de São Paulo, Edição Fac–Similar**. São Paulo: Ateliê Editorial, 2007.

@@ -6,8 +6,15 @@
     <description>Recent content in Início on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 13 Jan 2026 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 00:00:00 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resenha de Baviera Tropical (2018), Betina Anton</title>
+      <link>http://localhost:1313/blog/resenhas/resenha-de-baviera-tropical-2018-betina-anton/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/resenhas/resenha-de-baviera-tropical-2018-betina-anton/</guid>
+      <description>A infância da jornalista Betina Fanton foi num colégio alemão no distrito de Santo Amaro, na Zona Sul de São Paulo.</description>
+    </item>
     <item>
       <title>Faxina digital e a importância do apagar</title>
       <link>http://localhost:1313/blog/cronicas/2026-01-13-faxina-digital-e-a-importancia-do-apagar/</link>
@@ -105,6 +112,13 @@
       <pubDate>Sun, 14 Sep 2025 00:00:00 -0300</pubDate>
       <guid>http://localhost:1313/blog/cronicas/2025-09-14-revisitando-os-bicos-de-lacre-de-2021/</guid>
       <description>Fazia uma faxina digital quando me deparei com as fotos da ninhada de pássaros bico-de-lacre que vi crescer.</description>
+    </item>
+    <item>
+      <title>Pedro de Alcântara: o homem do coração dividido</title>
+      <link>http://localhost:1313/blog/ensaios/2025-09-07-pedro-de-alcantara-o-homem-com-o-coracao-dividido/</link>
+      <pubDate>Sun, 07 Sep 2025 06:20:04 -0300</pubDate>
+      <guid>http://localhost:1313/blog/ensaios/2025-09-07-pedro-de-alcantara-o-homem-com-o-coracao-dividido/</guid>
+      <description>Até relógio parado acerta mais que Bolsonaro — duas vezes ao dia.</description>
     </item>
     <item>
       <title>Imitações vulgares</title>
@@ -574,6 +588,13 @@
       <pubDate>Sat, 29 Oct 2022 00:00:00 -0300</pubDate>
       <guid>http://localhost:1313/blog/cronicas/2022-10-29-bolsonaro-e-treze/</guid>
       <description>Numa dessas anedotas que põem em dúvida a sabedoria humana, às portas de uma Zona Eleitoral, gritos enfurecidos rompiam a monotonia:</description>
+    </item>
+    <item>
+      <title>Guaicurus</title>
+      <link>http://localhost:1313/projetos/guaicurus/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/projetos/guaicurus/</guid>
+      <description>Registro de antigos galpões na Rua Guaicurus, Lapa</description>
     </item>
     <item>
       <title>Tipografias Temporais</title>

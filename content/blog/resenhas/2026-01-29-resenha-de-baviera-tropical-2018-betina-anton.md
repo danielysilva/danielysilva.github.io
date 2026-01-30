@@ -6,7 +6,7 @@ author: Daniely Silva
 categories: ["Resenhas"]
 tags: ["leituras"]
 summary:
-draft: true
+draft: false
 ---
 
 A infância da jornalista Betina Anton foi num colégio alemão no distrito de Santo Amaro, na Zona Sul de São Paulo. A região, coincidentemente, teve a primeira colônia germânica do Brasil, ainda no Primeiro Reinado, por intermédio da Imperatriz Leopoldina e sua origem no Império Habsburgo.
@@ -20,7 +20,7 @@ Mesmo para quem tem leitura sobre a Shoah e os horrores da II Guerra, a autora t
 Sua função mais rotineira, no entanto, era a de selecionar quem ia morrer e quem seria escravizado, quando da chegada dos trens que transportavam humanos como gado, vindos de todo lado da Europa ocupada. Outros médicos faziam essa tarefa a contra-gosto, mas Mengele comparecia nos dias de folga, assoviava e exibia seu lúgubre sorriso de dentes separados. Sua resolução para uma mãe e uma filha que não quiseram se separar foi assassinar as duas. Para combater uma epidemia de tifo, exterminou, mais de uma vez todas as mulheres de uma ala, o que lhe rendeu uma condecoração pelos "serviços prestados".
 
 Esse homem, responsável direto pela morte de dezenas de milhares de pessoas (o número exato é desconhecido), viveu com razoável tranquilidade após a fuga. Por sua sorte, a confusão dos Aliados ao lidar com prisioneiros de guerra do Eixo o permitiu se esconder na Baviera e logo fugiu para a Argentina com passaporte italiano. De lá, quando o cerco dos caçadores de nazistas se fechava, fugiu para o sul do Paraguai e, após a captura de Eichmann, foi para o Brasil, onde esteve em Serra Negra, Caieiras, Itapecerica da Serra e no bairro de Eldorado, em São Paulo.
- 
+
 Parte da sua trajetória de fuga esteve entrelaçada à de Adolf Eichmann, o responsável pela logística do genocídio. Ambos se conectavam ao oficial da Força Aérea nazista Hans-Ulrich Rudel.
 
 "*Momentito, señor*", foi a frase dita a Eichmann por Rafi Eitan, o agente da Mossad que deu o golpe certeiro para o sequestro. Adolf Eichmann foi levado a Israel em 1960 e enforcado em 1962.

@@ -3,9 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-01-29T00:00:00-03:00</lastmod>
+    <lastmod>2026-02-04T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-04T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/leituras/</loc>
+    <lastmod>2026-01-29T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/resenhas/2026-01-29-resenha-de-baviera-tropical-2018-betina-anton/</loc>
+    <lastmod>2026-01-29T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/categories/resenhas/</loc>
     <lastmod>2026-01-29T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/categories/cr%C3%B4nicas/</loc>
@@ -20,16 +29,10 @@
     <loc>http://localhost:1313/blog/tags/filmes/</loc>
     <lastmod>2025-12-31T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/leituras/</loc>
-    <lastmod>2025-12-31T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/cronicas/2025-12-31-retrospectiva-leituras-e-filmes/</loc>
     <lastmod>2025-12-31T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/resenhas/2025-11-29-resenha-de-a-carne-1888-julio-ribeiro/</loc>
-    <lastmod>2025-11-29T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/categories/resenhas/</loc>
     <lastmod>2025-11-29T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/resenhas/2025-11-27-resenha-de-disgrace-1999-coetzee/</loc>

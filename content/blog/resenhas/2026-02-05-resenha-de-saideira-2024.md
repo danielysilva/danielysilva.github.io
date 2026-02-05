@@ -6,7 +6,7 @@ author: Daniely Silva
 categories: ["Resenhas"]
 tags: ["leituras"]
 summary:
-draft: true
+draft: false
 ---
 
 * **Direção**: Pedro Arantes e Júlio Taubkin;
@@ -14,7 +14,7 @@ draft: true
 * **Elenco**: Thati Lopes como Joana Caldas; Luciana Paes como Penélope Caldas; Tonico Pereira e Ian Braga como Honório Caldas; Matheu Abreu como Sócrates; Jackson Antunes como Paulão; Rogério Fróes como Seu Jonas.
 * **Estreia**: 8 de agosto de 2024.
 
-Uma comédia dramática nacional que me supreendeu. Foi a mala direta semanal de um serviço de *streaming* quem me fez descobri-la. Fiquei curiosa, mas, como não sou muito fã de comédias, não tinha muita expectativa e assisti despretenciosamente.
+Uma comédia dramática nacional que me surpreendeu. Foi a mala direta semanal de um serviço de *streaming* quem me fez descobri-la. Fiquei curiosa, mas, como não sou muito fã de comédias, não tinha muita expectativa e assisti despretensiosamente.
 
 Assim como *Estômago 2* (2024) foi uma viagem cinematográfica pela culinária brasileira de forma divertida e dramática, mas embasada, *Saideira* faz algo parecido com o universo da cachaça.
 
@@ -22,7 +22,7 @@ Penélope é uma cachaçóloga natural de Paraty e radicada em São Paulo. O fil
 
 Ela volta a Paraty para o funeral do avô, Honório. Se a neta é cachaçóloga conceituada, o avô era cachaceiro de primeira. Como diz o poeta, cachaceiro é quem faz a cachaça; no caso, ele era as duas coisas: fazia e bebia. Dado esse histórico, ela já chega na expectativa de encontrar a sonhada cachaça.
 
-A irmã, Joana, é uma artista pouco estudada e sente a insegurança de estar à sombra de Penélope, quem, por sua vez, é uma intelectual bem sucedida que se distanciou da família ao término da adolescência. Pouco tempo após o funeral, as irmãs recebem a visita do contador do avô. Como herança, ele deixara às netas a casa, mobiliada com madeira de lei, o clássico automóvel de 1962 e uma caixa com a cachaça Saideira.
+A irmã, Joana, é uma artista pouco estudada e sente a insegurança de estar à sombra de Penélope, quem, por sua vez, é uma intelectual bem-sucedida que se distanciou da família ao término da adolescência. Pouco tempo após o funeral, as irmãs recebem a visita do contador do avô. Como herança, ele deixara às netas a casa, mobiliada com madeira de lei, o clássico automóvel de 1962 e uma caixa com a cachaça Saideira.
 
 A questão é que elas precisam encontrar a cachaça. Numa briga infantil, espalham pelo mar as pistas e as memórias deixadas pelo avô. A carta-testamento termina com a tinta borrada pela água e a lacuna deixada as obriga a começar uma jornada pela Estrada Real. É o MacGuffin narrativo perfeito.
 
@@ -32,6 +32,6 @@ A primeira parada da investigação é no boteco do Paulão, em Tiradentes. Lá,
 
 Quando conseguem juntar todas as pistas encontradas em diferentes cidades, as irmãs descobrem que o avô escondia muito mais que a "fórmula" de uma cachaça. Costumamos romantizar a velhice, mas sem imaginar que os idosos já foram jovens e podem ter tomado decisões questionáveis na sua trajetória. O drama vai muito além da cachaça, que se torna apenas o ponto em comum que reuniu duas irmãs separadas pelo tempo e pelas mágoas.
 
-É interessante ver uma introdução ao mundo da cachaça que não chega a ser massante. Quando os termos técnicos usados por Penélope começam a pesar na dose (com perdão da palavra), é a própria Joana que põe um freio, ao se mostrar entediada. Não é um filme que vai ensinar tudo sobre essa bebida com séculos de história, mas pode despertar a curiosidade.
+É interessante ver uma introdução ao mundo da cachaça que não chega a ser maçante. Quando os termos técnicos usados por Penélope começam a pesar na dose (com perdão da palavra), é a própria Joana que põe um freio, ao se mostrar entediada. Não é um filme que vai ensinar tudo sobre essa bebida com séculos de história, mas pode despertar a curiosidade.
 
 As denominações de origem protegida também falam sobre o poder cultural de um país. Os franceses têm *Champagne*, *Champignon*, *Roquefort*; os italianos têm *Gorgonzolla* e *Parma*; os escoceses e irlandeses o *Whisky*. Nós temos *Canastra* e *Cachaça*. Nenhum lugar do mundo produz cachaça: o que é feito fora do nosso território é só aguardente de cana, uma bebida sem nosso *terroir* e sem nossa história. Num mundo em que os vinhos se destacam por todo o seu simbolismo cultural e territorial, é positivo que um filme dê valor a uma bebida autenticamente brasileira como um *Santo Graal*. Isso tudo, é claro, numa narrativa profunda, delicada, comovente e divertida.

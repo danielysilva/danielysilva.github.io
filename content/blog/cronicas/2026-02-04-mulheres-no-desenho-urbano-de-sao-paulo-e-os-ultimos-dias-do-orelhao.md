@@ -30,6 +30,7 @@ FOTO DE VÓ EM QUE O ORELHÃO APARECE
 ela não recebeu pelo uso de sua ideia
 Nos últimos projetos públicos de repavimentação, o mosaico tem sido abandonado. Na revitalização do 
 
+O mosaico é uma ideia simples e barata, bastando três tipos de ladrilho: um preto, um branco, e um bicolor dividido na diagonal.
 
 https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/orelhoes-serao-extintos-no-brasil-ate-o-fim-de-2028
 

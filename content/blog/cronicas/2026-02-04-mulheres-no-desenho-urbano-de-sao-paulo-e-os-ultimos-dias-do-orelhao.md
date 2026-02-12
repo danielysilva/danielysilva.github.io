@@ -16,6 +16,8 @@ Numa cidade carente de símbolos e marcos, são duas mulheres que assinaram na p
 
 O orelhão, originalmente nomeado *Tulipa*, foi desenhado pela brasileira de origem chinesa Chu Ming Silveira. Chegaram às ruas brasileiras em 1972, com um formato adequado ao nosso clima, predominantemente quente, e favorável a uma acústica confortável. Formatos como o da cabine telefônica londrina rapidamente viram estufas sob o nosso Sol tropical abrasador. Nosso ícone, colorido como o Brasil, foi exportado a outros países do Sul Global, como a Angola, Moçambique, e a muitos de nossos vizinhos.
 
+(FONTE DO SAITE QUE ESTÁ NO COMPUTADOR)
+
 Por muito tempo, concessionárias eram obrigadas a manter orelhões em cidades com mais de 1000 habitantes. (FONTE FONTE FONTE)
 
 Usei orelhão ao longo da minha vida esporadicamente, principalmente na adolescência e, quase sempre, por chamadas a cobrar. Planos de operadoras eram caros para uma família humilde, à época. Também fiquei sem telefone celular por alguns períodos na fase adulta, então encontrar um orelhão funcional era útil.
@@ -26,16 +28,20 @@ Hoje a rua está transformada. As construção, antes recuadas, avançaram quase
 
 FOTO DE VÓ EM QUE O ORELHÃO APARECE
 
-O colorido do Orelhão, junto ao seu formato extravagante, combina com um 
+A partir de 2026, os orelhões passam a ser retirados gradualmente, até 2028 [^1]. Serão mantidos apenas onde não há outras formas de telecomunicação disponível. Ao longo desses mais de 50 anos de existência, surgiram algumas propostas de trazê-los aos dias atuais. É compreensível a mudança na tecnologia, mas como elemento icônico da paisagem eu me questiono se remover todos é a solução mais sensata; Londres não removeu suas famosas cabines vermelhas das ruas da cidade.
+
+O colorido do Orelhão, junto ao seu formato extravagante, combina com um outro elemento da paisagem, mas, este outro, monocromático: o mosaico paulista. 
+
+Se o Rio tem o calçadão de Copacabana, com referência às ondas do mar, São Paulo em o mosaico que compõe um polígono análogo ao mapa do estado. É uma ideia simples e barata, bastando três tipos de ladrilho: um preto, um branco, e um bicolor dividido na diagonal.
 
 ela não recebeu pelo uso de sua ideia
 Nos últimos projetos públicos de repavimentação, o mosaico tem sido abandonado. Na revitalização da Rua Augusta (gestão Kassab) foi usado o paver; no Largo da Batata (Haddad ????????) e arredores, foi usado o granito (?????); no Novo Anhangabaú, São João e Triângulo Histórico (projetos da gestão Haddad executados em Covas-Nunes), a escolha foi pelo concreto, após vários testes.
 
-Não é que seja contra o concreto. Ele é vantajoso na durabilidade, acessibilidade e custo de execução. Mas o mosaico também é uma ideia simples e barata, bastando três tipos de ladrilho: um preto, um branco, e um bicolor dividido na diagonal.
+Não é que seja contra o concreto. Ele é vantajoso na durabilidade, acessibilidade e custo de execução. 
 
 Nem se compara à calçada portuguesa, que depende de mão de obra especializada e exige manutenção meticulosa, com pouca acessibilidade.
 
-https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/orelhoes-serao-extintos-no-brasil-ate-o-fim-de-2028
+[^1]: JERONYMO, Guilherme. Orelhões serão extintos no Brasil até o fim de 2028. São Paulo: **Agência Brasil**, 20 jan. 2026. Disponível em: < https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/orelhoes-serao-extintos-no-brasil-ate-o-fim-de-2028 >. Acesso: 12 fev. 2026.
 
 CLIMA
 TULIPA - ORELHÃO

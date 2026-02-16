@@ -3,7 +3,7 @@ layout: blog
 title: "Mulheres no desenho urbano de São Paulo e os últimos dias do Orelhão"
 date: 2026-01-31
 author: Daniely Silva
-categories: ["Crônicas"]
+categories: ["Ensaios"]
 tags: ["cidade"]
 summary:
 featured_image: "/img/blog/20251125-orelhao-e-mosaico-paulista.jpg"
@@ -26,17 +26,24 @@ FOTO DE VÓ EM QUE O ORELHÃO APARECE
 
 A partir de 2026, os orelhões passam a ser retirados gradualmente, até 2028 [^2]. Serão mantidos apenas onde não há outras formas de telecomunicação disponível. Ao longo desses mais de 50 anos de existência, surgiram algumas propostas de trazê-los aos dias atuais. É compreensível a mudança na tecnologia, mas como elemento icônico da paisagem eu me questiono se remover todos é a solução mais sensata; Londres não removeu suas famosas cabines vermelhas das ruas da cidade.
 
+CLIMA
+TULIPA - ORELHÃO
+AVÓ BEZERROS
+CIDADES > 1000 habitantes
+CONSTELAÇÃO DE SATÉLITES
+HIPERDIGITALIZAÇÃO
+
 O colorido do Orelhão, junto ao seu formato extravagante, combina com um outro elemento da paisagem, mas, este outro, monocromático: o mosaico paulista.
 
 Se o Rio tem o calçadão de Copacabana, com referência às ondas do mar, São Paulo em o mosaico que compõe um polígono análogo ao mapa do estado. É uma ideia simples e barata, bastando três tipos de ladrilho: um preto, um branco, e um bicolor dividido na diagonal. Sua autoria é da artista e pedagoga brasileira, natural de Barretos, Mirthes Bernardes.
 
-O prefeito Faria Lima (1965-69) fizera um concurso
+O prefeito Faria Lima (1965-69) fizera um concurso para criar um elemeno icônico para São paulo como era a calçada de Copacabana para o Rio e as colunas de Niemeyer para Brasília.
 
-https://jornal.usp.br/ciencias/calcamento-paulista-icone-urbano-teve-reconhecimento-de-autoria-inviabilizado/
+Mirthes foi estimulada pelo seu patrão a enviar o projeto, o qual engavetara, sem a pretensão de concorrer. Foi uma surpresa quando viu o seu desenho no jornal, contudo, ela não foi reconhecida e tampouco compensada financeiramente pelo uso de sua ideia. Os jornais sequer a mencionaram, enquanto que o memorando da prefeitura citava apenas a autoria de uma "funcionária da Prefeitura".
 
-ela não recebeu pelo uso de sua ideia e nem foi reconhecida pelo poder público. Quando ganhou o concurso, os jornais não a mencionavam, enquanto que o memorando da prefeitura citava apenas a autoria de uma "funcionária pública".
+Nos últimos projetos públicos de repavimentação, o mosaico tem sido abandonado. Na revitalização da Rua Augusta (2006, gestão Kassab)[^4] foi usado o paver; no Largo da Batata (Haddad ????????) e arredores, foi usado o granito (?????); no Novo Anhangabaú, São João e Triângulo Histórico (projetos da gestão Haddad executados em Covas-Nunes), a escolha foi pelo concreto, após vários testes.
 
-Nos últimos projetos públicos de repavimentação, o mosaico tem sido abandonado. Na revitalização da Rua Augusta (gestão Kassab) foi usado o paver; no Largo da Batata (Haddad ????????) e arredores, foi usado o granito (?????); no Novo Anhangabaú, São João e Triângulo Histórico (projetos da gestão Haddad executados em Covas-Nunes), a escolha foi pelo concreto, após vários testes.
+https://feeds.folha.uol.com.br/fsp/cotidian/ff0911200624.htm
 
 Não é que seja contra o concreto. Ele é vantajoso na durabilidade, acessibilidade e custo de execução.
 
@@ -46,9 +53,8 @@ Nem se compara à calçada portuguesa, que depende de mão de obra especializada
 
 [^2]: JERONYMO, Guilherme. Orelhões serão extintos no Brasil até o fim de 2028. São Paulo: **Agência Brasil**, 20 jan. 2026. Disponível em: < https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/orelhoes-serao-extintos-no-brasil-ate-o-fim-de-2028 >. Acesso: 12 fev. 2026.
 
-CLIMA
-TULIPA - ORELHÃO
-AVÓ BEZERROS
-CIDADES > 1000 habitantes
-CONSTELAÇÃO DE SATÉLITES
-HIPERDIGITALIZAÇÃO
+[^3] FERREIRA, Ivanir. Calçamento Paulista: ícone urbano teve reconhecimento de autoria inviabilizado. São Paulo: **Jornal USP**, 12 jan. 2026. Disponível em: < https://jornal.usp.br/ciencias/calcamento-paulista-icone-urbano-teve-reconhecimento-de-autoria-inviabilizado/ > Acesso: 16 fev. 2026.
+
+[^4] Disponível em: < https://www1.folha.uol.com.br/fsp/cotidian/ff0911200624.htm >. Acesso: 16/02/2026
+
+

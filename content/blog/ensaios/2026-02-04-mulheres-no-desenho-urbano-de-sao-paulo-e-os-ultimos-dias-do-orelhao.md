@@ -41,7 +41,7 @@ O prefeito Faria Lima (1965-69) fizera um concurso para criar um elemeno icônic
 
 Mirthes foi estimulada pelo seu patrão a enviar o projeto, o qual engavetara, sem a pretensão de concorrer. Foi uma surpresa quando viu o seu desenho no jornal, contudo, ela não foi reconhecida e tampouco compensada financeiramente pelo uso de sua ideia. Os jornais sequer a mencionaram, enquanto que o memorando da prefeitura citava apenas a autoria de uma "funcionária da Prefeitura".
 
-Nos últimos projetos públicos de repavimentação, o mosaico tem sido abandonado. Na revitalização da Rua Augusta (2006, gestão Kassab)[^4] foi usado o paver; no Largo da Batata (Haddad ????????) e arredores, foi usado o granito (?????); no Novo Anhangabaú, São João e Triângulo Histórico (projetos da gestão Haddad executados em Covas-Nunes), a escolha foi pelo concreto, após vários testes.
+Nos últimos projetos públicos de repavimentação, o mosaico tem sido abandonado. Na revitalização da Rua Augusta (2006, gestão Kassab)[^4] foi usado o paver; no Largo da Batata (idealizado em 2001, na gestão Marta Suplicty (PT), contratado na gestão Kassab (PSL????????????) e executado na gestão Haddad (PT), em 2013) e arredores, foi usado o granito (????????); no Novo Anhangabaú, São João e Triângulo Histórico (projetos da gestão Haddad executados em Covas-Nunes), a escolha foi pelo concreto, após vários testes.
 
 https://feeds.folha.uol.com.br/fsp/cotidian/ff0911200624.htm
 
@@ -56,5 +56,8 @@ Nem se compara à calçada portuguesa, que depende de mão de obra especializada
 [^3] FERREIRA, Ivanir. Calçamento Paulista: ícone urbano teve reconhecimento de autoria inviabilizado. São Paulo: **Jornal USP**, 12 jan. 2026. Disponível em: < https://jornal.usp.br/ciencias/calcamento-paulista-icone-urbano-teve-reconhecimento-de-autoria-inviabilizado/ > Acesso: 16 fev. 2026.
 
 [^4] Disponível em: < https://www1.folha.uol.com.br/fsp/cotidian/ff0911200624.htm >. Acesso: 16/02/2026
+
+LARGO DA BATATA
+https://www1.folha.uol.com.br./cotidiano/2012/08/1143249-apos-dez-anos-obra-do-largo-da-batata-fica-so-para-2013.shtml?mobile
 
 

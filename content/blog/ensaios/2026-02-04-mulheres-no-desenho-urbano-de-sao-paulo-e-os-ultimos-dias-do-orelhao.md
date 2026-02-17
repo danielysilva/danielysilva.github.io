@@ -32,15 +32,13 @@ A partir de 2026, os orelhões passam a ser retirados gradualmente, até 2028 [^
 Se o orelhão foi, por décadas, o principal meio de comunicação em milhares de municípios brasileiros com mais de 1000 habitantes, hoje foram esquecidos, num momento em que se propõe constelações de satélites que cubram os rincões mais isolados do planeta com sinal de internete móvel. Um meio de contato coletivo foi substituído pelo acesso universal e privado (digo-o, aqui, sem júizo de valor). Vivemos a hiperdigitalização, num mundo onde a comunicação nunca foi tão complicada como no auge da telecomunicação.
 
 
-FOTO DO MOSAICO
+[[[[[[[[[FOTO DO MOSAICO]]]]]]]]]]]
 
 O colorido do Orelhão, junto ao seu formato extravagante, combina com um outro elemento da paisagem, mas, este outro, monocromático: o mosaico paulista, composto por um polígono análogo ao mapa do estado. É uma ideia simples e barata, bastando três tipos de ladrilho: um preto, um branco, e um bicolor dividido na diagonal. Sua autoria é da artista e pedagoga brasileira, natural de Barretos, Mirthes Bernardes. O prefeito Faria Lima (1965-69) fizera um concurso para criar um elemeno icônico para São paulo como era a calçada de Copacabana para o Rio e as colunas de Niemeyer para Brasília. Mirthes foi estimulada pelo seu patrão a enviar o projeto, o qual engavetara, sem a pretensão de concorrer. Foi uma surpresa quando viu o seu desenho no jornal, contudo, ela não foi reconhecida e tampouco compensada financeiramente pelo uso de sua ideia. Os jornais sequer a mencionaram, enquanto que o memorando da prefeitura citava apenas a autoria de uma "funcionária da Prefeitura".
 
 Nos últimos projetos públicos de repavimentação, o mosaico tem sido abandonado. Na revitalização da Rua Augusta (2006, gestão Kassab)[^4] foi usado o paver; como parte da Operação Urbana Faria Lima, a repavimentação do Largo da Batata e arredores (idealizado em 2001, na gestão Marta Suplicty (PT), contratado na gestão Kassab (PFL) e executado na gestão Haddad (PT), em 2013)[^5], optou por placas pré-moldadas diversas; no Novo Anhangabaú, São João e Triângulo Histórico (projetos da gestão Haddad (PT) executados em Covas-Nunes), a escolha foi pelo concreto moldado *in loco*, após vários testes.
 
 Não é que seja contra o concreto. Ele é vantajoso na durabilidade, acessibilidade e custo de execução. O mosaico paulista tem a execução levemente mais complexa, mas nem se compara à calçada portuguesa, que depende de mão de obra especializada e exige manutenção meticulosa, com pouca acessibilidade. Mas o desenho de autoria de Mirthes Bernandes tem um baixo custo para a personalidade que carrega. Pouco a pouco, ele vai sumindo, ficando apenas o legado de execuções anteriores.
-
-
 
 [^1]: **Orelhão**: Ícone do design. Disponível em: < https://www.orelhao.arq.br/ >. Acesso: 13 fev. 2026.
 

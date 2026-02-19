@@ -6,7 +6,7 @@ author: Daniely Silva
 categories: ["Ensaios"]
 tags: ["cidade"]
 summary:
-featured_image: "/img/blog/20251125-orelhao-e-mosaico-paulista.jpg"
+featured_image: "/img/blog/orelhao-e-mosaico-paulista-20251125.jpg"
 featured_image_title: "Orelhão e mosaico paulista."
 featured_image_alt: "Dois orelhões azul e púrpura em calçada de mosaico paulista. Ao fundo e em desfoque, ônibus azul."
 draft: true
@@ -20,23 +20,18 @@ Usei orelhão ao longo da minha vida esporadicamente, principalmente na adolesc�
 
 Outra relação com o orelhão eram as ligações à minha avó. Hoje, Bezerros é uma cidade pujante com mais de 60 mil habitantes, onde, recentemente, a nova Adutora do Agreste resolveu o problema crônico de falta d'água enfrentado pela cidade. Mas, à época, o único contato com o mundo na rua em que meus familiares moram era o orelhão ao outro lado da rua da casa onde minha avó morava. Hoje, a rua está transformada. As construções, antes recuadas, avançaram quase ao limite da rua, para aproveitamento total do lote. O orelhão também não está mais lá.
 
-
-FOTO DE VÓ EM QUE O ORELHÃO APARECE
-
-
-
 A partir de 2026, os orelhões passam a ser retirados gradualmente, até 2028 [^2]. Serão mantidos apenas onde não há outras formas de telecomunicação disponível. Ao longo desses mais de 50 anos de existência, surgiram algumas propostas de atualização, mas todas falharam. É compreensível a mudança na tecnologia, mas como elemento icônico da paisagem eu me questiono se remover todos é a solução mais sensata; Londres não removeu suas famosas cabines vermelhas das ruas da cidade. Talvez, mantê-los em centros históricos e regiões turísticas seja razoável.
 
 Se o orelhão foi, por décadas, o principal meio de comunicação em milhares de municípios brasileiros com mais de 1000 habitantes, hoje foram esquecidos, num momento em que se propõe constelações de satélites que cubram os rincões mais isolados do planeta com sinal de internete móvel. Um meio de contato coletivo foi substituído pelo acesso universal e privado (digo-o, aqui, sem júizo de valor). Vivemos a hiperdigitalização, num mundo onde a comunicação nunca foi tão complicada como no auge da telecomunicação.
 
 
-[[[[[[[[[FOTO DO MOSAICO]]]]]]]]]]]
+![Calçada com polígono monocromático na forma do mapa do estado de São Paulo.](/img/blog/orelhao-e-mosaico-paulista-20260217.jpg "Mosaico paulista")
 
 O colorido do Orelhão, junto ao seu formato extravagante, combina com um outro elemento da paisagem, mas, este outro, monocromático: o mosaico paulista, composto por um polígono análogo ao mapa do estado. É uma ideia simples e barata, bastando três tipos de ladrilho: um preto, um branco, e um bicolor dividido na diagonal. Sua autoria é da artista e pedagoga brasileira, natural de Barretos, Mirthes Bernardes. O prefeito Faria Lima (1965-69) fizera um concurso para criar um elemeno icônico para São Paulo, como é a calçada de Copacabana para o Rio e as colunas de Niemeyer para Brasília. Mirthes foi estimulada pelo patrão a enviar o projeto, o qual engavetara, sem a pretensão de concorrer. Foi uma surpresa quando viu o seu desenho no jornal, contudo, ela não foi reconhecida e tampouco compensada financeiramente pelo uso de sua ideia. Os jornais sequer a mencionaram, enquanto o memorando da prefeitura citava apenas a autoria de uma "funcionária da Prefeitura".
 
 Nos últimos projetos públicos de repavimentação, o mosaico tem sido abandonado. Na revitalização da Rua Augusta (2006, gestão Kassab)[^4] foi usado o paver; como parte da Operação Urbana Faria Lima, a repavimentação do Largo da Batata e arredores (idealizado em 2001, na gestão Marta Suplicty (PT), contratado na gestão Kassab (PFL) e executado na gestão Haddad (PT), em 2013)[^5], optou por placas pré-moldadas diversas; no Novo Anhangabaú, São João e Triângulo Histórico (projetos da gestão Haddad (PT) executados em Covas-Nunes), a escolha foi pelo concreto moldado *in loco*, após vários testes de materiais.
 
-Não é que seja contra o concreto. Ele é vantajoso na durabilidade, acessibilidade e custo de execução. O mosaico paulista tem a execução levemente mais complexa, mas nem se compara à calçada portuguesa, que depende de mão de obra especializada e exige manutenção meticulosa, com pouca acessibilidade. O desenho de autoria de Mirthes Bernandes tem um baixo custo para a personalidade que carrega. Pouco a pouco, ele vai sumindo, ficando apenas o legado de execuções anteriores. Assim como os orelhões, sobrevivem graças ao seu esquecimento: quem se lembrará de removê-los?
+Não é que seja contra o concreto. Ele é vantajoso na durabilidade, acessibilidade e custo de execução. O mosaico paulista tem a execução levemente mais complexa, mas nem se compara à calçada portuguesa, que depende de mão de obra especializada e exige manutenção meticulosa, com pouca acessibilidade. O desenho de autoria de Mirthes Bernandes tem um baixo custo para a personalidade que carrega. Pouco a pouco, ele vai sumindo, ficando apenas o legado de execuções anteriores. Enquanto isso, os orelhẽos ainda sobrevivem graças ao seu próprio esquecimento: quem se lembrará de removê-los?
 
 [^1]: **Orelhão**: Ícone do design. Disponível em: < https://www.orelhao.arq.br/ >. Acesso: 13 fev. 2026.
 

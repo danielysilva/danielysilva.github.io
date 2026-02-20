@@ -22,6 +22,13 @@ Outra relação com o orelhão eram as ligações à minha avó. Hoje, Bezerros 
 
 A partir de 2026, os orelhões passam a ser retirados gradualmente, até 2028 [^2]. Serão mantidos apenas onde não há outras formas de telecomunicação disponível. Ao longo desses mais de 50 anos de existência, surgiram algumas propostas de atualização, mas todas falharam. É compreensível a mudança na tecnologia, mas como elemento icônico da paisagem eu me questiono se remover todos é a solução mais sensata; Londres não removeu suas famosas cabines vermelhas das ruas da cidade. Talvez, mantê-los em centros históricos e regiões turísticas seja razoável.
 
+LONDRES
+https://www.theguardian.com/technology/2019/aug/27/ringing-the-changes-how-britains-red-phone-boxes-are-being-given-new-life
+https://veja.abril.com.br/tecnologia/a-volta-das-cabines-telefonicas-vermelhas-no-reino-unido/
+
+NYC
+https://cultura.uol.com.br/noticias/49276_nova-york-remove-o-seu-ultimo-telefone-publico.html
+
 Se o orelhão foi, por décadas, o principal meio de comunicação em milhares de municípios brasileiros com mais de 1000 habitantes, hoje foram esquecidos, num momento em que se propõe constelações de satélites que cubram os rincões mais isolados do planeta com sinal de internete móvel. Um meio de contato coletivo foi substituído pelo acesso universal e privado (digo-o, aqui, sem júizo de valor). Vivemos a hiperdigitalização, num mundo onde a comunicação nunca foi tão complicada como no auge da telecomunicação.
 
 

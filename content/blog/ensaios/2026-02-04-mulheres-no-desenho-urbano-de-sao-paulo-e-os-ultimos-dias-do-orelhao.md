@@ -12,9 +12,9 @@ featured_image_alt: "Dois orelhões azul e púrpura em calçada de mosaico pauli
 draft: true
 ---
 
-Numa cidade carente de símbolos e marcos, são duas mulheres que assinaram na paisagem urbana dois elementos que não passam despercebidos: o orelhão e a calçada paulista.
+Numa cidade carente de símbolos e marcos, são duas mulheres que deixaram na paisagem urbana dois elementos que não passam despercebidos: o orelhão e a calçada paulista.
 
-O orelhão, originalmente nomeado *Tulipa*, foi desenhado pela arquiteta brasileira de origem chinesa Chu Ming Silveira. Chegaram às ruas brasileiras em 1972, com um formato adequado ao nosso clima, predominantemente quente, e favorável a uma acústica confortável, ela se inspirou no ovo. Formatos como o da cabine telefônica londrina rapidamente viram estufas sob o nosso Sol tropical abrasador. Nosso ícone, colorido como o Brasil, foi exportado a outros países do Sul Global, como a Angola, Moçambique, e a muitos de nossos vizinhos.[^1]
+O orelhão, originalmente nomeado *Tulipa*, foi desenhado pela arquiteta brasileira de origem chinesa Chu Ming Silveira. Chegaram às ruas brasileiras em 1972, com um formato adequado ao nosso clima, predominantemente quente, e uma acústica favorável, ela se inspirou no ovo. Cabines fechadas como as londrinas rapidamente viram estufas sob o nosso Sol tropical abrasador. Nosso ícone, colorido como o Brasil, foi exportado a outros países do Sul Global, como a Angola, Moçambique, e a muitos de nossos vizinhos.[^1]
 
 Usei orelhão ao longo da minha vida esporadicamente, principalmente na adolescência e, quase sempre, por chamadas a cobrar. Planos de operadoras eram caros para uma família humilde, à época. Também fiquei sem telefone celular por alguns períodos da fase adulta, então encontrar um orelhão funcional era útil.
 

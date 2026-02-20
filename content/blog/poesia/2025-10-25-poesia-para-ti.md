@@ -4,7 +4,7 @@ title: "Poesia: Para Ti"
 date: 2025-10-25 19:34:05
 author: Daniely Silva
 categories: ["Poesia"]
-tags: ["viagem"]
+tags: ["viagem", "fotografia"]
 summary:
 featured_image: "/img/blog/paraty-20230916.jpg"
 featured_image_title: "Serras de Paraty."

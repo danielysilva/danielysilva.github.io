@@ -4,7 +4,7 @@ title: "Mulheres no desenho urbano de São Paulo e os últimos dias do Orelhão"
 date: 2026-01-31
 author: Daniely Silva
 categories: ["Ensaios"]
-tags: ["cidade"]
+tags: ["cidade", "fotografia"]
 summary:
 featured_image: "/img/blog/orelhao-e-mosaico-paulista-20251125.jpg"
 featured_image_title: "Orelhão e mosaico paulista."

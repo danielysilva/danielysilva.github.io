@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Mulheres no desenho urbano de São Paulo e os últimos dias do Orelhão"
+title: "Mulheres no desenho urbano de São Paulo"
 date: 2026-01-31
 author: Daniely Silva
 categories: ["Ensaios"]

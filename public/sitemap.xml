@@ -3,18 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-02-04T00:00:00-03:00</lastmod>
+    <lastmod>2026-02-05T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-04T00:00:00-03:00</lastmod>
+    <lastmod>2026-02-05T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/leituras/</loc>
-    <lastmod>2026-01-29T00:00:00-03:00</lastmod>
+    <lastmod>2026-02-05T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/resenhas/2026-01-29-resenha-de-baviera-tropical-2018-betina-anton/</loc>
-    <lastmod>2026-01-29T00:00:00-03:00</lastmod>
+    <loc>http://localhost:1313/blog/resenhas/2026-02-05-resenha-de-saideira-2024/</loc>
+    <lastmod>2026-02-05T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/categories/resenhas/</loc>
+    <lastmod>2026-02-05T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/cidade/</loc>
+    <lastmod>2026-01-31T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/categories/ensaios/</loc>
+    <lastmod>2026-01-31T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/fotografia/</loc>
+    <lastmod>2026-01-31T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/ensaios/2026-02-04-mulheres-no-desenho-urbano-de-sao-paulo/</loc>
+    <lastmod>2026-01-31T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/resenhas/2026-01-29-resenha-de-baviera-tropical-2018-betina-anton/</loc>
     <lastmod>2026-01-29T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/categories/cr%C3%B4nicas/</loc>
@@ -38,9 +53,6 @@
     <loc>http://localhost:1313/blog/resenhas/2025-11-27-resenha-de-disgrace-1999-coetzee/</loc>
     <lastmod>2025-11-27T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/ensaios/</loc>
-    <lastmod>2025-11-24T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/ensaios/2025-11-24-entre-estantes/</loc>
     <lastmod>2025-11-24T00:00:00-03:00</lastmod>
   </url><url>
@@ -62,9 +74,6 @@
     <loc>http://localhost:1313/blog/resenhas/2025-10-07-resenha-de-sinfonia-da-necropole-2014/</loc>
     <lastmod>2025-10-07T19:49:16-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/cidade/</loc>
-    <lastmod>2025-09-29T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/cronicas/2025-09-29-sao-paulo-a-luz-de-velas-e-mudancas-climaticas/</loc>
     <lastmod>2025-09-29T00:00:00-03:00</lastmod>
   </url><url>
@@ -72,9 +81,6 @@
     <lastmod>2025-09-24T20:26:52-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/2025-09-24-floracao-de-setembro/</loc>
-    <lastmod>2025-09-24T20:08:11-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/fotografia/</loc>
     <lastmod>2025-09-24T20:08:11-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/cronicas/2025-09-20-cratera-de-colonia-e-por-que-a-geografia-e-importante/</loc>

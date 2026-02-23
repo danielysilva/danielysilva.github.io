@@ -2,7 +2,7 @@
 <div class="project-container">
       <section class="project">
         <h2>{{ .Title }}</h2>
-<p> {{ .Params.Author }}</p>
+<p> {{ .Params.Author }} - <time>  {{ .Date.Format "02/01/2006"}}</time> </p> 
 
     {{ if .Params.featured_image }}
 <div class="break-out">

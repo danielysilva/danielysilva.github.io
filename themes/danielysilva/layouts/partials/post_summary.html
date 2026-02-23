@@ -1,57 +1,59 @@
+
+
+  <div class="article-list" display="block">
+
+      <article class="article-list__item">
+       {{ if .Params.featured_image }}
+    <a href="{{ .RelPermalink }}">
+       <img src="{{ .Params.featured_image }}" alt="{{ .Params.featured_image_alt }}" title="{{ .Params.featured_image_title }}" class="article-list__article-thumb" style="object-fit: cover; border-radius: 8px;" width="10" height="10">
+    {{ end }}</a>
+
+   <section class="article-list__article-section">
+
+
+                  <time>{{ .Date | dateFormat "02/01/2006" }}</time>
+                  <h3>    <a href="{{ .RelPermalink }}">{{ .Title }}</a> </h3>
+
+                  {{ range .Params.categories }}
+                 <a class="category" href="{{ "/blog/categories/" | relLangURL }}{{ . | urlize }}">{{ . }} </a>
+                       {{ end }}
+
+                <span class="tags">
+                      {{ range .Params.tags }}
+                      <a class="tag" href="/blog/tags/{{ . | urlize }}">#{{ . }}</a> {{ end }} </span>
+
+                  <small>
+                    {{ .Summary }}    {{ if .Truncated }}
+                      <a href="{{ .RelPermalink }}">Leia mais...</a> </small>
+
+                        {{ end }}</section>
+
+      </article></div>
+
+
+
+
+<div hidden>
 <article>
-
-
-
-
-
-
-
-
   <time>{{ .Date | dateFormat "02/01/2006" }}</time>
-
-
   <h3>    <a href="{{ .RelPermalink }}">{{ .Title }}</a> </h3>
-
-
-
-
-
-
   {{ range .Params.categories }}
  <a class="category" href="{{ "/blog/categories/" | relLangURL }}{{ . | urlize }}">{{ . }} </a>
        {{ end }}
-
 <span class="tags">
       {{ range .Params.tags }}
       <a class="tag" href="/blog/tags/{{ . | urlize }}">#{{ . }}</a> {{ end }} </span>
-
-
-
 <div>
 
-
-
-
 {{ if .Params.featured_image }}
-
 <a href="{{ .RelPermalink }}">
    <img src="{{ .Params.featured_image }}" alt="{{ .Params.featured_image_alt }}" title="{{ .Params.featured_image_title }}" class="featured-image" style="aspect-ratio: 5 / 2; object-fit: cover; border-radius: 8px;">
-
 {{ end }}
 </a></div>
-
-
-
-
-
 
 <small>
   {{ .Summary }}    {{ if .Truncated }}
     <a href="{{ .RelPermalink }}">Leia mais...</a> </small>
-
-
-
       {{ end }}
-
-
 </article>
+</div>

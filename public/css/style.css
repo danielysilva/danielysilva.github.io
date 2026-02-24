@@ -601,8 +601,8 @@ widht: 50%;
   .article-list__article-thumb {
   	/* para evitar que as imagens vazem, no caso do espaço disponível ser menor do que sua largura */
     aspect-ratio: 4/3;
-    width: 150px;
-  	max-width: 100%;
+    width: 200px;
+
     height: auto;
   	/* para evitar que as imagens percam a proporção e se estiquem verticalmente */
   	align-self: flex-start;

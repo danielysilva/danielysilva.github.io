@@ -8,18 +8,16 @@ aliases:
 ---
 O movimento de criar uma página [*Now*/Agora](https://nownownow.com/about) adiciona uma pitada de humanidade à web. É um registro do que estamos focadas neste momento da vida, mostrando um pouco mais sobre quem escreve.
 
-1. Preciso finalizar minha monografia de conclusão de curso de Humanidades!!! Tô atrasada, atrasada. Logo começo a especialização (a qual nem sei se vão me liberar do horário no trabalho) e não posso ficar enrolada. A monografia atual é sobre as represas da Zona Sul de São Paulo, numa discreta sequência do [Silêncio dos Rios que Gritam](https://danielysilva.com.br/acervo/silencio-dos-rios-que-gritam/).
+1. Estou focada em finalizar a monografia da Especialização em Humanidades. O tema é sobre as represas da Zona Sul de São Paulo, numa discreta sequência do [Silêncio dos Rios que Gritam](https://danielysilva.com.br/acervo/silencio-dos-rios-que-gritam/).
 
-2. Acabo de finalizar a leitura de *Admirável Mundo Novo*. Fiquei boiando em parte do romance, mas gostei. Agora, faço uma pausa nas leituras densas para ler uns contos e textos menores.
+2. Minha leitura agora é *Ghost Stories*, uma coletânea de contos góticos britânicos recontados por Rosemary Border. Estou num momento de leituras mais leves; pausei a lista de leitura formal para ler a fila de livros acumulados em casa e liberar espaço na estante (muitos desses vão direto para doação após a leitura).
 
-3. Por mais um ano, entro com o objetivo de finalizar o conto (que até já deixou de sê-lo) *Doutora Cadela*, o qual comecei em 2022.
+3. Estou conseguindo, mais ou menos, manter a constância de escrita no romance *Doutora Cadela*, o qual comecei em 2022. A transição de um ato para o outro sempre me enrosca um pouco, mas a emoção vai começar.
 
-4. O projeto *Paisagem Antenada* está em etapa final de revisão. Logo estará aqui no saite.
+4. Finalizando o cordel *A volta de Dom Sebastião*.
 
-5. Ando fazendo uma longa faxina digital nos meus arquivos fotográficos desde 2010. Isso renderá a postagem *[Faxina digital e a importância do apagar](/blog/cronicas/2026-01-13-faxina-digital-e-a-importancia-do-apagar)*. Já fiz o grosso do trabalho, o que me permitiu liberar 128GB, mas aindo faltam as fotografias feitas com a DSLR (2020-2025).
+5. Ando esboçando um projeto de despedida aos orelhões.
 
-6. Sigo com as redes sociais da Meta desativadas.
+6. Neste mês, começarei a Especialização em Geoprocessamento. Precisava suprir a lacuna deixada pela graduação nesse conhecimento e também criar mais possibilidades de me recolocar no mercado de trabalho.
 
-**Atualizado ao 1⁰ de janeiro de 2026.**
-
-
+**Atualizado ao 14 de março de 2026.**

@@ -16,9 +16,9 @@ O movimento de criar uma página [*Now*/Agora](https://nownownow.com/about) adic
 
 4. Onde passo e tenho a oportunidade, fotografo os orelhões em despedida aos seus últimos dias. Esboço um projeto mas me faltam modelos.
 
-5. Faço o curso à distância *As personagens e a história* no Centro de Pesquisa e Formação (CPF) do Sesc.
+5. Faço o curso à distância (síncrono) *As personagens e a história* no Centro de Pesquisa e Formação (CPF) do Sesc. São encontros semanais até a segunda semana de abril.
 
-6. Faço um curso de QGis na Escola de Gestão Pública do Estado do Ceará. 
+6. Faço um curso de QGis à distância (assíncrono) na Escola de Gestão Pública do Estado do Ceará. 
    
 7. Acabo de começar a Especialização em Geoprocessamento. Precisava suprir a lacuna deixada pela graduação nesse conhecimento e também criar mais possibilidades de me recolocar no mercado de trabalho.
 

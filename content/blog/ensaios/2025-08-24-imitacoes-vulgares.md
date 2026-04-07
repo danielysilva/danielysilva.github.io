@@ -12,6 +12,7 @@ featured_image_alt:
 draft: false
 aliases:
   - /blog/cronicas/2025-08-24-imitacoes-vulgares/
+  - /blog/ensaios/2025-08-24-imitacoes-vulgares/
 ---
 
 Tudo é feito de plástico. Estamos rodeados de imitações vulgares. Vulgares e plásticas. O plástico já está na placenta e até no cérebro.

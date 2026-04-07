@@ -10,6 +10,8 @@ featured_image: "/img/blog/entre-estantes-1.jpg"
 featured_image_title: "Fachada da Biblioteca Mário de Andrade, entrada da R. da Consolação."
 featured_image_alt: "Pórtico cinzento de concreto. Ao fundo, retrato de Mário de Andrade em edifício. Num plano adiante, poste de luz da antiga Light Co."
 draft: false
+aliases:
+  - /blog/ensaios/2025-11-24-entre-estantes/
 ---
 Recentemente, por boa influência de minha amiga Beatriz Silva, ganhei o hábito de frequentar as bibliotecas públicas. Exceto as bibliotecas escolares e na graduação, o hábito nunca havia se enraizado em mim.
 

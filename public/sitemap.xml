@@ -11,9 +11,6 @@
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2026-02-23T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-02-23T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/tags/cidade/</loc>
     <lastmod>2026-02-23T00:00:00-03:00</lastmod>
   </url><url>
@@ -98,6 +95,12 @@
     <loc>http://localhost:1313/blog/cronicas/2025-09-14-revisitando-os-bicos-de-lacre-de-2021/</loc>
     <lastmod>2025-09-14T00:00:00-03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</loc>
+    <lastmod>2025-09-07T06:20:04-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/cronicas/2025-09-07-pedro-de-alcantara-o-homem-com-o-coracao-dividido/</loc>
+    <lastmod>2025-09-07T06:20:04-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/ensaios/2025-08-24-imitacoes-vulgares/</loc>
     <lastmod>2025-08-24T08:41:23-03:00</lastmod>
   </url><url>
@@ -136,9 +139,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/tags/pol%C3%ADtica/</loc>
     <lastmod>2025-05-28T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</loc>
-    <lastmod>2025-05-18T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/ensaios/2025-05-18-olhando-pra-dentro-do-brasil/</loc>
     <lastmod>2025-05-18T00:00:00-03:00</lastmod>
@@ -248,7 +248,7 @@
     <loc>http://localhost:1313/blog/poesia/2025-02-23-poesia-em-santos-sem-santos/</loc>
     <lastmod>2025-02-23T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categorias/</loc>
+    <loc>http://localhost:1313/blog/categories/</loc>
     <lastmod>2025-02-20T21:24:02-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/</loc>

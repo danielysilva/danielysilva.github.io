@@ -3,15 +3,13 @@ layout: blog
 title: "Pedro de Alcântara: o homem do coração dividido"
 date: 2025-09-07 06:20:04
 author: Daniely Silva
-categories: ["Ensaios"]
+categories: ["Crônicas"]
 tags: ["crônica histórica"]
 summary:
 featured_image:
 featured_image_title:
 featured_image_alt:
-draft: true
-aliases:
-  - /blog/cronicas/2025-09-07-pedro-de-alcantara-o-homem-com-o-coracao-dividido/
+draft: false
 ---
 
 Até relógio parado acerta mais que Bolsonaro — duas vezes ao dia. Nos 100 anos da independência, tivemos a Semana de Arte Moderna; grandes celebrações marcaram o sesquicentenário e o traslado dos restos mortais de D. Pedro para o Brasil — os milicos eram tiranos e corruptos, mas tinham estilo.

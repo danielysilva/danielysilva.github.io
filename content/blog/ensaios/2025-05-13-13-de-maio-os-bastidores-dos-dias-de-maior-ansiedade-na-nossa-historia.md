@@ -9,7 +9,7 @@ summary:
 draft: false
 aliases:
   - /blog/cronicas/2025-05-13-os-bastidores-dos-dias-de-maior-ansiedade-na-nossa-historia/
-
+  - /blog/ensaios/2025-05-13-os-bastidores-dos-dias-de-maior-ansiedade-na-nossa-historia/
 ---
 > A extinção do elemento servil, pelo influxo do sentimento nacional e das liberalidades particulares, em honra do Brasil, adiantou-se pacificamente de tal modo que é hoje aspiração aclamada por todas as classes, com admiráveis exemplos de abnegação da parte dos proprietários.
 > Quando o próprio interesse privado vem espontaneamente colaborar para que o Brasil se desfaça da infeliz herança que as necessidades da lavoura haviam mantido, confio que não hesitareis em apagar do direito pátrio a única exceção que nele figura em antagonismo com o espírito cristão e liberal das nossas instituições.

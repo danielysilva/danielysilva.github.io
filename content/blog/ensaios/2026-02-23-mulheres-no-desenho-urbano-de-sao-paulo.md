@@ -10,6 +10,8 @@ featured_image: "/img/blog/orelhao-e-mosaico-paulista-20251125.jpg"
 featured_image_title: "Orelhão e mosaico paulista."
 featured_image_alt: "Dois orelhões azul e púrpura em calçada de mosaico paulista. Ao fundo e em desfoque, ônibus azul."
 draft: false
+aliases:
+  - /blog/ensaios/2026-02-23-mulheres-no-desenho-urbano-de-sao-paulo/
 ---
 
 Numa cidade carente de símbolos e marcos, são duas mulheres que deixaram na paisagem urbana dois elementos que não passam despercebidos: o orelhão e a calçada paulista.

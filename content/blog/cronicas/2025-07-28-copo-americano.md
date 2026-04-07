@@ -4,7 +4,7 @@ title: "Copo Americano"
 date: 2025-07-28 09:39:45
 author: Daniely Silva
 categories: ["Crônicas"]
-tags: ["coisas do Brasil"]
+tags: ["coisas do Brasil", "fotografia"]
 summary:
 featured_image: "/img/blog/copo_americano2.jpg"
 featured_image_title: "Os vários usos de um copo americano."

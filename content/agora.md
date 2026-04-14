@@ -12,7 +12,7 @@ Criar uma página [*Now*/Agora](https://nownownow.com/about) adiciona uma pitada
 
 2. Ainda na dúvida se estou gostando ou não da Especialização em Geoprocessamento.
 
-3. Minha leitura de agora é *A Natureza do Espaço*, de Milton Santos. Preciso reforçar minhas bases epistemológicas na Geografia para os próximos passos de pesquisa, ao passo em que monto uma biblioteca pessoal das obras basilares da Geografia Brasileira; o próximo é *Os Meandros do Rio nos Meandros do Poder*, de Odete Seabra.
+3. Minha leitura de agora é *A Natureza do Espaço*, de Milton Santos. Que bom que segui o conselho da prof.ª Flavia Grimm para que esperasse ter um pouco mais de maturidade intelectual para ler a obra! Preciso reforçar minhas bases epistemológicas na Geografia para os próximos passos de pesquisa, ao passo em que monto uma biblioteca pessoal das obras basilares da Geografia Brasileira; o próximo é *Os Meandros do Rio nos Meandros do Poder*, de Odete Seabra.
 
 4. Escrevo as últimas estrofes do cordel *Sebastião*, uma história que visualiza a volta do rei esperado por Antônio Conselheiro em que é recebido por um louco numa cidade do Rio de Janeiro tomada pela corrupção.
 

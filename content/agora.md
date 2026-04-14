@@ -6,20 +6,20 @@ draft: false
 aliases:
   - /now/
 ---
-O movimento de criar uma página [*Now*/Agora](https://nownownow.com/about) adiciona uma pitada de humanidade à web. É um registro do que estamos focadas neste momento da vida, mostrando um pouco mais sobre quem escreve.
+Criar uma página [*Now*/Agora](https://nownownow.com/about) adiciona uma pitada de humanidade à web. É um registro do que estamos focadas neste momento da vida, mostrando um pouco mais sobre quem escreve.
 
-1. Estou focada em finalizar a monografia da Especialização em Humanidades. O tema é sobre as represas da Zona Sul de São Paulo, numa discreta sequência do [Silêncio dos Rios que Gritam](https://danielysilva.com.br/acervo/silencio-dos-rios-que-gritam/).
+1. Parto para o capítulo 3, a Discussão, da monografia da Especialização em Humanidades. O tema é sobre as represas da Zona Sul de São Paulo, numa discreta sequência do [Silêncio dos Rios que Gritam](https://danielysilva.com.br/acervo/silencio-dos-rios-que-gritam/). Estou perdida; tenho até outubro para a entrega e considero a possibilidade de "jubilar".
 
-2. Minha leitura agora é *Angústia*, do Graça. É um livro denso, apesar da narrativa fluída e trivial. Foi escrito no período em que o autor esteve preso durante a Ditadura Vargas.
+2. Ainda na dúvida se estou gostando ou não da Especialização em Geoprocessamento.
 
-3. Escrevo os últimos atos do cordel *Sebastião* e do conto/novela *Doutora Cadela*.
+3. Minha leitura de agora é *A Natureza do Espaço*, de Milton Santos. Preciso reforçar minhas bases epistemológicas na Geografia para os próximos passos de pesquisa, ao passo em que monto uma biblioteca pessoal das obras basilares da Geografia Brasileira; o próximo é *Os Meandros do Rio nos Meandros do Poder*, de Odete Seabra.
 
-4. Onde passo e tenho a oportunidade, fotografo os orelhões em despedida aos seus últimos dias. Esboço um projeto mas me faltam modelos.
+4. Escrevo as últimas estrofes do cordel *Sebastião*, uma história que visualiza a volta do rei esperado por Antônio Conselheiro em que é recebido por um louco numa cidade do Rio de Janeiro tomada pela corrupção.
 
-5. Faço o curso à distância (síncrono) *As personagens e a história* no Centro de Pesquisa e Formação (CPF) do Sesc. São encontros semanais até a segunda semana de abril.
+5. Escrevo o último ato do conto/novela *Doutora Cadela*.
 
-6. Faço um curso de QGis à distância (assíncrono) na Escola de Gestão Pública do Estado do Ceará. 
-   
-7. Acabo de começar a Especialização em Geoprocessamento. Precisava suprir a lacuna deixada pela graduação nesse conhecimento e também criar mais possibilidades de me recolocar no mercado de trabalho.
+6. O projeto do *Adeus ao Orelhão* está paralisado pela falta de modelos. Bate o desespero vê-los sumindo pouco a pouco antes que minha lente os alcance.
 
-**Atualizado ao 26 de março de 2026.**
+7. Estudo o sexto e último módulo do curso de QGis à distância (assíncrono) na Escola de Gestão Pública do Estado do Ceará. O prazo para finalizá-lo é maio.
+
+**Atualizado ao 14 de abril de 2026.**

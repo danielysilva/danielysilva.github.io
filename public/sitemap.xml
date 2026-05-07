@@ -8,8 +8,26 @@
     <loc>http://localhost:1313/projetos/</loc>
     <lastmod>2026-06-25T00:00:00-03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/resenhas/2026-05-06-apostrophe/</loc>
+    <lastmod>2026-05-06T20:42:50-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-02-23T00:00:00-03:00</lastmod>
+    <lastmod>2026-05-06T20:42:50-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/categories/resenhas/</loc>
+    <lastmod>2026-05-06T20:42:50-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/tecnologia/</loc>
+    <lastmod>2026-05-06T20:42:50-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/categories/cr%C3%B4nicas/</loc>
+    <lastmod>2026-04-15T07:34:57-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/cronicas/2026-04-15-realidade-inverossimil/</loc>
+    <lastmod>2026-04-15T07:34:57-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/reflex%C3%B5es/</loc>
+    <lastmod>2026-04-15T07:34:57-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/cidade/</loc>
     <lastmod>2026-02-23T00:00:00-03:00</lastmod>
@@ -29,19 +47,10 @@
     <loc>http://localhost:1313/blog/resenhas/2026-02-05-resenha-de-saideira-2024/</loc>
     <lastmod>2026-02-05T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/resenhas/</loc>
-    <lastmod>2026-02-05T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/resenhas/2026-01-29-resenha-de-baviera-tropical-2018-betina-anton/</loc>
     <lastmod>2026-01-29T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/cr%C3%B4nicas/</loc>
-    <lastmod>2026-01-13T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/cronicas/2026-01-13-faxina-digital-e-a-importancia-do-apagar/</loc>
-    <lastmod>2026-01-13T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/tecnologia/</loc>
     <lastmod>2026-01-13T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/filmes/</loc>
@@ -102,9 +111,6 @@
     <lastmod>2025-09-07T06:20:04-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/ensaios/2025-08-24-imitacoes-vulgares/</loc>
-    <lastmod>2025-08-24T08:41:23-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/reflex%C3%B5es/</loc>
     <lastmod>2025-08-24T08:41:23-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/cronicas/2025-08-04-aplicativos-de-desencontros/</loc>

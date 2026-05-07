@@ -6,8 +6,15 @@
     <description>Recent content in Tecnologia on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 13 Jan 2026 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 20:42:50 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/tags/tecnologia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apostrophe</title>
+      <link>http://localhost:1313/blog/resenhas/2026-05-06-apostrophe/</link>
+      <pubDate>Wed, 06 May 2026 20:42:50 -0300</pubDate>
+      <guid>http://localhost:1313/blog/resenhas/2026-05-06-apostrophe/</guid>
+      <description>Às vezes, pergunto-me por que uso Linux. Os atritos que precisamos enfrentar para fazer coisas simples me fazem pensar duas vezes antes de recomendá-lo indiscriminadamente.</description>
+    </item>
     <item>
       <title>Faxina digital e a importância do apagar</title>
       <link>http://localhost:1313/blog/cronicas/2026-01-13-faxina-digital-e-a-importancia-do-apagar/</link>

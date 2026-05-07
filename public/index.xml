@@ -6,8 +6,22 @@
     <description>Recent content in Início on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 23 Feb 2026 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 20:42:50 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apostrophe</title>
+      <link>http://localhost:1313/blog/resenhas/2026-05-06-apostrophe/</link>
+      <pubDate>Wed, 06 May 2026 20:42:50 -0300</pubDate>
+      <guid>http://localhost:1313/blog/resenhas/2026-05-06-apostrophe/</guid>
+      <description>Às vezes, pergunto-me por que uso Linux. Os atritos que precisamos enfrentar para fazer coisas simples me fazem pensar duas vezes antes de recomendá-lo indiscriminadamente.</description>
+    </item>
+    <item>
+      <title>Realidade Inverossímil</title>
+      <link>http://localhost:1313/blog/cronicas/2026-04-15-realidade-inverossimil/</link>
+      <pubDate>Wed, 15 Apr 2026 07:34:57 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2026-04-15-realidade-inverossimil/</guid>
+      <description>Entre março e abril de 2026, fiz o curso As Personagens e a História no Centro de Pesquisa e Formação (CPF) do Sesc.</description>
+    </item>
     <item>
       <title>Mulheres no desenho urbano de São Paulo</title>
       <link>http://localhost:1313/blog/ensaios/2026-02-23-mulheres-no-desenho-urbano-de-sao-paulo/</link>
@@ -657,7 +671,7 @@
       <link>http://localhost:1313/agora/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agora/</guid>
-      <description>O movimento de criar uma página Now/Agora adiciona uma pitada de humanidade à web.</description>
+      <description>Criar uma página Now/Agora adiciona uma pitada de humanidade à web.</description>
     </item>
     <item>
       <title>Rolo de blogues</title>

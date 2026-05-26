@@ -1,13 +1,13 @@
 ---
 layout: projetos
 title: "O sertão já virou mar"
-date: 2026-06-25
+date: 2026-05-25
 author: 'Daniely Silva'
 summary:
 featured_image: "/img/projects/o-sertao-ja-virou-mar/daniely-silva05.jpg"
 featured_image_title: "lorem ipsum dolor sit amet"
 featured_image_alt: "Lorem ipsum dolor sit amet, consectur adipiscing elit."
-draft: 'true'
+draft: true
 ---
 
 

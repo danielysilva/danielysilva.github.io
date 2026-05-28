@@ -37,7 +37,7 @@ layout: home
       </a>
     </figure></div>
     <figure class="gallery__item gallery__item--7">
-      <a href="/projetos/silencio-dos-rios-que-gritam/">
+      <a href="/projetos/o-sertao-ja-virou-mar/">
         <img src="/img/rios/rios09.jpg" class="gallery__img" title="Braço Bororé da Billings" alt="Homens pescando na orla do braço Bororé da Represa Billings">
       </a>
     </figure>

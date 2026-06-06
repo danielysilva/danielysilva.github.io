@@ -1,0 +1,12 @@
+{ "accounts" :
+[
+  {
+    "name": "Twitter",
+    "url": "https://twitter.com/danylamirinda"
+  },
+  {
+    "name": "Linkedin",
+    "url": "https://linkedin.com/in/danielytavaresdasilva"
+  }
+]
+}

@@ -1,0 +1,28 @@
+{{ define "main" }}
+   <h2 style="text-align:center;">{{ .Title }}</h2>
+
+ <p style="text-align:center;">
+{{ range $name, $taxonomy := site.Taxonomies.categories }}
+  <a href="{{ $taxonomy.Page.RelPermalink }}">{{ $name }}  </a>
+{{ end }}
+</p>
+
+
+<span class="tags">
+{{ range $name, $taxonomy := site.Taxonomies.tags }}
+  <a class="tag" href="{{ $taxonomy.Page.RelPermalink }}">
+    #{{ $name }} <span class="count">({{ len $taxonomy.Pages }})</span>
+  </a>
+{{ end }}
+</span>
+
+{{ .Content }}
+
+{{ range .Pages }}
+    {{ partial "post_summary.html" . }}
+    {{ end }}
+
+    <div hidden><p>
+      {{ partial "pagination.html" . }}</p>
+    </div>
+{{ end }}

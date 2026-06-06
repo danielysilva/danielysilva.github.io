@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Religião on Daniely Silva</title>
+    <link>http://localhost:1313/blog/tags/religi%C3%A3o/</link>
+    <description>Recent content in Religião on Daniely Silva</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 10 May 2025 00:00:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/religi%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Habemus Papam</title>
+      <link>http://localhost:1313/blog/cronicas/2025-05-10-habemus-papam/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2025-05-10-habemus-papam/</guid>
+      <description>O conclave de 2025 foi o único que acompanhei. Com Bento XVI eu era criança demais para saber o que é Vaticano.</description>
+    </item>
+    <item>
+      <title>Poesia: Francisco</title>
+      <link>http://localhost:1313/blog/poesia/2025-04-21-poesia-francisco/</link>
+      <pubDate>Mon, 21 Apr 2025 10:21:13 -0300</pubDate>
+      <guid>http://localhost:1313/blog/poesia/2025-04-21-poesia-francisco/</guid>
+      <description>Seu nome é Francisco&#xA;Lá no Vaticano&#xA;Tocou um novo disco</description>
+    </item>
+    <item>
+      <title>Sombrinhas</title>
+      <link>http://localhost:1313/blog/cronicas/2025-04-14-sombrinhas/</link>
+      <pubDate>Mon, 14 Apr 2025 18:39:43 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2025-04-14-sombrinhas/</guid>
+      <description>A seca era braba, até incomum para aquele setor da Chapada.</description>
+    </item>
+    <item>
+      <title>Seu Geni</title>
+      <link>http://localhost:1313/blog/cronicas/2025-02-04-seu-geni/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2025-02-04-seu-geni/</guid>
+      <description>Crônica inspirada nos relatos de meu tio. Gosto de escutar suas histórias, tenho compilados seus principais causos.</description>
+    </item>
+  </channel>
+</rss>

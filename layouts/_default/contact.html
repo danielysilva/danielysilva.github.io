@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <h2>{{ .Title }}</h2>
+
+  {{ .Content }}
+
+<div hidden>
+<h3>Social media</h3>
+<ul>
+  {{ range .Site.Data.socialmedia.accounts }}
+    <li><a href="{{ .url }}">{{ .name }}</a></li>
+    {{ end }}
+</ul></div> 
+{{ end }}

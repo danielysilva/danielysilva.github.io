@@ -1,9 +1,0 @@
-{{ $src := .Get "src" }}
-{{ $image := resources.Get $src }}
-
-{{ $alt := .Get "alt" | default "" }}
-{{ $width := .Get "width" | default "" }}
-{{ $height := .Get "height" | default "" }}
-
-{{ $resized := $image.Resize (printf "%sx%s" $width $height) }}
-<img src="{{ $resized.RelPermalink }}" alt="{{ $alt }}">

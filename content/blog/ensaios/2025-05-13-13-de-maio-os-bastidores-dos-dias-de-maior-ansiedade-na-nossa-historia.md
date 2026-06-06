@@ -20,7 +20,7 @@ aliases:
 > ISABEL, PRINCESA IMPERIAL REGENTE.\
 > Fonte: (BRASIL, 2019), Editora do Senado Federal.
 
-Não é novidade pra ninguém que as coisas demoram a acontecer no Brasil. Tradou a reforma tributária, tardou o Plano Real, a independência e mais ainda a reforma agrária, a qual esperamos para agosto — a gosto de Deus.
+Não é novidade pra ninguém que as coisas demoram a acontecer no Brasil. Tardou a reforma tributária, tardou o Plano Real, a independência e mais ainda a reforma agrária, a qual esperamos para agosto — a gosto de Deus.
 
 Também não há dúvida de que entre os acontecimentos necessários mas morosos, o mais obsceno foi a longa espera pela abolição.
 
@@ -45,7 +45,7 @@ Foram longos dias. Os parlamentares compareceram até no sábado e no domingo (i
 * **8 de maio, terça-feira**: É enviada a proposta ao Parlamento pelo Ministro da Agricultura, Rodrigo Augusto da Silva:
 > * *Artigo 1º*: É declarada extincta a escravidão no Brasil;
 > * *Artigo 2º*: Revogam-se as disposições em contrário.\
-> `[O deputado baiano Innocencio Marques de Araújo Góes Junior (Conservador), foi perspicaz ao acrescentar o trecho “desde a data desta lei” ao artigo primeiro. Conforme ele relata na sessão, as leis brasileiras vigoravam após 8 dias na Corte e após três meses na província. Os escravocratas aproveitar-se-iam disso (BRASIL, 1888)]`
+> `[O deputado baiano Innocencio Marques de Araújo Góes Junior (Conservador), foi perspicaz ao acrescentar o trecho “desde a data desta lei” ao artigo primeiro. Conforme ele relata na sessão, as leis brasileiras vigoravam após 8 dias na Corte e após três meses nas províncias. Os escravocratas aproveitar-se-iam disso (BRASIL, 1888)]`
 * **10 de maio, quinta-feira**: aprovação na Câmara: 83 deputados votam a favor, 9 contra;
 * **11 de maio, sexta-feira**: a proposta entra no Senado;
 * **12 de maio, sábado**: a proposta entra na ordem do dia do Senado;

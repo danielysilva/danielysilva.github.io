@@ -1,4 +1,4 @@
-baseURL = 'https://daniely-silva.codeberg.page/'
+baseURL = 'https://danielysilva.com.br/'
 languageCode = 'pt-br'
 languageName = 'Português (BR)'
 timeZone = 'America/Sao_Paulo'
@@ -13,10 +13,13 @@ favicon = true
 svg = false
 faviconVersion = "1"
 rss = true
+assetDir = "static"
 disableAliases = false
 
 customFuncs = ["DateFormatPT"]
 summary_length = "30"
+
+
 
 [taxonomies]
   category = "categories"

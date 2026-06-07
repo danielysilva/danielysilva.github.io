@@ -11,6 +11,7 @@ featured_image_title: "lorem ipsum dolor sit amet"
 featured_image_alt: "Lorem ipsum dolor sit amet, consectur adipiscing elit."
 draft: true
 ---
+
 <section class="poesia">
 
 Lorem ipsum dolor sit amet\

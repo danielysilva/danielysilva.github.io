@@ -13,7 +13,10 @@ favicon = true
 svg = false
 faviconVersion = "1"
 rss = true
-assetDir = "static"
+staticDir = ['assets', 'static']
+assetDir = 'assets/'
+imageResize = true
+imageWidths = [400, 800, 1200]  # Defina as larguras para o redimensionamento de imagens
 disableAliases = false
 
 customFuncs = ["DateFormatPT"]

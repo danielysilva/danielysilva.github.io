@@ -1,0 +1,54 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "Image" }}
+
+{{/* Validate src parameter */}}
+{{ if not $src }}
+  <p class="error">Error: image src parameter is required</p>
+{{ else }}
+  {{ $img := resources.Get $src }}
+
+  {{ if $img }}
+    {{/* Define sizes based on original image width */}}
+    {{ $originalWidth := $img.Width }}
+    {{ $sizes := slice }}
+
+    {{/* Only generate sizes that are smaller than or equal to original */}}
+    {{ if ge $originalWidth 800 }}{{ $sizes = $sizes | append 800 }}{{ end }}
+    {{ if ge $originalWidth 1200 }}{{ $sizes = $sizes | append 1200 }}{{ end }}
+    {{ if ge $originalWidth 1600 }}{{ $sizes = $sizes | append 1600 }}{{ end }}
+
+    {{/* If image is smaller than 800px, use original width */}}
+    {{ if lt $originalWidth 800 }}{{ $sizes = slice $originalWidth }}{{ end }}
+
+    <picture>
+      {{/* WebP source - good compression, wide support */}}
+      <source type="image/webp" srcset="
+        {{- range $i, $size := $sizes -}}
+          {{- $resized := $img.Resize (printf "%dx webp q80" $size) -}}
+          {{- $resized.RelPermalink }} {{ $size }}w
+          {{- if ne $i (sub (len $sizes) 1) }}, {{ end -}}
+        {{- end -}}"
+        sizes="(max-width: 800px) 100vw, 1200px">
+
+      {{/* Fallback image */}}
+      {{ $fallbackSize := 1200 }}
+      {{ if lt $originalWidth 1200 }}{{ $fallbackSize = $originalWidth }}{{ end }}
+      {{ $fallback := $img.Resize (printf "%dx q80" $fallbackSize) }}
+
+      <img
+        src="{{ $fallback.RelPermalink }}"
+        alt="{{ $alt }}"
+        loading="lazy"
+        decoding="async"
+        width="{{ $fallback.Width }}"
+        height="{{ $fallback.Height }}">
+    </picture>
+  {{ else }}
+    <p class="error">Image not found: {{ $src }}</p>
+  {{ end }}
+{{ end }}
+
+
+<!--
+ Mi lernis tion ĉi en https://klikukliku.dev/posts/hugo-image-optimization/#problem-diagnosis-analysis-before-optimization */.
+ -->

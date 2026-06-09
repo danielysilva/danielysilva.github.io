@@ -2,7 +2,10 @@
 <div class="project-container">
       <section class="project">
         <h2>{{ .Title }}</h2>
-<p> {{ .Params.Author }} - <time>  {{ .Date.Format "02/01/2006"}}</time> </p> 
+
+    <p>    <span>
+    <img src="/img/daniely-silva1.png" alt="Retrato em plano fechado de moça sorridente" style="display:inline; height: 15px; width: 15px;">
+        {{ .Params.Author }} -  <time>  {{ .Date.Format "02/01/2006"}}</time> </span>
 
     {{ if .Params.featured_image }}
 <div class="break-out">
@@ -12,7 +15,7 @@
 
 
 {{ end }}
-
+</p>
 
         {{ .Content }}
       </section>

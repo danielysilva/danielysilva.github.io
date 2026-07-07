@@ -35,6 +35,9 @@
     <loc>http://localhost:1313/blog/tags/tecnologia/</loc>
     <lastmod>2026-05-26T00:00:00-03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projetos/o-sertao-ja-virou-mar/</loc>
+    <lastmod>2026-05-25T00:00:00-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/projetos/</loc>
     <lastmod>2026-05-25T00:00:00-03:00</lastmod>
   </url><url>
@@ -346,6 +349,9 @@
   </url><url>
     <loc>http://localhost:1313/blog/cronicas/2022-10-29-bolsonaro-e-treze/</loc>
     <lastmod>2022-10-29T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projetos/guaicurus/</loc>
+    <lastmod>2022-07-28T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projetos/tipografias-temporais/</loc>
     <lastmod>2022-05-28T00:00:00-03:00</lastmod>

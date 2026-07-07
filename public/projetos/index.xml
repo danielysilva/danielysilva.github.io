@@ -6,8 +6,15 @@
     <description>Recent content in Projetos on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 15 Sep 2025 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/projetos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O sertão já virou mar</title>
+      <link>http://localhost:1313/projetos/o-sertao-ja-virou-mar/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/projetos/o-sertao-ja-virou-mar/</guid>
+      <description>. . .Em 1896 hade rebanhos mil correr da praia para o certão; então o certão virará praia e a praia virará certão.</description>
+    </item>
     <item>
       <title>Prato do dia na esquina</title>
       <link>http://localhost:1313/projetos/prato-do-dia-na-esquina/</link>
@@ -49,6 +56,13 @@
       <pubDate>Sat, 12 Nov 2022 00:00:00 -0300</pubDate>
       <guid>http://localhost:1313/projetos/logunede/</guid>
       <description>Registro de nascimento para o orixá Logunedé</description>
+    </item>
+    <item>
+      <title>Guaicurus</title>
+      <link>http://localhost:1313/projetos/guaicurus/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/projetos/guaicurus/</guid>
+      <description>Registro de antigos galpões na Rua Guaicurus, Lapa</description>
     </item>
     <item>
       <title>Tipografias Temporais</title>

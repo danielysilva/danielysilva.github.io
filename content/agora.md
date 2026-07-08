@@ -20,4 +20,4 @@ Criar uma página [*Now*/Agora](https://nownownow.com/about) adiciona uma pitada
 
 7. De férias de uma especialização, o que me faz ter tempo para cuidar da monografia da outra.
 
-**Atualizado ao 6 de julho de 2026.**
+**Atualizado aos 6 de julho de 2026.**

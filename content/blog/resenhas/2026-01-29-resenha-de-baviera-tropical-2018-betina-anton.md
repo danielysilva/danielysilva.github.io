@@ -41,11 +41,11 @@ A sorte continuou ao seu favor. Nas redondezas do sítio de seus amigos, em Itap
 
 Em parte, por responsabilidade de Israel, ele permaneceu impune. A notícia de que o Egito desenvolvera mísseis capazes de alcançar até o sul do Líbano, portanto, todo o território do Estado judeu, pôs o jovem país em pânico. Foi um escândalo interno que a Mossad não soubesse desse desenvolvimento, e todos os esforços foram direcionados à geopolítica no Oriente Médio.
 
-Mengele escapou. Mas não sozinho. Alguns de seus protetores eram abertamente nazistas, mas outros não. Ele e Eichmann não foram os únicos, também ficaram conhecidos os casos de Stangl, no Brasil, e Klaus Barbie, na Bolívia.
+Mengele escapou, mas não sozinho. Alguns de seus protetores eram abertamente nazistas, outros não. Ele e Eichmann não foram os únicos, também ficaram conhecidos os casos de Stangl, no Brasil, e Klaus Barbie, na Bolívia.
 
 > <<A presença no Brasil de outros criminosos de guerra nazistas e a existência de entidades clandestinas [...] são alguns dos pontos principais em que estão sendo orientados os interrogatórios a que responde o austríaco (Franz) Paul Stangl, que se encontra preso em Brasília. [...]>> (ANTON, 2023, p. 227)
 
-Betina conta sobre a teoria da conspiração sobre a Odessa, uma suposta rede internacional superestruturada que acobertava nazistas. Isso ficou mais crível com as rotas de fuga organizadas pelo polêmico papado de Pio XII. Não obstante, as redes eram organizadas através de relações pessoais, familiares e de amizade, e nada indica que essa organização tenha de fato existido.
+Betina conta sobre a teoria da conspiração da Odessa, uma suposta rede internacional superestruturada que acobertava nazistas. Isso ficou mais crível com as rotas de fuga organizadas pelo polêmico papado de Pio XII. Não obstante, as redes eram organizadas através de relações pessoais, familiares e de amizade, e nada indica que essa organização tenha de fato existido.
 
 Após a descoberta do corpo de Mengele no Cemitério do Embu, muitos duvidaram que aquele fosse mesmo ele, entre caçadores de nazistas e o próprio Estado de Israel.
 

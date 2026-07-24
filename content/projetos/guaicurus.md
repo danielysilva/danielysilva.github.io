@@ -5,7 +5,7 @@ date: 2022-07-28
 author: 'Daniely Silva'
 summary: "Registro de antigos galpões na Rua Guaicurus, Lapa"
 featured_image: "/img/projects/guaicurus/guaicurus06.jpg"
-featured_image_alt: "Moto trafega diante de galpão antigo com placa dos Correios"
+featured_image_alt: "Moto trafega diante de galpão antigo com placa dos Correios."
 featured_image_title: "Guaicurus"
 aliases:
  - /acervo/guaicurus/

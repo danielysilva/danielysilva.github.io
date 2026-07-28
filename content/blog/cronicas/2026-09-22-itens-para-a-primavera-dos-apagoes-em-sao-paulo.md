@@ -1,12 +1,12 @@
 ---
 layout: blog
-title: "2026 09 22 Itens Para a Primavera Dos Apagoes Em Sao Paulo"
-date: 2026-07-20 23:02:11
+title: "Itens para a Primavera dos apagões em São Paulo"
+date: 2026-07-27
 author: Daniely Silva
 categories: [""]
 tags: [""]
 summary:
-featured_image: "/img/blog/daniely-silva05.jpg"
+featured_image: "/img/blog/primavera-blecaute.jpg"
 featured_image_title: "lorem ipsum dolor sit amet"
 featured_image_alt: "Lorem ipsum dolor sit amet, consectur adipiscing elit."
 draft: true
@@ -22,11 +22,21 @@ Sabia que aquilo não ia se resolver logo e saí para ver o que ia conseguir. Fo
 
 Não é só a periferia que enfrenta esse problema. A Vila Pompéia, entre os distritos da Lapa e Perdizes, na Zona Oeste da cidade, já chegou a ficar mais de 3 dias sem luz.
 
-Quando vai chegando, já começo a comprar menos gêneros............................................................
+### 1. Lampião
 
-1. Lampião
+![](/img/blog/primavera-1.jpg)
 
-3. Bateria portátil
+Viver à luz de velas é cruel: a luz é sofrível, a mobilidade é pouca e a praticidade menor ainda. O lampião permite uma autonomia semelhante a luz elétrica, inclusive ler e escrever nas horas de apagão. O cheiro do querosene nem atrapalha tanto.
+
+
+2. Bateria portátil
+
+![](/img/blog/primavera-2.jpg)
+
+Num mundo em que os eletrônicos tomaram muito mais espaço nas nossas vidas do que seria saudável, uma bateria portátil pode ajudar nesses momentos. Comprei essa, de 20 mil miliamperes/hora, para usar em viagens de mais de 2 dias, mas acabou sendo bem útil para os apagões, já que rende várias recargas. É claro que não vai permitir usar o celular para entretenimento, apenas ter bateria para o básico: comunicação, olhar uma notícia ou outra pra saber quando a luz vai voltar e saber sobre o transporte público.
 
 3. Alimentos não perecíveis
-Não vai nos sustentar por muitos dias, mas é um pouco sobre a experiência de perder tudo o que se encontra na geladeira.
+
+![](/img/blog/primavera-3.jpg)
+
+Quando vai chegando a estação dos vendavais, já começo a comprar menos gêneros. Não vai nos sustentar por muitos dias, mas é um pouco sobre a experiência de perder tudo o que se encontra na geladeira.

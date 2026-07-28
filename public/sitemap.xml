@@ -3,15 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-05-27T21:24:35-03:00</lastmod>
+    <lastmod>2026-07-27T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-07-27T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/cronicas/2026-09-22-itens-para-a-primavera-dos-apagoes-em-sao-paulo/</loc>
+    <lastmod>2026-07-27T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/cidade/</loc>
     <lastmod>2026-05-27T21:24:35-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/fotografia/</loc>
-    <lastmod>2026-05-27T21:24:35-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-05-27T21:24:35-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/categories/poesia/</loc>

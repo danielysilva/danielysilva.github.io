@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: "Itens para a Primavera dos apagões em São Paulo"
+title: "Itens para sobreviver à Primavera dos apagões em São Paulo"
 date: 2026-07-27
 author: Daniely Silva
-categories: [""]
-tags: [""]
+categories: ["Crônicas"]
+tags: ["cidade"]
 summary:
 featured_image: "/img/blog/primavera-blecaute.jpg"
 featured_image_title: "lorem ipsum dolor sit amet"
@@ -29,14 +29,14 @@ Não é só a periferia que enfrenta esse problema. A Vila Pompéia, entre os di
 Viver à luz de velas é cruel: a luz é sofrível, a mobilidade é pouca e a praticidade menor ainda. O lampião permite uma autonomia semelhante a luz elétrica, inclusive ler e escrever nas horas de apagão. O cheiro do querosene nem atrapalha tanto.
 
 
-2. Bateria portátil
+### 2. Bateria portátil
 
 ![](/img/blog/primavera-2.jpg)
 
 Num mundo em que os eletrônicos tomaram muito mais espaço nas nossas vidas do que seria saudável, uma bateria portátil pode ajudar nesses momentos. Comprei essa, de 20 mil miliamperes/hora, para usar em viagens de mais de 2 dias, mas acabou sendo bem útil para os apagões, já que rende várias recargas. É claro que não vai permitir usar o celular para entretenimento, apenas ter bateria para o básico: comunicação, olhar uma notícia ou outra pra saber quando a luz vai voltar e saber sobre o transporte público.
 
-3. Alimentos não perecíveis
+### 3. Alimentos não perecíveis
 
 ![](/img/blog/primavera-3.jpg)
 
-Quando vai chegando a estação dos vendavais, já começo a comprar menos gêneros. Não vai nos sustentar por muitos dias, mas é um pouco sobre a experiência de perder tudo o que se encontra na geladeira.
+Quando vai chegando a estação dos vendavais, já começo a comprar menos gêneros. Não vai nos sustentar por muito tempo, mas é um caminho para evitar a experiência de perder tudo o que se encontra na geladeira. Alimentos não perecíveis ou duradouros são úteis pra matar a fome por uns dias, basta pensar que boa parte da nossa história foi sem geladeira. Tapioca, fubá, farinha de mandioca, charque, queijos secos, tubérculos e frutas (são perecíveis, mas agüentam ficar ao ar livre).

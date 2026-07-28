@@ -1,7 +1,7 @@
 ---
 layout: projetos
 title: "O sertão já virou mar"
-date: 2026-05-27
+date: 2026-05-28
 author: 'Daniely Silva'
 summary:
 featured_image: "/img/projects/o-sertao-ja-virou-mar/o-sertao-ja-virou-mar-0.jpg"
@@ -33,11 +33,12 @@ O município de Santo Amaro foi reincorporado ao de São Paulo em 1935, enquanto
 
 O Alto Tietê é um sistema hidráulico ultracomplexo, do qual as represas são a coroa de uma rede controlada artificialmente. O sistema exige meticuloso controle de vazões a montante e a jusante, além da necessidade de dragagens regulares. Essa necessidade foi criada pela retificação dos canais, a qual fez com que o rio, ao não dissipar sua energia na dança dos meandros, deposite o excesso de sedimentos na calha.
 
-Se imaginarmos que São Paulo se esvaziou por um cataclisma, seria interessante observar a renaturalização da hidrografia da cidade. No primeiro Verão esvaziada, o primeiro impacto seria na qualidade da água: cessados os esgotos, a fauna aquática ressurge rapidamente. Nos Verões seguintes, os efeitos da ação humana (por conta da própria ausência dela) fariam com que grandes bancos de areia seriam vistos por toda a calha do Pinheiros e do Tietê, pela falta da dragagem. Aos poucos, o rio recuperava os milhões de metros cúbicos de areia e argila retirados por barqueiros entre 1890 e 1960 para a construção da cidade de São Paulo (Seabra, 2019). Passados os anos, transbordamentos e erosões fariam com que, pouco a pouco, o rio insistisse em retomar a sua forma meândrica, ao passo em que após algumas décadas as represas entrariam em colapso.
+Se imaginarmos que São Paulo se esvaziou por um cataclisma, seria interessante observar a renaturalização da hidrografia da cidade. No primeiro Verão esvaziada, o primeiro impacto seria na qualidade da água: cessados os esgotos, a fauna aquática ressurge rapidamente. Nos Verões seguintes, a ausência da ação humana faria com que grandes bancos de areia se formassem pelas calhas do Pinheiros e do Tietê, pela falta da dragagem; aos poucos, o rio recuperava os milhões de metros cúbicos de areia e argila retirados por barqueiros entre 1890 e 1960 para a construção da cidade de São Paulo (Seabra, 2019). Passados os anos, transbordamentos e erosões fariam com que o rio insistisse em retomar a sua forma meândrica, ao passo em que após algumas décadas as represas entrariam em colapso.
 
-O meandro não existe como um capricho da natureza que precisa sair bem na foto. É uma forma que o rio tem de dissipar a sua energia em planícies; água mole e pedra dura, tanto bate até que fura, mas se der pra contornar o caminho, ela vai. O homem suprimiu os meandros na expectativa de controlar as inundações. A cheia é um ciclo natural, que se torna inundação como problema social a partir do momento em que o ecúmeno se reconfigura na direção das planícies aluviais.
+O meandro não existe como um capricho da natureza que precisa sair bem na foto. É a forma que o rio tem de dissipar a sua energia em planícies; água mole e pedra dura, tanto bate até que fura, mas se der pra contornar o caminho, ela vai. O homem suprimiu os meandros na expectativa de controlar as inundações. A cheia é um ciclo natural, que se torna inundação como problema social a partir do momento em que o ecúmeno se reconfigura na direção das planícies aluviais.
 
 <section class="galeria">
+  
   <div class="item"><a href="#imagem1"><img src="/img/projects/o-sertao-ja-virou-mar/o-sertao-ja-virou-mar-1.jpg" alt="Três pessoas agasalhadas observam cinco varas de pesca fixadas ao solo arenoso com relva; ao fundo, mata ciliar sob céu nublado." title="Pesca na Ilha do Bororé." /></a></div>
   <div class="item"><a href="#imagem2"><img src="/img/projects/o-sertao-ja-virou-mar/o-sertao-ja-virou-mar-2.jpg" alt="Em primeiro plano, pescador encapuzado com duas varas em rochedo; em segundo plano, ampla porção de água azul; ao fundo, colinas cobertas de vegetação." title="Pescador na Barragem Guarapiranga." /></a></div>
   <div class="item"><a href="#imagem3"><img src="/img/projects/o-sertao-ja-virou-mar/o-sertao-ja-virou-mar-3.jpg" alt="Em primeiro plano, bicicleta deitada à margem d'água ao lado de pedras; em segundo plano, barragem e rede elétrica; ao fundo, vegetação e edifícios espalhados." title="Onde acaba ou começa a Guarapiranga?" /></a></div>
@@ -54,6 +55,7 @@ O meandro não existe como um capricho da natureza que precisa sair bem na foto.
   <div class="item"><a href="#imagem14"><img src="/img/projects/o-sertao-ja-virou-mar/o-sertao-ja-virou-mar-14.jpg" alt="Praia de água doce onde pessoas aparecem de pé à margem ao lado de bicileta; ao fundo, terrenos alagados e colinas vegetadas." title="Contemplação à Barragem Guarapiranga." /></a></div>
   <div class="item"><a href="#imagem15"><img src="/img/projects/o-sertao-ja-virou-mar/o-sertao-ja-virou-mar-15.jpg" alt="Casal agasalhado caminha à margem de solo arenoso encharcado; ao fundo, as luzes se acendem nos edifícios sob o céu nublado." title="A cidade se acende no anoitecer à Guarapiranga." /></a></div>
   <div class="item"><a href="#imagem16"><img src="/img/projects/o-sertao-ja-virou-mar/o-sertao-ja-virou-mar-16.jpg" alt="Píer avança em direção a massa de água com ondas; ao fundo, colinas vegetadas sob céu nublado." title="O som da despedida na Guarapiranga." /></a></div>
+  
 </section>
 
 
@@ -77,9 +79,7 @@ O meandro não existe como um capricho da natureza que precisa sair bem na foto.
 <div class="lightbox" id="imagem15"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/o-sertao-ja-virou-mar/o-sertao-ja-virou-mar-15.jpg" alt="Casal agasalhado caminha à margem de solo arenoso encharcado; ao fundo, as luzes se acendem nos edifícios sob o céu nublado." title="A cidade se acende no anoitecer à Guarapiranga."  /><p>A cidade se acende no anoitecer à Guarapiranga.</p></div></div>
 <div class="lightbox" id="imagem16"><a href="#" class="fechar">&times;</a><div class="conteudo"><img src="/img/projects/o-sertao-ja-virou-mar/o-sertao-ja-virou-mar-16.jpg" alt="Píer avança em direção a massa de água com ondas; ao fundo, colinas vegetadas sob céu nublado." title="O som da despedida na Guarapiranga." /><p>O som da despedida na Guarapiranga.</p></div></div>
 
-
 </div>
-
 
 <br>
 <hr>

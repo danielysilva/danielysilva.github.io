@@ -1,44 +1,42 @@
 ---
 layout: projetos
 title: "O sertão já virou mar"
-date: 2026-05-28
+date: 2026-07-31
 author: 'Daniely Silva'
-summary:
+summary: 'As represas como reservatórios de experiências num sertão que virou mar.'
 featured_image: "/img/projects/o-sertao-ja-virou-mar/o-sertao-ja-virou-mar-0.jpg"
 featured_image_title: "Balsa da Ilha do Bororé."
 featured_image_alt: "Em primeiro plano, porção de solo arenoso com relva, pessoa sentada ao fundo de uma caminhonete e outra ao lado em pé, ambas encapuzadas; em segundo plano, balsa atravessa porção de água; ao fundo, colinas cobertas pela vegetação sob céu nublado."
-draft: true
+draft: false
 ---
 
 >> . . .Em 1896 hade rebanhos mil correr da praia para o certão; então o certão virará praia e a praia virará certão. (Cunha, 2012, p. 270, *in*: Profecias [de Antônio Conselheiro])
 
-Cidades e campos afogados são um tema frequente na música e na literatura. A profecia de Antônio Conselheiro inspirou a letra de Sá & Guarabyra sobre a inundação de Sobradinho, a mais extensa represa da Brasil, no Vale do São Francisco. Um vale sertanejo se fez uma paisagem semelhante ao mar.
+Cidades e campos afogados são um tema frequente na música e na literatura. A profecia de Antônio Conselheiro inspirou a letra de Sá & Guarabyra sobre a inundação de Sobradinho, a mais extensa represa da Brasil, no Vale do São Francisco. Uma paisagem sertaneja se fez semelhante ao mar.
 
 !["Praia de ilha em represa onde caminham duas pessoas. Porção de terra ao fundo."](/img/projects/o-sertao-ja-virou-mar/sobradinho.jpg "Ilha do Tesouro em Sobradinho.")
 *Ilha do Tesouro em Sobradinho.*
 
 O saudosismo de paisagens afogadas se repete pelo Brasil. A jusante de Petrolina, tem-se o distrito de Barreiras, em Petrolândia, onde a Represa Luiz Gonzaga deixa exposta a nave da antiga Igreja Sagrado Coração de Jesus como a ponta de um *iceberg*. Sob as águas do Paranoá, em Brasília, estão as ruínas da Vila Amaury, assentamento operário dos candangos que construíram o Plano Piloto. Sob Itaipu, jazem as Sete Quedas.
 
-Poucas décadas depois da profecia de Antônio Conselheiro, o então município de Santo Amaro foi mais um sertão que virou mar. Em 1909, era inundado o Lago Velho, a Represa Guarapiranga, e em 1927, o Lago Novo, a Billings, mais amplo reservatório urbano do país.
+Poucas décadas depois da profecia de Antônio Conselheiro, o então município de Santo Amaro foi mais um sertão que virou mar. Em 1909, era inundado o Lago Velho, a Represa Guarapiranga, e, em 1927, o Lago Novo, a Billings, mais amplo reservatório urbano do país.
 
-Santo Amaro esteve à margem das preocupações centrais da metrópole em formação, longe da cidade e do caminho entre a Serra e o Mar, centrado do Vale do Tamanduateí. Não era um vazio, no entanto. Povos Guarani Mbya ocupavam a região há séculos, onde hoje formam os territórios indígenas Tenondé Porã. O bairro de Colônia, estabelecido ao lado de uma cratera de impacto, tem origem na chegada de imigrantes do Império Austríaco em 1827.
+Santo Amaro esteve à margem das preocupações centrais da metrópole em formação, longe da cidade e do caminho entre a Serra e o Mar, centrado do Vale do Tamanduateí. Não era um vazio, no entanto. Povos Guarani Mbya ocupavam a região há séculos, onde hoje formam os territórios indígenas Tenondé Porã. O bairro de Colônia, estabelecido ao lado de uma cratera de impacto, tem origem na chegada de imigrantes teutônicos em 1827, no Primeiro Império.
 
 > Na direção de Santo Amaro, para além-Pinheiros, dominam uma pequena agricultura e extração da lenha nos Sertões de Embu e Itapecerica. A construção da Guarapiranga (1907) induziu a uma ocupação urbana singular, que se faz a partir da cidade de São Paulo, a longo dessa represa na primeira década deste século. Eram casas de campo e vigilatura. (Seabra, 2015, p. 48)
 
-O sentido de *sertão*, historicamente, refere-se a territórios remotos ou inóspitos. O uso geral do termo mudou para se referir à área *core* do Semiárido a partir de obras como *Os Sertões* (1902), de Euclides da Cunha, e *Grande Sertão: Veredas* (1956), de Guimarães Rosa. Numa acepção geral, portanto, Santo Amaro se tratava de um sertão a ser avançado pelas transformações da paisagem, assim como foi o sertão do Planalto Central domado para se tornar Brasília.
+O sentido de *sertão*, historicamente, refere-se a territórios remotos ou inóspitos. O uso geral do termo mudou para se referir à área core do Semiárido a partir de obras como *Os Sertões* (1902), de Euclides da Cunha, e *Grande Sertão: Veredas* (1956), de Guimarães Rosa. Numa acepção geral, portanto, Santo Amaro se tratava de um sertão a ser avançado pelas transformações da paisagem, assim como foi o sertão do Planalto Central domado para se tornar Brasília.
 
-O município de Santo Amaro foi reincorporado ao de São Paulo em 1935, enquanto o estado de São Paulo se encontrava sob intervenção federal. Uma das justificativas foi, justamente, a existência das novas represas. A formação do bairro de Interlagos, em 1938, sob os preceitos de cidade-jardim, junto a outros loteamentos de luxo, como a Riviera Paulista e o Eldorado, impulsionou a especulação imobiliária em direção ao sul, na nova porção que a cidade ganhou. Nas palavras do interventor, tornar-se-ia "um dos seus mais attrahentes centros de recreio;” (São Paulo, 1935).
+O município de Santo Amaro foi reincorporado ao de São Paulo em 1935, sob intervenção federal no estado. Uma das justificativas foi, justamente, a existência das novas represas. A formação do bairro de Interlagos, em 1938, sob os preceitos de cidade-jardim, junto a outros loteamentos de luxo, como a Riviera Paulista e o Eldorado, impulsionou a especulação imobiliária em direção ao sul, na nova porção que a cidade ganhou. Nas palavras do interventor federal, o município que virava distrito tornar-se-ia "um dos seus mais attrahentes centros de recreio;” (São Paulo, 1935).
 
 É uma antítese curiosa: o mesmo processo que inundou centenas de quilômetros quadrados, tomando o lugar de zonas rurais, foi o mesmo que se tornou o chamariz da ocupação. Não obstante, a retificação dos rios Pinheiros e Tietê, parte do processo de alteração da geomorfologia local, disponibilizaram terras para a formação de bairros noutros pontos da cidade. Inunda-se e se inutiliza terras, ao passo que se retifica para disponibilizar outras. A engenharia permitiu ao homem domar as águas e os sertões, recolocando o ecúmeno num espaço ilimitado.
 
-O Alto Tietê é um sistema hidráulico ultracomplexo, do qual as represas são a coroa de uma rede controlada artificialmente. O sistema exige meticuloso controle de vazões a montante e a jusante, além da necessidade de dragagens regulares. Essa necessidade foi criada pela retificação dos canais, a qual fez com que o rio, ao não dissipar sua energia na dança dos meandros, deposite o excesso de sedimentos na calha.
+Montou-se um sistema hidráulico ultracomplexo, do qual as represas são a coroa de uma rede controlada artificialmente. O sistema exige meticuloso controle de vazões a montante e a jusante, além da necessidade de dragagens regulares. Essa necessidade foi criada pela retificação dos canais, a qual fez com que o rio, ao não dissipar sua energia na dança dos meandros, deposite o excesso de sedimentos na calha. O meandro não existe como um capricho da natureza que precisa sair bem na foto, ele é a forma que o rio tem de dissipar a sua energia em planícies: água mole e pedra dura, tanto bate até que fura, mas se der pra contornar o caminho, ela vai.
 
-Se imaginarmos que São Paulo se esvaziou por um cataclisma, seria interessante observar a renaturalização da hidrografia da cidade. No primeiro Verão esvaziada, o primeiro impacto seria na qualidade da água: cessados os esgotos, a fauna aquática ressurge rapidamente. Nos Verões seguintes, a ausência da ação humana faria com que grandes bancos de areia se formassem pelas calhas do Pinheiros e do Tietê, pela falta da dragagem; aos poucos, o rio recuperava os milhões de metros cúbicos de areia e argila retirados por barqueiros entre 1890 e 1960 para a construção da cidade de São Paulo (Seabra, 2019). Passados os anos, transbordamentos e erosões fariam com que o rio insistisse em retomar a sua forma meândrica, ao passo em que após algumas décadas as represas entrariam em colapso.
-
-O meandro não existe como um capricho da natureza que precisa sair bem na foto. É a forma que o rio tem de dissipar a sua energia em planícies; água mole e pedra dura, tanto bate até que fura, mas se der pra contornar o caminho, ela vai. O homem suprimiu os meandros na expectativa de controlar as inundações. A cheia é um ciclo natural, que se torna inundação como problema social a partir do momento em que o ecúmeno se reconfigura na direção das planícies aluviais.
+O homem suprimiu os meandros na expectativa de controlar as inundações. A antropização reconfigurou os usos da paisagem: a cheia, parte do ciclo, torna-se inundação como problema social a partir do momento em que o ecúmeno se reconfigura na direção das planícies aluviais; o rio, antes presente no cotidiano e no imaginário coletivos, torna-se canal de escoamento de detritos e águas pluviais, de costa para a cidade, ao passo que suas margens se tornam espaço de escoamento econômico. Numa realidade em que os rios foram borrados da paisagem, as represas, além dos usos hídricos e hidráulicos, tornam-se verdadeiros reservatórios de experiências.
 
 <section class="galeria">
-  
+
   <div class="item"><a href="#imagem1"><img src="/img/projects/o-sertao-ja-virou-mar/o-sertao-ja-virou-mar-1.jpg" alt="Três pessoas agasalhadas observam cinco varas de pesca fixadas ao solo arenoso com relva; ao fundo, mata ciliar sob céu nublado." title="Pesca na Ilha do Bororé." /></a></div>
   <div class="item"><a href="#imagem2"><img src="/img/projects/o-sertao-ja-virou-mar/o-sertao-ja-virou-mar-2.jpg" alt="Em primeiro plano, pescador encapuzado com duas varas em rochedo; em segundo plano, ampla porção de água azul; ao fundo, colinas cobertas de vegetação." title="Pescador na Barragem Guarapiranga." /></a></div>
   <div class="item"><a href="#imagem3"><img src="/img/projects/o-sertao-ja-virou-mar/o-sertao-ja-virou-mar-3.jpg" alt="Em primeiro plano, bicicleta deitada à margem d'água ao lado de pedras; em segundo plano, barragem e rede elétrica; ao fundo, vegetação e edifícios espalhados." title="Onde acaba ou começa a Guarapiranga?" /></a></div>
@@ -55,7 +53,7 @@ O meandro não existe como um capricho da natureza que precisa sair bem na foto.
   <div class="item"><a href="#imagem14"><img src="/img/projects/o-sertao-ja-virou-mar/o-sertao-ja-virou-mar-14.jpg" alt="Praia de água doce onde pessoas aparecem de pé à margem ao lado de bicileta; ao fundo, terrenos alagados e colinas vegetadas." title="Contemplação à Barragem Guarapiranga." /></a></div>
   <div class="item"><a href="#imagem15"><img src="/img/projects/o-sertao-ja-virou-mar/o-sertao-ja-virou-mar-15.jpg" alt="Casal agasalhado caminha à margem de solo arenoso encharcado; ao fundo, as luzes se acendem nos edifícios sob o céu nublado." title="A cidade se acende no anoitecer à Guarapiranga." /></a></div>
   <div class="item"><a href="#imagem16"><img src="/img/projects/o-sertao-ja-virou-mar/o-sertao-ja-virou-mar-16.jpg" alt="Píer avança em direção a massa de água com ondas; ao fundo, colinas vegetadas sob céu nublado." title="O som da despedida na Guarapiranga." /></a></div>
-  
+
 </section>
 
 

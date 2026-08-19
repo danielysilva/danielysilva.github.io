@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-07-31T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projetos/o-sertao-ja-virou-mar/</loc>
+    <lastmod>2026-07-31T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projetos/</loc>
+    <lastmod>2026-07-31T00:00:00-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2026-07-27T00:00:00-03:00</lastmod>
   </url><url>
@@ -11,17 +20,8 @@
     <loc>http://localhost:1313/blog/categories/cr%C3%B4nicas/</loc>
     <lastmod>2026-07-27T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-27T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/cronicas/2026-09-22-itens-para-sobreviver-%C3%A0-primavera-dos-apagoes-em-sao-paulo/</loc>
     <lastmod>2026-07-27T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projetos/o-sertao-ja-virou-mar/</loc>
-    <lastmod>2026-05-28T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projetos/</loc>
-    <lastmod>2026-05-28T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/fotografia/</loc>
     <lastmod>2026-05-27T21:24:35-03:00</lastmod>

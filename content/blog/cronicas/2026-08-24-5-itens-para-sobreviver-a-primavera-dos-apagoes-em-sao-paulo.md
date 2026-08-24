@@ -26,20 +26,20 @@ O medo volta com freqüência. Na semana passada, tivemos um choque de massas de
 
 ### 1. Lampião
 
-![Lampião vermelho à frente de fundo de palha.](/img/blog/primavera-1.jpg "")
+![Lampião vermelho à frente de fundo de palha.](/img/blog/primavera-1.jpg "Lampião.")
 
 Viver à luz de velas é cruel: a luz é sofrível, a mobilidade é pouca e a praticidade menor ainda. O lampião permite uma autonomia semelhante à luz elétrica, inclusive ler e escrever nas horas de apagão. O cheiro do querosene é um inconveniente com o qual se tem que lidar.
 
 
 ### 2. Bateria portátil
 
-![Bateria portátil com formato de paralelepípedo e cor preta com cabo branco. Textura de palha ao fundo.](/img/blog/primavera-2.jpg "")
+![Bateria portátil com formato de paralelepípedo e cor preta com cabo branco. Textura de palha ao fundo.](/img/blog/primavera-2.jpg "Tijolo de bateria portátil.")
 
 Num mundo em que os eletrônicos tomaram muito mais espaço nas nossas vidas do que seria saudável, uma bateria portátil pode ajudar nesses momentos. Comprei essa, de 20 mil miliamperes/hora, para usar em viagens de ônibus mais longas que 48 horas, mas acabou sendo útil para os apagões, já que rende várias recargas. É claro que não vai permitir usar o celular para entretenimento, apenas ter bateria para o básico: comunicação, olhar uma notícia ou outra pra inferir quando a luz vai voltar e saber sobre o transporte público.
 
 ### 3. Radinho de pilha
 
-![Rádio pequeno em cor preta à frente de fundo de palha.](/img/blog/primavera-3.jpg "")
+![Rádio pequeno em cor preta à frente de fundo de palha.](/img/blog/primavera-3.jpg "Radinho de pilha.")
 
 >> Ela deu o rádio e nem me disse nada, ela deu o rádio\
 Ela deu, foi pra fazer pirraça\
@@ -50,12 +50,12 @@ Pra um pouco de entretenimento e pra saber o que acontece no mundo. Quando falta
 
 ### 4. Alimentos não perecíveis
 
-![Vidro de farinha de mandioca grossa com tampa vermelha à frente de fundo de palha.](/img/blog/primavera-4.jpg "")
+![Vidro de farinha de mandioca grossa com tampa vermelha à frente de fundo de palha.](/img/blog/primavera-4.jpg "Farinha.")
 
 Quando vai chegando a Estação dos Vendavais, já começo a comprar menos gêneros. Os não perecíveis não vão nos sustentar por muito tempo, mas são um caminho para evitar a experiência de perder tudo o que se encontra na geladeira. São úteis pra matar a fome por uns dias, basta pensar que boa parte da nossa história foi sem geladeira. Tapioca, fubá, farinha de mandioca, arroz, feijão, charque, queijos secos, tubérculos, ovos e frutas (esses últimos são perecíveis, mas agüentam ficar ao ar livre por um tempo) vão ajudar a improvisar uma refeição leve livre de ultraprocessados.
 
 ### 5. Fósforos
 
-![Caixa de fósforos aberta à frente de fundo de palha.](/img/blog/primavera-5.jpg "")
+![Caixa de fósforos aberta à frente de fundo de palha.](/img/blog/primavera-5.jpg "Fósforos.")
 
 Pra acender o lampião e o fogão ao improvisar um prato. Melhor que o isqueiro, por dar uma distância maior entre os dedos e a fonte de calor; ainda dá pra acender um palito no outro pra render um pouco mais.

@@ -6,13 +6,20 @@
     <description>Recent content in Etiquetas on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 27 Jul 2026 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cidade</title>
       <link>http://localhost:1313/blog/tags/cidade/</link>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 -0300</pubDate>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 -0300</pubDate>
       <guid>http://localhost:1313/blog/tags/cidade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tecnologia</title>
+      <link>http://localhost:1313/blog/tags/tecnologia/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/tags/tecnologia/</guid>
       <description></description>
     </item>
     <item>
@@ -27,13 +34,6 @@
       <link>http://localhost:1313/blog/tags/reflex%C3%B5es/</link>
       <pubDate>Tue, 26 May 2026 00:00:00 -0300</pubDate>
       <guid>http://localhost:1313/blog/tags/reflex%C3%B5es/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tecnologia</title>
-      <link>http://localhost:1313/blog/tags/tecnologia/</link>
-      <pubDate>Tue, 26 May 2026 00:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/tecnologia/</guid>
       <description></description>
     </item>
     <item>
@@ -65,13 +65,6 @@
       <description></description>
     </item>
     <item>
-      <title>Crônica Histórica</title>
-      <link>http://localhost:1313/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</link>
-      <pubDate>Sun, 07 Sep 2025 06:20:04 -0300</pubDate>
-      <guid>http://localhost:1313/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Coisas Do Brasil</title>
       <link>http://localhost:1313/blog/tags/coisas-do-brasil/</link>
       <pubDate>Mon, 28 Jul 2025 09:39:45 -0300</pubDate>
@@ -90,6 +83,13 @@
       <link>http://localhost:1313/blog/tags/pol%C3%ADtica/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 -0300</pubDate>
       <guid>http://localhost:1313/blog/tags/pol%C3%ADtica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crônica Histórica</title>
+      <link>http://localhost:1313/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</guid>
       <description></description>
     </item>
     <item>

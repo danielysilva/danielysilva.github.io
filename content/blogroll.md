@@ -9,7 +9,9 @@ Resgatando uma ideia popular no auge da blogosfera, o rolo de blogues permite cu
 
 A seguir, os blogues que leio regularmente, os quais vão acompanhados de um ícone para seu respectivo feed RSS.
 
-* <a href="https://blog.ayom.media/felipe-siles/feed/"><img  alt="Logotipo do RSS." src="/img/rss.svg" style="display:inline; height: 15px; width: 15px;"> </a>[Felipe Siles](https://blog.ayom.media/felipe-siles/): o blogue de Felipe Siles, com observações sensíveis quanto ao impacto das tecnologias digitais no cotidiano;
+* <a href="https://blogdopaulosergioviana.blogspot.com/feeds/posts/default?alt=rss"><img  alt="Logotipo do RSS." src="/img/rss.svg" style="display:inline; height: 15px; width: 15px;"> </a>[Blog do Paulo](https://blogdopaulosergioviana.blogspot.com/): o blogue do Dr. Paulo Sérgio Viana, poeta, cronista, médico e Esperantista. Publica crônicas e poemas bilíngües. *La blogo de la D-ro Paulo Sérgio Viana, poetisto, kronisto, kuracisto, kaj respektinda Esperantisto. Li alŝutas kronikojn, kaj poemojn ambaŭlingve*;
+
+*   <a href="https://blog.ayom.media/felipe-siles/feed/"><img  alt="Logotipo do RSS." src="/img/rss.svg" style="display:inline; height: 15px; width: 15px;"> </a>[Felipe Siles](https://blog.ayom.media/felipe-siles/): o blogue de Felipe Siles, com observações sensíveis quanto ao impacto das tecnologias digitais no cotidiano;
 
 * <a href="https://www.gmgall.net/blog/index.xml"><img alt="Logotipo do RSS." src="/img/rss.svg" style="display:inline; height: 15px; width: 15px;"></a> [Gmgall.net](http://gmgall.net/): o blogue de Guilherme Gall, sobre tecnologia, leituras e atualidades. Foi ele quem me ajudou no início da construção do meu site;
 

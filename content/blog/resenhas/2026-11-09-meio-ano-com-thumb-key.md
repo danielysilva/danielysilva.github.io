@@ -28,6 +28,8 @@ Ao me deparar com o finado MessageEase, fiquei curiosa. O estudo *[A System for 
 
 EXPLICAR COMO FUNCIONA, INCLUINDO GESTOS
 
+GESTOS E ATALHOS: recortar, copiar, colar, desfazer, refazer, selecionar tudo. Gestos para navegar pelo texto e o equivalente a Ctlr+Backspace i.e. apagar palavra
+
 Quis melhorar minha digitação no celular, e, para isso, sonhava em usar o *Clicks*, projeto de uma estartape de um teclado modular para celulares. A proposta é boa, porque o retorno tátil melhora a precisão. Trata-se, no entanto, de um produto caro, de difícil acesso no Sul Global e, ainda por cima, é mais um Qwerty em teclas pequenas.
 
 Foi uma surpresa descobrir uma alternativa gratuita, de código livre e eficiente.

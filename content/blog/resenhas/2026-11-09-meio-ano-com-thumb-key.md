@@ -18,20 +18,16 @@ Os teclados de celular fizeram o caminho dos teclados alfanuméricos por década
 
 Escrever numa tela sensível ao toque minúscula num modelo pensado para todos os dedos é uma tortura. Dedos escorregam e esbarram na letra errada o tempo todo. A solução mais comum é o autopreenchimento e a autocorreção, além da técnica de escrever deslizando, relacionada às duas primeiras.
 
-Sobre esses métodos, nas palavras de Lionel Dricot, em [L'autocompletion de nos intentions](https://ploum.net/2025-12-10-autocompletion-intention.html)... Não à toa, chineses estão esquecendo como escrever seus próprios caracteres, graças à escrita através de Pinyin em celulares (FONTE).
+Sobre esses métodos, nas palavras de Lionel Dricot, em [L'autocompletion de nos intentions](https://ploum.net/2025-12-10-autocompletion-intention.html)... Não à toa, [chineses estão esquecendo como escrever seus próprios caracteres, graças à escrita através de Pinyin celulares e computadores](https://www.lanacion.com.ar/el-mundo/por-que-a-los-chinos-se-les-esta-olvidando-escribir-su-propio-lenguaje-nid1725286/).
 
 Em busca de alternativas, quando em processo de me adaptar ao teclado Simplificado Dvorak, cheguei a instalá-lo no celular. Não precisei passar pela fase de testes para ver que não daria certo: tanto quanto o Qwerty, foi pensado para 10 dedos, não para dois.
+
+Quis melhorar minha digitação no celular, e, para isso, sonhava em usar o *Clicks*, projeto de uma estartape de um teclado modular para celulares. A proposta é boa, porque o retorno tátil melhora a precisão. Trata-se, no entanto, de um produto caro, de difícil acesso no Sul Global e, ainda por cima, é mais um Qwerty em teclas pequenas. Por outro lado, foi uma surpresa descobrir uma alternativa gratuita, de código livre e eficiente.
 
 Ao me deparar com o finado MessageEase, fiquei curiosa. O estudo *[A System for Fast, Full-Text Entry for Small Electronic Devices](https://dl.acm.org/doi/10.1145/958432.958437)*, de Saied Nesbat, de 2003, apontou que o leiaute oferecia uma velocidade 67% superior ao Qwerty em dispositivos portáteis e 31% aos tecladinhos alfanuméricos. A ideia tem algo em comum com a proposta do Dr. Dvorak: letras mais usadas na língua inglesa ao alcance dos dedos e o paralelismo para evitar que se esbarrem. [[Dessalinés]], responsável por manter vivo o leiaute ANIHOR, criou o seu próprio, o SRONHA, mas pouco o experimentei. De fato, este último traz letras mais frequentes, mas sinto falta do paralelismo.
 
 ![]
 
-EXPLICAR COMO FUNCIONA, INCLUINDO GESTOS
-
-GESTOS E ATALHOS: recortar, copiar, colar, desfazer, refazer, selecionar tudo. Gestos para navegar pelo texto e o equivalente a Ctlr+Backspace i.e. apagar palavra
-
-Quis melhorar minha digitação no celular, e, para isso, sonhava em usar o *Clicks*, projeto de uma estartape de um teclado modular para celulares. A proposta é boa, porque o retorno tátil melhora a precisão. Trata-se, no entanto, de um produto caro, de difícil acesso no Sul Global e, ainda por cima, é mais um Qwerty em teclas pequenas.
-
-Foi uma surpresa descobrir uma alternativa gratuita, de código livre e eficiente.
+O teclado se divide numa grade de 3x3 com o espaço abaixo, onde também está o zero. Cada quadrado da grade contém uma letra acessível num toque, enquanto que as são alcançadas por um gesto nas direções retas e diagonais; ao circular as letras, podem se fazer os números, também acessíveis num teclado próprio. Para além das funções de *Enter* e *Apagar*, também há atalhos muito úteis para copiar, recortar, colar, desfazer, refazer e selecional tudo. É muito fácis de navegar pelo texto com o gesto de arrastar o dedo pela barra de espaço, além do gesto de arrastar para a esquerda no botão de *Apagar* que tem a função equvalente ao Ctlr+Backspace, i.e. apagar palavra.
 
 O período de adaptação foi longo, mas melhor que o tido com Dvorak. Enquanto com este último, mais de um ano depois, ainda me embaralhe e misture letras, isso não aconteceu com ANIHOR — talvez porque ele é diferente de tudo o que já usei. Comecei a usá-lo em 25 de maio e, neste meio ano, já estou totalmente adaptada; na verdade, nunca digitei tão bem num celular, nem quando usava a função de deslizar.

@@ -26,7 +26,7 @@ Quis melhorar minha digitação no celular, e, para isso, sonhava em usar o *Cli
 
 Ao me deparar com o finado MessageEase, fiquei curiosa. O estudo *[A System for Fast, Full-Text Entry for Small Electronic Devices](https://dl.acm.org/doi/10.1145/958432.958437)*, de Saied Nesbat, de 2003, apontou que o leiaute oferecia uma velocidade 67% superior ao Qwerty em dispositivos portáteis e 31% aos tecladinhos alfanuméricos. A ideia tem algo em comum com a proposta do Dr. Dvorak: letras mais usadas na língua inglesa ao alcance dos dedos e o paralelismo para evitar que se esbarrem. [[Dessalinés]], responsável por manter vivo o leiaute ANIHOR, criou o seu próprio, o SRONHA, mas pouco o experimentei. De fato, este último traz letras mais frequentes, mas sinto falta do paralelismo.
 
-![]
+![Luminária com luz estourando fotografia ao lado de dois leiautes de teclado impressos em tinta preta e pregados à parede amarela.](img/blog/thumb-key.jpg "ThumbKey.")
 
 O teclado se divide numa grade de 3x3 com o espaço abaixo, onde também está o zero. Cada quadrado da grade contém uma letra acessível num toque, enquanto que as são alcançadas por um gesto nas direções retas e diagonais; ao circular as letras, podem se fazer os números, também acessíveis num teclado próprio. Para além das funções de *Enter* e *Apagar*, também há atalhos muito úteis para copiar, recortar, colar, desfazer, refazer e selecional tudo. É muito fácis de navegar pelo texto com o gesto de arrastar o dedo pela barra de espaço, além do gesto de arrastar para a esquerda no botão de *Apagar* que tem a função equvalente ao Ctlr+Backspace, i.e. apagar palavra.
 

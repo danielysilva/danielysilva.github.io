@@ -22,6 +22,7 @@ Uma cidade é feita de camadas. Como esses antigos espaços, que já passaram po
 
 O tempo nos dará respostas, mas só se fizermos as perguntas corretas.
 
+<section class="poesia">
 **Soneto da Demolição**\
 Dói o peito cada demolição\
 Mas é toda mudança\
@@ -40,6 +41,7 @@ Recuperam-se memórias
 Das trajetórias passadas\
 Construímos nosso futuro\
 Derrubando cada muro
+</section>
 
 *24 de julho de 2022*
 

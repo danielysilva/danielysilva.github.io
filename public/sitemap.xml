@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2026-11-22T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-11-22T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/resenhas/2026-11-22-meio-ano-com-thumb-key/</loc>
+    <lastmod>2026-11-22T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/categories/resenhas/</loc>
+    <lastmod>2026-11-22T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/tecnologia/</loc>
+    <lastmod>2026-11-22T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/cronicas/2026-10-15-15-de-outubro-dia-dos-professores/</loc>
+    <lastmod>2026-10-15T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/categories/cr%C3%B4nicas/</loc>
+    <lastmod>2026-10-15T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/reflex%C3%B5es/</loc>
+    <lastmod>2026-10-15T00:00:00-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/cronicas/2026-08-24-5-itens-para-sobreviver-a-primavera-dos-apagoes-em-sao-paulo/</loc>
     <lastmod>2026-08-24T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-08-24T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/tags/cidade/</loc>
-    <lastmod>2026-08-24T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/categories/cr%C3%B4nicas/</loc>
-    <lastmod>2026-08-24T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-24T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/tecnologia/</loc>
     <lastmod>2026-08-24T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projetos/o-sertao-ja-virou-mar/</loc>
@@ -35,19 +47,10 @@
     <loc>http://localhost:1313/blog/poesia/2026-05-27-poesia-vila-romana/</loc>
     <lastmod>2026-05-27T21:24:35-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/poesia/2026-05-27-poesia-te-esqueci/</loc>
-    <lastmod>2026-05-27T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/cronicas/2026-05-26-1-ano-com-dvorak-e-reflexao-sobre-sistemas-racionais/</loc>
     <lastmod>2026-05-26T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/reflex%C3%B5es/</loc>
-    <lastmod>2026-05-26T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/resenhas/2026-05-06-apostrophe/</loc>
-    <lastmod>2026-05-06T20:42:50-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/categories/resenhas/</loc>
     <lastmod>2026-05-06T20:42:50-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/cronicas/2026-04-15-realidade-inverossimil/</loc>
@@ -107,7 +110,7 @@
     <loc>http://localhost:1313/blog/resenhas/2025-09-24-comentando-a-materia-no-futuro-atendimento-digital-deve-se-restringir-a-processos-repetitivos-jornal-da-usp/</loc>
     <lastmod>2025-09-24T20:26:52-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2025-09-24-floracao-de-setembro/</loc>
+    <loc>http://localhost:1313/blog/cronicas/2025-09-24-floracao-de-setembro/</loc>
     <lastmod>2025-09-24T20:08:11-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/cronicas/2025-09-20-cratera-de-colonia-e-por-que-a-geografia-e-importante/</loc>
@@ -118,12 +121,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/cronicas/2025-09-14-revisitando-os-bicos-de-lacre-de-2021/</loc>
     <lastmod>2025-09-14T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</loc>
-    <lastmod>2025-09-07T06:20:04-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/cronicas/2025-09-07-pedro-de-alcantara-o-homem-com-o-coracao-dividido/</loc>
-    <lastmod>2025-09-07T06:20:04-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/ensaios/2025-08-24-imitacoes-vulgares/</loc>
     <lastmod>2025-08-24T08:41:23-03:00</lastmod>
@@ -160,6 +157,9 @@
   </url><url>
     <loc>http://localhost:1313/blog/tags/pol%C3%ADtica/</loc>
     <lastmod>2025-05-28T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/cr%C3%B4nica-hist%C3%B3rica/</loc>
+    <lastmod>2025-05-18T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/ensaios/2025-05-18-olhando-pra-dentro-do-brasil/</loc>
     <lastmod>2025-05-18T00:00:00-03:00</lastmod>
@@ -352,9 +352,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/cronicas/2022-10-29-bolsonaro-e-treze/</loc>
     <lastmod>2022-10-29T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projetos/guaicurus/</loc>
-    <lastmod>2022-07-28T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projetos/tipografias-temporais/</loc>
     <lastmod>2022-05-28T00:00:00-03:00</lastmod>

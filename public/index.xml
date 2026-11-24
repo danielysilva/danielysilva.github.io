@@ -6,8 +6,22 @@
     <description>Recent content in Início on Daniely Silva</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 00:00:00 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meio ano com Thumb-Key</title>
+      <link>http://localhost:1313/blog/resenhas/2026-11-22-meio-ano-com-thumb-key/</link>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/resenhas/2026-11-22-meio-ano-com-thumb-key/</guid>
+      <description>O meio com que se escreve influencia o conteúdo e o papel social da escrita.</description>
+    </item>
+    <item>
+      <title>15 de Outubro: Dia dos Professores</title>
+      <link>http://localhost:1313/blog/cronicas/2026-10-15-15-de-outubro-dia-dos-professores/</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cronicas/2026-10-15-15-de-outubro-dia-dos-professores/</guid>
+      <description>Antes mesmo de me empenhar numa Faxina Digital, já fazia frequentes balanços de papeladas que tenho: o que deve ser descartado e o que será arquivado.</description>
+    </item>
     <item>
       <title>5 itens para sobreviver à Primavera dos apagões em São Paulo</title>
       <link>http://localhost:1313/blog/cronicas/2026-08-24-5-itens-para-sobreviver-a-primavera-dos-apagoes-em-sao-paulo/</link>
@@ -28,13 +42,6 @@
       <pubDate>Wed, 27 May 2026 21:24:35 -0300</pubDate>
       <guid>http://localhost:1313/blog/poesia/2026-05-27-poesia-vila-romana/</guid>
       <description>Começa pela Trajano&#xA;Tito, Faustolo e outras mais</description>
-    </item>
-    <item>
-      <title>Poesia: Te Esqueci</title>
-      <link>http://localhost:1313/blog/poesia/2026-05-27-poesia-te-esqueci/</link>
-      <pubDate>Wed, 27 May 2026 00:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/poesia/2026-05-27-poesia-te-esqueci/</guid>
-      <description>Te esqueci&#xA;Já consegui te esquecer&#xA;Nem recordo suas covinhas Nem suas mãos quentes nas minhas</description>
     </item>
     <item>
       <title>1 ano com Dvorak e reflexão sobre sistemas racionais</title>
@@ -150,9 +157,9 @@
     </item>
     <item>
       <title>Floração de setembro</title>
-      <link>http://localhost:1313/blog/2025-09-24-floracao-de-setembro/</link>
+      <link>http://localhost:1313/blog/cronicas/2025-09-24-floracao-de-setembro/</link>
       <pubDate>Wed, 24 Sep 2025 20:08:11 -0300</pubDate>
-      <guid>http://localhost:1313/blog/2025-09-24-floracao-de-setembro/</guid>
+      <guid>http://localhost:1313/blog/cronicas/2025-09-24-floracao-de-setembro/</guid>
       <description>É entre agosto e outubro que as ruas de várias cidades brasileiras ficam forradas das flores de ypê.</description>
     </item>
     <item>
@@ -175,13 +182,6 @@
       <pubDate>Sun, 14 Sep 2025 00:00:00 -0300</pubDate>
       <guid>http://localhost:1313/blog/cronicas/2025-09-14-revisitando-os-bicos-de-lacre-de-2021/</guid>
       <description>Fazia uma faxina digital quando me deparei com as fotos da ninhada de pássaros bico-de-lacre que vi crescer.</description>
-    </item>
-    <item>
-      <title>Pedro de Alcântara: o homem do coração dividido</title>
-      <link>http://localhost:1313/blog/cronicas/2025-09-07-pedro-de-alcantara-o-homem-com-o-coracao-dividido/</link>
-      <pubDate>Sun, 07 Sep 2025 06:20:04 -0300</pubDate>
-      <guid>http://localhost:1313/blog/cronicas/2025-09-07-pedro-de-alcantara-o-homem-com-o-coracao-dividido/</guid>
-      <description>Até relógio parado acerta mais que Bolsonaro — duas vezes ao dia.</description>
     </item>
     <item>
       <title>Imitações vulgares</title>
@@ -651,13 +651,6 @@
       <pubDate>Sat, 29 Oct 2022 00:00:00 -0300</pubDate>
       <guid>http://localhost:1313/blog/cronicas/2022-10-29-bolsonaro-e-treze/</guid>
       <description>Numa dessas anedotas que põem em dúvida a sabedoria humana, às portas de uma Zona Eleitoral, gritos enfurecidos rompiam a monotonia:</description>
-    </item>
-    <item>
-      <title>Guaicurus</title>
-      <link>http://localhost:1313/projetos/guaicurus/</link>
-      <pubDate>Thu, 28 Jul 2022 00:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/projetos/guaicurus/</guid>
-      <description>Registro de antigos galpões na Rua Guaicurus, Lapa</description>
     </item>
     <item>
       <title>Tipografias Temporais</title>
